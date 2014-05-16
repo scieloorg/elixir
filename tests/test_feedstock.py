@@ -44,3 +44,38 @@ class ElixirTests(unittest.TestCase):
             fs.original_title(),
             u'Avaliacao da confiabilidade e validade do Indice de Qualidade da Dieta Revisado'
         )
+
+    def test_is_valid_pid(self):
+
+        self.assertTrue(feedstock.is_valid_pid('S0034-89102013000400674'))
+
+    def test_is_valid_pid_with_invalid_data(self):
+
+        self.assertFalse(feedstock.is_valid_pid('S003489102013000400674'))
+
+
+class FeedStockTests(unittest.TestCase):
+
+    def setUp(self):
+
+        with unittest.mock.patch('requests.get'):
+            rqts = requests.get('ANY URL')
+            rqts.text = document_xml
+            fs = feedstock.loadXML('S0034-89102013000400674')
+            rqts = requests.get('ANY URL')
+            rqts.text = document_json
+            fs = feedstock.FeedStock('S0034-89102013000400674', '.')
+
+        self._fs = fs
+
+    def test_instanciating(self):
+
+        self.assertEqual(self._fs._pid, 'S0034-89102013000400674')
+
+    # def test_instanciating_invalid_pid(self):
+
+    #     self.assertEqual(self._fs._pid, 'XXXX')
+
+
+
+

@@ -1,5 +1,6 @@
 import requests
 import json
+import re
 
 from xylose.scielodocument import Article
 
@@ -27,9 +28,23 @@ def load_rawdata(pid):
     return rawdata
 
 
+def is_valid_pid(pid):
+    pid_regex = re.compile("^S[0-9]{4}-[0-9]{3}[0-9xX][0-2][0-9]{3}[0-9]{4}[0-9]{5}$")
+
+    if pid_regex.search(pid) is None:
+        return False
+
+    return True
+
+
 class FeedStock(object):
 
     def __init__(self, pid, source_dir):
+
+        if not is_valid_pid:
+            raise ValueError('Invalid PID: %' % pid)
+
         self._xml = loadXML(pid)
         self._raw_data = load_rawdata(pid)
         self._pid = pid
+        self._source_dir = source_dir
