@@ -2,8 +2,34 @@ import requests
 import json
 import re
 import os
+import sys
+import re
+
+try:  # Keep compatibility with python 2.7
+    from html import unescape
+except ImportError:
+    from HTMLParser import HTMLParser
 
 from xylose.scielodocument import Article
+
+# --------------
+# Py2 compat
+# --------------
+PY2 = sys.version_info[0] == 2
+
+if PY2:
+    html_parser = HTMLParser().unescape
+else:
+    html_parser = unescape
+# --------------
+
+
+def html_decode(string):
+
+    try:
+        return html_parser(string)
+    except:
+        return string
 
 
 def loadXML(pid):
@@ -38,6 +64,37 @@ def is_valid_pid(pid):
     return True
 
 
+def read_html(html_file, replace_entities=False):
+    images_regex = re.compile(u'<body>(.*?)</body>', re.IGNORECASE)
+
+    try:
+        html = open(html_file, 'r').read()
+    except FileNotFoundError:
+        raise FileNotFoundError(
+            u'HTML file does not exists: %s' % html_file
+        )
+
+    if not replace_entitites:
+        return html
+
+    html = html_decode(html)
+
+    return images_regex.findall(html)[0]
+
+
+def list_html_images(html_file):
+    images_regex = re.compile(u'["\'](/img.*?)["\']', re.IGNORECASE)
+
+    try:
+        html = open(html_file, 'r').read()
+    except FileNotFoundError:
+        raise FileNotFoundError(
+            u'HTML file does not exists: %s' % html_file
+        )
+
+    return images_regex.findall(html)
+
+
 class SourceFiles(object):
 
     def __init__(self, source_dir):
@@ -51,34 +108,46 @@ class SourceFiles(object):
 
     def list_images(self, journal_acronym, issue_label):
 
-        imgs_dir = '/'.join([self._source_dir, 'img/revistas', journal_acronym, issue_label])
+        imgs_dir = '/'.join(
+            [self._source_dir, 'img', journal_acronym, issue_label]
+        )
 
         try:
             files = os.listdir(imgs_dir)
         except FileNotFoundError:
-            raise FileNotFoundError(u'Image directory does not exists: %s' % imgs_dir)
+            raise FileNotFoundError(
+                u'Image directory does not exists: %s' % imgs_dir
+            )
 
         return files
 
     def list_pdfs(self, journal_acronym, issue_label):
 
-        imgs_dir = '/'.join([self._source_dir, 'pdf', journal_acronym, issue_label])
+        imgs_dir = '/'.join(
+            [self._source_dir, 'pdf', journal_acronym, issue_label]
+        )
 
         try:
             files = os.listdir(imgs_dir)
         except FileNotFoundError:
-            raise FileNotFoundError(u'PDF directory does not exists: %s' % imgs_dir)
+            raise FileNotFoundError(
+                u'PDF directory does not exists: %s' % imgs_dir
+            )
 
         return files
 
     def list_htmls(self, journal_acronym, issue_label):
 
-        imgs_dir = '/'.join([self._source_dir, 'translations', journal_acronym, issue_label])
+        imgs_dir = '/'.join(
+            [self._source_dir, 'html', journal_acronym, issue_label]
+        )
 
         try:
             files = os.listdir(imgs_dir)
         except FileNotFoundError:
-            raise FileNotFoundError(u'HTML directory does not exists: %s' % imgs_dir)
+            raise FileNotFoundError(
+                u'HTML directory does not exists: %s' % imgs_dir
+            )
 
         return files
 
@@ -141,14 +210,3 @@ class MetaData(object):
     @property
     def xylose(self):
         return self._raw_data
-
-
-
-
-
-
-
-
-
-
-

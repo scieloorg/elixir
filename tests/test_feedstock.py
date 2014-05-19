@@ -55,6 +55,17 @@ class ElixirTests(unittest.TestCase):
 
         self.assertFalse(feedstock.is_valid_pid(u'S003489102013000400674'))
 
+    def test_read_html_invalid_path(self):
+
+        with self.assertRaises(FileNotFoundError):
+            html = feedstock.read_html('xxxx')
+
+    def test_list_html_images(self):
+
+        images = feedstock.list_html_images(source_dir+'/html/rsp/v40n6/en_07.htm')
+
+        self.assertTrue(u'/img/revistas/rsp/v40n6/e07f1.gif' in images)
+
 
 class SourceFiles(unittest.TestCase):
 
@@ -113,7 +124,7 @@ class SourceFiles(unittest.TestCase):
     def test_list_htmls_invalid_path(self):
 
         with self.assertRaises(FileNotFoundError):
-            images = self._source_files.list_htmls('rsp', 'xxxx')
+            htmls = self._source_files.list_htmls('rsp', 'xxxx')
 
 
 class MetaDataTests(unittest.TestCase):
@@ -190,10 +201,3 @@ class MetaDataTests(unittest.TestCase):
         }
 
         self.assertEqual(self._fs.issue_label, u'2014naheadpr')
-
-
-
-
-
-
-
