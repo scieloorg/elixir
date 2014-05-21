@@ -66,6 +66,48 @@ class ElixirTests(unittest.TestCase):
 
         self.assertTrue(u'/img/revistas/rsp/v40n6/e07f1.gif' in images)
 
+    def test_check_images_availability(self):
+
+        html_images = ['a', 'b', 'c']
+
+        file_system_images = ['b', 'c', 'd', 'e']
+
+        result = feedstock.check_images_availability(html_images, file_system_images)
+
+        expected = [('a', False), ('b', True), ('c', True)]
+
+        self.assertEqual(expected, result)
+
+    def test_check_images_availability_with_a_html(self):
+
+        html = """
+            <html>
+                <img src="/img/revistas/rsp/01.gif" />
+                <img src="/img/revistas/rsp/02.jpg" />
+                <a href="/img/revistas/rsp/03.gif">Blaus</a>
+                <a href="/img/revistas/rsp/04.gif">Picles</a>
+            </html>
+        """
+
+        file_system_images = [
+            '/img/revistas/rsp/01.gif',
+            '/img/revistas/rsp/02.jpg',
+            '/img/revistas/rsp/03.gif',
+            '/img/revistas/rsp/05.gif',
+            '/img/revistas/rsp/06.gif'
+        ]
+
+        result = feedstock.check_images_availability(html, file_system_images)
+
+        expected = [
+            ('/img/revistas/rsp/01.gif', True),
+            ('/img/revistas/rsp/02.jpg', True),
+            ('/img/revistas/rsp/03.gif', True),
+            ('/img/revistas/rsp/04.gif', False),
+        ]
+
+        self.assertEqual(expected, result)
+
 
 class SourceFiles(unittest.TestCase):
 
@@ -136,7 +178,7 @@ class MetaDataTests(unittest.TestCase):
             rqts.text = document_xml
             rqts = requests.get(u'ANY URL')
             rqts.text = document_json
-            fs = feedstock.MetaData(u'S0034-89102013000400674', source_dir)
+            fs = feedstock.MetaData(u'S0034-89102013000400674')
 
         self._fs = fs
 
@@ -147,7 +189,11 @@ class MetaDataTests(unittest.TestCase):
     def test_instanciating_invalid_pid(self):
 
         with self.assertRaises(ValueError):
-            fs = feedstock.MetaData(u'S003489102013000400674', source_dir)
+            fs = feedstock.MetaData(u'S003489102013000400674')
+
+    def test_file_code(self):
+
+        self.assertEqual(self._fs.file_code, u'0034-8910-rsp-47-04-0675')
 
     def test_pid(self):
 
