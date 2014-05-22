@@ -1,0 +1,3184 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="research-article" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047004524</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047004524</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artigos Originais</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="pt">Influência de fatores psicossociais na cessação do tabagismo:
+          evidências longitudinais no Estudo Pró-Saúde</article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>Influencia de factores psicosociales en la suspensión del
+            tabaquismo</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lopes</surname>
+            <given-names>Claudia S</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sampaio</surname>
+            <given-names>Maria Miranda Autran</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Werneck</surname>
+            <given-names>Guilherme L</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chor</surname>
+            <given-names>Dóra</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">III</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Faerstein</surname>
+            <given-names>Eduardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>I</label>
+        <institution content-type="orgdiv2">Departamento de Epidemiologia</institution>
+        <institution content-type="orgdiv1">Instituto de Medicina Social</institution>
+        <institution content-type="orgname">Universidade do Estado do Rio de Janeiro</institution>
+        <addr-line>
+          <named-content content-type="city">Rio de Janeiro</named-content>
+          <named-content content-type="state">RJ</named-content>
+        </addr-line>
+        <country>Brasil</country> Programa de Pós-Graduação em Saúde Coletiva. Departamento de
+        Epidemiologia. Instituto de Medicina Social . Universidade do Estado do Rio de Janeiro .
+        Rio de Janeiro, RJ, Brasil</aff>
+      <aff id="aff2">
+        <label>II</label>
+        <institution content-type="orgdiv1">Secretaria-Geral de Controle Externo</institution>
+        <institution content-type="orgname">Tribunal de Contas do Estado do Rio de
+          Janeiro</institution>
+        <addr-line>
+          <named-content content-type="city">Rio de Janeiro</named-content>
+          <named-content content-type="state">RJ</named-content>
+        </addr-line>
+        <country>Brasil</country> Secretaria-Geral de Controle Externo. Tribunal de Contas do
+        Estado do Rio de Janeiro. Rio de Janeiro, RJ, Brasil</aff>
+      <aff id="aff3">
+        <label>III</label>
+        <institution content-type="orgdiv2">Departamento de Epidemiologia e Métodos Quantitativos em
+          Saúde</institution>
+        <institution content-type="orgdiv1">Escola Nacional de Saúde Pública</institution>
+        <institution content-type="orgname">Fundação Oswaldo Cruz</institution>
+        <addr-line>
+          <named-content content-type="city">Rio de Janeiro</named-content>
+          <named-content content-type="state">RJ</named-content>
+        </addr-line>
+        <country>Brasil</country> Departamento de Epidemiologia e Métodos Quantitativos em Saúde .
+        Escola Nacional de Saúde Pública. Fundação Oswaldo Cruz. Rio de Janeiro, RJ,
+        Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondência | Correspondence</bold> : Claudia S Lopes. Instituto de Medicina
+          Social. Universidade do Estado do Rio de Janeiro. Rua São Francisco Xavier, 524 7º andar.
+          Pavilhão João Lyra Filho. 20550-013 Rio de Janeiro, RJ, Brasil. E-mail:
+          lopes@ims.uerj.brr</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>Pesquisa subvencionada pelo Conselho Nacional de Desenvolvimento Científico e
+            Tecnológico (CNPq/Edital Universal – Processo nº 471762/2008-3) e Fundação de Amparo à
+            Pesquisa do Estado do Rio de Janeiro (Faperj/CNE – Processo nº E-26/102.684/2008).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>Os autores declaram não haver conflito de interesses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>04</issue>
+      <fpage>732</fpage>
+      <lpage>739</lpage>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>8</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>2</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="pt">
+        <sec>
+          <title>OBJETIVO</title>
+          <p> Analisar a incidência de cessação de tabagismo e sua associação com fatores
+            psicossociais.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p> Foram analisados dados de três fases consecutivas do Estudo Pró-Saúde, estudo
+            longitudinal entre funcionários técnico-administrativos de uma universidade no Rio de
+            Janeiro, Brasil. Os critérios de inclusão foram ter participado das Fases 1 e 3 e ser
+            fumante na linha de base (Fase 1 – 1999). Foram excluídos indivíduos que, no seguimento
+            (Fase 3 – 2007), tinham parado de fumar há menos de um ano. A população final de estudo
+            foi composta de 661 funcionários (78% dos elegíveis). Os riscos relativos (RR) da
+            cessação do tabagismo foram avaliados pelo modelo de regressão de Poisson com variância
+            robusta.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p> A incidência acumulada de cessação do fumo em oito anos de seguimento foi de 27,7%.
+            Entre os fatores psicossociais avaliados, ausência de experiência de violência física
+            apresentou-se associada à maior cessação de tabagismo na análise multivariada (RR =
+            1,67; IC95% 1,09;2,55).</p>
+        </sec>
+        <sec>
+          <title>CONCLUSÕES</title>
+          <p> A incidência de cessação de tabagismo foi alta, e o fato de não terem sido encontradas
+            associações com a maioria dos fatores avaliados sugere que grande parte do efeito
+            encontrado seja decorrente do impacto relativamente homogêneo das políticas públicas
+            implementadas no Brasil nas últimas décadas. A associação encontrada entre ausência de
+            exposição à violência e maior incidência de cessação de tabagismo aponta para a
+            importância desse fator nas políticas de controle do tabagismo.</p>
+        </sec>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Analizar la incidencia de la suspensión del tabaquismo y su asociación con factores
+            psicosociales.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p> En estudio de cohorte, bajo el punto de vista longitudinal, se analizaron datos de
+            tres fases consecutivas del Estudio Pro-Salud entre funcionarios
+            técnicos-administrativos de una universidad en Rio de Janeiro, Brasil. Los criterios de
+            inclusión fueron haber participado en las Fases 1 y 3 y ser fumador en la línea de base
+            (Fase 1 – 1999). Se excluyeron individuos que, en el seguimiento (Fase 3 – 2007), habían
+            dejado de fumar hace menos de un año. La población final de estudio estuvo compuesta por
+            661 funcionarios (78% de los elegibles). Los riesgos relativos (RR) de la suspensión del
+            tabaquismo fueron evaluados por el modelo de regresión de Poisson con varianza
+            robusta.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p> La incidencia acumulada por la suspensión del hábito de fumar en ocho años de
+            seguimiento fue de 27,7%. Entre los factores psicosociales evaluados, ausencia de
+            experiencia de violencia física se presentó asociada a la mayor suspensión de tabaquismo
+            en el análisis multivariado (RR= 1,67; IC95% 1,09;2,55).</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONES</title>
+          <p>La incidencia de suspensión de tabaquismo fue alta y el hecho de no haberse encontrado
+            asociaciones con la mayoría de los factores evaluados sugiere que gran parte del efecto
+            encontrado sea decurrente del impacto relativamente homogéneo de las políticas públicas
+            implementadas en Brasil en las últimas décadas. La asociación encontrada entre ausencia
+            de exposición a la violencia y mayor incidencia de interrupción de tabaquismo señala la
+            importancia de éste factor en las políticas de control del tabaquismo.</p>
+        </sec>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <kwd>Abandono do Uso de Tabaco, psicologia</kwd>
+        <kwd>Hábito de Fumar, prevenção &amp; controle</kwd>
+        <kwd>Campanhas para o Controle do Tabagismo</kwd>
+        <kwd>Estudos de Coortes</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>Cese del Uso de Tabaco, psicología</kwd>
+        <kwd>Hábito de Fumar, prevención &amp; control</kwd>
+        <kwd>Campañas para el Control del Tabaquismo</kwd>
+        <kwd>Estudios de Cohortes</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>Conselho Nacional de Desenvolvimento Científico e
+            Tecnológico</funding-source>
+          <award-id>471762/2008-3</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Conselho Nacional de Desenvolvimento Científico e
+            Tecnológico</funding-source>
+          <award-id>E-26/102.684/2008</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro</funding-source>
+          <award-id>471762/2008-3</award-id>
+          <award-id>E-26/102.684/2008</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <table-count count="4"/>
+        <ref-count count="28"/>
+        <page-count count="8"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUÇÃO</title>
+      <p>O hábito de fumar cigarros, iniciado em meados do século XIX, tomou enormes proporções a
+        partir da Primeira Guerra Mundial, principalmente em decorrência da propaganda maciça da
+        indústria, que associava o fumo à imagem de glamour e aceitação social. <xref
+          ref-type="bibr" rid="B28">
+          <sup>28</sup>
+        </xref> O tabagismo é uma das principais causas evitáveis de morbimortalidade conhecidas.
+          <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref> Com a expansão do conhecimento sobre os efeitos deletérios do cigarro, houve aumento
+        das pressões sociais para parar de fumar e multiplicação das possibilidades terapêuticas
+        para tal fim. <xref ref-type="bibr" rid="B28">
+          <sup>28</sup>
+        </xref> Entretanto, parcela considerável de indivíduos inicia ou mantém o consumo de
+        cigarros. O tabagismo tende a se concentrar em populações que têm especial dificuldade em
+        parar de fumar e apresentam determinados fatores psicossociais, incluindo transtornos
+        mentais, baixo apoio social e exposição crônica à violência. <xref ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+      </p>
+      <p>Embora estudos sugiram que a história de depressão diminui a probabilidade de parar de
+        fumar, <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref> outras evidências não confirmam tal achado. Uma meta-análise baseada em 15 estudos
+        longitudinais sobre o tema <xref ref-type="bibr" rid="B14">
+          <sup>14</sup>
+        </xref> mostra que não há efeito significativo da história de depressão na cessação do
+        tabagismo. Como 14 dos 15 estudos avaliados envolviam pessoas em tratamento para parar de
+        fumar, a ausência de efeito observada deve ser interpretada nesse contexto específico. Além
+        disso, o pequeno número de estudos identificados, que relata associação entre história de
+        depressão e cessação do tabagismo, acarretou baixo poder estatístico das análises.</p>
+      <p>Fatores psicossociais adicionais podem influenciar a cessação do tabagismo. Estudos
+        longitudinais sugerem que o fato de conviver com fumantes no domicílio <xref ref-type="bibr"
+          rid="B15">
+          <sup>15</sup>
+        </xref> e o baixo nível de apoio social <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> dificultam a cessação do tabagismo.</p>
+      <p>A relação entre violência física e problemas psicológicos e comportamentais é bem
+        estabelecida na literatura. <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref> Estudos mostram que a exposição à violência física/vitimização é fator de risco para
+        outros desfechos em saúde e hábitos de vida, incluindo o tabagismo. <xref ref-type="bibr"
+          rid="B2">
+          <sup>2</sup>
+        </xref> Acredita-se que essa associação seja mediada pelo estresse psicológico resultante da
+        exposição à violência e, particularmente no caso do tabaco, este seja utilizado como
+        potencial relaxante. Entretanto, o papel do estresse psicológico na redução da cessação de
+        tabagismo não está plenamente estabelecido. <xref ref-type="bibr" rid="B26">
+          <sup>26</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref>
+      </p>
+      <p>A cessação do tabagismo é uma meta da saúde pública internacional. <xref ref-type="fn"
+          rid="fn1">
+          <sup>a</sup>
+        </xref> A identificação de fatores que dificultam a cessação do tabagismo poderá fornecer
+        novos subsídios para as políticas públicas na área. O Brasil é um dos países em que a
+        resposta às políticas voltadas para o controle do tabagismo tem sido bastante efetiva, com
+        redução importante. <xref ref-type="fn" rid="fn2">
+          <sup>b</sup>
+        </xref> Entretanto, poucos estudos conduzidos no Brasil investigaram condições
+        socioeconômicas, agravos à saúde física, hábitos de vida, padrões do tabagismo e uso de
+        serviços de saúde associados a essa redução. <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref> , <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref> , <xref ref-type="bibr" rid="B23">
+          <sup>23</sup>
+        </xref> , <xref ref-type="fn" rid="fn3">
+          <sup>c</sup>
+        </xref> Este é o primeiro estudo longitudinal conduzido na América Latina a investigar a
+        incidência de cessação do tabagismo e o papel de fatores psicossociais nesse desfecho,
+        conforme verificamos na literatura.</p>
+      <p>O objetivo deste estudo foi analisar a incidência de cessação de tabagismo e sua associação
+        com fatores psicossociais.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>MÉTODOS</title>
+      <p>Estudo longitudinal com dados provenientes do Estudo Pró-Saúde. <xref ref-type="bibr"
+          rid="B9">
+          <sup>9</sup>
+        </xref> Trata-se de estudo de coorte, tipo censo, que tem como principal objetivo a
+        investigação de determinantes sociais da saúde. A população alvo do Estudo Pró-Saúde
+        constituiu-se de todos os funcionários técnico-administrativos de uma universidade pública
+        do estado do Rio de Janeiro, excluindo-se aqueles cedidos para outras instituições ou
+        licenciados por motivos não relacionados à saúde. Com taxa de participação de 90,4%, 4.030
+        funcionários participaram na Fase 1, constituindo a linha de base do estudo. Novas coletas
+        de dados foram realizadas em 2001 (Fase 2) e de 2006 a 2007 (Fase 3).</p>
+      <p>A Fase 1 foi considerada linha de base e a Fase 3, seguimento. Os dados da Fase 2 foram
+        considerados para a complementação das variáveis de exposição, já que não foi coletada
+        informação sobre a época em que o participante parou de fumar.</p>
+      <p>Foram critérios de inclusão: a) ter participado das Fases 1 e 3 (n = 3.273) e b) ser
+        fumante na Fase 1 (n = 892). Como o índice de recaídas foi grande no primeiro ano, foram
+        excluídos do estudo aqueles que relataram terem parado de fumar há menos de um ano (n = 42)
+        na Fase 3, a exemplo do que foi feito no <italic>First National Health and Nutrition
+          Examination Survey</italic> (NHANES I), conduzido em população geral nos Estados Unidos.
+          <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref>
+      </p>
+      <p>A população elegível para o estudo foi de 850 (892-42) pessoas. Ocorreram 189 perdas,
+        resultando na população final de 661 funcionários (78% dos elegíveis).</p>
+      <p>Foram utilizados questionários autopreenchíveis, que incluíram variáveis socioeconômicas e
+        demográficas, história de tabagismo ativo e passivo, variáveis relacionadas ao estilo de
+        vida, apoio e rede social, eventos de vida produtores de estresse, morbidade física e
+        mental, entre outras. Para garantir a qualidade da informação foram realizados pré-testes,
+        estudo piloto, validação de escalas e testes de confiabilidade, bem como monitoramento de
+        todo o processo de coleta de dados e de processamento da informação. Estudo de
+        confiabilidade teste-reteste das informações coletadas sobre fumo na linha de base do estudo
+        mostrou kappa de 0,97 (IC95% 0,92;1,00) para fumo corrente e coeficiente de correlação
+        intraclasse (ICC) de 0,92 (IC95% 0,88;0,95) para ter fumado pelo menos 100 cigarros na vida.
+        A confiabilidade do relato de fumo passivo foi substancial (kappa = 0,73; IC95% 0,65;0,95).
+          <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref> As propriedades psicométricas das escalas que foram traduzidas e adaptadas no âmbito
+        do Estudo Pró-Saúde e utilizadas neste estudo mostraram-se adequadas. <xref ref-type="bibr"
+          rid="B13">
+          <sup>13</sup>
+        </xref>
+      </p>
+      <p>A variável de desfecho deste estudo foi cessação do tabagismo, criada a partir da resposta
+        à pergunta “Você fuma cigarros atualmente?”, inserida no questionário da Fase 3 e que tinha
+        quatro opções de respostas: 1) Sim; 2) Não, nunca fumei; 3) Não, parei de fumar há um ano ou
+        mais; e 4) Não, parei de fumar há menos de um ano, As pessoas que responderam “sim” foram
+        consideradas fumantes e as pessoas que pararam de fumar há um ano ou mais foram consideradas
+        ex-fumantes. Pessoas que pararam de fumar há menos de um ano foram excluídas da análise.</p>
+      <p>As variáveis de exposição foram os transtornos mentais comuns (TMC), convivência com
+        fumantes em casa, apoio social, rede social e exposição à violência física.</p>
+      <p>A presença de TMC foi avaliada pelo GHQ-12 ( <italic>General Health Questionnaire</italic>
+        ), instrumento de rastreamento, validado em sua versão original <xref ref-type="bibr"
+          rid="B12">
+          <sup>12</sup>
+        </xref> e na versão brasileira. <xref ref-type="bibr" rid="B17">
+          <sup>17</sup>
+        </xref> O ponto de corte utilizado para o questionário considerou cada item como ausente ou
+        presente (0 ou 1). Aqueles que foram positivos para três itens (em 12), foram classificados
+        como casos de TMC. O período de referência do GHQ-12 foram as duas semanas anteriores ao
+        preenchimento do questionário.</p>
+      <p>Na Fase 1, foi investigado se a pessoa convivia com fumantes apenas em casa, em casa e no
+        trabalho, apenas no trabalho ou se não convivia. No entanto, a frequência de cessação do
+        tabagismo entre pessoas que conviviam com fumantes, apenas no trabalho, foi semelhante à das
+        que não conviviam com fumantes. Da mesma forma, a frequência entre pessoas que conviviam com
+        fumantes apenas em casa foi semelhante à observada entre as que conviviam em casa e no
+        trabalho. Assim, foi criada nova variável: “conviver com fumantes em casa”, com duas opções
+        de resposta: 1) Sim – convivia com fumantes em casa, independentemente de conviver no
+        trabalho; 2) Não – convivia com fumantes apenas no trabalho ou não convivia com
+        fumantes.</p>
+      <p>O apoio social foi avaliado na Fase 1 por meio da escala utilizada no <italic>Medical
+          Outcomes Study</italic> (MOS). <xref ref-type="bibr" rid="B25">
+          <sup>25</sup>
+        </xref> Essa escala possui 19 itens, que permitem a avaliação de cinco dimensões de apoio:
+        material, afetivo, emocional, interação social positiva e informação. A adaptação para o
+        português, feita no âmbito do Estudo Pró-Saúde, apresentou boas propriedades psicométricas.
+          <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref>
+      </p>
+      <p>A rede social foi avaliada por meio de cinco perguntas na Fase 1. Neste estudo, foram
+        consideradas apenas as duas perguntas sobre o número de amigos íntimos e de parentes com os
+        quais o participante sentia-se à vontade para falar sobre tudo ou quase tudo. Essas
+        perguntas foram unificadas e criado um escore (número de amigos e/ou parentes com os quais o
+        participante se sentia à vontade para falar sobre tudo ou quase tudo) e uma nova variável,
+        que dividia o escore com base em tercis.</p>
+      <p>A exposição à violência física foi avaliada nas Fases 1 (1999) e 2 (2001) por duas
+        perguntas: “Nos últimos 12 meses você foi assaltado ou roubado, isto é, teve dinheiro ou
+        algum bem tomado, mediante uso ou ameaça de violência?” e “Nos últimos 12 meses, você foi
+        vítima de alguma agressão física?”. A partir da resposta a essas perguntas, foi criada nova
+        variável com as categorias: não foi vítima em nenhum momento; foi vítima em pelo menos uma
+        das fases.</p>
+      <p>Foram estimadas a distribuição da situação em relação ao fumo e a incidência de cessação do
+        tabagismo (variável de desfecho). As distribuições de fumantes e ex-fumantes para cada
+        variável explicativa, bem como os riscos relativos (RR) da cessação de tabagismo associados
+        às exposições em estudo e seus respectivos intervalos de 95% de confiança, foram avaliados
+        mediante o uso do modelo de regressão de Poisson com variância robusta. As variáveis que
+        apresentaram associação significativa (p &lt; 0,25) no modelo univariado e variáveis
+        consideradas relevantes segundo a literatura sobre o tema (sexo e idade) foram incluídas no
+        modelo multivariado.</p>
+      <p>O estudo foi aprovado no Comitê de Ética em Pesquisa do Hospital Universitário Pedro
+        Ernesto/Universidade do Estado do Rio de Janeiro (Parecer n <sup>o</sup> 224/99).</p>
+    </sec>
+    <sec>
+      <title>RESULTADOS</title>
+      <p>Na Fase 1 do Estudo Pró-Saúde, 3.841 participantes apresentavam informações válidas nas
+        questões relativas ao hábito de fumar; destes, 23,2% preenchiam os critérios para serem
+        considerados “fumantes” na linha de base, 18,6% foram considerados como ex-fumantes e 58,2%
+        nunca fumaram. A situação em relação ao fumo na linha de base mostrou mais fumantes entre:
+        homens (p = 0,025), pessoas nas faixas etárias intermediárias (entre 35 e 54 anos) (p &lt;
+        0,001), pretos e pardos (p = 0,001), pessoas com pior renda domiciliar <italic>per
+          capita</italic> (p &lt; 0,001) e escolaridade (p &lt; 0,001) e pessoas que não eram
+        casadas/não viviam em união (p &lt; 0,001) ( <xref ref-type="table" rid="t01">Tabela
+          1</xref> ).</p>
+      <p>
+        <table-wrap id="t01">
+          <label>Tabela 1</label>
+          <caption>
+            <title>Situação em relação ao fumo, segundo características socioeconômicas da população
+              da linha de base (Fase 1) do Estudo Pró-Saúde. Rio de Janeiro, RJ, 1999.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="10%">
+              <col width="30%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>Variável</td>
+                <td align="center">Fumante</td>
+                <td align="center">%</td>
+                <td align="center">Ex-fumante</td>
+                <td>Nunca fumante</td>
+                <td align="center">%</td>
+                <td>Total</td>
+                <td align="center">p</td>
+              </tr>
+              <tr>
+                <td/>
+                <td colspan="7" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Sexo</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,025</td>
+              </tr>
+              <tr>
+                <td> Masculino</td>
+                <td align="center">426</td>
+                <td align="center">24,8</td>
+                <td align="center">334</td>
+                <td align="center">19,4</td>
+                <td align="center">959</td>
+                <td>55,8</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Feminino</td>
+                <td align="center">466</td>
+                <td align="center">22,0</td>
+                <td align="center">381</td>
+                <td align="center">18,0</td>
+                <td align="center">1.275</td>
+                <td>60,1</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Idade</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">&lt; 0,001</td>
+              </tr>
+              <tr>
+                <td> Até 34 anos</td>
+                <td align="center">108</td>
+                <td align="center">9,8</td>
+                <td align="center">93</td>
+                <td align="center">8,4</td>
+                <td align="center">903</td>
+                <td>81,8</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 35-44 anos</td>
+                <td align="center">475</td>
+                <td align="center">28,6</td>
+                <td align="center">340</td>
+                <td align="center">20,5</td>
+                <td align="center">846</td>
+                <td>50,9</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 45-54 anos</td>
+                <td align="center">255</td>
+                <td align="center">31,5</td>
+                <td align="center">217</td>
+                <td align="center">26,8</td>
+                <td align="center">338</td>
+                <td>41,7</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 55 anos ou mais</td>
+                <td align="center">54</td>
+                <td align="center">20,3</td>
+                <td align="center">65</td>
+                <td align="center">24,4</td>
+                <td align="center">147</td>
+                <td>55,3</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Cor ou raça</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,001</td>
+              </tr>
+              <tr>
+                <td> Preto/pardo</td>
+                <td align="center">434</td>
+                <td align="center">25,9</td>
+                <td align="center">303</td>
+                <td align="center">18,1</td>
+                <td align="center">939</td>
+                <td>56,0</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Branco</td>
+                <td align="center">419</td>
+                <td align="center">20,7</td>
+                <td align="center">387</td>
+                <td align="center">19,1</td>
+                <td align="center">1.216</td>
+                <td>60,1</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Renda</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">&lt; 0,001</td>
+              </tr>
+              <tr>
+                <td> &lt; 3 SM</td>
+                <td align="center">304</td>
+                <td align="center">35,3</td>
+                <td align="center">200</td>
+                <td align="center">23,2</td>
+                <td align="center">357</td>
+                <td>41,5</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 3-6 SM</td>
+                <td align="center">296</td>
+                <td align="center">21,8</td>
+                <td align="center">228</td>
+                <td align="center">16,8</td>
+                <td align="center">835</td>
+                <td>61,4</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> &gt; 6 SM</td>
+                <td align="center">284</td>
+                <td align="center">17,9</td>
+                <td align="center">281</td>
+                <td align="center">17,7</td>
+                <td align="center">1.024</td>
+                <td>64,4</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Escolaridade</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">&lt; 0,001</td>
+              </tr>
+              <tr>
+                <td> &lt; Ensino médio completo</td>
+                <td align="center">269</td>
+                <td align="center">27,2</td>
+                <td align="center">195</td>
+                <td align="center">19,7</td>
+                <td align="center">524</td>
+                <td>53,0</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Ensino médio completo</td>
+                <td align="center">299</td>
+                <td align="center">22,9</td>
+                <td align="center">228</td>
+                <td align="center">17,5</td>
+                <td align="center">778</td>
+                <td>59,6</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Ensino superior completo</td>
+                <td align="center">255</td>
+                <td align="center">19,3</td>
+                <td align="center">244</td>
+                <td align="center">18,5</td>
+                <td align="center">823</td>
+                <td>62,3</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Situação conjugal</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">&lt; 0,001</td>
+              </tr>
+              <tr>
+                <td> Outros</td>
+                <td align="center">349</td>
+                <td align="center">24,1</td>
+                <td align="center">218</td>
+                <td align="center">15,0</td>
+                <td align="center">882</td>
+                <td>60,9</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Casado/vivendo em união</td>
+                <td align="center">511</td>
+                <td align="center">22,5</td>
+                <td align="center">470</td>
+                <td align="center">20,7</td>
+                <td align="center">1.290</td>
+                <td>56,8</td>
+                <td> </td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>SM: salário mínimo</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>A incidência de cessação do tabagismo na população de estudo foi de 27,7% entre 1999 e
+        2006. Entre os fatores psicossociais avaliados, a ausência de experiência de violência
+        física apresentou-se associada com maior cessação de tabagismo, após os ajustes por sexo,
+        idade e número de cigarros consumidos/dia.</p>
+      <p>As demais variáveis socioeconômicas, apesar de associadas à situação de tabagismo na linha
+        de base, não se apresentaram significativamente associadas à cessação do tabagismo no
+        seguimento. Presença de TMC, convivência com fumantes em casa, ter apoio social e rede
+        social não apresentaram associação estatisticamente significativa com a incidência de
+        cessação de tabagismo ( <xref ref-type="table" rid="t02">Tabela 2</xref> ).</p>
+      <p>
+        <table-wrap id="t02">
+          <label>Tabela 2</label>
+          <caption>
+            <title>Incidência acumulada da cessação de tabagismo segundo exposição a fatores
+              psicossociais, riscos relativos (RR) brutos e ajustados e respectivos intervalos de
+              95% de confiança (IC95%). Estudo Pró-Saúde. Rio de Janeiro, RJ, 1999/2007.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="7%">
+              <col width="30%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="3">Variável</td>
+                <td colspan="2" align="center">Fumantes</td>
+                <td colspan="2" align="center">Ex-fumantes</td>
+                <td align="center"> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td align="center">n</td>
+                <td align="center">%</td>
+                <td align="center">n</td>
+                <td align="center">%</td>
+                <td align="center">p</td>
+                <td> RR bruto</td>
+                <td> IC95%</td>
+                <td> RR ajustado <sup>a</sup>
+                </td>
+                <td> IC95%</td>
+              </tr>
+              <tr>
+                <td colspan="10" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>TMC em 1999</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,515</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Não</td>
+                <td align="center">289</td>
+                <td align="center">73,3</td>
+                <td align="center">105</td>
+                <td align="center">26,7</td>
+                <td> </td>
+                <td align="center">1,00</td>
+                <td> </td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td> Sim</td>
+                <td align="center">161</td>
+                <td align="center">70,9</td>
+                <td align="center">66</td>
+                <td align="center">29,1</td>
+                <td> </td>
+                <td align="center">1,09</td>
+                <td align="center">0,80;1,48</td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td>Apoio social (tercis)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,822</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> &lt; 69</td>
+                <td align="center">153</td>
+                <td align="center">72,5</td>
+                <td align="center">58</td>
+                <td align="center">27,5</td>
+                <td> </td>
+                <td align="center">1,00</td>
+                <td> </td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td> 69-87</td>
+                <td align="center">160</td>
+                <td align="center">73,1</td>
+                <td align="center">59</td>
+                <td align="center">26,9</td>
+                <td> </td>
+                <td align="center">0,98</td>
+                <td align="center">0,68;1,41</td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td> 88+</td>
+                <td align="center">148</td>
+                <td align="center">70,5</td>
+                <td align="center">62</td>
+                <td align="center">29,5</td>
+                <td> </td>
+                <td align="center">1,07</td>
+                <td align="center">0,75;1,54</td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td>Rede social (tercis)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,247</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> &lt; 3</td>
+                <td align="center">104</td>
+                <td align="center">70,3</td>
+                <td align="center">44</td>
+                <td align="center">29,7</td>
+                <td> </td>
+                <td align="center">1,00</td>
+                <td> </td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td> 3-5</td>
+                <td align="center">143</td>
+                <td align="center">69,1</td>
+                <td align="center">64</td>
+                <td align="center">30,9</td>
+                <td> </td>
+                <td align="center">1,04</td>
+                <td align="center">0,71;1,53</td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td> 6+</td>
+                <td align="center">190</td>
+                <td align="center">75,7</td>
+                <td align="center">61</td>
+                <td align="center">24,3</td>
+                <td> </td>
+                <td align="center">0,82</td>
+                <td align="center">0,55;1,20</td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td>Convivência com fumantes em casa</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,614</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Sim</td>
+                <td align="center">219</td>
+                <td align="center">73,2</td>
+                <td align="center">80</td>
+                <td align="center">26,8</td>
+                <td> </td>
+                <td align="center">1,00</td>
+                <td> </td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td> Não</td>
+                <td align="center">253</td>
+                <td align="center">71,5</td>
+                <td align="center">101</td>
+                <td align="center">28,5</td>
+                <td> </td>
+                <td align="center">1,07</td>
+                <td align="center">0,80;1,43</td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td>Vítima de agressão</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,007</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Pelo menos 1 vez</td>
+                <td align="center">113</td>
+                <td align="center">81,9</td>
+                <td align="center">25</td>
+                <td align="center">18,1</td>
+                <td> </td>
+                <td align="center">1,00</td>
+                <td> </td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+              </tr>
+              <tr>
+                <td> Nunca</td>
+                <td align="center">320</td>
+                <td align="center">70,2</td>
+                <td align="center">136</td>
+                <td align="center">29,8</td>
+                <td> </td>
+                <td align="center">1,65</td>
+                <td align="center">1,07;2,52</td>
+                <td align="center">1,67</td>
+                <td align="center">1,09;2,55</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>TMC: Transtorno Mental Comum</p>
+            <p>
+              <sup>a</sup> ajustado por sexo, idade e número de cigarros/dia</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSÃO</title>
+      <p>A incidência de cessação de tabagismo após oito anos de seguimento (27,7%), neste estudo,
+        foi similar à encontrada em estudo de coorte de base populacional conduzido na Espanha entre
+        1994 e 2002 <xref ref-type="bibr" rid="B10">
+          <sup>10</sup>
+        </xref> (28,3% em oito anos) e superior à do <italic>National Health and Nutrition
+          Examination Survey</italic> (NHANES I), <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> conduzido nos EUA entre 1971-75 e 1982-84 (21,0% em nove anos), e à do
+          <italic>British Household Panel Survey</italic> (BHPS), <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> uma coorte representativa dos adultos britânicos que teve os resultados avaliados
+        entre 1991 e 2000 (21,0% em dez anos). Entretanto, a comparação deste achado com os de
+        estudos internacionais deve ser feita com cautela, já que as políticas públicas voltadas
+        para a redução do fumo foram implantadas em diferentes períodos, e sua abrangência quanto às
+        restrições impostas foi distinta nos diferentes países. Tais políticas tiveram papel
+        importante, se não crucial, na incidência de cessação do fumo em nosso meio e em outros
+        países.</p>
+      <p>É provável que grande parte da elevada incidência de cessação do tabagismo encontrada seja
+        decorrente das políticas públicas voltadas para o controle do tabagismo ocorridas no Brasil
+        durante o período do presente estudo, diminuindo a influência de outros fatores
+        tradicionalmente associados à cessação. O fato de a população de estudo apresentar, em
+        média, melhor nível educacional do que a população em geral e ser constituída por parcela
+        considerável de profissionais de saúde ou de trabalhadores de hospital universitário, onde
+        as ações de saúde são mais intensas, pode ter contribuído para essa maior incidência de
+        cessação de tabagismo.</p>
+      <p>Não identificamos outro estudo que tenha avaliado a incidência de cessação de tabagismo no
+        Brasil. Entretanto, é possível comparar as mudanças de prevalência de tabagismo encontradas
+        no Estudo Pró-Saúde, cujos dados foram utilizados neste estudo, com as prevalências
+        encontradas em inquéritos de base populacional conduzidos no Brasil. Essa comparação deve
+        ser feita com cautela em função das diferentes composições etárias das populações. A
+        prevalência de tabagismo foi de 23,2% em 1999, de 21,8% em 2001 e de 21,4% em 2007 na
+        população do presente estudo. A comparação entre as fases do Estudo Pró-Saúde mostra
+        tendência de queda na prevalência de tabagismo, que pode ser observada entre 1989 e 2003 na
+        comparação entre dois estudos populacionais conduzidos no Brasil (PNSN e PMS), <xref
+          ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref> sendo as prevalências de 34,8% e 22,4%, em um recorte da população de 18 anos ou
+        mais. Estudo mais recente com dados do Sistema Nacional de Vigilância de Doenças Crônicas
+        por Inquérito Telefônico (Vigitel), entre 2006 e 2009, mostrou leve tendência à queda do
+        tabagismo entre homens e estabilidade para mulheres, com exceção daquelas residentes nas
+        regiões Norte e Nordeste. <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref>
+      </p>
+      <p>As primeiras manifestações governamentais para o controle do tabagismo no Brasil começaram
+        ao final da década de 1970. <xref ref-type="bibr" rid="B24">
+          <sup>24</sup>
+        </xref> O Instituto Nacional do Câncer lançou o Programa Nacional de Controle do Tabagismo
+        em 1988, <sup>d</sup> mas apenas após a criação da Lei Federal 9.294, em 1996, <xref
+          ref-type="fn" rid="fn5">
+          <sup>e</sup>
+        </xref> é que se passou a contar com ações educativas continuadas. Essa lei dispõe sobre
+        restrições ao uso e à propaganda de produtos fumígenos, proibindo o uso desses produtos em
+        recinto coletivo, privado ou público, salvo em área destinada exclusivamente a esse fim,
+        devidamente isolada e com arejamento conveniente. Foi seguida de outras leis que incluíram
+        proibições de uso desses produtos em aeronaves e transportes coletivos; de propaganda em
+        qualquer tipo de mídia, exceto pontos de venda; de patrocínio de eventos culturais e
+        esportivos nacionais; de descritores que deem falsa noção de nocividade do produto, tais
+        como “ <italic>light</italic> ”, “baixos teores”, nos maços e propagandas, além de outras
+        medidas. Estudo qualitativo conduzido em Porto Alegre, entre 2004 e 2006, mostrou que as
+        leis de restrição ao fumo favorecem seu abandono. Quanto mais severas as leis, maior a
+        propensão ao abandono. <xref ref-type="bibr" rid="B8">
+          <sup>8</sup>
+        </xref>
+      </p>
+      <p>Assim como no Brasil, políticas de controle do tabagismo tiveram grande avanço nos demais
+        países, nas últimas duas décadas, e muitos estudos foram conduzidos nesse período. Na
+        Espanha, a lei que proibiu o fumo em locais de trabalho e em alguns estabelecimentos, como
+        bares e restaurantes, foi implantada em 2006. <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref> Na Inglaterra, muitas das restrições ao fumo em ambientes públicos aconteceram entre
+        1996 a 2003 e houve o banimento total em 2007. <xref ref-type="bibr" rid="B19">
+          <sup>19</sup>
+        </xref> Já nos Estados Unidos, devido à soberania dos estados, não houve uniformidade nas
+        leis que proibiram o fumo, tanto com relação à abrangência desta proibição quanto às datas
+        em que ocorreram. As proibições começaram em 1975 no estado de Minnesota, mas o maior
+        incremento de leis de controle do tabagismo aconteceu, para a maioria dos estados, entre
+        1993 e 1996. <xref ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref>
+      </p>
+      <p>A ausência de experiência de violência física foi o único fator associado à cessação do
+        tabagismo: risco 67% maior de parar de fumar em pessoas que não sofreram violência física. A
+        literatura sobre esse tema é escassa e não encontramos nenhum estudo com resultado
+        semelhante. Estudo conduzido entre mulheres adultas jovens nos EUA, apesar de mostrar
+        associação entre violência perpetrada pelo parceiro e tabagismo, não encontrou associação
+        com cessação. <xref ref-type="bibr" rid="B26">
+          <sup>26</sup>
+        </xref> Estudo conduzido entre adolescentes jovens, também nos EUA, mostrou que a
+        vitimização, junto a outros fatores, estava associada ao tabagismo, mas essa associação era
+        menos importante para a cessação. <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref>
+      </p>
+      <p>A ausência de associação significativa entre os demais fatores psicossociais estudados na
+        incidência da cessação do tabagismo foi inesperada. Parte do efeito dessas exposições pode
+        ter sido mais importante na cessação em período anterior às políticas públicas voltadas para
+        o controle do tabagismo de forma geral.</p>
+      <p>Outra possível explicação refere-se às limitações das informações disponíveis. Algumas das
+        exposições avaliadas podem não se manter constantes. A presença de TMC, e.g., pode ter
+        oscilado ao longo de oito anos. No entanto, só temos disponível a informação em dois
+        momentos anteriores ao desfecho (1999 e 2001). A convivência com fumantes também pode ter se
+        modificado no período em função da importante diminuição da prevalência de fumantes no País.
+        Assim, alguém que convivia com fumantes em casa em 1999 pode ter deixado de conviver.
+        Estudos que avaliaram fatores causais para cessação do tabagismo <xref ref-type="bibr"
+          rid="B5">
+          <sup>5</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> apresentam a mesma dificuldade metodológica e utilizaram as informações contidas na
+        linha de base para avaliação das exposições em estudo. O mesmo ocorre para nosso desfecho,
+        i.e., a informação do momento exato em que a pessoa parou de fumar não está disponível.
+        Assim, considera-se como se todos tivessem parado no mesmo momento.</p>
+      <p>As limitações apontadas podem ter contribuído para a ausência de associação. Entretanto, a
+        relação entre transtornos mentais e cessação do tabagismo é inconsistente na literatura.
+        Apesar de alguns estudos mostrarem que a depressão influencia negativamente na cessação do
+        tabagismo, <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref> outros autores não observaram essa associação. <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> Esses estudos, porém, trabalharam com diagnósticos psiquiátricos, principalmente
+        depressão, e não foram encontrados outros que tenham avaliado a associação dos transtornos
+        mentais comuns com cessação de tabagismo. Utilizar o GHQ, um instrumento de rastreamento
+        autopreenchível e, portanto, mais sensível a mudanças ocorridas no estado psicológico dos
+        indivíduos, pode ter enfraquecido a associação entre os TMC e a cessação do fumo.</p>
+      <p>A importância do apoio social é sugerida na literatura, embora não seja consensual. Dois
+        estudos longitudinais conduzidos nos EUA com pessoas em tratamento para parar de fumar
+        mostraram que o apoio social percebido foi importante para aumentar a cessação do tabagismo
+        em sua fase inicial, bem como para sua manutenção a curto prazo, porém não a longo prazo.
+          <xref ref-type="bibr" rid="B21">
+          <sup>21</sup>
+        </xref> Estudo na Inglaterra <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> encontrou associação positiva entre apoio social médio ou alto e maior cessação do
+        tabagismo cerca de dez anos depois. Não foram encontrados estudos de base populacional que
+        tenham avaliado a relação entre rede social e cessação do tabagismo.</p>
+      <p>A perda de seguimento (22%) foi similar <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> ou menor <xref ref-type="bibr" rid="B10">
+          <sup>10</sup>
+        </xref> à de outros estudos longitudinais sobre o tema. A comparação dos participantes da
+        linha de base do estudo com as perdas com relação ao sexo, idade e variáveis explicativas
+        mostra que não há diferença estatisticamente significativa, o que sugere ausência de viés
+        devido a perdas de seguimento.</p>
+      <p>A incidência de cessação de tabagismo neste estudo foi elevada, resultado que vai ao
+        encontro das políticas públicas implementadas para esse fim e confirma a tendência à redução
+        da prevalência de tabagismo no Brasil. <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref> São necessários novos estudos para que seja possível monitoramento constante da
+        tendência da prevalência do tabagismo e o impacto das políticas de controle ao longo dos
+        anos. A continuidade e a periodicidade de inquéritos de saúde, de base populacional, que
+        avaliem o tabagismo, são imprescindíveis para esse fim.</p>
+      <p>Os resultados deste estudo mostram associação importante entre ausência de exposição à
+        violência e maior incidência de cessação do tabagismo. A violência é fator importante para
+        vários desfechos em saúde e determinante de estilos de vida menos saudáveis. <xref
+          ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref> As políticas públicas voltadas para o controle do tabagismo devem incluir a atenção
+        a ambientes cronicamente violentos.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERÊNCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Azevedo e Silva G, Valente JG, Malta DC. Trends in smoking among the adult
+          population in Brazilian capitals: a data analysis of telephone surveys from 2006 to 2009.
+            <italic>Rev Bras Epidemiol.</italic> 2011;14(Suppl 1):103-14.
+          DOI:10.1590/S1415-790X2011000500011</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Azevedo e Silva</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Valente</surname>
+              <given-names>JG</given-names>
+            </name>
+            <name>
+              <surname>Malta</surname>
+              <given-names>DC</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Trends in smoking among the adult population in Brazilian
+            capitals: a data analysis of telephone surveys from 2006 to 2009</article-title>
+          <source>Rev Bras Epidemiol</source>
+          <year>2011</year>
+          <volume>14</volume>
+          <supplement>1</supplement>
+          <fpage>103</fpage>
+          <lpage>114</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1415-790X2011000500011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Blosnich JR, Horn K. Associations of discrimination and violence with
+          smoking among emerging adults: differences by gender and sexual orientation.
+            <italic>Nicotine Tob Res.</italic> 2011;13(12):1284-95.
+          DOI:10.1093/ntr/ntr183</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Blosnich</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Horn</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Associations of discrimination and violence with smoking
+            among emerging adults: differences by gender and sexual orientation</article-title>
+          <source>Nicotine Tob Res</source>
+          <year>2011</year>
+          <volume>13</volume>
+          <issue>12</issue>
+          <fpage>1284</fpage>
+          <lpage>1295</lpage>
+          <pub-id pub-id-type="doi">10.1093/ntr/ntr183</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Breslau N, Johnson EO. Predicting smoking cessation and major depression
+          in nicotine-dependent smokers. <italic>Am J Public Health.</italic> 2000;90(7):1122-7.
+          DOI:10.2105/AJPH.90.7.1122</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Breslau</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>EO</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Predicting smoking cessation and major depression in
+            nicotine-dependent smokers</article-title>
+          <source>Am J Public Health</source>
+          <year>2000</year>
+          <volume>90</volume>
+          <issue>7</issue>
+          <fpage>1122</fpage>
+          <lpage>1127</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.90.7.1122</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Centers for Disease Control and Prevention. Preemptive state
+          tobacco-control laws -United States, 1982-1998. <italic>MMWR Morb Mortal Wkly
+            Rep.</italic> 1999;47(51-52):1112-4.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <collab>Centers for Disease Control and Prevention</collab>
+          </person-group>
+          <article-title xml:lang="en">Preemptive state tobacco-control laws -United States,
+            1982-1998</article-title>
+          <source>MMWR Morb Mortal Wkly Rep</source>
+          <year>1999</year>
+          <volume>47</volume>
+          <issue>51-52</issue>
+          <fpage>1112</fpage>
+          <lpage>1114</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Chandola T, Head J, Bartley M. Socio-demographic predictors of quitting
+          smoking: how important are household factors? <italic>Addiction</italic> .
+          2004;99(6):770-7. DOI:10.1111/j.1360-0443.2004.00756.x</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Chandola</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Head</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bartley</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Socio-demographic predictors of quitting smoking: how
+            important are household factors?</article-title>
+          <source>Addiction</source>
+          <year>2004</year>
+          <volume>99</volume>
+          <issue>6</issue>
+          <fpage>770</fpage>
+          <lpage>777</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1360-0443.2004.00756.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation>. Chor D, Faerstein E, Alves MG, Lopes CS. How reproducible is self-reported
+          information on exposure to smoking, drinking, and dietary patterns? Evidence among
+          Brazilian adults in the Pró-saúde study. <italic>Sao Paulo Med J.</italic>
+          2003;121(2):63-6. DOI:10.1590/S1516-31802003000200006</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Chor</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Faerstein</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Alves</surname>
+              <given-names>MG</given-names>
+            </name>
+            <name>
+              <surname>Lopes</surname>
+              <given-names>CS</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">How reproducible is self-reported information on exposure to
+            smoking, drinking, and dietary patterns? Evidence among Brazilian adults in the
+            Pró-saúde study</article-title>
+          <source>Sao Paulo Med J</source>
+          <year>2003</year>
+          <volume>121</volume>
+          <issue>2</issue>
+          <fpage>63</fpage>
+          <lpage>66</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1516-31802003000200006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation>. Department of Health and Human Services (US), Public Health Service,
+          Office of the Surgeon General. How tobacco smoke causes disease: the biology and
+          behavioral basis for smoking-attributable disease: a report of the Surgeon General.
+          Rockville; 2010</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <collab>Department of Health and Human Services (US), Public Health Service, Office of
+              the Surgeon General</collab>
+          </person-group>
+          <source xml:lang="en">How tobacco smoke causes disease: the biology and behavioral basis
+            for smoking-attributable disease: a report of the Surgeon General</source>
+          <publisher-loc>Rockville</publisher-loc>
+          <year>2010</year>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation>. Echer IC, Luz AM, Lucena AF, Motta GC, Goldim JR, Barreto SS. A
+          contribuição de restrições sociais ao fumo para o abandono do tabagism. <italic>Rev Gaucha
+            Enferm.</italic> 2008;29(4):520-7.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Echer</surname>
+              <given-names>IC</given-names>
+            </name>
+            <name>
+              <surname>Luz</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Lucena</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Motta</surname>
+              <given-names>GC</given-names>
+            </name>
+            <name>
+              <surname>Goldim</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Barreto</surname>
+              <given-names>SS</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">A contribuição de restrições sociais ao fumo para o abandono
+            do tabagism</article-title>
+          <source>Rev Gaucha Enferm</source>
+          <year>2008</year>
+          <volume>29</volume>
+          <issue>4</issue>
+          <fpage>520</fpage>
+          <lpage>527</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation>. Faerstein E, Chor D, Lopes CS, Werneck G. Estudo Pró-Saúde:
+          características gerais e aspectos metodológicos. <italic>Rev Bras Epidemiol</italic> .
+          2005;8(4):454-66. DOI:10.1590/S1415-790X2005000400014</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Faerstein</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Chor</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Lopes</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Werneck</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Estudo Pró-Saúde: características gerais e aspectos
+            metodológicos</article-title>
+          <source>Rev Bras Epidemiol</source>
+          <year>2005</year>
+          <volume>8</volume>
+          <issue>4</issue>
+          <fpage>454</fpage>
+          <lpage>466</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1415-790X2005000400014</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation>. Garcia M, Schiaffino A, Twose J, Borrell C, Salto E, Peris M, et al.
+          Smoking cessation in a population-based cohort study. <italic>Arch Broncopneumol.</italic>
+          2004;40(8):348-54. DOI:10.1016/S1579-2129(06)60319-4</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Garcia</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Schiaffino</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Twose</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Borrell</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Salto</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Peris</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Smoking cessation in a population-based cohort
+            study</article-title>
+          <source>Arch Broncopneumol</source>
+          <year>2004</year>
+          <volume>40</volume>
+          <issue>8</issue>
+          <fpage>348</fpage>
+          <lpage>354</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1579-2129(06)60319-4</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation>. Glassman AH, Covey LS, Stetner F, Rivelli S. Smoking cessation and the
+          course of major depression: a follow-up study. <italic>Lancet.</italic>
+          2001;357(9272):1929-32. DOI:10.1016/S0140-6736(00)05064-9</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Glassman</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Covey</surname>
+              <given-names>LS</given-names>
+            </name>
+            <name>
+              <surname>Stetner</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Rivelli</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Smoking cessation and the course of major depression: a
+            follow-up study</article-title>
+          <source>Lancet</source>
+          <year>2001</year>
+          <volume>357</volume>
+          <issue>9272</issue>
+          <fpage>1929</fpage>
+          <lpage>1932</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(00)05064-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation>. Goldberg DP, Blackwell B. Psychiatric illness in general practice: a
+          detailed study using a new method of case identification. <italic>Br Med J.</italic>
+          1970;1(5707):439-43. DOI:10.1136/bmj.2.5707.439</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Goldberg</surname>
+              <given-names>DP</given-names>
+            </name>
+            <name>
+              <surname>Blackwell</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Psychiatric illness in general practice: a detailed study
+            using a new method of case identification</article-title>
+          <source>Br Med J</source>
+          <year>1970</year>
+          <volume>1</volume>
+          <issue>5707</issue>
+          <fpage>439</fpage>
+          <lpage>443</lpage>
+          <pub-id pub-id-type="doi">10.1136/bmj.2.5707.439</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation>. Griep RH, Chor D, Faerstein E, Lopes C. Apoio social: confiabilidade
+          teste-reteste de escala no estudo Pró-saúde. <italic>Cad Saude Publica.</italic>
+          2003;19(2):625-34. DOI:10.1590/S0102-311X2003000200029</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Griep</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Chor</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Faerstein</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lopes</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Apoio social: confiabilidade teste-reteste de escala no
+            estudo Pró-saúde</article-title>
+          <source>Cad Saude Publica</source>
+          <year>2003</year>
+          <volume>19</volume>
+          <issue>2</issue>
+          <fpage>625</fpage>
+          <lpage>634</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X2003000200029</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation>. Hitsman B, Borrelli B, McChargue DE, Spring B, Niaura R. History of
+          depression and smoking cessation outcome: a meta-analysis. <italic>J Consult Clin
+            Psychol.</italic> 2003;71(4):657-63. DOI:10.1037/0022-006X.71.4.657</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Hitsman</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Borrelli</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>McChargue</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Spring</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Niaura</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">History of depression and smoking cessation outcome: a
+            meta-analysis</article-title>
+          <source>J Consult Clin Psychol</source>
+          <year>2003</year>
+          <volume>71</volume>
+          <issue>4</issue>
+          <fpage>657</fpage>
+          <lpage>663</lpage>
+          <pub-id pub-id-type="doi">10.1037/0022-006X.71.4.657</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation>. Hymowitz N, Cummings KM, Hyland A, Lynn WR, Pechacek TF, Hartwell TD.
+          Predictors of smoking cessation in a cohort of adult smokers followed for five years.
+            <italic>Tob Control.</italic> 1997;6(Suppl 2):S57-62.
+          DOI:10.1136/tc.6.suppl_2.S57</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Hymowitz</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Cummings</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Hyland</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lynn</surname>
+              <given-names>WR</given-names>
+            </name>
+            <name>
+              <surname>Pechacek</surname>
+              <given-names>TF</given-names>
+            </name>
+            <name>
+              <surname>Hartwell</surname>
+              <given-names>TD</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Predictors of smoking cessation in a cohort of adult smokers
+            followed for five years</article-title>
+          <source>Tob Control</source>
+          <year>1997</year>
+          <volume>6</volume>
+          <supplement>2</supplement>
+          <fpage>S57</fpage>
+          <lpage>S62</lpage>
+          <pub-id pub-id-type="doi">10.1136/tc.6.suppl_2.S57</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation>. Krug EG, Dahlberg LL, Mercy JA, Zwi AB, Lozano R. World report on violence
+          and health. Geneva: World Health Organization; 2002.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Krug</surname>
+              <given-names>EG</given-names>
+            </name>
+            <name>
+              <surname>Dahlberg</surname>
+              <given-names>LL</given-names>
+            </name>
+            <name>
+              <surname>Mercy</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Zwi</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Lozano</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">World report on violence and health</source>
+          <publisher-loc>Geneva</publisher-loc>
+          <publisher-name>World Health Organization</publisher-name>
+          <year>2002</year>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <mixed-citation>. Mari JJ, Williams P. A comparison of the validity of two psychiatric
+          screening questionnaires (GHQ-12 and SRQ-20) in Brazil, using Relative Operating
+          Characteristic (ROC) analysis. <italic>Psychol Med.</italic> 1985;15(3):651-9.
+          DOI:10.1017/S0033291700031500</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Mari</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">A comparison of the validity of two psychiatric screening
+            questionnaires (GHQ-12 and SRQ-20) in Brazil, using Relative Operating Characteristic
+            (ROC) analysis</article-title>
+          <source>Psychol Med</source>
+          <year>1985</year>
+          <volume>15</volume>
+          <issue>3</issue>
+          <fpage>651</fpage>
+          <lpage>659</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0033291700031500</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <mixed-citation>. Martínez-Sánchez JM, Fernández E, Fu M, Pérez-Ríos M, Lopez MJ, Ariza C,
+          et al. Impact of the Spanish smoking law in smoker hospitality workers. <italic>Nicotine
+            Tob Res.</italic> 2009;11(9):1099-106. DOI:10.1093/ntr/ntp107</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Martínez-Sánchez</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Fernández</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Pérez-Ríos</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lopez</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Ariza</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Impact of the Spanish smoking law in smoker hospitality
+            workers</article-title>
+          <source>Nicotine Tob Res</source>
+          <year>2009</year>
+          <volume>11</volume>
+          <issue>9</issue>
+          <fpage>1099</fpage>
+          <lpage>1106</lpage>
+          <pub-id pub-id-type="doi">10.1093/ntr/ntp107</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <mixed-citation>. McNabola A, Gill LW. The control of environmental tobacco smoke: a policy
+          review. <italic>Int J Environ Res Public Health.</italic> 2009;6(2):741-58.
+          DOI:10.3390/ijerph6020741</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>McNabola</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>LW</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">The control of environmental tobacco smoke: a policy
+            review</article-title>
+          <source>Int J Environ Res Public Health</source>
+          <year>2009</year>
+          <volume>6</volume>
+          <issue>2</issue>
+          <fpage>741</fpage>
+          <lpage>758</lpage>
+          <pub-id pub-id-type="doi">10.3390/ijerph6020741</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <mixed-citation>. McWhorter WP, Boyd GM, Mattson ME. Predictors of quitting smoking: the
+          NHANES I follow up experience. <italic>J Clin Epidemiol.</italic> 1990;43(12):1399-405.
+          DOI:10.1016/0895-4356(90)90108-2</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>McWhorter</surname>
+              <given-names>WP</given-names>
+            </name>
+            <name>
+              <surname>Boyd</surname>
+              <given-names>GM</given-names>
+            </name>
+            <name>
+              <surname>Mattson</surname>
+              <given-names>ME</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Predictors of quitting smoking: the NHANES I follow up
+            experience</article-title>
+          <source>J Clin Epidemiol</source>
+          <year>1990</year>
+          <volume>43</volume>
+          <issue>12</issue>
+          <fpage>1399</fpage>
+          <lpage>1405</lpage>
+          <pub-id pub-id-type="doi">10.1016/0895-4356(90)90108-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <mixed-citation>. Mermelstein R, Cohen S, Lichtenstein E, Baer JS, Kamarck T. Social support
+          and smoking cessation and maintenance. <italic>J Consult Clin Psychol.</italic>
+          1986;54(4):447-53. DOI:10.1037/0022-006X.54.4.447</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Mermelstein</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Lichtenstein</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Baer</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Kamarck</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Social support and smoking cessation and
+            maintenance</article-title>
+          <source>J Consult Clin Psychol</source>
+          <year>1986</year>
+          <volume>54</volume>
+          <issue>4</issue>
+          <fpage>447</fpage>
+          <lpage>453</lpage>
+          <pub-id pub-id-type="doi">10.1037/0022-006X.54.4.447</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <mixed-citation>. Monteiro CA, Cavalcante T, Moura EC, Claro RM, Szwarcwald CL.
+          Population-based evidence of a strong decline in the prevalence of smokers in Brazil
+          (1989-2003). <italic>Bull World Health Organ.</italic> 2007;85(7):527-34.
+          DOI:10.2471/BLT.06.039073</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Monteiro</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Cavalcante</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Moura</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Claro</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Szwarcwald</surname>
+              <given-names>CL</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Population-based evidence of a strong decline in the
+            prevalence of smokers in Brazil (1989-2003)</article-title>
+          <source>Bull World Health Organ</source>
+          <year>2007</year>
+          <volume>85</volume>
+          <issue>7</issue>
+          <fpage>527</fpage>
+          <lpage>534</lpage>
+          <pub-id pub-id-type="doi">10.2471/BLT.06.039073</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <mixed-citation>. Peixoto SV, Firmo JOA, Lima-Costa MF. Fatores associados ao índice de
+          cessação do hábito de fumar em duas diferentes populações adultas (Projetos Bambuí e Belo
+          Horizonte). <italic>Cad Saude Publica.</italic> 2007;23(6):1319-28.
+          DOI:10.1590/S0102-311X2007000600007</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Peixoto</surname>
+              <given-names>SV</given-names>
+            </name>
+            <name>
+              <surname>Firmo</surname>
+              <given-names>JOA</given-names>
+            </name>
+            <name>
+              <surname>Lima-Costa</surname>
+              <given-names>MF</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Fatores associados ao índice de cessação do hábito de fumar
+            em duas diferentes populações adultas (Projetos Bambuí e Belo Horizonte)</article-title>
+          <source>Cad Saude Publica</source>
+          <year>2007</year>
+          <volume>23</volume>
+          <issue>6</issue>
+          <fpage>1319</fpage>
+          <lpage>1328</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X2007000600007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <mixed-citation>. Romero LC, Costa e Silva VL. 23 Anos de Controle do Tabaco no Brasil: a
+          Atualidade do Programa Nacional de Combate ao Fumo de 1988. <italic>Rev Bras
+            Cancerologia.</italic> 2011;57(3):305-14.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Romero</surname>
+              <given-names>LC</given-names>
+            </name>
+            <name>
+              <surname>Costa e Silva</surname>
+              <given-names>VL</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">23 Anos de Controle do Tabaco no Brasil: a Atualidade do
+            Programa Nacional de Combate ao Fumo de 1988</article-title>
+          <source>Rev Bras Cancerologia</source>
+          <year>2011</year>
+          <volume>57</volume>
+          <issue>3</issue>
+          <fpage>305</fpage>
+          <lpage>314</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <mixed-citation>. Sherbourne CD, Stewart AL. The MOS social support survey. <italic>Soc Sci
+            Med.</italic> 1991;32(6):705-14. DOI:10.1016/0277-9536(91)90150-B</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Sherbourne</surname>
+              <given-names>CD</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>AL</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">The MOS social support survey</article-title>
+          <source>Soc Sci Med</source>
+          <year>1991</year>
+          <volume>32</volume>
+          <issue>6</issue>
+          <fpage>705</fpage>
+          <lpage>714</lpage>
+          <pub-id pub-id-type="doi">10.1016/0277-9536(91)90150-B</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <mixed-citation>. Stueve A, O’Donnell L. Continued smoking and smoking cessation among urban
+          young adult women: findings from the Reach for Health longitudinal study. <italic>Am J
+            Public Health.</italic> 2007;97(8):1408-11.
+          DOI:10.2105/AJPH.2006.109397</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Stueve</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>O’Donnell</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Continued smoking and smoking cessation among urban young
+            adult women: findings from the Reach for Health longitudinal study</article-title>
+          <source>Am J Public Health</source>
+          <year>2007</year>
+          <volume>97</volume>
+          <issue>8</issue>
+          <fpage>1408</fpage>
+          <lpage>1411</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.2006.109397</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <mixed-citation>. Tucker JS, Ellickson PL, Orlando M, Klein DJ. Predictors of attempted
+          quitting and cessation among young adult smokers. <italic>Prev Med.</italic>
+          2005;41(2):554-61. DOI:10.1016/j.ypmed.2004.12.002</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Tucker</surname>
+              <given-names>JS</given-names>
+            </name>
+            <name>
+              <surname>Ellickson</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Orlando</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Klein</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Predictors of attempted quitting and cessation among young
+            adult smokers</article-title>
+          <source>Prev Med</source>
+          <year>2005</year>
+          <volume>41</volume>
+          <issue>2</issue>
+          <fpage>554</fpage>
+          <lpage>561</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ypmed.2004.12.002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <mixed-citation>. Yach D, Wipfli H. A century of smoke. <italic>Ann Trop Med
+            Parasitol.</italic> 2006;100(5-6):465-79. DOI:10.1179/136485906X97462</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Yach</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Wipfli</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">A century of smoke</article-title>
+          <source>Ann Trop Med Parasitol</source>
+          <year>2006</year>
+          <volume>100</volume>
+          <issue>5-6</issue>
+          <fpage>465</fpage>
+          <lpage>479</lpage>
+          <pub-id pub-id-type="doi">10.1179/136485906X97462</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="fn1">
+        <label>a</label>
+        <p>Instituto Brasileiro de Geografia e Estatística. Pesquisa de orçamentos familiares
+          2008-2009: avaliação nutricional da disponibilidade domiciliar de alimentos no Brasil. Rio
+          de Janeiro; 2010.</p>
+      </fn>
+      <fn id="fn2">
+        <label>b</label>
+        <p>United States Department of Agriculture, Center for Nutrition Policy and Promotion.
+          Report of the Dietary Guidelines Advisory Committee on the Dietary Guidelines for
+          Americans. Washington (DC); 2010.</p>
+      </fn>
+      <fn id="fn3">
+        <label>c</label>
+        <p>
+          <sup>Ministério da Saúde. Secretaria de Atenção à Saúde. Coordenação Geral da Política de
+            Alimentação e Nutrição. Guia Alimentar para a População Brasileira – Promovendo a
+            alimentação saudável. Brasília (DF); 2006.</sup>
+        </p>
+      </fn>
+      <fn id="fn4">
+        <label>d</label>
+        <p>Ministério da Saúde, Instituto Nacional de Câncer. Bases para implantação de um programa
+          de controle do tabagismo. Rio de Janeiro; 1996.</p>
+      </fn>
+      <fn id="fn5">
+        <label>e</label>
+        <p>Brasil. Lei 9.294, de 15 de julho de 1996. Dispõe sobre as restrições ao uso e à
+          propaganda de produtos fumígenos, bebidas alcoólicas, medicamentos, terapias e defensivos
+          agrícolas, nos termos do § 4° do art. 220 da Constituição Federal. <italic>Diario Oficial
+            Uniao</italic> . 16 jul 1996:13074.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Influence of psychosocial factors on smoking cessation:
+          Longitudinal evidence from the Pro-Saude Study</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lopes</surname>
+            <given-names>Claudia S</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sampaio</surname>
+            <given-names>Maria Miranda Autran</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Werneck</surname>
+            <given-names>Guilherme L</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chor</surname>
+            <given-names>Dóra</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6">III</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Faerstein</surname>
+            <given-names>Eduardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">I</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff4">
+        <label>I</label> Programa de Pós-Graduação em Saúde Coletiva. Departamento de Epidemiologia.
+        Instituto de Medicina Social. Universidade do Estado do Rio de Janeiro. Rio de Janeiro, RJ,
+        Brasil</aff>
+      <aff id="aff5">
+        <label>II</label> Secretaria-Geral de Controle Externo. Tribunal de Contas do Estado do Rio
+        de Janeiro. Rio de Janeiro, RJ, Brasil</aff>
+      <aff id="aff6">
+        <label>III</label> Departamento de Epidemiologia e Métodos Quantitativos em Saúde. Escola
+        Nacional de Saúde Pública. Fundação Oswaldo Cruz. Rio de Janeiro, RJ, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <label>Correspondence</label> : Claudia S Lopes Instituto de Medicina Social Universidade
+          do Estado do Rio de Janeiro Rua São Francisco Xavier, 524 7º andar Pavilhão João Lyra
+          Filho 20550-013 Rio de Janeiro, RJ, Brasil E-mail: lopes@ims.uerj.br</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>Research supported by the <italic>Conselho Nacional de Desenvolvimento Científico e
+              Tecnológico</italic> (CNPq/Edital Universal – Process No. 471762/2008-3) and the
+              <italic>Fundação de Amparo à Pesquisa</italic> , <italic>Estado do Rio de
+              Janeiro</italic> (Faperj/CNE – Process No. E-26/102,684/2008).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <sec>
+          <title>OBJECTIVE</title>
+          <p> To evaluate the incidence of smoking cessation and its association with psychosocial
+            factors.</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p> Data came from three consecutive waves of the Pro-Saude Study, a longitudinal study of
+            non-faculty civil servants working at a university in Rio de Janeiro, Southeastern
+            Brazil. Inclusion criteria were having participated in Phases 1 and 3 and being a smoker
+            at baseline (Phase 1 – 1999). Those who had stopped smoking less than a year before the
+            follow-up (Phase 3 – 2007) were excluded. The final study population consisted of 661
+            employees (78% of those eligible). Relative risks (RR) of smoking cessation were
+            evaluated through Poisson regression with robust variance.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p> The cumulative incidence of smoking cessation in eight years of follow-up was 27.7%.
+            Among the psychosocial factors evaluated in the multivariate analysis, only lack of
+            experience of physical violence was associated with higher smoking cessation (RR = 1.67,
+            95%CI 1.09;2.55).</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONS</title>
+          <p> The incidence of smoking cessation was high, and the fact that associations were not
+            found with most factors evaluated suggests that much of the effect found is due to the
+            impact of public policies implemented in Brazil over the past decades. The association
+            between no exposure to violence and higher incidence of smoking cessation draws
+            attention to the importance of this factor in tobacco control policies.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Tobacco Use Cessation, psychology</kwd>
+        <kwd>Smoking, prevention &amp; control</kwd>
+        <kwd>Tobacco Control Campaigns</kwd>
+        <kwd>Cohort Studies</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>The habit of smoking cigarettes, which began in the mid-19 <sup>th</sup> century, grew to
+          enormous proportions after the First World War, mainly due to massive propaganda by the
+          tobacco industry, which linked smoking with images of glamour and social acceptance. <xref
+            ref-type="bibr" rid="B28">
+            <sup>28</sup>
+          </xref> Smoking is known to be one of the main avoidable causes of morbidity and
+          mortality. <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref> As the deleterious effects of smoking become better known, the social pressure to
+          stop smoking has increased, as have the number of treatment options to assist in this.
+            <xref ref-type="bibr" rid="B28">
+            <sup>28</sup>
+          </xref> However, a considerable number of individuals start or continue to smoke. Smoking
+          tends to be concentrated in populations which have particular difficulty in giving up and
+          possess specific psychosocial factors, including mental disorders, low levels of social
+          support and chronic exposure to violence. <xref ref-type="bibr" rid="B2">
+            <sup>2</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+        </p>
+        <p>Although some studies suggest that a history of depression decreases the likelihood of
+          smoking, <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref> other evidence fails to confirm these findings. A meta-analysis based on 15
+          longitudinal studies of the subject <xref ref-type="bibr" rid="B14">
+            <sup>14</sup>
+          </xref> shows having a history of depression has no significant effect on stopping
+          smoking. As 14 of the 15 studies evaluated involved people undergoing treatment to stop
+          smoking, the lack of effect observed needs to be interpreted in this specific context.
+          Moreover, the analyses in the small number of studies which did report a link between
+          having a history of depression and stopping smoking had low statistical power.</p>
+        <p>Other psychosocial factors can influence stopping smoking. Longitudinal studies suggest
+          that living with a smoker <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref> and low levels of social support <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> make it more difficult to give up.</p>
+        <p>The relationship between physical violence and psychosocial and behavioral problems has
+          been well established in the literature. <xref ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref> Studies show that exposure to physical violence/victimization is a risk factor for
+          other health outcomes and habits, including smoking. <xref ref-type="bibr" rid="B2">
+            <sup>2</sup>
+          </xref> This link is believed to be mediated by psychological stress resulting from
+          exposure to violence and, especially in the case of tobacco, is potentially being used as
+          a relaxant. However, the role of psychological stress in lower levels of smoking cessation
+          has not been fully established. <xref ref-type="bibr" rid="B26">
+            <sup>26</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref>
+        </p>
+        <p>Smoking cessation is an international public health goal. <xref ref-type="fn" rid="fn6">
+            <sup>a</sup>
+          </xref> Identifying the factors which make it difficult to stop smoking may give more
+          support to public policies in this area. Brazil is one of the countries in which the
+          responses to policies aimed at controlling smoking have been quite effective, with
+          significant decreases. <xref ref-type="fn" rid="fn7">
+            <sup>b</sup>
+          </xref> However, few studies carried out in Brazil have investigated socio-economic
+          conditions, physical health problems, habits, smoking patterns or use of health care
+          services connected to this decrease. <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref> , <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref> , <xref ref-type="bibr" rid="B23">
+            <sup>23</sup>
+          </xref> , <xref ref-type="fn" rid="fn8">
+            <sup>c</sup>
+          </xref> According to the literature examined, this is the first longitudinal study carried
+          out in Latin America to investigate the incidence of smoking cessation and the role of
+          psychosocial factors in this outcome.</p>
+        <p>The aim of this study was to analyze the incidence of smoking cessation and its link to
+          psychosocial factors.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>METHODS</title>
+        <p>This was a longitudinal study using data from the Pro-Saude Study. <xref ref-type="bibr"
+            rid="B9">
+            <sup>9</sup>
+          </xref> It was a cohort census-style study, the main aim of which was to investigate
+          social determinants of health. The target population of the Pro-Saude Study were
+          non-faculty civil servants working at a university in the state of Rio de Janeiro,
+          excluding those working for other institutions or on leave for non-health reasons. The
+          participation rate was 90.4%, meaning 4,030 employees participated in phase 1, the
+          baseline of the study. Data were collected again in 200 (phase 2) and in 2006 to 2007
+          (phase 3).</p>
+        <p>Phase 1 was deemed to be the baseline and phase 3 the follow up. The data from phase 2
+          were taken into consideration in order to complement the exposure variables, as no
+          information was collected on the point at which the participant stopped smoking.</p>
+        <p>Criteria for inclusion were: a) participating in phases 1 and 3 (n = 3,273) and b) being
+          a smoker in phase 1 (n = 892). As the relapse rate in the first year was so high, those
+          who reported having stopped smoking less than a year before (n = 42) were excluded from
+          the study at phase 3, following the example of the First National Health and Nutrition
+          Examination Survey (NHANES I), carried out in the United States. <xref ref-type="bibr"
+            rid="B20">
+            <sup>20</sup>
+          </xref>
+        </p>
+        <p>The population eligible to participate in the study was 850 (892-42) individuals. There
+          were 189 losses, resulting in a final population of 661 employees (78% of those who were
+          eligible).</p>
+        <p>Self-administered questionnaires were used which included socio-economic and demographic
+          variables, history of smoking and passive smoking, variables related to lifestyle, support
+          and social network, stress inducing incidents and physical and mental morbidity among
+          others. In order to guarantee the quality of the data, pre-tests and a pilot study were
+          carried out, scales were validated and reliability tests conducted, the entire data
+          collection and processing process was monitored. Reliability test-retest of the data
+          collected on smoking at the baseline showed Kappa of 0.97 (95%CI 0.92;1.00) for current
+          smokers and an intra-class coefficient of correlation (ICC) of 0.92 (95%CI 0.88;0.95) for
+          having ever smoked at least 100 cigarettes. The report of passive smoking was
+          substantially reliable (Kappa = 0.73; 95%CI 0.65;0.95). <xref ref-type="bibr" rid="B6">
+            <sup>6</sup>
+          </xref> The psychometric properties of the scales which were translated and adapted in the
+          Pro-Saude Study and used in this study were shown to be appropriate. <xref ref-type="bibr"
+            rid="B13">
+            <sup>13</sup>
+          </xref>
+        </p>
+        <p>The outcome variable of this study was stopping smoking, created from the following
+          question “Do you currently smoke cigarettes?” included in the questionnaire in phase 3,
+          with four response options: 1) Yes; 2) No, I have never smoked; 3) No, I stopped smoking
+          over a year ago; and 4) No, I stopped smoking less than one year ago. Those who responded
+          “yes” were deemed to be smokers and those who had given up smoking more than a year ago
+          were deemed to be ex-smokers. Those who had stopped giving up smoking less than one year
+          before were excluded from the analysis.</p>
+        <p>The exposure variables were common mental disorders (CMD), living with a smoker, social
+          support, social network and exposure to physical violence.</p>
+        <p>The existence of CMD was evaluated using the GHQ-12 (General Health Questionnaire)
+          screening instrument, validated in the original version <xref ref-type="bibr" rid="B12">
+            <sup>12</sup>
+          </xref> and the Brazilian version. <xref ref-type="bibr" rid="B17">
+            <sup>17</sup>
+          </xref> The cutoff point used in the questionnaire considered each item as present or
+          absent (0 or 1). Those who were positive for three items (in 12), were classified as cases
+          of CMD. The reference period for the GHQ-12 were the two weeks preceding filling in the
+          questionnaire.</p>
+        <p>At phase 1, it was investigated whether the individual lived with a smoker, lived and
+          worked with smokers, only worked with smokers or did not live or work with smokers. The
+          frequency of individuals who live with smokers was similar to that observed among those
+          who lived and worked with smokers. Thus, a new variable was created: “live with smokers”,
+          with two response options: 1) Yes – Live with smokers, irrespective of working with
+          smokers; 2) No – only work with smokers or do not live and work with smokers.</p>
+        <p>Social support was evaluated in phase 1 using the scale used in the Medical Outcomes
+          Study (MOS). <xref ref-type="bibr" rid="B25">
+            <sup>25</sup>
+          </xref> This scale has 19 items, evaluating five aspects of support: material, affective,
+          emotional, positive social interaction and information. The adaptation into Portuguese,
+          carried out as part of the Pro-Saude Study, had good psychometric properties. <xref
+            ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+        </p>
+        <p>Social network was evaluated using five questions in phase 1. In this study, only two
+          question on the number of close friends and relatives with whom the participants felt
+          comfortable talking about anything were considered. These questions were combined and a
+          score created (number of friends and/or relatives with whom the participant feels
+          comfortable talking about anything) and a new variable, which divided the score based on
+          terciles.</p>
+        <p>Exposure to physical violence was evaluated at phase 1 (1999) and 2 (2001) using two
+          questions: “In the last 12 months have you been attacked or robbed, i.e., has money or
+          property been stolen with violence or with the threat of violence?” and “In the last 12
+          months, have you been the victim of a physical attack?”. Based on the responses to these
+          questions, a new variable was created, with the categories: never been a victim; victim in
+          at least one of the phases.</p>
+        <p>Distribution of the situation in relation to smoking and the incidence of stopping
+          smoking (outcome variable) were estimated. The distribution of smokers and ex-smokers for
+          each explanatory variable, as well as the relative risk (RR) of stopping smoking linked to
+          the exposures in the study and their respective 95% confidence intervals were evaluated
+          using Poisson regression with robust variance. The variables which had a significant
+          correlation (p &lt; 0.25) in the uni-variate model and variables deemed to be relevant
+          according to the literature on the subject (sex and age) were included in the multivariate
+          model.</p>
+        <p>The study was approved by the Research Ethics Committee of the <italic>Hospital
+            Universitário Pedro Ernesto/Universidade do Estado do Rio de Janeiro</italic> (Protocol
+          No 224/99).</p>
+      </sec>
+      <sec sec-type="results">
+        <title>RESULTS</title>
+        <p>At phase 1 of the Pro-Saude Study, 3,841 participants presented valid data on the
+          subjects related to smoking; of these, 23.2% fulfilled the criteria to be classes as
+          “smokers” at the baseline, 18.6% were “ex-smokers” and 58.2% had never smoked. The
+          situation with regards to smoking at the baseline showed that there were more smokers
+          among: men (p = 0.025), people in the intermediary age groups (between 35 and 45 years
+          old) (p &lt; 0.001), those with black and dark skin (p = 0.001), individuals with lower
+          household per capita income (p &lt; 0.001) and schooling (p &lt; 0.001) and those who were
+          not married/in a civil partnership (p &lt; 0.001) ( <xref ref-type="table" rid="t03">Table
+            1</xref> ).</p>
+        <p>
+          <table-wrap id="t03">
+            <label>Table 1</label>
+            <caption>
+              <title>Situation with regards smoking according to socio-economic characteristics in
+                the base line population (phase 1) of the Pro-Saude Study. Rio de Janeiro, RJ,
+                Southeastern Brazil, 1999.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="8%">
+                <col width="30%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Variable</td>
+                  <td align="center">Smoker</td>
+                  <td align="center">%</td>
+                  <td align="center">Ex-smoker</td>
+                  <td align="center">%</td>
+                  <td align="center">Never smoked</td>
+                  <td align="center">%</td>
+                  <td align="center">Total</td>
+                  <td align="center">p</td>
+                </tr>
+                <tr>
+                  <td colspan="9" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Sex</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.0025</td>
+                </tr>
+                <tr>
+                  <td> Male</td>
+                  <td align="center">426</td>
+                  <td align="center">24.8</td>
+                  <td align="center">334</td>
+                  <td align="center">19.4</td>
+                  <td align="center">959</td>
+                  <td align="center">55.8</td>
+                  <td align="center">1,719</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Female</td>
+                  <td align="center">466</td>
+                  <td align="center">22.0</td>
+                  <td align="center">381</td>
+                  <td align="center">18.0</td>
+                  <td align="center">1,275</td>
+                  <td align="center">60.1</td>
+                  <td align="center">2,122</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Age</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">&lt; 0.001</td>
+                </tr>
+                <tr>
+                  <td> Up to 34 years</td>
+                  <td align="center">108</td>
+                  <td align="center">9.8</td>
+                  <td align="center">93</td>
+                  <td align="center">8.4</td>
+                  <td align="center">903</td>
+                  <td align="center">81.8</td>
+                  <td align="center">1,104</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 35-44 years</td>
+                  <td align="center">475</td>
+                  <td align="center">28.6</td>
+                  <td align="center">340</td>
+                  <td align="center">20.5</td>
+                  <td align="center">846</td>
+                  <td align="center">50.9</td>
+                  <td align="center">1,661</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 45-54 years</td>
+                  <td align="center">255</td>
+                  <td align="center">31.5</td>
+                  <td align="center">217</td>
+                  <td align="center">26.8</td>
+                  <td align="center">338</td>
+                  <td align="center">41.7</td>
+                  <td align="center">810</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 55 and over</td>
+                  <td align="center">54</td>
+                  <td align="center">20.3</td>
+                  <td align="center">65</td>
+                  <td align="center">24.4</td>
+                  <td align="center">147</td>
+                  <td align="center">55.3</td>
+                  <td align="center">266</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Color or Race</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.001</td>
+                </tr>
+                <tr>
+                  <td> Black/dark skinned</td>
+                  <td align="center">434</td>
+                  <td align="center">25.9</td>
+                  <td align="center">303</td>
+                  <td align="center">18.1</td>
+                  <td align="center">939</td>
+                  <td align="center">56.0</td>
+                  <td align="center">1,676</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> White</td>
+                  <td align="center">419</td>
+                  <td align="center">20.7</td>
+                  <td align="center">387</td>
+                  <td align="center">19.1</td>
+                  <td align="center">1,216</td>
+                  <td align="center">60.1</td>
+                  <td align="center">2,022</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Income</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">&lt; 0.001</td>
+                </tr>
+                <tr>
+                  <td> &lt; 3 MW</td>
+                  <td align="center">304</td>
+                  <td align="center">35.3</td>
+                  <td align="center">200</td>
+                  <td align="center">23.2</td>
+                  <td align="center">357</td>
+                  <td align="center">41.5</td>
+                  <td align="center">861</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 3-6 MW</td>
+                  <td align="center">296</td>
+                  <td align="center">21.8</td>
+                  <td align="center">228</td>
+                  <td align="center">16.8</td>
+                  <td align="center">835</td>
+                  <td align="center">61.4</td>
+                  <td align="center">1,359</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> &gt; 6 MW</td>
+                  <td align="center">284</td>
+                  <td align="center">17.9</td>
+                  <td align="center">281</td>
+                  <td align="center">17.7</td>
+                  <td align="center">1,024</td>
+                  <td align="center">64.4</td>
+                  <td align="center">1,589</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Schooling</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">&lt; 0.001</td>
+                </tr>
+                <tr>
+                  <td> Did not finish high school</td>
+                  <td align="center">269</td>
+                  <td align="center">27.2</td>
+                  <td align="center">195</td>
+                  <td align="center">19.7</td>
+                  <td align="center">524</td>
+                  <td align="center">53.0</td>
+                  <td align="center">988</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Finished high school</td>
+                  <td align="center">299</td>
+                  <td align="center">22.9</td>
+                  <td align="center">228</td>
+                  <td align="center">17.5</td>
+                  <td align="center">778</td>
+                  <td align="center">59.6</td>
+                  <td align="center">1,305</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Further education</td>
+                  <td align="center">255</td>
+                  <td align="center">19.3</td>
+                  <td align="center">244</td>
+                  <td align="center">18.5</td>
+                  <td align="center">823</td>
+                  <td align="center">62.3</td>
+                  <td align="center">1,322</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Marital status</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">&lt; 0.001</td>
+                </tr>
+                <tr>
+                  <td> Other</td>
+                  <td align="center">349</td>
+                  <td align="center">24.1</td>
+                  <td align="center">218</td>
+                  <td align="center">15.0</td>
+                  <td align="center">882</td>
+                  <td align="center">60.9</td>
+                  <td align="center">1,449</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Married/living together</td>
+                  <td align="center">511</td>
+                  <td align="center">22.5</td>
+                  <td align="center">470</td>
+                  <td align="center">20.7</td>
+                  <td align="center">1,290</td>
+                  <td align="center">56.8</td>
+                  <td align="center">2,271</td>
+                  <td> </td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>The incidence of stopping smoking in the study population was 27.7% between 1997 and
+          2006. Of the psychosocial factors evaluated, not having experienced physical violence
+          proved to have the strongest link with stopping smoking, after being adjusted for sex, age
+          and number of cigarettes smoked/day.</p>
+        <p>Despite the associations with the smoking situation at the baseline, the other
+          socio-economic variables did not prove to be significantly associated with stopping
+          smoking in the follow up. The presence of CMD, living with smokers, having social support
+          and social networks were not significantly associated with incidence of stopping smoking (
+            <xref ref-type="table" rid="t04">Table 2</xref> ).</p>
+        <p>
+          <table-wrap id="t04">
+            <label>Table 2</label>
+            <caption>
+              <title>Cumulative incidence of smoking cessation according to exposure to psychosocial
+                factors, crude and adjusted relative risks (RR) and their ranges of 95% confidence
+                intervals (95%). Pro-Saude Study. Rio de Janeiro, RJ, Southeastern Brazil,
+                1999/2007.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="7%">
+                <col width="30%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td rowspan="3">Variable</td>
+                  <td colspan="2" align="center">Smoker</td>
+                  <td colspan="2" align="center">Ex-smoker</td>
+                  <td align="center"> </td>
+                  <td align="center"> </td>
+                  <td align="center"> </td>
+                  <td align="center"> </td>
+                  <td align="center"> </td>
+                </tr>
+                <tr>
+                  <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td align="center">n</td>
+                  <td align="center">%</td>
+                  <td align="center">n</td>
+                  <td align="center">%</td>
+                  <td align="center">p</td>
+                  <td align="center">RR crude</td>
+                  <td align="center">95%CI</td>
+                  <td align="center"> RR adjusted <sup>a</sup>
+                  </td>
+                  <td align="center"> 95%CI</td>
+                </tr>
+                <tr>
+                  <td colspan="10" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>CMD in 1999</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.515</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">289</td>
+                  <td align="center">73.3</td>
+                  <td align="center">105</td>
+                  <td align="center">26.7</td>
+                  <td> </td>
+                  <td align="center">1.00</td>
+                  <td> </td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">161</td>
+                  <td align="center">70.9</td>
+                  <td align="center">66</td>
+                  <td align="center">29.1</td>
+                  <td> </td>
+                  <td align="center">1.09</td>
+                  <td align="center">0.80-1.48</td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td>Social support (terciles)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.822</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> &lt; 69</td>
+                  <td align="center">153</td>
+                  <td align="center">72.5</td>
+                  <td align="center">58</td>
+                  <td align="center">27.5</td>
+                  <td> </td>
+                  <td align="center">1.00</td>
+                  <td> </td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td> 69-87</td>
+                  <td align="center">160</td>
+                  <td align="center">73.1</td>
+                  <td align="center">59</td>
+                  <td align="center">26.9</td>
+                  <td> </td>
+                  <td align="center">0.98</td>
+                  <td align="center">0.68-1.41</td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td> 88+</td>
+                  <td align="center">148</td>
+                  <td align="center">70.5</td>
+                  <td align="center">62</td>
+                  <td align="center">29.5</td>
+                  <td> </td>
+                  <td align="center">1.07</td>
+                  <td align="center">0.75-1.54</td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td>Social network (terciles)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.247</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> &lt; 3</td>
+                  <td align="center">104</td>
+                  <td align="center">70.3</td>
+                  <td align="center">44</td>
+                  <td align="center">29.7</td>
+                  <td> </td>
+                  <td align="center">1.00</td>
+                  <td> </td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td> 3-5</td>
+                  <td align="center">143</td>
+                  <td align="center">69.1</td>
+                  <td align="center">64</td>
+                  <td align="center">30.9</td>
+                  <td> </td>
+                  <td align="center">1.04</td>
+                  <td align="center">0.71-1.53</td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td> 6+</td>
+                  <td align="center">190</td>
+                  <td align="center">75.7</td>
+                  <td align="center">61</td>
+                  <td align="center">24.3</td>
+                  <td> </td>
+                  <td align="center">0.82</td>
+                  <td align="center">0.55-1.20</td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td>Living with smoker</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.614</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">219</td>
+                  <td align="center">73.2</td>
+                  <td align="center">80</td>
+                  <td align="center">26.8</td>
+                  <td> </td>
+                  <td align="center">1.00</td>
+                  <td> </td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">253</td>
+                  <td align="center">71.5</td>
+                  <td align="center">101</td>
+                  <td align="center">28.5</td>
+                  <td> </td>
+                  <td align="center">1.07</td>
+                  <td align="center">0.80-1.43</td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td>Victim of assault</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.007</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> At least once</td>
+                  <td align="center">113</td>
+                  <td align="center">81.9</td>
+                  <td align="center">25</td>
+                  <td align="center">18.1</td>
+                  <td> </td>
+                  <td align="center">1.00</td>
+                  <td> </td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                </tr>
+                <tr>
+                  <td> Never</td>
+                  <td align="center">320</td>
+                  <td align="center">70.2</td>
+                  <td align="center">136</td>
+                  <td align="center">29.8</td>
+                  <td> </td>
+                  <td align="center">1.65</td>
+                  <td align="center">1.07-2.52</td>
+                  <td align="center">1.67</td>
+                  <td align="center">1.09-2.55</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>CMD: Common Mental Disorder</p>
+              <p>
+                <sup>a</sup> adjusted for sex, age and number of cigarettes/day</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+      </sec>
+      <sec>
+        <title>DISCUSSION</title>
+        <p>In this study, after eight years of follow up, the incidence of stopping smoking (27.7%)
+          was similar to that found in a cohort population-based study carried out in Spain between
+          1994 and 2002 <xref ref-type="bibr" rid="B10">
+            <sup>10</sup>
+          </xref> (28.3% in eight years) and higher than that in the National Health and Nutrition
+          Examination Survey (NHANES I), <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> carried out in the USA between 1971 to 1975 and 1982 to 1984 (21.0% in nine
+          years), and that of the British Household Panel Survey (BHPS), <xref ref-type="bibr"
+            rid="B5">
+            <sup>5</sup>
+          </xref> a representative cohort of British adults which had results evaluated between 1991
+          and 2000 (21.0% in ten years). However, comparing the findings of this study with
+          international studies should be done with caution, as public policies aimed at reducing
+          smoking were established at different periods and their coverage and restrictions imposed
+          were different in the different countries. Such policies played an important, if not
+          crucial, role in the incidence of stopping smoking in Brazil and in other countries.</p>
+        <p>A large part of the high incidence of smoking cessation found is probably due to the
+          public policies aimed at controlling smoking which took place in Brazil throughout the
+          period of the study, reducing the influence of other factors traditionally associated with
+          cessation. The fact that the study population had a higher average level of education than
+          the general population, a considerable part of it being made up of health care
+          professionals and university hospital employees, where health care campaigns are more
+          intense, may have contributed to the greater incidence of stopping smoking.</p>
+        <p>No other study was identified which had evaluated the incidence of smoking cessation in
+          Brazil. However, it is possible to compare changes in the prevalence of smoking found in
+          the Pro-Saude Study, the data of which were used in this study, with the rates of
+          prevalence found in population-based surveys conducted in Brazil. Care should be taken
+          when making this comparison due to the different age groups which made up the populations.
+          In the population of this study, the prevalence of smoking went from 23.2% in 1999 to
+          21.8% in 2001 and 21.4% in 2007. The comparison between the phases of the Pro-Saude Study
+          shows there is a tendency for the prevalence of smoking to decline, which can be seen
+          between 1989 and 2003 when comparing two population studies carried out in Brazil
+          (Brazilian National Survey on Health and Nutrition – PNSN and World Health Survey – PMS),
+            <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref> their rates of prevalence being 34.8% and 22.4% in samples of the adult
+          population. A more recent study with data from the National System for Chronic Disease
+          Monitoring Telephone Survey (VIGITEL), between 2006 and 2009, showed a slight decline in
+          smoking among men and no change among women, with the exception of those living in the
+          North and Northeast. <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref>
+        </p>
+        <p>The first government movements to control smoking in Brazil began at the end of the
+          1970s. <xref ref-type="bibr" rid="B24">
+            <sup>24</sup>
+          </xref> The National Cancer Institute launched a National Anti-Smoking Program in 1988,
+            <xref ref-type="fn" rid="fn9">
+            <sup>d</sup>
+          </xref> but it was only after Federal Law 9,294, came into force in 1996, <xref
+            ref-type="fn" rid="fn10">
+            <sup>e</sup>
+          </xref> that continuous educational activities started to take place. This law covers
+          restrictions on the advertising and use of tobacco products, banning their use in enclosed
+          public or private spaces, except in specially designated areas with appropriate insulation
+          and ventilation. It was followed by other laws which included banning these products in
+          airplanes and public transport; banning advertising in any type of media except point of
+          sale; banning sponsorship of cultural and national sporting events; banning descriptions
+          which gave a misleading picture of the products’ harmfulness, such as ‘light’, ‘low
+          levels’, on packets and in advertising, among other measures. A qualitative study, carried
+          out in Porto Alegre, RS, Southeastern Brazil, between 2004 and 2006, showed that laws
+          restricting smoking encouraged quitting. The stricter the laws, the greater the tendency
+          to quit. <xref ref-type="bibr" rid="B8">
+            <sup>8</sup>
+          </xref>
+        </p>
+        <p>In other countries, as in Brazil, over the last two decades policies to control smoking
+          have made great steps forward and a lot of studies were carried out during this period. In
+          Spain, the law banning smoking in workplaces and in some establishments such as bars and
+          restaurants, was established in 2006. <xref ref-type="bibr" rid="B18">
+            <sup>18</sup>
+          </xref> In England, there were many restrictions placed on smoking between 1996 and 2003,
+          and a total ban came into force in 2007. <xref ref-type="bibr" rid="B19">
+            <sup>19</sup>
+          </xref> In the United States, due to the sovereignty of each state, there laws banning
+          smoking are not uniform, neither in their coverage nor in the dates on which they came
+          into force. Bans started in 1975 in the state of Minnesota, but the largest increase in
+          tobacco control lows, in the majority of estates, took place between 1993 and 1996. <xref
+            ref-type="bibr" rid="B4">
+            <sup>4</sup>
+          </xref>
+        </p>
+        <p>Not having experienced physical violence was the only factor which was linked to stopping
+          smoking: the risk of stopping smoking was 67% greater in individuals who had not
+          experienced physical violence. There is little literature on this subject and no study
+          with a similar result was found. A study carried out with young female adults in the USA
+          did not find a link between stopping smoking and domestic violence, although a link with
+          smoking was shown. <xref ref-type="bibr" rid="B26">
+            <sup>26</sup>
+          </xref> A study carried out with young adolescents, also in the USA, showed that
+          victimization, together with other factors, was associated with smoking, but this
+          association was less significant for stopping smoking. <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref>
+        </p>
+        <p>The lack of a significant association between the other psychosocial factors in question
+          and stopping smoking was unexpected. Part of their effect may have been more significant
+          in stopping smoking in the period before the public policies to control smoking in
+          general.</p>
+        <p>Another possible explanation refers to the limited information available. Some of the
+          variables in question may not have remained constant. The presence of CMD, for example,
+          may have fluctuated over the eight years. However, there was only information available
+          for two points in time before the outcome (1999 and 2001). The variable of living with a
+          smoker may also have undergone a change in this period, due to the significant decrease in
+          the number of smokers in the country. Therefore, someone who lived with a smoker in 1999
+          may no longer live with one. Studies evaluating causal factors in giving up smoking <xref
+            ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> have the same methodological difficulty and use information from the baseline to
+          evaluate the variables in question. The same occurred with this outcome, i.e., data was
+          not available on the exact moment at which the individual gave up smoking. Therefore, all
+          were dealt with as if they had stopped smoking at the same time.</p>
+        <p>The limitations highlighted above may have contributed to the lack of association.
+          However, the link between mental disorders and stopping smoking is inconsistent in the
+          literature. Although some studies show that depression negatively influences stopping
+          smoking, <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref> other authors have not observed this association. <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> These studies, however, made use of psychiatric diagnoses, mainly of depression,
+          and other studies were not found which assessed the link between common mental disorders
+          and stopping smoking. Using the GHQ, a screening tool which is self-administered and
+          therefore more sensitive to changes in individuals’ psychological state, may have weakened
+          the link between CMD and stopping smoking.</p>
+        <p>The importance of social support is suggested in the literature although there is no
+          consensus. Two longitudinal studies carried out in the USA with individuals undergoing
+          treatment in order to stop smoking showed that perceived social support was important in
+          increasing smoking cessation in the initial phases, as well as over the short term,
+          although not in the long term. <xref ref-type="bibr" rid="B21">
+            <sup>21</sup>
+          </xref> A study in England <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> found a positive association between medium or high social support and greater
+          levels of smoking cessation around ten years afterwards. No population-based studies
+          assessing the relationship between social network and stopping smoking were found.</p>
+        <p>The losses (22%) were similar <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> or lower <xref ref-type="bibr" rid="B10">
+            <sup>10</sup>
+          </xref> than those of other studies on this subject. Comparing participants at the
+          baseline with losses with regards sex, age and explanatory variables shows that there was
+          no statistically significant difference, suggesting there was no bias due to losses.</p>
+        <p>The incidence of smoking cessation found in this study was high, a result which is in
+          agreement with the public polices established with this aim and confirms the trend towards
+          decreasing prevalence of smoking in Brazil. <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref> New studies are needed to enable constant monitoring of this trend and the impact
+          of control policies over time. The continuity and frequency of population-based health
+          surveys, evaluating smoking, are essential to achieving this goal.</p>
+        <p>The results of this study show that there is a significant link between not being exposed
+          to violence and higher levels of smoking cessation. Violence is a significant factor for
+          various health outcomes and a determinant in unhealthy lifestyles. <xref ref-type="bibr"
+            rid="B15">
+            <sup>15</sup>
+          </xref> Public policies aimed at controlling smoking should include focusing on areas of
+          chronic violence.</p>
+      </sec>
+    </body>
+    <back>
+      <fn-group>
+        <fn id="fn6">
+          <label>a</label>
+          <p>World Health Organization. WHO report on the global tobacco epidemic, 2011: warning
+            about the dangers of tobacco. MPOWER package. Geneva; 2011.  </p>
+        </fn>
+        <fn id="fn7">
+          <label>b</label>
+          <p>Figueiredo VC. Um panorama do tabagismo em 16 capitais e no Distrito Federal:
+            tendências e heterogeneidades. Rio de Janeiro: UERJ; 2007.  </p>
+        </fn>
+        <fn id="fn8">
+          <label>c</label>
+          <p> Sampaio MM. Fatores associados à cessação do tabagismo no Estudo Pró-Saúde [tese de
+            mestrado]. Rio de Janeiro: Instituto de Medicina Social da UERJ; 2010. </p>
+        </fn>
+        <fn id="fn9">
+          <label>d</label>
+          <p> Ministério da Saúde, Instituto Nacional de Câncer. Bases para implantação de um
+            programa de controle do tabagismo. Rio de Janeiro; 1996. <fn id="fn10">
+              <label>e</label>
+              <p>Brasil. Lei 9.294, de 15 de julho de 1996. Dispõe sobre as restrições ao uso e à
+                propaganda de produtos fumígenos, bebidas alcoólicas, medicamentos, terapias e
+                defensivos agrícolas, nos termos do § 4° do art. 220 da Constituição
+                  Federal.<italic>Diario Oficial Uniao</italic>. 16 jul 1996:13074.</p></fn>
+          </p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+</article>

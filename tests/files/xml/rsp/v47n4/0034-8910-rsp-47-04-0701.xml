@@ -1,0 +1,5057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "C:/SciELO/bin/markup/../xml/../pmc/j1.0/dtd/jats1.0/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="3.0" article-type="research-article" xml:lang="pt">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+			<journal-title-group>
+				<journal-title>Revista de Saúde Pública</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0034-8910</issn>
+			<issn pub-type="epub">1518-8787</issn>
+			<publisher>
+				<publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">S0034-8910.2013047003844</article-id>
+			<article-id pub-id-type="doi">10.1590/S0034-8910.2013047003844</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artigos Originais</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="pt">Fatores associados aos sintomas depressivos em idosos: estudo <italic>Epi</italic>Floripa</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Factores asociados a los síntomas depresivos en ancianos: estudio <italic>Epi</italic>Floripa</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Borges</surname>
+						<given-names>Lucélia Justino</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Benedetti</surname>
+						<given-names>Tânia R Bertoldo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Xavier</surname>
+						<given-names>André Junqueira</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>d'Orsi</surname>
+						<given-names>Eleonora</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3">3</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="orgdiv1">Programa de Pós-Graduação em Educação Física. Centro de Desportos</institution>
+				<institution content-type="orgname">Universidade Federal de Santa Catarina</institution>
+				<addr-line>
+					<named-content content-type="city">Florianópolis</named-content>
+					<named-content content-type="state">SC</named-content>
+				</addr-line>
+				<country>Brasil</country>
+      Programa de Pós-Graduação em Educação Física. Centro de Desportos
+      .
+      Universidade Federal de Santa Catarina
+      .
+      Florianópolis
+      ,
+      SC
+      ,
+      Brasil </aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="orgname">Universidade do Sul de Santa Catarina</institution>
+				<addr-line>
+					<named-content content-type="city">Palhoça</named-content>
+					<named-content content-type="state">SC</named-content>
+				</addr-line>
+				<country>Brasil</country>
+      Universidade do Sul de Santa Catarina
+      . Palhoça, SC, Brasil</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="orgdiv2">Programa de Pós-Graduação em Saúde Coletiva</institution>
+				<institution content-type="orgdiv1">Centro de Ciências da Saúde</institution>
+				<institution content-type="orgname">Universidade Federal de Santa Catarina</institution>
+				<addr-line>
+					<named-content content-type="city">Florianópolis</named-content>
+					<named-content content-type="state">SC</named-content>
+				</addr-line>
+				<country>Brasil</country>
+      Programa de Pós-Graduação em Saúde Coletiva
+      .
+      Centro de Ciências da Saúde
+      .
+      Universidade Federal de Santa Catarina
+      . Florianópolis, SC, Brasil</aff>
+			<author-notes>
+				<corresp>
+					<bold>Correspondência | Correspondence</bold>
+        : Lucélia Justino Borges. Centro de Desportos. Universidade Federal de Santa Catarina. Campus Universitário - Trindade. 88040-900 Florianópolis, SC, Brasil. E-mail: luceliajb@yahoo.com.br</corresp>
+				<fn fn-type="conflict">
+					<p>Os autores declaram não haver conflitos de interesse.</p>
+				</fn>
+			</author-notes>
+			<pub-date pub-type="epub-ppub">
+				<month>08</month>
+				<year>2013</year>
+			</pub-date>
+			<volume>47</volume>
+			<issue>04</issue>
+			<fpage>701</fpage>
+			<lpage>710</lpage>
+			<history>
+				<date date-type="received">
+					<day>16</day>
+					<month>10</month>
+					<year>2011</year>
+				</date>
+				<date date-type="accepted">
+					<day>4</day>
+					<month>3</month>
+					<year>2013</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+					<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+				</license>
+			</permissions>
+			<abstract xml:lang="pt">
+				<sec>
+					<title>OBJETIVO</title>
+					<p>Analisar a prevalência e fatores associados a sintomas depressivos em idosos.</p>
+				</sec>
+				<sec>
+					<title>MÉTODOS</title>
+					<p>Estudo epidemiológico transversal e de base domiciliar (inquérito
+          <italic>Epi</italic>Floripa Idoso) com 1.656 idosos, realizado por conglomerados em dois estágios, setores censitários e domicílios, em Florianópolis, SC. A prevalência de sintomas depressivos (desfecho) foi obtida por meio da
+          <italic>Geriatric Depression Scale</italic>
+          (GDS-15), e testadas associações segundo variáveis sociodemográficas, de saúde, comportamentais e sociais. Foram calculadas razões de prevalências brutas e ajustadas com intervalo de 95% de confiança por regressão de Poisson.</p>
+				</sec>
+				<sec>
+					<title>RESULTADOS</title>
+					<p>A prevalência de sintomas depressivos foi de 23,9% (IC95% 21,84;26,01). Os fatores de risco associados no modelo final foram: escolaridade de cinco a oito anos (RP = 1,50; IC95% 1,08; 2,08), um a quatro anos (RP = 1,62; IC95% 1,18; 2,23) e nenhum ano de estudo (RP = 2,11; IC95% 1,46;3,05); situação econômica pior quando comparada com a que tinha aos 50 anos (RP = 1,33; IC95% 1,02;1,74); déficit cognitivo (RP = 1,45; IC95% 1,21;1,75); percepção de saúde regular (RP = 1,95; IC95% 1,47;2,60) e ruim (RP = 2,64; IC95% 1,82;3,83); dependência funcional (RP = 1,83; IC95% 1,43; 2,33); e dor crônica (RP = 1,35; IC95% 1,10;1,67). Grupo etário de 70 a 79 anos (RP = 0,77; IC95% 0,64;0,93); atividade física de lazer (RP = 0,75; IC95% 0,59;0,94); participação em grupos de convivência ou religiosos (RP = 0,80; IC95% 0,64;0,99); e ter relação sexual (RP = 0,70; IC95% 0,53;0,94) mostraram-se fatores protetores ao aparecimento dos sintomas depressivos.</p>
+				</sec>
+				<sec>
+					<title>CONCLUSÕES</title>
+					<p>Situação clínica adversa, desvantagem socioeconômica e pouca atividade social e sexual mostraram-se associadas aos sintomas depressivos em idosos.</p>
+				</sec>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<sec>
+					<title>OBJETIVO</title>
+					<p>Analizar la prevalencia y factores asociados a síntomas depresivos en ancianos.</p>
+				</sec>
+				<sec>
+					<title>MÉTODOS</title>
+					<p>Estudio epidemiológico transversal y de base domiciliar (pesquisa
+          <italic>EpiFloripa Anciano</italic>
+          ) con 1.656 ancianos, realizado por conglomerados en dos fases, sectores censitarios y domicilios, en Florianópolis, SC, Brasil. La prevalencia de síntomas depresivos (resultado) fue obtenida por medio de la
+          <italic>Geriatric Depression Scale</italic>
+          (GDS-15), y evaluadas asociaciones según variables sociodemográficas, de salud, comportamiento y sociales. Se calcularon tasas de prevalencia brutas y ajustadas con intervalo de 95% de confianza por regresión de Poisson.</p>
+				</sec>
+				<sec>
+					<title>RESULTADOS</title>
+					<p>La prevalencia de síntomas depresivos fue de 23,9% (IC95% 21,84;26,01). Los factores de riesgo asociados en el modelo final fueron: escolaridad de cinco a ocho años (RP = 1,50; IC95% 1,08; 2,08), uno a cuatro años (RP = 1,62; IC95% 1,18; 2,23) y ningún año de estudio (RP = 2,11; IC95% 1,46;3,05); situación económica peor al compararse con la que tenía a los 50 años (RP = 1,33; IC95% 1,02;1,74); déficit cognitivo (RP = 1,45; IC95% 1,21;1,75); percepción de salud regular (RP = 1,95; IC95% 1,47;2,60) y mala (RP = 2,64; IC95% 1,82;3,83); dependencia funcional (RP = 1,83; IC95% 1,43; 2,33) y dolor crónico (RP = 1,35; IC95% 1,10;1,67). Grupo etario de 70 a 79 años (RP = 0,77; IC95% 0,64;0,93); actividad física de placer (RP = 0,75; IC95% 0,59;0,94); participación en grupos de convivencia o religiosos (RP = 0,80; IC95% 0,64;0,99) y tener relación sexual (RP = 0,70; IC95% 0,53;0,94) se mostraron como factores protectores de la aparición de los síntomas depresivos.</p>
+				</sec>
+				<sec>
+					<title>CONCLUSIONES</title>
+					<p>Situación clínica adversa, desventaja socioeconómica y poca actividad social y sexual se mostraron asociados a los síntomas depresivos en ancianos.</p>
+				</sec>
+			</trans-abstract>
+			<kwd-group xml:lang="pt">
+				<kwd>Idoso</kwd>
+				<kwd>Depressão, epidemiologia</kwd>
+				<kwd>Fatores de Risco</kwd>
+				<kwd>Fatores Socioeconômicos</kwd>
+				<kwd>Envelhecimento</kwd>
+				<kwd>Saúde Mental</kwd>
+				<kwd>Estudos Transversais</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<kwd>Anciano</kwd>
+				<kwd>Depresión, epidemiología</kwd>
+				<kwd>Factores de Riesgo</kwd>
+				<kwd>Factores Socioeconómicos</kwd>
+				<kwd>Envejecimiento</kwd>
+				<kwd>Salud Mental</kwd>
+				<kwd>Estudios Transversales</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group>
+					<funding-source>Conselho Nacional de Desenvolvimento Científico e Tecnológico</funding-source>
+					<award-id>569834/2008-2</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<table-count count="9"/>
+				<ref-count count="24"/>
+				<page-count count="10"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>INTRODUÇÃO</title>
+			<p>A depressão é frequente no idoso e é apontada como um dos problemas psiquiátricos mais comuns e importantes.
+        <xref ref-type="bibr" rid="B2">
+					<sup>2</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B8">
+					<sup>8</sup>
+				</xref>
+        Segundo revisão sistemática, a prevalência mundial varia de 0,9% a 9,4% em idosos vivendo na comunidade e de 14% a 42% em institucionalizados.
+        <xref ref-type="bibr" rid="B8">
+					<sup>8</sup>
+				</xref>
+        Estudos epidemiológicos brasileiros conduzidos com a população idosa evidenciam que a prevalência de sintomas depressivos varia entre 19% e 34% nas diferentes regiões do País.
+        <xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B5">
+					<sup>5</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B15">
+					<sup>15</sup>
+				</xref>
+			</p>
+			<p>A alta prevalência de depressão requer atenção dos profissionais e de gestores públicos da área da saúde, uma vez que essa doença eleva a probabilidade de incapacidade funcional nos idosos
+        <xref ref-type="bibr" rid="B16">
+					<sup>16</sup>
+				</xref>
+        e desencadeia importante problema de saúde pública.</p>
+			<p>Dentre os fatores associados à sintomatologia depressiva em idosos, destacam-se o sexo feminino,
+        <xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B6">
+					<sup>6</sup>
+				</xref>
+        a idade avançada,
+        <xref ref-type="bibr" rid="B6">
+					<sup>6</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B9">
+					<sup>9</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref>
+        a baixa escolaridade
+        <xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B9">
+					<sup>9</sup>
+				</xref>
+        e viver sozinho.
+        <xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref>
+        Além das características sociodemográficas, bem estabelecidas pela literatura, outros fatores mostram-se associados, como: tabagismo,
+        <xref ref-type="bibr" rid="B9">
+					<sup>9</sup>
+				</xref>
+        comorbidades (doenças cardiovasculares, endócrinas, neurológicas, oncológicas),
+        <xref ref-type="bibr" rid="B24">
+					<sup>24</sup>
+				</xref>
+        maior utilização de medicamentos,
+        <xref ref-type="bibr" rid="B15">
+					<sup>15</sup>
+				</xref>
+        incapacidade funcional,
+        <xref ref-type="bibr" rid="B6">
+					<sup>6</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref>
+        percepção negativa da saúde,
+        <xref ref-type="bibr" rid="B6">
+					<sup>6</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref>
+        baixo nível de atividade física,
+        <xref ref-type="bibr" rid="B5">
+					<sup>5</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B18">
+					<sup>18</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B22">
+					<sup>22</sup>
+				</xref>
+        pensamentos suicidas,
+        <xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref>
+        insônia,
+        <xref ref-type="bibr" rid="B6">
+					<sup>6</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref>
+        predomínio de trocas negativas no relacionamento com parentes e amigos.
+        <xref ref-type="bibr" rid="B23">
+					<sup>23</sup>
+				</xref>
+        Fatores, em especial os modificáveis, precisam ser mais explorados, considerando as diferenças culturais entre países e as regionais observadas no mesmo país, como o Brasil.</p>
+			<p>Identificar os fatores relacionados à presença da sintomatologia depressiva pode auxiliar na prevenção da depressão entre os idosos
+        <xref ref-type="bibr" rid="B3">
+					<sup>3</sup>
+				</xref>
+        e dar oportunidade à oferta de estratégias não farmacológicas de tratamento.</p>
+			<p>O objetivo do presente estudo foi analisar a prevalência e fatores associados a sintomas depressivos em idosos.</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>MÉTODOS</title>
+			<p>Estudo transversal populacional e de base domiciliar é parte do inquérito
+        <italic>Epi</italic>Floripa Idoso, realizado entre setembro de 2009 e junho de 2010 em Florianópolis, SC, Brasil.
+        <xref ref-type="fn" rid="fn1">
+					<sup>a</sup>
+				</xref>
+        A população estimada desse município era de 408.163 habitantes em 2009, sendo que 10,8% tinha 60 anos ou mais.
+        <xref ref-type="fn" rid="fn2">
+					<sup>b</sup>
+				</xref>
+        Florianópolis apresentou melhor índice de desenvolvimento humano municipal no
+        <italic>ranking</italic>
+        das regiões metropolitanas do Brasil (IDH-M 0,86)
+        <xref ref-type="fn" rid="fn3">
+					<sup>c</sup>
+				</xref>
+        e a esperança de vida ao nascer era de 75,8 anos, em 2009.
+        <xref ref-type="fn" rid="fn4">
+					<sup>d</sup>
+				</xref>
+			</p>
+			<p>Utilizou-se o tamanho da população igual a 44.460,
+        <xref ref-type="fn" rid="fn2">
+					<sup>b</sup>
+				</xref>
+        prevalência para o desfecho desconhecida (50%), erro amostral igual a quatro pontos percentuais, nível de 95% de confiança e efeito de delineamento igual a dois para o cálculo da amostra geral do
+        <italic>Epi</italic>Floripa Idoso. Foram acrescidos 20% para perdas previstas e 15% para controle de fatores de confusão em estudos de associação, resultando em amostra desejável mínima de 1.599 pessoas.</p>
+			<p>O processo de seleção da amostra foi por conglomerados em dois estágios. No primeiro estágio, 80 dos 420 setores censitários foram sorteados sistematicamente de acordo com a renda média mensal do chefe da família (oito setores em cada decil de renda). No segundo estágio, as unidades foram os domicílios, os setores com menos de 150 domicílios foram agrupados e aqueles com mais de 500 domicílios (respeitando o decil de renda correspondente) foram divididos, originando 83 setores censitários.</p>
+			<p>Para a coleta de dados, entrevistadoras devidamente treinadas aplicaram questionário padronizado e pré-testado, utilizando o
+        <italic>Personal Digital Assistants</italic>
+        (PDA) em entrevista face a face. A consistência dos dados foi verificada semanalmente e o controle de qualidade via telefone foi feito por meio da aplicação de um questionário reduzido em 10% das entrevistas selecionadas aleatoriamente.</p>
+			<p>O desfecho foi sintoma depressivo, obtido por meio da aplicação da
+        <italic>Geriatric Depression Scale</italic>
+        (GDS) com 15 questões. O ponto de corte utilizado foi cinco/seis (não caso/caso).
+        <xref ref-type="bibr" rid="B2">
+					<sup>2</sup>
+				</xref>
+			</p>
+			<p>As variáveis independentes foram: grupo etário (60 a 69 anos; 70 a 79 anos; 80 anos ou mais); sexo; situação conjugal (casado/com companheiro(a); solteiro(a); divorciado(a)/separado(a); viúvo(a)); cor da pele/raça autorreferida (branca; parda; negra ou preta; amarela; indígena); escolaridade (analfabeto; um a quatro anos; cinco a oito anos; nove a 11 anos; 12 anos ou mais); situação econômica atual comparada com a que tinha aos 50 anos (igual; pior); renda familiar
+        <italic>per capita</italic>
+        (1º quartil: ≤ R$ 327,50; 2º quartil: &#x3E; R$ 327,50 e ≤ R$ 700,00; 3º quartil: &#x3E; R$ 700,00 e ≤ R$ 1.500,00; 4º quartil: &#x3E; R$ 1.500,00); estado cognitivo avaliado por meio do Miniexame do Estado Mental, considerando o nível de escolaridade (ausência de déficit cognitivo; provável déficit cognitivo); uso de álcool, segundo o
+        <italic>Alcohol Use Disorders Identification Test</italic>
+        (Audit) (não usa; uso moderado; uso excessivo); tabagismo (nunca fumou; fumou e parou; fuma atualmente); nível de atividade física, avaliado por meio do
+        <italic>International Physical Activity Questionnaire</italic>
+        (IPAQ) (fisicamente ativo: pratica 150 minutos ou mais de exercícios físicos por semana; insuficientemente ativo: pratica exercício físico menos de 150 minutos por semana);
+        <xref ref-type="bibr" rid="B17">
+					<sup>17</sup>
+				</xref>
+        estado nutricional, avaliado pelo Índice de Massa Corporal (baixo peso; eutrófico; sobrepeso),
+        <xref ref-type="fn" rid="fn5">
+					<sup>e</sup>
+				</xref>
+        a estatura foi mensurada por estadiômetro portátil e a massa corporal por balança digital com resolução de 100 g; participação em grupo de convivência ou religioso no último ano (sim; não); frequência de relacionamento mensal com amigos e com parentes (sim [mais de uma vez por mês]; não [uma vez por mês ou menos]); capacidade de troca de mensagens pela Internet, definida como a capacidade autorreferida em usar um computador para envio e recebimento de mensagens (sim; não); dependência funcional, avaliada por meio da escala de atividades básicas e instrumentais da vida diária (incapacidade/dificuldade para realizar até três atividades; incapacidade/dificuldade para realizar 4-15 atividades);
+        <xref ref-type="bibr" rid="B20">
+					<sup>20</sup>
+				</xref>
+        autopercepção da saúde (muito boa/boa; regular; ruim/muito ruim); dor crônica autorreferida na maioria dos dias (sim; não).</p>
+			<p>Foram testadas as seguintes doenças crônicas não transmissíveis referidas pelos idosos: doença de coluna ou costas, câncer, fibromialgia, bronquite ou asma, artrite/reumatismo, diabetes, hipertensão, doença cardiovascular diferente de hipertensão, acidente vascular ou isquemia cerebral.</p>
+			<p>Utilizou-se a Regressão de Poisson para avaliar as associações entre os sintomas depressivos e as variáveis independentes. Foi utilizado o critério de p &#x3C; 0,20 para entrada no modelo multivariável e p ≤ 0,05 no teste de Wald para manutenção da variável no modelo. Iniciou-se a entrada pelas variáveis sociodemográficas, seguida pelas variáveis de saúde, comportamentais e sociais na análise ajustada. As análises multivariáveis consideraram o efeito do desenho amostral incorporando os pesos por meio do comando
+        <italic>svy</italic>
+        do Stata, projetado para a análise de dados provenientes de amostras complexas. Foi utilizado o pacote estatístico Stata versão 11.0 (Stata Corp. College Station, EUA) para realização das análises estatísticas.</p>
+			<p>Esta pesquisa atendeu preceitos éticos e foi aprovada pelo Comitê de Ética em Pesquisa envolvendo seres humanos da Universidade Federal de Santa Catarina (Processo nº 352/2008). Foi assinado o Termo de Consentimento Livre e Esclarecido pelos participantes do estudo.</p>
+		</sec>
+		<sec sec-type="results">
+			<title>RESULTADOS</title>
+			<p>As entrevistadoras identificaram 1.911 domicílios elegíveis e foram entrevistados 1.705 idosos, com taxa de resposta de 89,2%. Foram excluídas 49 entrevistas respondidas por cuidadores e utilizadas 1.656. A maioria das variáveis testadas apresentou concordância boa a excelente no controle de qualidade (valores de kappa variando entre 0,6 a 0,9).</p>
+			<p>A amostra foi composta principalmente por mulheres (63.9%); 51,1% tinha entre 60 a 69 anos; 58,8% era casada; 34,5% tinha até quatro anos de estudo e a renda
+        <italic>per capita</italic>
+        média foi de R$ 1.347,97.</p>
+			<p>As mulheres, os idosos mais velhos (80 anos ou mais) e os analfabetos ou com baixa escolaridade apresentaram maior presença de sintomas depressivos na análise univariada. Com exceção da cor da pele, as demais variáveis sociodemográficas mostraram-se associadas aos sintomas depressivos na análise bruta (
+        <xref ref-type="table" rid="t01">Tabela 1</xref>
+        ).</p>
+			<p>
+				<table-wrap id="t01">
+					<label>Tabela 1</label>
+					<caption>
+						<title>Análise univariada dos sintomas depressivos em idosos, segundo as variáveis sociodemográficas. Inquérito
+        <italic>Epi</italic>Floripa Idoso. Florianópolis, SC, 2010.</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup width="10%">
+							<col width="30%"/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<tbody>
+							<tr>
+								<td rowspan="4"> Variável </td>
+								<td colspan="4" align="center">Sintomas depressivos</td>
+								<td colspan="2" rowspan="3" align="center">Análise bruta</td>
+								<td rowspan="4" align="center"> p </td>
+							</tr>
+							<tr>
+								<td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+							</tr>
+							<tr>
+								<td colspan="2" align="center">Total</td>
+								<td colspan="2" align="center">Suspeita à depressão</td>
+							</tr>
+							<tr>
+								<td align="center">n</td>
+								<td align="center">%</td>
+								<td align="center">n</td>
+								<td align="center">%
+            <sup>a</sup>
+								</td>
+								<td align="center">RP</td>
+								<td align="center">IC95%</td>
+							</tr>
+							<tr>
+								<td colspan="8" style="border-bottom: thin solid; border-color: #000000"/>
+							</tr>
+							<tr>
+								<td>Sexo</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,016</td>
+							</tr>
+							<tr>
+								<td> Homens</td>
+								<td align="center">598</td>
+								<td align="center">36,1</td>
+								<td align="center">116</td>
+								<td align="center">19,8</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Mulheres</td>
+								<td align="center">1.058</td>
+								<td align="center">63,9</td>
+								<td align="center">270</td>
+								<td align="center">26,3</td>
+								<td align="center">1,27</td>
+								<td align="center">1,05;1,54</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Grupo etário (anos)</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,004</td>
+							</tr>
+							<tr>
+								<td> 60 a 69</td>
+								<td align="center">846</td>
+								<td align="center">51,1</td>
+								<td align="center">176</td>
+								<td align="center">21,3</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 70 a 79</td>
+								<td align="center">596</td>
+								<td align="center">36,0</td>
+								<td align="center">138</td>
+								<td align="center">23,7</td>
+								<td align="center">1,09</td>
+								<td align="center">0,84;1,42</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 80 ou mais</td>
+								<td align="center">214</td>
+								<td align="center">12,9</td>
+								<td align="center">72</td>
+								<td align="center">35,3</td>
+								<td align="center">1,85</td>
+								<td align="center">1,35;2,53</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Estado civil</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Casado</td>
+								<td align="center">974</td>
+								<td align="center">58,8</td>
+								<td align="center">201</td>
+								<td align="center">21,2</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Solteiro</td>
+								<td align="center">95</td>
+								<td align="center">5,7</td>
+								<td align="center">23</td>
+								<td align="center">25,0</td>
+								<td align="center">1,64</td>
+								<td align="center">1,07;2,50)</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Divorciado</td>
+								<td align="center">130</td>
+								<td align="center">7,9</td>
+								<td align="center">36</td>
+								<td align="center">28,4</td>
+								<td align="center">1,44</td>
+								<td align="center">1,03;2,03</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Viúvo</td>
+								<td align="center">457</td>
+								<td align="center">27,6</td>
+								<td align="center">126</td>
+								<td align="center">28,4</td>
+								<td align="center">1,48</td>
+								<td align="center">1,19;1,85</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Cor da pele/raça autorreferida</td>
+								<td align="center">n = 1.653</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,188</td>
+							</tr>
+							<tr>
+								<td> Branca</td>
+								<td align="center">1.410</td>
+								<td align="center">85,3</td>
+								<td align="center">311</td>
+								<td align="center">22,6</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Parda</td>
+								<td align="center">131</td>
+								<td align="center">7,9</td>
+								<td align="center">41</td>
+								<td align="center">32,3</td>
+								<td align="center">1,44</td>
+								<td align="center">1,06;1,97</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Preta</td>
+								<td align="center">84</td>
+								<td align="center">5,1</td>
+								<td align="center">23</td>
+								<td align="center">27,7</td>
+								<td align="center">1,27</td>
+								<td align="center">0,83;1,95</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Amarela</td>
+								<td align="center">12</td>
+								<td align="center">0,7</td>
+								<td align="center">4</td>
+								<td align="center">33,3</td>
+								<td align="center">1,37</td>
+								<td align="center">0,45;4,18</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Indígena</td>
+								<td align="center">16</td>
+								<td align="center">1,0</td>
+								<td align="center">6</td>
+								<td align="center">40,0</td>
+								<td align="center">1,65</td>
+								<td align="center">0,75;3,63</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Escolaridade (anos)</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.607</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> 12 ou mais</td>
+								<td align="center">386</td>
+								<td align="center">23.4</td>
+								<td align="center">41</td>
+								<td align="center">10,9</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 9 a 11</td>
+								<td align="center">231</td>
+								<td align="center">14,0</td>
+								<td align="center">34</td>
+								<td align="center">15,0</td>
+								<td align="center">1,37</td>
+								<td align="center">0,89;2,10</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 5 a 8</td>
+								<td align="center">315)</td>
+								<td align="center">19,1</td>
+								<td align="center">75</td>
+								<td align="center">24,1</td>
+								<td align="center">2,13</td>
+								<td align="center">1,51;3,01</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 1 a 4</td>
+								<td align="center">568</td>
+								<td align="center">34,5</td>
+								<td align="center">173</td>
+								<td align="center">31,4</td>
+								<td align="center">2,85</td>
+								<td align="center">2,05;3,95</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 0</td>
+								<td align="center">148</td>
+								<td align="center">9,0</td>
+								<td align="center">61</td>
+								<td align="center">42,7</td>
+								<td align="center">3,94</td>
+								<td align="center">2,72:5,70</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Renda familiar em quartis</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> 4º quartil (&#x3E; R$ 1.500,00)</td>
+								<td align="center">410</td>
+								<td align="center">24,8</td>
+								<td align="center">63</td>
+								<td align="center">15,7</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 3º quartil (&#x3E; R$ 700,00 e ≤ R$ 1.500,00)</td>
+								<td align="center">414</td>
+								<td align="center">25,0</td>
+								<td align="center">76</td>
+								<td align="center">18,8</td>
+								<td align="center">0,97</td>
+								<td align="center">0,65;1,46</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 2º quartil (&#x3E; R$ 327,50 e ≤ R$ 700,00)</td>
+								<td align="center">418</td>
+								<td align="center">25,2</td>
+								<td align="center">134</td>
+								<td align="center">32,6</td>
+								<td align="center">2,10</td>
+								<td align="center">1,49;2,95</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 1º quartil (≤ R$ 327,50)</td>
+								<td align="center">414</td>
+								<td align="center">25,0</td>
+								<td align="center">113</td>
+								<td align="center">28,5</td>
+								<td align="center">1,73</td>
+								<td align="center">1,13;2,64</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Situação econômica comparada com a que tinha aos 50 anos</td>
+								<td align="center">n = 1.654</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Melhor</td>
+								<td align="center">775</td>
+								<td align="center">46,9</td>
+								<td align="center">174</td>
+								<td align="center">23,0</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Igual</td>
+								<td align="center">460</td>
+								<td align="center">27,8</td>
+								<td align="center">81</td>
+								<td align="center">18,2</td>
+								<td align="center">0,92</td>
+								<td align="center">0,67;1,27</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Pior</td>
+								<td align="center">419</td>
+								<td align="center">25,3</td>
+								<td align="center">131</td>
+								<td align="center">32,0</td>
+								<td align="center">1,63</td>
+								<td align="center">1,19;2,23</td>
+								<td> </td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<p>RP: razão de prevalência</p>
+						<p>
+							<sup>a</sup>
+        Porcentagem na linha</p>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>A presença de sintomas depressivos foi maior em indivíduos com déficit cognitivo, com maior dependência funcional, que sofreram queda no último ano, que sentiam dor na maioria dos dias e que tinham percepção ruim da saúde. As variáveis relacionadas à saúde foram associadas aos sintomas depressivos na análise bruta, exceto fibromialgia e câncer (
+        <xref ref-type="table" rid="t02">Tabela 2</xref>
+        ).</p>
+			<p>
+				<table-wrap id="t02">
+					<label>Tabela 2</label>
+					<caption>
+						<title>Análise univariada dos sintomas depressivos em idosos, segundo as variáveis de saúde. Inquérito
+        <italic>Epi</italic>Floripa Idoso. Florianópolis, SC, 2010.</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup width="10%">
+							<col width="30%"/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<tbody>
+							<tr>
+								<td rowspan="4"> Variável </td>
+								<td colspan="4" align="center">Sintomas depressivos</td>
+								<td colspan="2" rowspan="3" align="center">Análise bruta</td>
+								<td rowspan="4" align="center"> p </td>
+							</tr>
+							<tr>
+								<td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+							</tr>
+							<tr>
+								<td colspan="2" align="center">Total</td>
+								<td colspan="2" align="center">Suspeita à depressão</td>
+							</tr>
+							<tr>
+								<td align="center">n</td>
+								<td align="center">%</td>
+								<td align="center">n</td>
+								<td align="center">%
+            <sup>a</sup>
+								</td>
+								<td align="center">RP</td>
+								<td align="center">IC95%</td>
+							</tr>
+							<tr>
+								<td colspan="8" style="border-bottom: thin solid; border-color: #000000"/>
+							</tr>
+							<tr>
+								<td>Déficit cognitivo</td>
+								<td align="center">n = 1.648</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">877</td>
+								<td align="center">53,2</td>
+								<td align="center">160</td>
+								<td align="center">18,5</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">771</td>
+								<td align="center">46,8</td>
+								<td align="center">224</td>
+								<td align="center">30,2</td>
+								<td align="center">1,76</td>
+								<td align="center">1,44;2,15</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Dependência funcional</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> 0 a 3 AVDs</td>
+								<td align="center">1.165</td>
+								<td align="center">70,4</td>
+								<td align="center">161</td>
+								<td align="center">14,1</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 4 ou mais AVDs</td>
+								<td align="center">491</td>
+								<td align="center">29,6</td>
+								<td align="center">225</td>
+								<td align="center">47,4</td>
+								<td align="center">3,68</td>
+								<td align="center">3,06;4,42</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Quedas no último ano</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.348</td>
+								<td align="center">81,4</td>
+								<td align="center">282</td>
+								<td align="center">21,4</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">308</td>
+								<td align="center">18,6</td>
+								<td align="center">104</td>
+								<td align="center">34,9</td>
+								<td align="center">1,49</td>
+								<td align="center">1,18;1,89</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Utiliza medicamentos</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,007</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">178</td>
+								<td align="center">10,7</td>
+								<td align="center">18</td>
+								<td align="center">10,3</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">1.478</td>
+								<td align="center">89,3</td>
+								<td align="center">368</td>
+								<td align="center">25,6</td>
+								<td align="center">1,97</td>
+								<td align="center">1,20;3,23</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Utiliza antidepressivo</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.459</td>
+								<td align="center">88,1</td>
+								<td align="center">303</td>
+								<td align="center">21,4</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">197</td>
+								<td align="center">11,9</td>
+								<td align="center">83</td>
+								<td align="center">42,6</td>
+								<td align="center">1,96</td>
+								<td align="center">1,57;2,45</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Autopercepção de saúde</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Boa/Muito boa</td>
+								<td align="center">848</td>
+								<td align="center">51,2</td>
+								<td align="center">80</td>
+								<td align="center">9,7</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Regular</td>
+								<td align="center">642</td>
+								<td align="center">38,8</td>
+								<td align="center">194</td>
+								<td align="center">31,1</td>
+								<td align="center">3,09</td>
+								<td align="center">2,34;4,09</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Ruim/Muito ruim</td>
+								<td align="center">165</td>
+								<td align="center">10,0</td>
+								<td align="center">112</td>
+								<td align="center">69,6</td>
+								<td align="center">6,86</td>
+								<td align="center">4,97;9,46</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Sente dor a maioria dos dias</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.059</td>
+								<td align="center">63,9</td>
+								<td align="center">158</td>
+								<td align="center">15,3</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">597</td>
+								<td align="center">36,1</td>
+								<td align="center">228</td>
+								<td align="center">39,0</td>
+								<td align="center">2,39</td>
+								<td align="center">1,90;3,01</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Morbidades autorreferidas</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Doença da coluna ou dores nas costas</td>
+								<td align="center">n = 1.655</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">826</td>
+								<td align="center">49,9</td>
+								<td align="center">142</td>
+								<td align="center">17,6</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">829</td>
+								<td align="center">50,1</td>
+								<td align="center">244</td>
+								<td align="center">30,2</td>
+								<td align="center">1,56</td>
+								<td align="center">1,24;1,98</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Artrite ou reumatismo</td>
+								<td align="center">n = 1.651</td>
+								<td> </td>
+								<td align="center">n = 1.608</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.089</td>
+								<td align="center">66,0</td>
+								<td align="center">208</td>
+								<td align="center">19.7</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">562</td>
+								<td align="center">34,0</td>
+								<td align="center">175</td>
+								<td align="center">31,8</td>
+								<td align="center">1,67</td>
+								<td align="center">1,35;2,05</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Fibromialgia</td>
+								<td align="center">n = 1.652</td>
+								<td> </td>
+								<td align="center">n = 1.610</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,134</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.591</td>
+								<td align="center">96,3</td>
+								<td align="center">361</td>
+								<td align="center">23,3</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">61</td>
+								<td align="center">3,7</td>
+								<td align="center">24</td>
+								<td align="center">40,7</td>
+								<td align="center">1,42</td>
+								<td align="center">0,89;2,24</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Câncer</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,067</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.506</td>
+								<td align="center">90,9</td>
+								<td align="center">345</td>
+								<td align="center">23,5</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">150</td>
+								<td align="center">9,1</td>
+								<td align="center">41</td>
+								<td align="center">28,7</td>
+								<td align="center">1,32</td>
+								<td align="center">0,98;1,78</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Diabetes</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.290</td>
+								<td align="center">77,9</td>
+								<td align="center">256</td>
+								<td align="center">20,4</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">366</td>
+								<td align="center">22,1</td>
+								<td align="center">130</td>
+								<td align="center">36,2</td>
+								<td align="center">1,70</td>
+								<td align="center">1,39;2,07</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Bronquite ou asma</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.401</td>
+								<td align="center">84,6</td>
+								<td align="center">297</td>
+								<td align="center">21,8</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">255</td>
+								<td align="center">15,4</td>
+								<td align="center">89</td>
+								<td align="center">35,7</td>
+								<td align="center">1,58</td>
+								<td align="center">1,26;1,97</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Hipertensão</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">683</td>
+								<td align="center">41,2</td>
+								<td align="center">120</td>
+								<td align="center">18,1</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">973</td>
+								<td align="center">58,8</td>
+								<td align="center">266</td>
+								<td align="center">28,0</td>
+								<td align="center">1,65</td>
+								<td align="center">1,34;2,04</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Doença cardiovascular</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.200</td>
+								<td align="center">72,5</td>
+								<td align="center">229</td>
+								<td align="center">19,6</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">456</td>
+								<td align="center">27,5</td>
+								<td align="center">157</td>
+								<td align="center">35,4</td>
+								<td align="center">1,89</td>
+								<td align="center">1,50;2,38</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Acidente vascular cerebral ou isquemia cerebral</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.527</td>
+								<td align="center">92,2</td>
+								<td align="center">330</td>
+								<td align="center">22,2</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">129</td>
+								<td align="center">7,8</td>
+								<td align="center">56</td>
+								<td align="center">44,1</td>
+								<td align="center">2,21</td>
+								<td align="center">1,78;2,76</td>
+								<td> </td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<p>AVD: atividades da vida diária; RP: razão de prevalência
+        <sup>a</sup>
+        Porcentagem na linha</p>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>Menor prevalência de sintomas depressivos foi observada em idosos que relataram ter relação sexual, que trocavam mensagens pela internet, que referiram consumo alto ou moderado de álcool, que participavam de grupos de convivência ou religiosos, que eram ativos no lazer e que tinham relacionamento mensal com amigos ou parentes. Somente o tabagismo e o índice de massa corporal não foram associados aos sintomas depressivos na análise bruta (
+        <xref ref-type="table" rid="t03">Tabela 3</xref>
+        ).</p>
+			<p>
+				<table-wrap id="t03">
+					<label>Tabela 3</label>
+					<caption>
+						<title>Análise univariada dos sintomas depressivos em idosos, segundo as variáveis comportamentais e sociais. Inquérito
+        <italic>Epi</italic>Floripa Idoso. Florianópolis, SC, 2010.</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup width="10%">
+							<col width="30%"/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<tbody>
+							<tr>
+								<td rowspan="4"> Variável </td>
+								<td colspan="4" align="center">Sintomas depressivos</td>
+								<td colspan="2" rowspan="3" align="center">Análise bruta</td>
+								<td rowspan="4" align="center"> p </td>
+							</tr>
+							<tr>
+								<td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+							</tr>
+							<tr>
+								<td colspan="2" align="center">Total</td>
+								<td colspan="2" align="center">Suspeita à depressão</td>
+							</tr>
+							<tr>
+								<td align="center">n</td>
+								<td align="center">%</td>
+								<td align="center">n</td>
+								<td align="center">%
+            <sup>a</sup>
+								</td>
+								<td align="center">RP</td>
+								<td align="center">IC95%</td>
+							</tr>
+							<tr>
+								<td colspan="8" style="border-bottom: thin solid; border-color: #000000"/>
+							</tr>
+							<tr>
+								<td>Consumo de álcool</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,002</td>
+							</tr>
+							<tr>
+								<td> Nunca</td>
+								<td align="center">1.061</td>
+								<td align="center">64,1</td>
+								<td align="center">291</td>
+								<td align="center">28,2</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Moderado</td>
+								<td align="center">315</td>
+								<td align="center">19,0</td>
+								<td align="center">49</td>
+								<td align="center">15,9</td>
+								<td align="center">0,60</td>
+								<td align="center">0,40;0,88</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Alto</td>
+								<td align="center">280</td>
+								<td align="center">16,9</td>
+								<td align="center">46</td>
+								<td align="center">16,9</td>
+								<td align="center">0,59</td>
+								<td align="center">0,42;0,84</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Tabagismo</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,815</td>
+							</tr>
+							<tr>
+								<td> Não tabagista</td>
+								<td align="center">1.044</td>
+								<td align="center">60,6</td>
+								<td align="center">243</td>
+								<td align="center">25,0</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Ex-tabagista</td>
+								<td align="center">511</td>
+								<td align="center">30,9</td>
+								<td align="center">116</td>
+								<td align="center">23,2</td>
+								<td align="center">1,08</td>
+								<td align="center">0,83;1,40</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Tabagista atual</td>
+								<td align="center">141</td>
+								<td align="center">8,5</td>
+								<td align="center">27</td>
+								<td align="center">19,4</td>
+								<td align="center">0,98</td>
+								<td align="center">0,57;1,68</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Índice de Massa Corporal</td>
+								<td align="center">n = 1.627</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,315</td>
+							</tr>
+							<tr>
+								<td> Eutrófico</td>
+								<td align="center">628</td>
+								<td align="center">38,6</td>
+								<td align="center">130</td>
+								<td align="center">21,2</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Baixo peso</td>
+								<td align="center">137</td>
+								<td align="center">8,4</td>
+								<td align="center">34</td>
+								<td align="center">25,6</td>
+								<td align="center">1,32</td>
+								<td align="center">0,90;1,94</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sobrepeso</td>
+								<td align="center">862</td>
+								<td align="center">53,0</td>
+								<td align="center">206</td>
+								<td align="center">24,6</td>
+								<td align="center">1,16</td>
+								<td align="center">0,86;1,55</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Atividade física de lazer</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Insuficientemente ativo</td>
+								<td align="center">1.165</td>
+								<td align="center">70,4</td>
+								<td align="center">318</td>
+								<td align="center">28,1</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Ativo</td>
+								<td align="center">491</td>
+								<td align="center">29,6</td>
+								<td align="center">68</td>
+								<td align="center">14,1</td>
+								<td align="center">0,48</td>
+								<td align="center">0,38;0,62</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Participação em grupos de convivência</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,005</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">941</td>
+								<td align="center">56,8</td>
+								<td align="center">246</td>
+								<td align="center">26,9</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">715</td>
+								<td align="center">43,2</td>
+								<td align="center">140</td>
+								<td align="center">20,1</td>
+								<td align="center">0,71</td>
+								<td align="center">0,56;0,90</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Relacionamento mensal com parentes</td>
+								<td align="center">n = 1.653</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">0,009</td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">185</td>
+								<td align="center">11,2</td>
+								<td align="center">54</td>
+								<td align="center">29,8</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.468</td>
+								<td align="center">88,8</td>
+								<td align="center">331</td>
+								<td align="center">23,2</td>
+								<td align="center">0,69</td>
+								<td align="center">0,53;0,91</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Relacionamento mensal com amigos</td>
+								<td align="center">n = 1.649</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">280</td>
+								<td align="center">17,0</td>
+								<td align="center">99</td>
+								<td align="center">37,1</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.369</td>
+								<td align="center">83,0</td>
+								<td align="center">284</td>
+								<td align="center">21,2</td>
+								<td align="center">0,56</td>
+								<td align="center">0,47;0,67</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Tem relação sexual</td>
+								<td align="center">n = 1.655</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">925</td>
+								<td align="center">55,9</td>
+								<td align="center">278</td>
+								<td align="center">31,0</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">730</td>
+								<td align="center">44,1</td>
+								<td align="center">108</td>
+								<td align="center">15,1</td>
+								<td align="center">0,43</td>
+								<td align="center">0,31;0,59</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Troca de mensagens pela Internet</td>
+								<td align="center">n = 1.656</td>
+								<td> </td>
+								<td align="center">n = 1.613</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1.313</td>
+								<td align="center">79,3</td>
+								<td align="center">360</td>
+								<td align="center">28,2</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">343</td>
+								<td align="center">20,7</td>
+								<td align="center">26</td>
+								<td align="center">7,7</td>
+								<td align="center">0,34</td>
+								<td align="center">0,22;0,52</td>
+								<td> </td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<p>RP: razão de prevalência</p>
+						<p>
+							<sup>a</sup>
+        Porcentagem na linha</p>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>Maior prevalência de sintomas depressivos foi associada à baixa escolaridade, à pior situação econômica quando comparada à que tinha aos 50 anos, à presença de déficit cognitivo, à percepção negativa da saúde, à maior dependência funcional e sentir dor na maioria dos dias no modelo final da análise multivariável. Ser ativo no lazer, participar de grupos de convivência ou religiosos e ter relação sexual foi associado à menor prevalência de sintomas depressivos. A idade foi associada inversamente aos sintomas depressivos (
+        <xref ref-type="table" rid="t04">Tabela 4</xref>
+        ).</p>
+			<p>
+				<table-wrap id="t04">
+					<label>Tabela 4</label>
+					<caption>
+						<title>Análise multivariada ajustada dos sintomas depressivos em idosos, segundo as variáveis sociodemográficas, de saúde, comportamentais e sociais. Inquérito
+        <italic>Epi</italic>Floripa Idoso. Florianópolis, SC, 2010.</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup width="13%">
+							<col width="60%"/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<tbody>
+							<tr>
+								<td rowspan="3">Variável</td>
+								<td> </td>
+								<td align="center">Análise ajustada</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+							</tr>
+							<tr>
+								<td align="center">RP</td>
+								<td align="center">IC95%</td>
+								<td align="center">p</td>
+							</tr>
+							<tr>
+								<td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+							</tr>
+							<tr>
+								<td>Gênero (n = 1.613)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Homem</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Mulher</td>
+								<td align="center">0,85</td>
+								<td align="center">0,71;1,01</td>
+								<td align="center">0,065</td>
+							</tr>
+							<tr>
+								<td>Grupo etário (anos) (n = 1.613)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 60 a 69</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 70 a 79</td>
+								<td align="center">0,77</td>
+								<td align="center">0,64;0,93</td>
+								<td align="center">0,006</td>
+							</tr>
+							<tr>
+								<td> 80 ou mais</td>
+								<td align="center">0,90</td>
+								<td align="center">0,68;1,18</td>
+								<td align="center">0,426</td>
+							</tr>
+							<tr>
+								<td>Escolaridade (anos) (n = 1.607)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 12 ou mais</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 9 a 11</td>
+								<td align="center">1,01</td>
+								<td align="center">0,65;1,57</td>
+								<td align="center">0,958</td>
+							</tr>
+							<tr>
+								<td> 5 a 8</td>
+								<td align="center">1,50</td>
+								<td align="center">1,08;2,08</td>
+								<td align="center">0,015</td>
+							</tr>
+							<tr>
+								<td> 1 a 4</td>
+								<td align="center">1,62</td>
+								<td align="center">1,18;2,23</td>
+								<td align="center">0,003</td>
+							</tr>
+							<tr>
+								<td> 0</td>
+								<td align="center">2,11</td>
+								<td align="center">1,46;3,05</td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td>Situação econômica comparada com a que tinha aos 50 anos (n = 1.613)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Melhor</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Igual</td>
+								<td align="center">0,94</td>
+								<td align="center">0,76;1,16</td>
+								<td align="center">0,582</td>
+							</tr>
+							<tr>
+								<td> Pior</td>
+								<td align="center">1,33</td>
+								<td align="center">1,02;1,74</td>
+								<td align="center">0,036</td>
+							</tr>
+							<tr>
+								<td>Déficit cognitivo (n = 1.613)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">1,45</td>
+								<td align="center">1,21;1,75</td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td>Autopercepção de saúde (n = 1.613)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Boa</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Regular</td>
+								<td align="center">1,95</td>
+								<td align="center">1,47;2,60</td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td> Ruim</td>
+								<td align="center">2,64</td>
+								<td align="center">1,82;3,83</td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td>Dependência funcional (n = 1.613)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 0 a 3 AVDs</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> 4 ou mais AVDs</td>
+								<td align="center">1,83</td>
+								<td align="center">1,43;2,33</td>
+								<td align="center">&#x3C; 0,001</td>
+							</tr>
+							<tr>
+								<td>Sente dor a maioria dos dias (n = 1.656)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td align="center">0,004</td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">1,35</td>
+								<td align="center">1,10;1,67</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Atividade física de lazer (n = 1.613)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Insuficientemente ativo</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td align="center">0,015</td>
+							</tr>
+							<tr>
+								<td> Ativo</td>
+								<td align="center">0,75</td>
+								<td align="center">0,59;0,94</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Participação em grupos de convivência ou religiosos (n = 1.656)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td align="center">0,038</td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">0,80</td>
+								<td align="center">0,64:0,99</td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td>Tem relação sexual (n = 1.655)</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> Não</td>
+								<td align="center">1</td>
+								<td> </td>
+								<td align="center">0,018</td>
+							</tr>
+							<tr>
+								<td> Sim</td>
+								<td align="center">0,70</td>
+								<td align="center">0,53;0,94</td>
+								<td> </td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<p>RP: razão de prevalência; AVDs: atividades da vida diária</p>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+		</sec>
+		<sec sec-type="discussion">
+			<title>DISCUSSÃO</title>
+			<p>A prevalência de sintomas depressivos (23,9%; IC95% 21,84;26,01) foi elevada, assemelhando-se aos valores obtidos em outros estudos
+        <xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B15">
+					<sup>15</sup>
+				</xref>
+        e superior à investigação epidemiológica realizada em Florianópolis em 2002, que detectou 19,7% de depressão entre os idosos do município.
+        <xref ref-type="bibr" rid="B5">
+					<sup>5</sup>
+				</xref>
+			</p>
+			<p>Foram observadas importantes associações da sintomatologia depressiva com as variáveis sociodemográficas, de saúde, comportamentais e sociais. A literatura destaca a associação dos sintomas depressivos com as variáveis sociodemográficas,
+        <xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+        indicando que as desigualdades sociais influenciam as condições de vida e de saúde e podem contribuir para o aparecimento desses sintomas. Baixa escolaridade, idade e perda econômica foram as variáveis sociodemográficas associadas aos sintomas depressivos.</p>
+			<p>Indivíduos com baixa escolaridade têm maior risco à sintomatologia depressiva,
+        <xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+        sinalizando que a alta escolaridade é um fator protetor para o não surgimento desses sintomas.
+        <xref ref-type="bibr" rid="B9">
+					<sup>9</sup>
+				</xref>
+        O nível educacional possibilita que o indivíduo amplie os recursos de enfrentamento às situações estressantes da vida.
+        <xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+			</p>
+			<p>A idade como fator protetor no modelo final pode ser explicada pela inclusão da variável dependência funcional, sugerindo que pode modificar o efeito da idade sobre a depressão. Considera-se que o aumento da idade está vinculado à vivência de diferentes episódios psicossociais (morte de parentes e amigos, término de relações conjugais), bem como à maior exposição às doenças crônicas.
+        <xref ref-type="bibr" rid="B19">
+					<sup>19</sup>
+				</xref>
+        Outra explicação é que pode ocorrer redução na suscetibilidade para depressão e ansiedade com o envelhecimento. Soma-se a isso a resposta emocional reduzida e maior resiliência às experiências estressantes.
+        <xref ref-type="bibr" rid="B11">
+					<sup>11</sup>
+				</xref>
+			</p>
+			<p>A desvantagem socioeconômica aumenta o risco de depressão, conforme destacado pela literatura.
+        <xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref>
+        A perda econômica associou-se aos sintomas depressivos. Não é possível afirmar se o indivíduo ficou deprimido porque perdeu a boa situação econômica (estabilidade financeira) ou se a incapacidade gerada pela depressão ao longo da vida ocasionou essa perda, pois a pessoa tornou-se incapaz de lidar com a situação financeira e ocupacional. A posição social pode relacionar-se inversamente com alguns sintomas depressivos como tristeza, pensar no passado e preferir ficar em casa, indicando que a condição socioeconômica pode contribuir para o aparecimento desses sintomas.
+        <xref ref-type="bibr" rid="B19">
+					<sup>19</sup>
+				</xref>
+        Por outro lado, a perda econômica pode ser desencadeada pela depressão, pois esta se relaciona com a cognição e com a realização das atividades diárias. A realização das atividades do dia a dia pode ficar comprometida, uma vez que a depressão eleva a probabilidade de incapacidade funcional entre os idosos e pode levar à dependência,
+        <xref ref-type="bibr" rid="B16">
+					<sup>16</sup>
+				</xref>
+        criando-se um ciclo.</p>
+			<p>Déficit cognitivo e sintomas depressivos estiveram associados e são fatores interrelacionados. A depressão pode levar a quadros clínicos de demência ou a demência pode cursar com sintomas de depressão.
+        <xref ref-type="bibr" rid="B15">
+					<sup>15</sup>
+				</xref>
+        Os déficits cognitivos podem melhorar quando o paciente é tratado da depressão.</p>
+			<p>A associação do desfecho com a dor crônica pode ser compreendida pela existência de um modelo de depressão no idoso que é principalmente relacionado a esse tipo de dor. Isso indica que a pessoa não era deprimida antes e passou a apresentar a sintomatologia depressiva por causa da dor crônica. No caso da osteoartrite, a maior causa de dor em idosos, espera-se a coexistência da depressão em dois sintomas articulares importantes: dor e incapacidade física.
+        <xref ref-type="bibr" rid="B14">
+					<sup>14</sup>
+				</xref>
+			</p>
+			<p>A sintomatologia depressiva associou-se à autopercepção de saúde, como em outras investigações.
+        <xref ref-type="bibr" rid="B6">
+					<sup>6</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref>
+        O relato ruim/muito ruim sobre a própria saúde pode ser entendido como sintoma depressivo em alguns casos. A depressão é importante marcador de incapacidade do idoso, pois afeta a saúde de modo geral e, consequentemente, a capacidade funcional.
+        <xref ref-type="bibr" rid="B6">
+					<sup>6</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B15">
+					<sup>15</sup>
+				</xref>
+			</p>
+			<p>A disfunção sexual pode ser identificada como um marcador de saúde, observada nos idosos que iniciam processos de perda funcional, enquanto a manutenção da vida sexual ativa envolve saúde física, mental, emocional, afetiva, fatores internos e externos. Os distúrbios na ereção causados por doenças vasculares periféricas, cirurgias de próstata e diabetes podem comprometer a sexualidade ou o ato sexual propriamente dito.
+        <xref ref-type="bibr" rid="B21">
+					<sup>21</sup>
+				</xref>
+        Os distúrbios de ereção estão fortemente associados a sintomas depressivos
+        <xref ref-type="bibr" rid="B3">
+					<sup>3</sup>
+				</xref>
+        e afetam a qualidade de vida dos idosos. A melhora desses distúrbios pode gerar sentimentos de alegria, resultando na melhora da autoestima, da interação social, do sentimento de confiança e competência.
+        <xref ref-type="bibr" rid="B21">
+					<sup>21</sup>
+				</xref>
+        A melhora desses aspectos por meio da atividade sexual e a percepção da vitalidade sexual pode contribuir para o afastamento dos sintomas depressivos entre os homens. Os sentimentos de amor, carinho e companheirismo são os principais aspectos inerentes à atividade sexual na velhice feminina,
+        <xref ref-type="bibr" rid="B21">
+					<sup>21</sup>
+				</xref>
+        e a percepção desses sentimentos pode contribuir para o não aparecimento ou para a redução dos sintomas depressivos.</p>
+			<p>A depressão pode ser explicada quimicamente pela diminuição do número de neurotransmissores liberados, os quais são responsáveis pela produção de hormônios como a serotonina e a endorfina. A atividade sexual e a atividade física
+        <xref ref-type="bibr" rid="B7">
+					<sup>7</sup>
+				</xref>
+        têm efeitos benéficos para a saúde devido à liberação desses hormônios e proporcionam sensação de bem-estar e prazer; por isso, o efeito protetor em relação ao desenvolvimento de sintomas depressivos para ambos os sexos. Destacam-se ainda os benefícios psicossociais da prática de atividade física, por meio da interação social.
+        <xref ref-type="bibr" rid="B18">
+					<sup>18</sup>
+				</xref>
+			</p>
+			<p>Houve menor prevalência de sintomas depressivos em idosos ativos no lazer, corroborando outras investigações.
+        <xref ref-type="bibr" rid="B13">
+					<sup>13</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B18">
+					<sup>18</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B22">
+					<sup>22</sup>
+				</xref>
+        Em estudo conduzido no Sul do Brasil, os idosos ativos fisicamente tiveram probabilidade 68% menor de apresentar sintomas depressivos quando comparados àqueles insuficientemente ativos.
+        <xref ref-type="bibr" rid="B18">
+					<sup>18</sup>
+				</xref>
+        Investigação proveniente do
+        <italic>Honolulu-Asia Aging Study</italic>
+        (HAAS), que teve oito anos de seguimento, detectou que os idosos que caminharam mais que 0,25 milha por dia (aproximadamente 402 metros) tiveram menor risco de sintomas depressivos.
+        <xref ref-type="bibr" rid="B22">
+					<sup>22</sup>
+				</xref>
+        Considerando somente as atividades físicas de lazer, idosos de Taiwan apresentaram redução do risco de sintomas depressivos após sete anos de acompanhamento.
+        <xref ref-type="bibr" rid="B13">
+					<sup>13</sup>
+				</xref>
+			</p>
+			<p>A participação em grupos de convivência mostrou-se como efeito protetor, sinalizando a importância da rede social na manutenção da saúde e na prevenção e/ou tratamento da depressão entre pessoas idosas. Entretanto, não é possível inferir se a participação em grupos de convivência contribuiu para o não aparecimento dos sintomas depressivos ou se o fato de não apresentar esses sintomas contribuiu para a participação nos grupos. Neste caso, a participação em grupos seria um marcador de que a pessoa não tem depressão, i.e., os idosos que não participam de grupos podem estar expostos ao maior risco de desenvolvimento de sintomas depressivos, o que os impede de participar deles. Seria importante incentivar os idosos que não estão frequentando grupos a fazê-lo e avaliar as razões pelas quais isso não está ocorrendo.</p>
+			<p>A limitação do presente estudo refere-se ao delineamento transversal, que não permite definir relações de causalidade e efeito. Por outro lado, a elevada taxa de resposta contribuiu para a validade interna do estudo, diminuindo a chance de ocorrência de erros sistemáticos, e a reprodutibilidade foi satisfatória. A utilização de amostra ampla e representativa do município permite a extrapolação dos resultados para a população como um todo.</p>
+			<p>A identificação dos fatores associados aos sintomas depressivos mostra-se importante, uma vez que poderá subsidiar políticas de atenção à saúde do idoso de Florianópolis (prevenção e tratamento da depressão, em especial, estratégias não farmacológicas, como programas de atividade física), além de contribuir para discussão e entendimento da depressão na população idosa do Brasil e de outros países. Sugere-se a realização de estudos longitudinais visando melhor compreensão dos fatores associados, bem como a realização de pesquisas experimentais que analisem o comportamento de fatores modificáveis e sua relação com sintomas depressivos na população idosa.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<sec>
+				<title>AGRADECIMENTOS</title>
+				<p>Aos técnicos do Instituto Brasileiro de Geografia e Estatística (IBGE) e da Secretaria Municipal de Saúde de Florianópolis pelo auxílio na operacionalização do inquérito
+        <italic>Epi</italic>Floripa Idoso 2009/2010.</p>
+			</sec>
+		</ack>
+		<ref-list>
+			<title>REFERÊNCIAS</title>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation>. Almeida OP, Pirkis J, Kerse N, Sim M, Flicker L, Snowdon J,  et al. Socioeconomic disadvantage increases risk of prevalent and persistent depression in later life.
+        <italic>J Affect Disord</italic>
+        . 2012;138(3):322-31. DOI:10.1016/j.jad.2012.01.021</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>OP</given-names>
+						</name>
+						<name>
+							<surname>Pirkis</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Kerse</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Sim</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Flicker</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Snowdon</surname>
+							<given-names>J</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title xml:lang="en">Socioeconomic disadvantage increases risk of prevalent and persistent depression in later life</article-title>
+					<source>J Affect Disord</source>
+					<year>2012</year>
+					<volume>138</volume>
+					<issue>3</issue>
+					<fpage>322</fpage>
+					<lpage>331</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jad.2012.01.021</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation>. Almeida OP, Almeida SA. Confiabilidade da versão brasileira da Escala de Depressão em Geriatria (GDS) versão reduzida.
+        <italic>Arq Neuro-Psiquiatr.</italic>
+        1999;57(2B):421-6. DOI:10.1590/S0004-282X1999000300013</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>OP</given-names>
+						</name>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>SA</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Confiabilidade da versão brasileira da Escala de Depressão em Geriatria (GDS) versão reduzida</article-title>
+					<source>Arq Neuro-Psiquiatr</source>
+					<year>1999</year>
+					<volume>57</volume>
+					<issue>2B</issue>
+					<fpage>421</fpage>
+					<lpage>426</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0004-282X1999000300013</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation>. Araujo AB, Durante R, Feldman HA, Goldstein I, McKinlay JB. The relationship between depressive symptoms and male erectile dysfunction: cross-sectional results from the Massachusetts Male Aging Study.
+        <italic>Psychosom Med.</italic>
+        1998;60(4):458-65.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Araujo</surname>
+							<given-names>AB</given-names>
+						</name>
+						<name>
+							<surname>Durante</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Feldman</surname>
+							<given-names>HA</given-names>
+						</name>
+						<name>
+							<surname>Goldstein</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>McKinlay</surname>
+							<given-names>JB</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">The relationship between depressive symptoms and male erectile dysfunction: cross-sectional results from the Massachusetts Male Aging Study</article-title>
+					<source>Psychosom Med</source>
+					<year>1998</year>
+					<volume>60</volume>
+					<issue>4</issue>
+					<fpage>458</fpage>
+					<lpage>465</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation>. Batistoni SST, Neri AL, Cupertino APFB. Medidas prospectivas de sintomas depressivos entre idosos residentes na comunidade.
+        <italic>Rev Saude Publica</italic>
+        . 2010;44(6):1137-43. DOI:10.1590/S0034-89102010000600020</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Batistoni</surname>
+							<given-names>SST</given-names>
+						</name>
+						<name>
+							<surname>Neri</surname>
+							<given-names>AL</given-names>
+						</name>
+						<name>
+							<surname>Cupertino</surname>
+							<given-names>APFB</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Medidas prospectivas de sintomas depressivos entre idosos residentes na comunidade</article-title>
+					<source>Rev Saude Publica</source>
+					<year>2010</year>
+					<volume>44</volume>
+					<issue>6</issue>
+					<fpage>1137</fpage>
+					<lpage>1143</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0034-89102010000600020</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation>. Benedetti TRB, Borges LJ, Petroski EL, Gonçalves LHT. Atividade física e estado de saúde mental de idosos.
+        <italic>Rev Saude Publica</italic>
+        . 2008;42(2):302-7. DOI:10.1590/S0034-89102008005000007</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Benedetti</surname>
+							<given-names>TRB</given-names>
+						</name>
+						<name>
+							<surname>Borges</surname>
+							<given-names>LJ</given-names>
+						</name>
+						<name>
+							<surname>Petroski</surname>
+							<given-names>EL</given-names>
+						</name>
+						<name>
+							<surname>Gonçalves</surname>
+							<given-names>LHT</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Atividade física e estado de saúde mental de idosos</article-title>
+					<source>Rev Saude Publica</source>
+					<year>2008</year>
+					<volume>42</volume>
+					<issue>2</issue>
+					<fpage>302</fpage>
+					<lpage>307</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0034-89102008005000007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation>. Castro-Costa E, Lima-Costa MF, Carvalhais S, Firmo JOA, Uchoa E. Factors associated with depressive symptoms measured by the 12-item General Health Questionnaire in Community-Dwelling Older Adults (The Bambuí Health Aging Study).
+        <italic>Rev Bras Psiquiatr</italic>
+        . 2008;30(2):104-9. DOI:10.1590/S1516-44462008005000007</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Castro-Costa</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Lima-Costa</surname>
+							<given-names>MF</given-names>
+						</name>
+						<name>
+							<surname>Carvalhais</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Firmo</surname>
+							<given-names>JOA</given-names>
+						</name>
+						<name>
+							<surname>Uchoa</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Factors associated with depressive symptoms measured by the 12-item General Health Questionnaire in Community-Dwelling Older Adults (The Bambuí Health Aging Study)</article-title>
+					<source>Rev Bras Psiquiatr</source>
+					<year>2008</year>
+					<volume>30</volume>
+					<issue>2</issue>
+					<fpage>104</fpage>
+					<lpage>109</lpage>
+					<pub-id pub-id-type="doi">10.1590/S1516-44462008005000007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation>. Cunha GS, Ribeiro JL, Oliveira AR. Níveis de beta-endorfina em resposta ao exercício e no sobretreinamento.
+        <italic>Arq Bras Endocrinol Metab</italic>
+        . 2008;52(4):589-98. DOI:10.1590/S0004-27302008000400004</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Cunha</surname>
+							<given-names>GS</given-names>
+						</name>
+						<name>
+							<surname>Ribeiro</surname>
+							<given-names>JL</given-names>
+						</name>
+						<name>
+							<surname>Oliveira</surname>
+							<given-names>AR</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Níveis de beta-endorfina em resposta ao exercício e no sobretreinamento</article-title>
+					<source>Arq Bras Endocrinol Metab</source>
+					<year>2008</year>
+					<volume>52</volume>
+					<issue>4</issue>
+					<fpage>589</fpage>
+					<lpage>598</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0004-27302008000400004</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation>. Djernes JK. Prevalence and predictors of depression in populations of elderly: a review.
+        <italic>Acta Psychiatr Scand</italic>
+        . 2006;113(5):372-87. DOI:10.1111/j.1600-0447.2006.00770.x</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Djernes</surname>
+							<given-names>JK</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Prevalence and predictors of depression in populations of elderly: a review</article-title>
+					<source>Acta Psychiatr Scand</source>
+					<year>2006</year>
+					<volume>113</volume>
+					<issue>5</issue>
+					<fpage>372</fpage>
+					<lpage>387</lpage>
+					<pub-id pub-id-type="doi">10.1111/j.1600-0447.2006.00770.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation>. Gazalle FK, Lima MS, Tavares BF, Hallal PC. Sintomas depressivos e fatores associados em população idosa no Sul do Brasil.
+        <italic>Rev Saude Publica</italic>
+        . 2004;38(3):365-71. DOI:10.1590/S0034-89102004000300005</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Gazalle</surname>
+							<given-names>FK</given-names>
+						</name>
+						<name>
+							<surname>Lima</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Tavares</surname>
+							<given-names>BF</given-names>
+						</name>
+						<name>
+							<surname>Hallal</surname>
+							<given-names>PC</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Sintomas depressivos e fatores associados em população idosa no Sul do Brasil</article-title>
+					<source>Rev Saude Publica</source>
+					<year>2004</year>
+					<volume>38</volume>
+					<issue>3</issue>
+					<fpage>365</fpage>
+					<lpage>371</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0034-89102004000300005</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation>. Hoffmann EJ, Ribeiro F, Farnese JM, Lima EWB. Sintomas depressivos e fatores associados entre idosos residentes em uma comunidade no norte de Minas Gerais, Brasil.
+        <italic>J Bras Psiquiatr</italic>
+        . 2010;59(3):190-7. DOI:10.1590/S0047-20852010000300004</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Hoffmann</surname>
+							<given-names>EJ</given-names>
+						</name>
+						<name>
+							<surname>Ribeiro</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Farnese</surname>
+							<given-names>JM</given-names>
+						</name>
+						<name>
+							<surname>Lima</surname>
+							<given-names>EWB</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Sintomas depressivos e fatores associados entre idosos residentes em uma comunidade no norte de Minas Gerais, Brasil</article-title>
+					<source>J Bras Psiquiatr</source>
+					<year>2010</year>
+					<volume>59</volume>
+					<issue>3</issue>
+					<fpage>190</fpage>
+					<lpage>197</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0047-20852010000300004</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation>. Jorm AF. Does old age reduce the risk of anxiety and depression? A review of epidemiological studies across the adult life span.
+        <italic>Psychol Med</italic>
+        . 2000;30(1):11-22.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Jorm</surname>
+							<given-names>AF</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Does old age reduce the risk of anxiety and depression? A review of epidemiological studies across the adult life span</article-title>
+					<source>Psychol Med</source>
+					<year>2000</year>
+					<volume>30</volume>
+					<issue>1</issue>
+					<fpage>11</fpage>
+					<lpage>22</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<label>12</label>
+				<mixed-citation>. Kaneko Y, Motohashi Y, Sasaki H, Yamaji M. Prevalence of depressive symptoms and related risk factors for depressive symptoms among elderly persons living in a rural Japanese community: a cross-sectional study.
+        <italic>Community Ment Health J.</italic>
+        2007;43(6):583-90. DOI:10.1007/s10597-007-9096-5</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Kaneko</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Motohashi</surname>
+							<given-names>Y</given-names>
+						</name>
+						<name>
+							<surname>Sasaki</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Yamaji</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Prevalence of depressive symptoms and related risk factors for depressive symptoms among elderly persons living in a rural Japanese community: a cross-sectional study</article-title>
+					<source>Community Ment Health J</source>
+					<year>2007</year>
+					<volume>43</volume>
+					<issue>6</issue>
+					<fpage>583</fpage>
+					<lpage>590</lpage>
+					<pub-id pub-id-type="doi">10.1007/s10597-007-9096-5</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<label>13</label>
+				<mixed-citation>. Ku PW, Fox KR, Chen LJ. Physical activity and depressive symptoms in Taiwanese older adults: a seven-year follow-up study.
+        <italic>Prev Med.</italic>
+        2009;48(3):250-5. DOI:10.1016/j.ypmed.2009.01.006</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Ku</surname>
+							<given-names>PW</given-names>
+						</name>
+						<name>
+							<surname>Fox</surname>
+							<given-names>KR</given-names>
+						</name>
+						<name>
+							<surname>Chen</surname>
+							<given-names>LJ</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Physical activity and depressive symptoms in Taiwanese older adults: a seven-year follow-up study</article-title>
+					<source>Prev Med</source>
+					<year>2009</year>
+					<volume>48</volume>
+					<issue>3</issue>
+					<fpage>250</fpage>
+					<lpage>255</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.ypmed.2009.01.006</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<label>14</label>
+				<mixed-citation>. Leite AA, Costa AJG, Lima BAM, Padilha AVL, Albuquerque EC, Marques CDL. Comorbidades em pacientes com osteoartrite: frequência e impacto na dor e na função física.
+        <italic>Rev Bras Reumatol</italic>
+        . 2011;51(2):118-23. DOI:10.1590/S0482-50042011000200002</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Leite</surname>
+							<given-names>AA</given-names>
+						</name>
+						<name>
+							<surname>Costa</surname>
+							<given-names>AJG</given-names>
+						</name>
+						<name>
+							<surname>Lima</surname>
+							<given-names>BAM</given-names>
+						</name>
+						<name>
+							<surname>Padilha</surname>
+							<given-names>AVL</given-names>
+						</name>
+						<name>
+							<surname>Albuquerque</surname>
+							<given-names>EC</given-names>
+						</name>
+						<name>
+							<surname>Marques</surname>
+							<given-names>CDL</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Comorbidades em pacientes com osteoartrite: frequência e impacto na dor e na função física</article-title>
+					<source>Rev Bras Reumatol</source>
+					<year>2011</year>
+					<volume>51</volume>
+					<issue>2</issue>
+					<fpage>118</fpage>
+					<lpage>123</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0482-50042011000200002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<label>15</label>
+				<mixed-citation>. Lima MTR, Silva RS, Ramos LR. Fatores associados à sintomatologia depressiva numa coorte urbana de idosos.
+        <italic>J Bras Psiquiatr</italic>
+        . 2009;58(1):1-7. DOI:10.1590/S0047-20852009000100001</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Lima</surname>
+							<given-names>MTR</given-names>
+						</name>
+						<name>
+							<surname>Silva</surname>
+							<given-names>RS</given-names>
+						</name>
+						<name>
+							<surname>Ramos</surname>
+							<given-names>LR</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Fatores associados à sintomatologia depressiva numa coorte urbana de idosos</article-title>
+					<source>J Bras Psiquiatr</source>
+					<year>2009</year>
+					<volume>58</volume>
+					<issue>1</issue>
+					<fpage>1</fpage>
+					<lpage>7</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0047-20852009000100001</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<label>16</label>
+				<mixed-citation>. Motl RW, Konopack JF, McAuley E, Elavsky S, Jerome GJ, Márquez DX. Depressive symptoms among older adults: long-term reduction after physical activity intervention.
+        <italic>J Behav Med</italic>
+        . 2005;28(4):385-94. DOI:10.1007/s10865-005-9005-5</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Motl</surname>
+							<given-names>RW</given-names>
+						</name>
+						<name>
+							<surname>Konopack</surname>
+							<given-names>JF</given-names>
+						</name>
+						<name>
+							<surname>McAuley</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Elavsky</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Jerome</surname>
+							<given-names>GJ</given-names>
+						</name>
+						<name>
+							<surname>Márquez</surname>
+							<given-names>DX</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Depressive symptoms among older adults: long-term reduction after physical activity intervention</article-title>
+					<source>J Behav Med</source>
+					<year>2005</year>
+					<volume>28</volume>
+					<issue>4</issue>
+					<fpage>385</fpage>
+					<lpage>394</lpage>
+					<pub-id pub-id-type="doi">10.1007/s10865-005-9005-5</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<label>17</label>
+				<mixed-citation>. Nelson ME, Rejeski WJ, Blair SN, Duncan PW, Judge JO, King AC,  et al. Physical activity and public health in older adults: recommendation from the American College of Sports Medicine and the American Heart Association.
+        <italic>Circulation</italic>
+        . 2007;116(9):1094-105. DOI:10.1161/CIRCULATIONAHA.107.185650</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Nelson</surname>
+							<given-names>ME</given-names>
+						</name>
+						<name>
+							<surname>Rejeski</surname>
+							<given-names>WJ</given-names>
+						</name>
+						<name>
+							<surname>Blair</surname>
+							<given-names>SN</given-names>
+						</name>
+						<name>
+							<surname>Duncan</surname>
+							<given-names>PW</given-names>
+						</name>
+						<name>
+							<surname>Judge</surname>
+							<given-names>JO</given-names>
+						</name>
+						<name>
+							<surname>King</surname>
+							<given-names>AC</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title xml:lang="en">Physical activity and public health in older adults: recommendation from the American College of Sports Medicine and the American Heart Association</article-title>
+					<source>Circulation</source>
+					<year>2007</year>
+					<volume>116</volume>
+					<issue>9</issue>
+					<fpage>1094</fpage>
+					<lpage>1105</lpage>
+					<pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.107.185650</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<label>18</label>
+				<mixed-citation>. Reichert CL, Diogo CL, Vieira JL, Dalacorte RR. Physical activity and depressive symptoms in community-dwelling elders from southern Brazil.
+        <italic>Rev Bras Psiquiatr.</italic>
+        2011;33(2):165-70. DOI:10.1590/S1516-44462011005000006</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Reichert</surname>
+							<given-names>CL</given-names>
+						</name>
+						<name>
+							<surname>Diogo</surname>
+							<given-names>CL</given-names>
+						</name>
+						<name>
+							<surname>Vieira</surname>
+							<given-names>JL</given-names>
+						</name>
+						<name>
+							<surname>Dalacorte</surname>
+							<given-names>RR</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Physical activity and depressive symptoms in community-dwelling elders from southern Brazil</article-title>
+					<source>Rev Bras Psiquiatr</source>
+					<year>2011</year>
+					<volume>33</volume>
+					<issue>2</issue>
+					<fpage>165</fpage>
+					<lpage>170</lpage>
+					<pub-id pub-id-type="doi">10.1590/S1516-44462011005000006</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<label>19</label>
+				<mixed-citation>. Rombaldi AJ, Silva MC, Gazalle FK, Azevedo MR, Hallal PC. Prevalência e fatores associados a sintomas depressivos em adultos do sul do Brasil: estudo transversal de base populacional.
+        <italic>Rev Bras Epidemiol.</italic>
+        2010;13(4):620-9. DOI:10.1590/S1415-790X2010000400007</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Rombaldi</surname>
+							<given-names>AJ</given-names>
+						</name>
+						<name>
+							<surname>Silva</surname>
+							<given-names>MC</given-names>
+						</name>
+						<name>
+							<surname>Gazalle</surname>
+							<given-names>FK</given-names>
+						</name>
+						<name>
+							<surname>Azevedo</surname>
+							<given-names>MR</given-names>
+						</name>
+						<name>
+							<surname>Hallal</surname>
+							<given-names>PC</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Prevalência e fatores associados a sintomas depressivos em adultos do sul do Brasil: estudo transversal de base populacional</article-title>
+					<source>Rev Bras Epidemiol</source>
+					<year>2010</year>
+					<volume>13</volume>
+					<issue>4</issue>
+					<fpage>620</fpage>
+					<lpage>629</lpage>
+					<pub-id pub-id-type="doi">10.1590/S1415-790X2010000400007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<label>20</label>
+				<mixed-citation>. Rosa TEC, Benício MHDA, Latorre MRDO, Ramos LR. Fatores determinantes da capacidade funcional entre idosos.
+        <italic>Rev Saude Publica</italic>
+        . 2003;37(1):40-8. DOI:10.1590/S0034-89102003000100008</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Rosa</surname>
+							<given-names>TEC</given-names>
+						</name>
+						<name>
+							<surname>Benício</surname>
+							<given-names>MHDA</given-names>
+						</name>
+						<name>
+							<surname>Latorre</surname>
+							<given-names>MRDO</given-names>
+						</name>
+						<name>
+							<surname>Ramos</surname>
+							<given-names>LR</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Fatores determinantes da capacidade funcional entre idosos</article-title>
+					<source>Rev Saude Publica</source>
+					<year>2003</year>
+					<volume>37</volume>
+					<issue>1</issue>
+					<fpage>40</fpage>
+					<lpage>48</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0034-89102003000100008</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<label>21</label>
+				<mixed-citation>. Silva RMO. A sexualidade no envelhecer: um estudo com idosos em reabilitação.
+        <italic>Acta Fisiatrica</italic>
+        . 2003;10(3):107-12.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Silva</surname>
+							<given-names>RMO</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">A sexualidade no envelhecer: um estudo com idosos em reabilitação</article-title>
+					<source>Acta Fisiatrica</source>
+					<year>2003</year>
+					<volume>10</volume>
+					<issue>3</issue>
+					<fpage>107</fpage>
+					<lpage>112</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<label>22</label>
+				<mixed-citation>. Smith TL, Masaki KH, Fong K, Abbott RD, Ross GW, Petrovitch H,  et al. Effect of walking distance on 8-year incident depressive symptoms in elderly men with and without chronic disease: the Honolulu-Asia Aging Study.
+        <italic>J Am Geriatr Soc</italic>
+        . 2010;58(8):1447-52.DOI:10.1111/j.1532-5415.2010.02981.x</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Smith</surname>
+							<given-names>TL</given-names>
+						</name>
+						<name>
+							<surname>Masaki</surname>
+							<given-names>KH</given-names>
+						</name>
+						<name>
+							<surname>Fong</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Abbott</surname>
+							<given-names>RD</given-names>
+						</name>
+						<name>
+							<surname>Ross</surname>
+							<given-names>GW</given-names>
+						</name>
+						<name>
+							<surname>Petrovitch</surname>
+							<given-names>H</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title xml:lang="en">Effect of walking distance on 8-year incident depressive symptoms in elderly men with and without chronic disease: the Honolulu-Asia Aging Study</article-title>
+					<source>J Am Geriatr Soc</source>
+					<year>2010</year>
+					<volume>58</volume>
+					<issue>8</issue>
+					<fpage>1447</fpage>
+					<lpage>1452</lpage>
+					<pub-id pub-id-type="doi">10.1111/j.1532-5415.2010.02981.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<label>23</label>
+				<mixed-citation>. Stafford M, McMunn A, Zaninotto P, Nazroo J. Positive and negative exchanges in social relationships as predictors of depression: evidence from the English Longitudinal Study of Aging.
+        <italic>J Aging Health</italic>
+        . 2011;23(4):607-28. DOI:10.1177/0898264310392992</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Stafford</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>McMunn</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Zaninotto</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Nazroo</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Positive and negative exchanges in social relationships as predictors of depression: evidence from the English Longitudinal Study of Aging</article-title>
+					<source>J Aging Health</source>
+					<year>2011</year>
+					<volume>23</volume>
+					<issue>4</issue>
+					<fpage>607</fpage>
+					<lpage>628</lpage>
+					<pub-id pub-id-type="doi">10.1177/0898264310392992</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<label>24</label>
+				<mixed-citation>. Teng CT, Humes EC, Demetrio FN. Depressão e comorbidades clínicas.
+        <italic>Rev Psiquiatr Clin</italic>
+        . 2005;32(3):149-59. DOI:10.1590/S0101-60832005000300007</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Teng</surname>
+							<given-names>CT</given-names>
+						</name>
+						<name>
+							<surname>Humes</surname>
+							<given-names>EC</given-names>
+						</name>
+						<name>
+							<surname>Demetrio</surname>
+							<given-names>FN</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Depressão e comorbidades clínicas</article-title>
+					<source>Rev Psiquiatr Clin</source>
+					<year>2005</year>
+					<volume>32</volume>
+					<issue>3</issue>
+					<fpage>149</fpage>
+					<lpage>159</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0101-60832005000300007</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn id="fn1">
+				<label>a</label>
+				<p>Universidade Federal de Santa Catarina.
+      <italic>Epi</italic>Floripa: condições de saúde de adultos e idosos de Florianópolis. Florianópolis; 2009 [citado 2013 ago 30]. Disponível em: http://www.epifloripa.ufsc.br/</p>
+			</fn>
+			<fn id="fn2">
+				<label>b</label>
+				<p>Instituto Brasileiro de Geografia e Estatística. Estimativas populacionais para o TCU.
+      <underline>Estimativas da população para 1º de julho de 2009, segundo os municípios</underline>
+      . Brasília; 2009. [citado 2010 ago 8]. Disponível em:
+      <underline>http://www.ibge.gov.br/home/estatistica/populacao/estimativa2009/POP2009_DOU.pdf</underline>
+				</p>
+			</fn>
+			<fn id="fn3">
+				<label>c</label>
+				<p>Programa das Nações Unidas para o Desenvolvimento. Atlas de desenvolvimento humano no Brasil (PNUD). Brasília (DF): 2003. [citado 2010 ago 8]. Disponível em: http://www.pnud.org.br/IDH/Atlas2003.aspx?indiceAccordion=1&#x26;li=li_Atlas2003</p>
+			</fn>
+			<fn id="fn4">
+				<label>d</label>
+				<p>Instituto Brasileiro de Geografia e Estatística. Síntese dos indicadores sociais: uma análise das condições de vida da população brasileira -
+      <underline>2010</underline>
+      . Rio de Janeiro; 2010. [citado 2010 ago 8]. Disponível em: http://www.ibge.gov.br/home/estatistica/populacao/condicaodevida/indicadoresminimos/sinteseindicsociais2010/SIS_2010.pdf</p>
+			</fn>
+			<fn id="fn5">
+				<label>e</label>
+				<p>Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica. Protocolos do Sistema de Vigilância Alimentar e Nutricional – SISVAN na assistência à saúde. Brasília (DF); 2008. (Série B. Textos Básicos de Saúde).</p>
+			</fn>
+			<fn fn-type="supported-by">
+				<p>Pesquisa subvencionada pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq – Processo nº 569834/2008-2).</p>
+			</fn>
+		</fn-group>
+	</back>
+	<sub-article article-type="translation" id="TR01" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Original Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Associated factors of depressive symptoms in the elderly: <italic>Epi</italic>Floripa study</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Borges</surname>
+						<given-names>Lucélia Justino</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Benedetti</surname>
+						<given-names>Tânia R Bertoldo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4">1</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Xavier</surname>
+						<given-names>André Junqueira</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff5">2</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>d’Orsi</surname>
+						<given-names>Eleonora</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff6">3</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff4">
+				<label>1</label>
+      Programa de Pós-Graduação em Educação Física. Centro de Desportos. Universidade Federal de Santa Catarina. Florianópolis, SC, Brasil</aff>
+			<aff id="aff5">
+				<label>2</label>
+      Universidade do Sul de Santa Catarina. Palhoça, SC, Brasil</aff>
+			<aff id="aff6">
+				<label>3</label>
+      Programa de Pós-Graduação em Saúde Coletiva. Centro de Ciências da Saúde. Universidade Federal de Santa Catarina. Florianópolis, SC, Brasil</aff>
+			<author-notes>
+				<corresp>
+					<label>Correspondence</label>
+        : Lucélia Justino Borges Centro de Desportos Universidade Federal de Santa Catarina Campus Universitário - Trindade 88040-900 Florianópolis, SC, Brasil E-mail: luceliajb@yahoo.com.br</corresp>
+				<fn fn-type="conflict">
+					<p>The authors declare that there are no conflicts of interest.</p>
+				</fn>
+			</author-notes>
+			<abstract>
+				<sec>
+					<title>OBJECTIVE</title>
+					<p>To estimate the prevalence and associated factors of depressive symptoms in the elderly.</p>
+				</sec>
+				<sec>
+					<title>METHODS</title>
+					<p>Cross-sectional population based epidemiological study (The
+          <italic>Epi</italic>Floripa Elderly survey) was carried out in two stage clusters, census tracts and households, with1.656 elderly individuals in Florianópolis, SC. The prevalence of depressive symptoms (outcome) was obtained using Geriatric Depression Scale (GDS-15) and its associations with socio-demographic, health, behavioral and social variables were assessed. Crude and adjusted prevalence ratios (PR) with 95% confidence intervals were calculated using Poisson regression.</p>
+				</sec>
+				<sec>
+					<title>RESULTS</title>
+					<p>Depressive symptoms were observed in 23.9% of the elderly individuals (95%CI 21.84;26.01). In the final model, depressive symptoms were associated with: 5 to 8 years of schooling (PR = 1.50, 95%CI 1.08;2.08); one to four years of schooling (PR = 1.62, 95%CI 1.18;2.23) and no schooling (PR = 2.11, 95%CI 1.46;3.05); being in a worse financial condition than at the age of 50 (PR = 1.33, 95%CI 1.02;1.74); cognitive impairment (PR = 1.45, 95%CI 1.21;1.75); perceiving their health to be regular (PR = 1.95, 95%CI 1.47;2.60) or poor (PR = 2.64, 95%CI 1.82;3.83); functional dependence (PR =1.83, 95%CI 1.43;2.33) and chronic pain (PR = 1.35, 95%CI 1.10;1.67). Factors with protective effects were: being in the 70 to 79 year old age group (PR = 0.77, 95%CI 0.64;0.93); physical activity in leisure time (PR = 0.75, 95%CI 0.59;0.94); participation in social or religious groups (PR = 0.80, 95%CI 0.64;0.99) and having sexual relations (PR = 0.70, 95%CI 0.53;0.94).</p>
+				</sec>
+				<sec>
+					<title>CONCLUSIONS</title>
+					<p>
+						<bold>:</bold>
+          Adverse clinical situations, being socioeconomically disadvantaged and low social and sexual activity were associated with depressive symptoms in the elderly.</p>
+				</sec>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<kwd>Aged</kwd>
+				<kwd>Depression, epidemiology</kwd>
+				<kwd>Risk Factors</kwd>
+				<kwd>Socioeconomic Factors</kwd>
+				<kwd>Aging</kwd>
+				<kwd>Mental Health</kwd>
+				<kwd>Cross-Sectional Studies</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="intro">
+				<title>INTRODUCTION</title>
+				<p>Elderly people often suffer from depression and it is highlighted as one of the most common and significant psychiatric problems.
+          <xref ref-type="bibr" rid="B2">
+						<sup>2</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B8">
+						<sup>8</sup>
+					</xref>
+          According to a systematic review, prevalence worldwide varies between 0.9% and 9.4% in those living in the community and 14% to 42% in those living in a care home.
+          <xref ref-type="bibr" rid="B8">
+						<sup>8</sup>
+					</xref>
+          Brazilian epidemiological studies carried out with the elderly show that the prevalence of depressive symptoms varies between 195 and 34% in the different regions of the country.
+          <xref ref-type="bibr" rid="B4">
+						<sup>4</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B5">
+						<sup>5</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B15">
+						<sup>15</sup>
+					</xref>
+				</p>
+				<p>The high prevalence of depression requires the attention of health care professionals and managers, as this disease increases the likelihood of functional incapacity in the elderly
+          <xref ref-type="bibr" rid="B16">
+						<sup>16</sup>
+					</xref>
+          and constitutes a significant public health problem.</p>
+				<p>Among the factors linked to depression, the following stand out: being female,
+          <xref ref-type="bibr" rid="B4">
+						<sup>4</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B6">
+						<sup>6</sup>
+					</xref>
+          advanced age,
+          <xref ref-type="bibr" rid="B6">
+						<sup>6</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B9">
+						<sup>9</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B12">
+						<sup>12</sup>
+					</xref>
+          low levels of education
+          <xref ref-type="bibr" rid="B4">
+						<sup>4</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B9">
+						<sup>9</sup>
+					</xref>
+          and living alone.
+          <xref ref-type="bibr" rid="B12">
+						<sup>12</sup>
+					</xref>
+          In addition to the socio-demographic characteristics, which are well established in the literature, other factors are associated with depression, such as: smoking,
+          <xref ref-type="bibr" rid="B9">
+						<sup>9</sup>
+					</xref>
+          comorbidities (cardiovascular, endocrine, neurological, oncological diseases),
+          <xref ref-type="bibr" rid="B24">
+						<sup>24</sup>
+					</xref>
+          high levels of medicine use,
+          <xref ref-type="bibr" rid="B15">
+						<sup>15</sup>
+					</xref>
+          functional incapacity,
+          <xref ref-type="bibr" rid="B6">
+						<sup>6</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref>
+          negative perception of own health,
+          <xref ref-type="bibr" rid="B6">
+						<sup>6</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B12">
+						<sup>12</sup>
+					</xref>
+          low levels of physical activity,
+          <xref ref-type="bibr" rid="B5">
+						<sup>5</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B18">
+						<sup>18</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B22">
+						<sup>22</sup>
+					</xref>
+          suicidal thoughts,
+          <xref ref-type="bibr" rid="B12">
+						<sup>12</sup>
+					</xref>
+          insomia,
+          <xref ref-type="bibr" rid="B6">
+						<sup>6</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref>
+          and a predominance of negative exchanges in relationships with family and friends.
+          <xref ref-type="bibr" rid="B23">
+						<sup>23</sup>
+					</xref>
+          These factors, especially those that can be modified, need to be further explored, taking into account cultural differences between countries and regional differences within those countries, as in Brazil.</p>
+				<p>Identifying the factors linked to the presence of depressive symptoms may help prevent depression among the elderly
+          <xref ref-type="bibr" rid="B3">
+						<sup>3</sup>
+					</xref>
+          and give an opportunity to non-pharmacological treatment strategies.</p>
+				<p>The aim of this study was to analyze the prevalence of factors associated with depressive symptoms in the elderly.</p>
+			</sec>
+			<sec sec-type="methods">
+				<title>METHODS</title>
+				<p>A cross-sectional population and household based study, part of the
+          <italic>Epi</italic>Floripa Elderly Survey, which took place between September 2009 and June 2010 in Florianópolis, SC, Southern Brazil.
+          <xref ref-type="fn" rid="fn6">
+						<sup>a</sup>
+					</xref>
+          The estimated population of this municipality in 2009 was 408,163, with 10.8% aged 60 and over.
+          <xref ref-type="fn" rid="fn7">
+						<sup>b</sup>
+					</xref>
+          Florianópolis has the highest municipal human development index in Brazil (HDI-M 0.86)
+          <xref ref-type="fn" rid="fn8">
+						<sup>c</sup>
+					</xref>
+          and life expectancy at birth in 2009 was 75.8 years.
+          <xref ref-type="fn" rid="fn9">
+						<sup>d</sup>
+					</xref>
+				</p>
+				<p>The following were assumed in calculating the general sample for the
+          <italic>Epi</italic>Floripa Elderly Survey: a population of 44,460,
+          <xref ref-type="fn" rid="fn8">
+						<sup>b</sup>
+					</xref>
+          unknown outcome prevalence (50%), sample error equal to four percentage points, 95% confidence level and design effect equal to two. An additional 20% was added to cover the predicted losses, and another 15% in order to control confounding factors, giving a minimum sample size of 1,599 individuals.</p>
+				<p>The selection process for the sample was in two stages of clusters. In the first stage, 80 of the 420 census tracts were systematically selected according to average monthly income of the head of the household (eight tracts in each income decile). In the second stage the units were the households, tracts with fewer than 150 residences were grouped together, and those with more than 500 residences (respecting the correspondent income decile) were divided, resulting in 83 census tracts.</p>
+				<p>Trained interviewers collected the data using a standardized, pre-tested questionnaire in face to face interviews, using Personal Digital Assistants (PDAs). The consistence of the data was checked every week and quality control, via the telephone, used a reduced version of the questionnaire with a randomly selected 10% of the interviews.</p>
+				<p>The outcome was depressive symptoms, obtained using the Geriatric Depression Scale (GDS), which contains 15 questions. The cutoff point used was five/six (not case/case).
+          <xref ref-type="bibr" rid="B2">
+						<sup>2</sup>
+					</xref>
+				</p>
+				<p>The independent variables were: age group (60 to 69; 70 to 79; and 80 and over); sex; marital status (married/living with partner; single; divorced/separated; widowed); self-reported skin color (white; dark skinned; black; yellow; indigenous); schooling (illiterate; one to four years of schooling; five to eight years; nine to 11 years; 12 or more years of schooling); actual economic situation compared to that at age 50 (same; worse);
+          <italic>per capita</italic>
+          household income (1
+          <sup>st</sup>
+          quartile ≤ R$ 327.50; 2
+          <sup>nd</sup>
+          quartile: &#x3E; R$ 327.50 and ≤ R$ 700.00; 3
+          <sup>nd</sup>
+          quartile: &#x3E; R$ 700.00 and ≤ R$ 1,500.00; 4
+          <sup>th</sup>
+          quartile: &#x3E; R$ 1,500.00); cognitive state, evaluated using the Mental State Mini-test, considering level of schooling (no cognitive deficiency, probable cognitive deficiency); alcohol consumption according to the Alcohol Use Disorders Identification Test (Audit) (none, moderate, excessive consumption); smoking (never smoked, used to smoke; smoker); level of physical activity, assessed using the International Physical Activity Questionnaire (IPAQ) (physically active: who does 150 minutes or more physical activity per week; insufficiently active: who does less than 150 minutes per week);
+          <xref ref-type="bibr" rid="B17">
+						<sup>17</sup>
+					</xref>
+          nutritional status, evaluated using Body Mass Index (underweight; normal weight; overweight),
+          <xref ref-type="fn" rid="fn10">
+						<sup>e</sup>
+					</xref>
+          height was measured using a portable stadiometer and weight using a digital scale accurate to 100 g; participation in a social or religious group in the last year (yes; no); frequency of monthly socializing with friends and relatives (yes [more than once a month]; no [once a month or less often]); ability to communicate using the internet defined as self- reported ability to use a computer to send and receive messages (yes; no); functional dependency, assessed using the scale of basic and instrumental activities in daily living (incapability/difficulty carrying out up to three activities; incapability/difficulty carrying out 4-15 activities);
+          <xref ref-type="bibr" rid="B20">
+						<sup>20</sup>
+					</xref>
+          perception of own health (very good/good; regular; bad/very bad); self-reported chronic pain on most days (yes; no).</p>
+				<p>The following non-communicable chronic diseases reported by the elderly were tested: back or spinal pain, cancer, fibromyalgia, bronchitis or asthma, arthritis/rheumatism, diabetes, hypertension, other cardiovascular diseases, stroke or cerebral ischemia.</p>
+				<p>Poisson regression was used to assess the association between depressive symptoms and the independent variables. The criteria for insertion in the multivariate model was p &#x3C; 0.20 and the criteria for the variable to be mantained in the model was p ≤ 0.05 in the Wald test. The first variables to be tested in the adjusted analysis were sociodemographic variables, followed by health, behavioral and social variables. The multivariate analyses took into consideration sample design effect, incorporating weighting through the “syv” command in the Stata program, designed to analyze data from complex samples. The Stata statistical package, version 11.0 (Stata Corp. College Station, EUA), was used for the statistical analyses.</p>
+				<p>This research met all ethical requirements and was approved by the Ethics Committee for Human Research of the
+          <italic>Universidade Federal de Santa Catarina</italic>
+          (Process No. 352/2008). Participants in the study signed a consent form.</p>
+			</sec>
+			<sec sec-type="results">
+				<title>RESULTS</title>
+				<p>The interviewers identified 1,911 eligible residences and interviewed 1,705 elderly individuals, with a response rate of 89.2%. Forty-nine interviews in which responses were given by carers were excluded, leaving 1,656. The majority of variables tested scored good or excellent in the quality control (kappa values varying between 0.6 and 0.9).</p>
+				<p>The sample was composed mainly of women (63.9%); 51.1% were aged between 60 and 69; 58.8% were married; 34.5% had up to four years of schooling and the mean
+          <italic>per capita</italic>
+          income was R$ 1,347.97.</p>
+				<p>In the univariate analysis, women, those aged 80 and over and those who were illiterate or had a low level of schooling showed more depressive symptoms. Apart from skin color, the other sociodemographic variables proved to be associated with depressive symptoms in the raw analysis (
+          <xref ref-type="table" rid="t05">Table 1</xref>
+          ).</p>
+				<p>
+					<table-wrap id="t05">
+						<label>Table 1</label>
+						<caption>
+							<title>Univariate analysis of depressive symptoms in the elderly according to socio-demographic variables.
+        <italic>Epi</italic>Floripa Elderly Survey. Florianópolis, SC, Southern Brazil, 2010.</title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup width="11%">
+								<col width="20%"/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<tbody>
+								<tr>
+									<td rowspan="4">  Variable </td>
+									<td colspan="4" align="center">Depressive symptoms</td>
+									<td colspan="2" rowspan="3" align="center">Raw analysis</td>
+									<td rowspan="4" align="center"> p  </td>
+								</tr>
+								<tr>
+									<td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+								</tr>
+								<tr>
+									<td colspan="2" align="center">Total</td>
+									<td colspan="2" align="center">Suspected depression</td>
+								</tr>
+								<tr>
+									<td align="center">n</td>
+									<td align="center">%</td>
+									<td align="center">n</td>
+									<td align="center">%
+            <sup>a</sup>
+									</td>
+									<td align="center">PR</td>
+									<td align="center">95%CI</td>
+								</tr>
+								<tr>
+									<td colspan="8" style="border-bottom: thin solid; border-color: #000000"/>
+								</tr>
+								<tr>
+									<td>Sex</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.016</td>
+								</tr>
+								<tr>
+									<td> Male</td>
+									<td align="center">598</td>
+									<td align="center">36.1</td>
+									<td align="center">116</td>
+									<td align="center">19.8</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Female</td>
+									<td align="center">1,058</td>
+									<td align="center">63.9</td>
+									<td align="center">270</td>
+									<td align="center">26.3</td>
+									<td align="center">1.27</td>
+									<td align="center">1.05;1.54</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Age group (years)</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.004</td>
+								</tr>
+								<tr>
+									<td> 60 to 69</td>
+									<td align="center">846</td>
+									<td align="center">51.1</td>
+									<td align="center">176</td>
+									<td align="center">21.3</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 70 to 79</td>
+									<td align="center">596</td>
+									<td align="center">36.0</td>
+									<td align="center">138</td>
+									<td align="center">23.7</td>
+									<td align="center">1.09</td>
+									<td align="center">0.84;1.42</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 80 and over</td>
+									<td align="center">214</td>
+									<td align="center">12.9</td>
+									<td align="center">72</td>
+									<td align="center">35.3</td>
+									<td align="center">1.85</td>
+									<td align="center">1.35;2.53</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Marital status</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> Married</td>
+									<td align="center">974</td>
+									<td align="center">58.8</td>
+									<td align="center">201</td>
+									<td align="center">21.2</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Single</td>
+									<td align="center">95</td>
+									<td align="center">5.7</td>
+									<td align="center">23</td>
+									<td align="center">25.0</td>
+									<td align="center">1.64</td>
+									<td align="center">1.07;2.50)</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Divorced</td>
+									<td align="center">130</td>
+									<td align="center">7.9</td>
+									<td align="center">36</td>
+									<td align="center">28.4</td>
+									<td align="center">1.44</td>
+									<td align="center">1.03;2.03</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Widowed</td>
+									<td align="center">457</td>
+									<td align="center">27.6</td>
+									<td align="center">126</td>
+									<td align="center">28.4</td>
+									<td align="center">1.48</td>
+									<td align="center">1.19;1.85</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Self-reported skin color</td>
+									<td align="center">n = 1,653</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.188</td>
+								</tr>
+								<tr>
+									<td> White</td>
+									<td align="center">1,410</td>
+									<td align="center">85.3</td>
+									<td align="center">311</td>
+									<td align="center">22.6</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Dark skinned</td>
+									<td align="center">131</td>
+									<td align="center">7.9</td>
+									<td align="center">41</td>
+									<td align="center">32.3</td>
+									<td align="center">1.44</td>
+									<td align="center">1.06;1.97</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Black</td>
+									<td align="center">84</td>
+									<td align="center">5.1</td>
+									<td align="center">23</td>
+									<td align="center">27.7</td>
+									<td align="center">1.27</td>
+									<td align="center">0.83;1.95</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yellow</td>
+									<td align="center">12</td>
+									<td align="center">0.7</td>
+									<td align="center">4</td>
+									<td align="center">33.3</td>
+									<td align="center">1.37</td>
+									<td align="center">0.45;4.18</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Indigenous</td>
+									<td align="center">16</td>
+									<td align="center">1.0</td>
+									<td align="center">6</td>
+									<td align="center">40.0</td>
+									<td align="center">1.65</td>
+									<td align="center">0.75;3.63</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Schooling (years)</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,607</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> 12 or more</td>
+									<td align="center">386</td>
+									<td align="center">23.4</td>
+									<td align="center">41</td>
+									<td align="center">10.9</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 9 to 11</td>
+									<td align="center">231</td>
+									<td align="center">14.0</td>
+									<td align="center">34</td>
+									<td align="center">15.0</td>
+									<td align="center">1.37</td>
+									<td align="center">0.89;2.10</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 5 to 8</td>
+									<td align="center">315</td>
+									<td align="center">19.1</td>
+									<td align="center">75</td>
+									<td align="center">24.1</td>
+									<td align="center">2.13</td>
+									<td align="center">1.51;3.01</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 1 to 4</td>
+									<td align="center">568</td>
+									<td align="center">34.5</td>
+									<td align="center">173</td>
+									<td align="center">31.4</td>
+									<td align="center">2.85</td>
+									<td align="center">2.05;3.95</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 0</td>
+									<td align="center">148</td>
+									<td align="center">9.0</td>
+									<td align="center">61</td>
+									<td align="center">42.7</td>
+									<td align="center">3.94</td>
+									<td align="center">2.72:5.70</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Household income in quartiles</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> 4
+            <sup>th</sup>
+            quartile (&#x3E; R$ 1,500.00)</td>
+									<td align="center">410</td>
+									<td align="center">24.8</td>
+									<td align="center">63</td>
+									<td align="center">15.7</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 3
+            <sup>rd</sup>
+            quartile (&#x3E; R$ 700.00 and ≤ R$ 1,500.00)</td>
+									<td align="center">414</td>
+									<td align="center">25.0</td>
+									<td align="center">76</td>
+									<td align="center">18.8</td>
+									<td align="center">0.97</td>
+									<td align="center">0.65;1.46</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 2
+            <sup>nd</sup>
+            quartile (&#x3E; R$ 327.50 and ≤ R$ 700.00)</td>
+									<td align="center">418</td>
+									<td align="center">25.2</td>
+									<td align="center">134</td>
+									<td align="center">32.6</td>
+									<td align="center">2.10</td>
+									<td align="center">1.49;2.95</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 1
+            <sup>st</sup>
+            quartile (≤ R$ 327.50)</td>
+									<td align="center">414</td>
+									<td align="center">25.0</td>
+									<td align="center">113</td>
+									<td align="center">28.5</td>
+									<td align="center">1.73</td>
+									<td align="center">1.13;2.64</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Economic situation compared with that at age 50</td>
+									<td align="center">n = 1,654</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> Better</td>
+									<td align="center">775</td>
+									<td align="center">46.9</td>
+									<td align="center">174</td>
+									<td align="center">23.0</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Same</td>
+									<td align="center">460</td>
+									<td align="center">27.8</td>
+									<td align="center">81</td>
+									<td align="center">18.2</td>
+									<td align="center">0.92</td>
+									<td align="center">0.67;1.27</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Worse</td>
+									<td align="center">419</td>
+									<td align="center">25.3</td>
+									<td align="center">131</td>
+									<td align="center">32.0</td>
+									<td align="center">1.63</td>
+									<td align="center">1.19;2.23</td>
+									<td> </td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>PR: prevalence ratio</p>
+							<p>
+								<sup>a</sup>
+        Percentage line</p>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>The presence of depressive symptoms was higher among individuals with cognitive deficit, those with higher functional dependency, those who had suffered a fall within the last year, those who experienced pain most days and those who perceived their own health to be very bad. Variables related to health, except for fibromyalgia and cancer, were linked with depressive symptoms in the raw analysis (
+          <xref ref-type="table" rid="t06">Table 2</xref>
+          ).</p>
+				<p>
+					<table-wrap id="t06">
+						<label>Table 2</label>
+						<caption>
+							<title>Univariate analysis of depressive symptoms in the elderly according to health variables.
+        <italic>Epi</italic>Floripa Elderly Survey Florianópolis, SC, Southern Brazil, 2010.</title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup width="10%">
+								<col width="30%"/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<tbody>
+								<tr>
+									<td rowspan="5">Variable</td>
+									<td colspan="4" align="center">Depressive symptoms</td>
+									<td> </td>
+									<td>Raw analysis</td>
+									<td rowspan="5" align="center">  p  </td>
+								</tr>
+								<tr>
+									<td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="2" align="center">Total</td>
+									<td colspan="3">Suspected depression</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+									<td/>
+								</tr>
+								<tr>
+									<td align="center">n</td>
+									<td align="center">%</td>
+									<td align="center">n</td>
+									<td align="center">%
+            <sup>a</sup>
+									</td>
+									<td align="center">PR</td>
+									<td align="center">95%CI</td>
+								</tr>
+								<tr>
+									<td colspan="8" style="border-bottom: thin solid; border-color: #000000"/>
+								</tr>
+								<tr>
+									<td>Cognitive deficiency</td>
+									<td align="center">n = 1,648</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">877</td>
+									<td align="center">53,2</td>
+									<td align="center">160</td>
+									<td align="center">18.5</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">771</td>
+									<td align="center">46,8</td>
+									<td align="center">224</td>
+									<td align="center">30.2</td>
+									<td align="center">1.76</td>
+									<td align="center">1.44;2.15</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Functional dependency</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> 0 to 3 ADLs</td>
+									<td align="center">1,165</td>
+									<td align="center">70,4</td>
+									<td align="center">161</td>
+									<td align="center">14.1</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 4 or more ADLs</td>
+									<td align="center">491</td>
+									<td align="center">29,6</td>
+									<td align="center">225</td>
+									<td align="center">47.4</td>
+									<td align="center">3.68</td>
+									<td align="center">3.06;4.42</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Falls in the last year</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1,348</td>
+									<td align="center">81,4</td>
+									<td align="center">282</td>
+									<td align="center">21.4</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">308</td>
+									<td align="center">18,6</td>
+									<td align="center">104</td>
+									<td align="center">34.9</td>
+									<td align="center">1.49</td>
+									<td align="center">1.18;1.89</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Taking medication</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.007</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">178</td>
+									<td align="center">10,7</td>
+									<td align="center">18</td>
+									<td align="center">10.3</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">1,478</td>
+									<td align="center">89,3</td>
+									<td align="center">368</td>
+									<td align="center">25.6</td>
+									<td align="center">1.97</td>
+									<td align="center">1.20;3.23</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Taking anti-depressive</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1,459</td>
+									<td align="center">88,1</td>
+									<td align="center">303</td>
+									<td align="center">21.4</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">197</td>
+									<td align="center">11,9</td>
+									<td align="center">83</td>
+									<td align="center">42.6</td>
+									<td align="center">1.96</td>
+									<td align="center">1.57;2.45</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Perception of own health</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> Good/Very good</td>
+									<td align="center">848</td>
+									<td align="center">51,2</td>
+									<td align="center">80</td>
+									<td align="center">9.7</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Regular</td>
+									<td align="center">642</td>
+									<td align="center">38,8</td>
+									<td align="center">194</td>
+									<td align="center">31.1</td>
+									<td align="center">3.09</td>
+									<td align="center">2.34;4.09</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Bad/Very bad</td>
+									<td align="center">165</td>
+									<td align="center">10,0</td>
+									<td align="center">112</td>
+									<td align="center">69.6</td>
+									<td align="center">6.86</td>
+									<td align="center">4.97;9.46</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Experiences pain most days</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1,059</td>
+									<td align="center">63,9</td>
+									<td align="center">158</td>
+									<td align="center">15.3</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">597</td>
+									<td align="center">36,1</td>
+									<td align="center">228</td>
+									<td align="center">39.0</td>
+									<td align="center">2.39</td>
+									<td align="center">1.90;3.01</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Self-reported morbidities</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Back or spinal pain</td>
+									<td align="center">n = 1,655</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">826</td>
+									<td align="center">49,9</td>
+									<td align="center">142</td>
+									<td align="center">17.6</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">829</td>
+									<td align="center">50,1</td>
+									<td align="center">244</td>
+									<td align="center">30.2</td>
+									<td align="center">1.56</td>
+									<td align="center">1.24;1.98</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Arthritis or rheumatism</td>
+									<td align="center">n = 1,651</td>
+									<td> </td>
+									<td align="center">n = 1,608</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1,089</td>
+									<td align="center">66,0</td>
+									<td align="center">208</td>
+									<td align="center">19.7</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">562</td>
+									<td align="center">34,0</td>
+									<td align="center">175</td>
+									<td align="center">31.8</td>
+									<td align="center">1.67</td>
+									<td align="center">1.35;2.05</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Fibromyalgia</td>
+									<td align="center">n = 1,652</td>
+									<td> </td>
+									<td align="center">n = 1,610</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.134</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1,591</td>
+									<td align="center">96,3</td>
+									<td align="center">361</td>
+									<td align="center">23.3</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">61</td>
+									<td align="center">3,7</td>
+									<td align="center">24</td>
+									<td align="center">40.7</td>
+									<td align="center">1.42</td>
+									<td align="center">0.89;2.24</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Cancer</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.067</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1,506</td>
+									<td align="center">90,9</td>
+									<td align="center">345</td>
+									<td align="center">23.5</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">150</td>
+									<td align="center">9,1</td>
+									<td align="center">41</td>
+									<td align="center">28.7</td>
+									<td align="center">1.32</td>
+									<td align="center">0.98;1.78</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Diabetes</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1.290</td>
+									<td align="center">77.9</td>
+									<td align="center">256</td>
+									<td align="center">20.4</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">366</td>
+									<td align="center">22.1</td>
+									<td align="center">130</td>
+									<td align="center">36.2</td>
+									<td align="center">1.70</td>
+									<td align="center">1.39;2.07</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Bronchitis or asthma</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1.401</td>
+									<td align="center">84.6</td>
+									<td align="center">297</td>
+									<td align="center">21.8</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">255</td>
+									<td align="center">15.4</td>
+									<td align="center">89</td>
+									<td align="center">35.7</td>
+									<td align="center">1.58</td>
+									<td align="center">1.26;1.97</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Hypertension</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">683</td>
+									<td align="center">41.2</td>
+									<td align="center">120</td>
+									<td align="center">18.1</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">973</td>
+									<td align="center">58.8</td>
+									<td align="center">266</td>
+									<td align="center">28.0</td>
+									<td align="center">1.65</td>
+									<td align="center">1.34;2.04</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Cardiovascular disease</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1.200</td>
+									<td align="center">72.5</td>
+									<td align="center">229</td>
+									<td align="center">19.6</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">456</td>
+									<td align="center">27.5</td>
+									<td align="center">157</td>
+									<td align="center">35.4</td>
+									<td align="center">1.89</td>
+									<td align="center">1.50;2.38</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Stroke or cerebral ischemia</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1,527</td>
+									<td align="center">92.2</td>
+									<td align="center">330</td>
+									<td align="center">22.2</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">129</td>
+									<td align="center">7.8</td>
+									<td align="center">56</td>
+									<td align="center">44.1</td>
+									<td align="center">2.21</td>
+									<td align="center">1.78;2.76</td>
+									<td> </td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>ADL: Activities of daily living; PR: prevalence ratio</p>
+							<p>
+								<sup>a</sup>
+        Percentage line</p>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Fewer depressive symptoms were observed in elderly individuals who reported having sexual relations, those who used the internet, those who reported high or moderate alcohol consumption, those who participated in social or religious groups, those who did leisure activities and those who had monthly contact with friends or relatives. Only smoking and body mass index were not linked to depressive symptoms in the raw analysis (
+          <xref ref-type="table" rid="t07">Table 3</xref>
+          ).</p>
+				<p>
+					<table-wrap id="t07">
+						<label>Table 3</label>
+						<caption>
+							<title>. Univariate analysis of depressive symptoms in the elderly according to social and behavioral variables.
+        <italic>Epi</italic>Floripa Elderly Survey. Florianópolis, SC, Southern Brazil, 2010.</title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup width="10%">
+								<col width="30%"/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<tbody>
+								<tr>
+									<td rowspan="4">Variable </td>
+									<td colspan="4" align="center">Depressive symptoms</td>
+									<td colspan="2" rowspan="3" align="center">Raw analysis</td>
+									<td rowspan="4" align="center">p </td>
+								</tr>
+								<tr>
+									<td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+								</tr>
+								<tr>
+									<td colspan="2" align="center">Total</td>
+									<td colspan="2" align="center">Suspected depression</td>
+								</tr>
+								<tr>
+									<td align="center">n</td>
+									<td align="center">%</td>
+									<td align="center">n</td>
+									<td align="center">%
+            <sup>a</sup>
+									</td>
+									<td align="center">RP</td>
+									<td align="center">95%CI</td>
+								</tr>
+								<tr>
+									<td colspan="8" style="border-bottom: thin solid; border-color: #000000"/>
+								</tr>
+								<tr>
+									<td>Alcohol consumption</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.002</td>
+								</tr>
+								<tr>
+									<td> Never</td>
+									<td align="center">1,061</td>
+									<td align="center">64,1</td>
+									<td align="center">291</td>
+									<td align="center">28.2</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Moderate</td>
+									<td align="center">315</td>
+									<td align="center">19,0</td>
+									<td align="center">49</td>
+									<td align="center">15.9</td>
+									<td align="center">0.60</td>
+									<td align="center">0.40;0.88</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> High</td>
+									<td align="center">280</td>
+									<td align="center">16,9</td>
+									<td align="center">46</td>
+									<td align="center">16.9</td>
+									<td align="center">0.59</td>
+									<td align="center">0.42;0.84</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Smoking</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.815</td>
+								</tr>
+								<tr>
+									<td> Non-smoker</td>
+									<td align="center">1,044</td>
+									<td align="center">60,6</td>
+									<td align="center">243</td>
+									<td align="center">25.0</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Ex-smoker</td>
+									<td align="center">511</td>
+									<td align="center">30,9</td>
+									<td align="center">116</td>
+									<td align="center">23.2</td>
+									<td align="center">1.08</td>
+									<td align="center">0.83;1.40</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Smoker</td>
+									<td align="center">141</td>
+									<td align="center">8,5</td>
+									<td align="center">27</td>
+									<td align="center">19.4</td>
+									<td align="center">0.98</td>
+									<td align="center">0.57;1.68</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Body Mass Index</td>
+									<td align="center">n = 1,627</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.315</td>
+								</tr>
+								<tr>
+									<td> Normal weight</td>
+									<td align="center">628</td>
+									<td align="center">38,6</td>
+									<td align="center">130</td>
+									<td align="center">21.2</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Underweight</td>
+									<td align="center">137</td>
+									<td align="center">8,4</td>
+									<td align="center">34</td>
+									<td align="center">25.6</td>
+									<td align="center">1.32</td>
+									<td align="center">0.90;1.94</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Overweight</td>
+									<td align="center">862</td>
+									<td align="center">53,0</td>
+									<td align="center">206</td>
+									<td align="center">24.6</td>
+									<td align="center">1.16</td>
+									<td align="center">0.86;1.55</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Physical leisure activities</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> Insufficiently active</td>
+									<td align="center">1,165</td>
+									<td align="center">70,4</td>
+									<td align="center">318</td>
+									<td align="center">28.1</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Active</td>
+									<td align="center">491</td>
+									<td align="center">29,6</td>
+									<td align="center">68</td>
+									<td align="center">14.1</td>
+									<td align="center">0.48</td>
+									<td align="center">0.38;0.62</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Participating in social groups</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.005</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">941</td>
+									<td align="center">56,8</td>
+									<td align="center">246</td>
+									<td align="center">26.9</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">715</td>
+									<td align="center">43,2</td>
+									<td align="center">140</td>
+									<td align="center">20.1</td>
+									<td align="center">0.71</td>
+									<td align="center">0.56;0.90</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Monthly contact with relatives</td>
+									<td align="center">n = 1,653</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">0.009</td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">185</td>
+									<td align="center">11,2</td>
+									<td align="center">54</td>
+									<td align="center">29.8</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1,468</td>
+									<td align="center">88,8</td>
+									<td align="center">331</td>
+									<td align="center">23.2</td>
+									<td align="center">0.69</td>
+									<td align="center">0.53;0.91</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Monthly contact with friends</td>
+									<td align="center">n = 1,649</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">280</td>
+									<td align="center">17,0</td>
+									<td align="center">99</td>
+									<td align="center">37.1</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1,369</td>
+									<td align="center">83,0</td>
+									<td align="center">284</td>
+									<td align="center">21.2</td>
+									<td align="center">0.56</td>
+									<td> </td>
+									<td align="center">0.47;0.67</td>
+								</tr>
+								<tr>
+									<td>Sexual relations</td>
+									<td align="center">n = 1,655</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">925</td>
+									<td align="center">55,9</td>
+									<td align="center">278</td>
+									<td align="center">31.0</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">730</td>
+									<td align="center">44,1</td>
+									<td align="center">108</td>
+									<td align="center">15.1</td>
+									<td align="center">0.43</td>
+									<td align="center">0.31;0.59</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Communicate using the internet</td>
+									<td align="center">n = 1,656</td>
+									<td> </td>
+									<td align="center">n = 1,613</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1,313</td>
+									<td align="center">79,3</td>
+									<td align="center">360</td>
+									<td align="center">28.2</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">343</td>
+									<td align="center">20,7</td>
+									<td align="center">26</td>
+									<td align="center">7.7</td>
+									<td align="center">0.34</td>
+									<td align="center">0.22;0.52</td>
+									<td> </td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>PR: prevalence ratio</p>
+							<p>
+								<sup>a</sup>
+        Percentage line</p>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>In the final multivariate model, a higher prevalence of depressive symptoms was linked to low levels of schooling, to being worse off than at age 50, the presence of cognitive deficiency, negative perception of one’s own health, greater functional dependency and experiencing pain most days. Doing leisure activities, participating in social or religious groups and having sexual relations were linked to a lower prevalence of depressive symptoms. Age was inversely associated with depressive symptoms (
+          <xref ref-type="table" rid="t08">Table 4</xref>
+          ).</p>
+				<p>
+					<table-wrap id="t08">
+						<label>Table 4</label>
+						<caption>
+							<title>Multivariate adjusted analysis of depressive symptoms in the elderly according to socio-demographic, health, behavioral and social variables.
+        <italic>Epi</italic>Floripa Elderly Survey. Florianópolis, SC, Southern Brazil, 2010.</title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup width="13%">
+								<col width="60%"/>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<tbody>
+								<tr>
+									<td rowspan="3">Variable</td>
+									<td> </td>
+									<td>Adjusted analysis</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+								</tr>
+								<tr>
+									<td align="center">PR</td>
+									<td align="center">95%CI</td>
+									<td align="center">p</td>
+								</tr>
+								<tr>
+									<td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+								</tr>
+								<tr>
+									<td>Gender (n = 1,613)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Man</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Woman</td>
+									<td align="center">0.85</td>
+									<td align="center">0.71;1.01</td>
+									<td align="center">0.065</td>
+								</tr>
+								<tr>
+									<td>Age group (years) (n = 1,613)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 60 to 69</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 70 to 79</td>
+									<td align="center">0.77</td>
+									<td align="center">0.64;0.93</td>
+									<td align="center">0.006</td>
+								</tr>
+								<tr>
+									<td> 80 and over</td>
+									<td align="center">0.90</td>
+									<td align="center">0.68;1.18</td>
+									<td align="center">0.426</td>
+								</tr>
+								<tr>
+									<td>Schooling (years) (n = 1,607)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 12 or more</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 9 to 11</td>
+									<td align="center">1.01</td>
+									<td align="center">0.65;1.57</td>
+									<td align="center">0.958</td>
+								</tr>
+								<tr>
+									<td> 5 to 8</td>
+									<td align="center">1.50</td>
+									<td align="center">1.08;2.08</td>
+									<td align="center">0.015</td>
+								</tr>
+								<tr>
+									<td> 1 to 4</td>
+									<td align="center">1.62</td>
+									<td align="center">1.18;2.23</td>
+									<td align="center">0.003</td>
+								</tr>
+								<tr>
+									<td> 0</td>
+									<td align="center">2.11</td>
+									<td align="center">1.46;3.05</td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td>Economic situation compared to that at age 50 (n = 1,613)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Better</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Same</td>
+									<td align="center">0.94</td>
+									<td align="center">0.76;1.16</td>
+									<td align="center">0.582</td>
+								</tr>
+								<tr>
+									<td> Worse</td>
+									<td align="center">1.33</td>
+									<td align="center">1.02;1.74</td>
+									<td align="center">0.036</td>
+								</tr>
+								<tr>
+									<td>Cognitive deficit (n = 1,613)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">1.45</td>
+									<td align="center">1.21;1.75</td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td>Perception of own health (n = 1,613)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Good</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Regular</td>
+									<td align="center">1.95</td>
+									<td align="center">1.47;2.60</td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td> Bad</td>
+									<td align="center">2.64</td>
+									<td align="center">1.82;3.83</td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td>Functional dependency (n = 1,613)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 0 to 3 AVDs</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> 4 or more AVDs</td>
+									<td align="center">1.83</td>
+									<td align="center">1.43;2.33</td>
+									<td align="center">&#x3C; 0.001</td>
+								</tr>
+								<tr>
+									<td>Experience pain most days (n = 1,656)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td align="center">0.004</td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">1.35</td>
+									<td align="center">1.10;1.67</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Physical leisure activity (n = 1,613)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> Insufficiently active</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td align="center">0.015</td>
+								</tr>
+								<tr>
+									<td> Active</td>
+									<td align="center">0.75</td>
+									<td align="center">0.59;0.94</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Participating in social or religious groups (n = 1,656)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td align="center">0.038</td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">0.80</td>
+									<td align="center">0.64:0.99</td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td>Sexual relations (n = 1,655)</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> No</td>
+									<td align="center">1</td>
+									<td> </td>
+									<td align="center">0.018</td>
+								</tr>
+								<tr>
+									<td> Yes</td>
+									<td align="center">0.70</td>
+									<td align="center">0.53;0.94</td>
+									<td> </td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>PR: Prevalence ratio; ADLs: activities of daily life</p>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+			</sec>
+			<sec sec-type="discussion">
+				<title>DISCUSSION</title>
+				<p>There was a high prevalence of depressive symptoms (23.9%; 95%CI 21.84;26.01), similar to values obtained in other studies
+          <xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B15">
+						<sup>15</sup>
+					</xref>
+          and higher than that in an epidemiological investigation carried out in Florianópolis in 2002, which detected a 19.7% level of depression among the elderly in the city.
+          <xref ref-type="bibr" rid="B5">
+						<sup>5</sup>
+					</xref>
+				</p>
+				<p>Important links were observed between symptoms of depression and socio-demographic, health, behavior and social variables. The literature highlights the association between depressive symptoms and socio-demographic variables,
+          <xref ref-type="bibr" rid="B4">
+						<sup>4</sup>
+					</xref>
+          indicating that social inequalities influence living and health conditions and may contribute to the onset of these symptoms. Low levels of schooling, age and economic decline were the socio-demographic variables associated with depressive symptoms.</p>
+				<p>Individuals with low levels of schooling are at higher risk of having depressive symptoms,
+          <xref ref-type="bibr" rid="B4">
+						<sup>4</sup>
+					</xref>
+          indicating that education is a protective factor against the onset of these symptoms.
+          <xref ref-type="bibr" rid="B9">
+						<sup>9</sup>
+					</xref>
+          A higher level of education enables the individual to increase their resources for dealing with stressful situations.
+          <xref ref-type="bibr" rid="B4">
+						<sup>4</sup>
+					</xref>
+				</p>
+				<p>Age as a protective factor in the final model may be explained by the inclusion of the variable of functional dependency, suggesting that the effect of age on depression can be modified. Increased age is considered to be linked with experiencing different psychosocial episodes (deaths of relatives and friends, break up of conjugal relationships), as well as higher exposure to chronic illness.
+          <xref ref-type="bibr" rid="B19">
+						<sup>19</sup>
+					</xref>
+          Another explanation is that susceptibility to depression and anxiety may decrease with age. Added to this is reduced emotional response and greater resilience when faced with stressful experiences.
+          <xref ref-type="bibr" rid="B11">
+						<sup>11</sup>
+					</xref>
+				</p>
+				<p>Being socio-economically disadvantaged increases the risk of depression, as highlighted in the literature.
+          <xref ref-type="bibr" rid="B1">
+						<sup>1</sup>
+					</xref>
+          Becoming worse off is associated with depressive symptoms. It is not possible to say whether an individual becomes depressed due to worsening economic circumstances (financial stability) or whether depression throughout their life leads to this loss, as they become incapable of dealing with financial and work situations. Social position may be inversely related with some depressive symptoms such as sadness, dwelling on the past and preferring to stay at home, indicating that socio-economic condition may contribute to the onset of these symtoms.
+          <xref ref-type="bibr" rid="B19">
+						<sup>19</sup>
+					</xref>
+          On the other hand, a worsening economic situation may be triggered by depression, as it is related to cognition and to carrying out daily activities. Perfoming these activities may be compromised as depression increases the probability of functional incapacity among the elderly and may lead to dependence,
+          <xref ref-type="bibr" rid="B16">
+						<sup>16</sup>
+					</xref>
+          creating a vicious circle.</p>
+				<p>Cognitive deficiency and depressive symptoms are linked and are interrelated factors. Depression may lead to clinical dementia or dementia may evolve with the depressive symptoms.
+          <xref ref-type="bibr" rid="B15">
+						<sup>15</sup>
+					</xref>
+          Cognitive deficiencies may improve when the patient is treated for depression.</p>
+				<p>The association between the outcome and chronic pain can be understood by the existence of a model of depression in the elderly that is mainly related to this type of pain. This indicates that the individual was not depressed before and begins experiencing depressive symptoms due to the chronic pain. In the case of osteoarthritis, the leading cause of pain in the elderly, depression can be expected in conjunction with pain and physical incapacity.
+          <xref ref-type="bibr" rid="B14">
+						<sup>14</sup>
+					</xref>
+				</p>
+				<p>Depressive symptoms are linked to self-perception of health, as has been seen in other investigations.
+          <xref ref-type="bibr" rid="B6">
+						<sup>6</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B12">
+						<sup>12</sup>
+					</xref>
+          Reporting one’s own health as being bad/very bad can be a depressive symptom, in some cases. Depression is a significant marker of incapacity in the elderly, as it affects overall health and, consequently, functional capacity.
+          <xref ref-type="bibr" rid="B6">
+						<sup>6</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B15">
+						<sup>15</sup>
+					</xref>
+				</p>
+				<p>Sexual function can be identified as a health marker, observed in elderly individuals who have begun a process of functional decline, since maintaining an active sex life involves physical, mental and emotional and affective health, internal and external factors. Erectile dysfunction caused by peripheral vascular diseases, prostate surgery or diabetes may affect sexuality or the sex act itself.
+          <xref ref-type="bibr" rid="B21">
+						<sup>21</sup>
+					</xref>
+          Erectile dysfunction is strongly linked to depressive symptoms
+          <xref ref-type="bibr" rid="B3">
+						<sup>3</sup>
+					</xref>
+          and affects quality of life in the elderly. Improving these problems may produce feelings of happiness, resulting in higher self-esteem, better social interaction, feelings of confidence and competence.
+          <xref ref-type="bibr" rid="B21">
+						<sup>21</sup>
+					</xref>
+          Improvements in these aspects through sexual activity and the perception of sexual virility may contribute to reducing depressive feelings among men. Feelings of love, affection and companionship are the main, inherent aspects of sexual activity in women in old age,
+          <xref ref-type="bibr" rid="B21">
+						<sup>21</sup>
+					</xref>
+          and perceiving these feelings may contribute to depressive symptoms either not manifesting or decreasing.</p>
+				<p>Depression can be explained chemically as a decrease in the number of neurotransmitters released, which are responsible for producing hormones such as serotonin and endorphins. Sexual activity and physical activity
+          <xref ref-type="bibr" rid="B7">
+						<sup>7</sup>
+					</xref>
+          have beneficial effects for the health due to the release of these hormones and provide feelings of well-being and pleasure; thus, it is a protective factor against developing depressive symptoms in both sexes. The other psycho-social benefits of doing physical activity, through social interaction, also stand out.
+          <xref ref-type="bibr" rid="B18">
+						<sup>18</sup>
+					</xref>
+				</p>
+				<p>There was a lower prevalence of depressive symptoms in the elderly who did leisure activities, corroborating other research.
+          <xref ref-type="bibr" rid="B13">
+						<sup>13</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B18">
+						<sup>18</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B22">
+						<sup>22</sup>
+					</xref>
+          In a study in the South of Brazil, physically active elderly had a 68% lower probability of having depressive symptoms compared with those who were not sufficiently active.
+          <xref ref-type="bibr" rid="B18">
+						<sup>18</sup>
+					</xref>
+          Research from the Honolulu-Asia Aging Study (HAAS), which followed the subjects for eight years, found that those elderly individuals who walked more than 0.25 miles per day (approximately 402 meters) were at lower risk of depressive symptoms.
+          <xref ref-type="bibr" rid="B22">
+						<sup>22</sup>
+					</xref>
+          Taking into account only leisure time physical activities, elderly individuals in Taiwan had a reduced risk of depressive symptoms after seven years of monitoring.
+          <xref ref-type="bibr" rid="B13">
+						<sup>13</sup>
+					</xref>
+				</p>
+				<p>Taking part in social groups proved to have a protective effect, signaling the importance of a social network in staying healthy and in preventing and/or treating depression in the elderly. However, it cannot be inferred that participating in social groups contributes to no depressive symptoms appearing, it may be that the fact of not having these symptoms contributes to participation in these groups. In that case, participating in groups would be a marker of an individual without depression, i.e., elderly individuals who did not participate in groups may be at higher risk of developing depressive symptoms, which prevents them from participating. It would be important to incentive those who do not attend this type of group to do so and assess the reasons for why this is not occurring.</p>
+				<p>A limitation of this study was its cross-sectional design, which meant that cause and effect relationships could not be defined. On the other hand, the high response rate contributed to its internal validity, decreasing the chance of systematic errors, and reproducibility was satisfactory. Using a large sample which is representative of the municipality means the results can be extrapolated to the whole population.</p>
+				<p>Identifying the factors linked to depressive symptoms proved to be significant, as this knowledge can support health care policies for the elderly in Florianópolis (prevention and treatment of depression, especially non-pharmacological strategies, such as programs promoting physical education) as well as contributing to the discussion and understanding of depression in the elderly in Brazil and other countries. It is recommended that longitudinal studies be carried out, aiming to better understand the associated factors, in addition to conducting experimental research analyzing the behavior of modifiable factors and their relationship to depressive symptoms in the elderly.</p>
+			</sec>
+		</body>
+		<back>
+			<ack>
+				<sec>
+					<title>ACKNOWLEDGEMENTS</title>
+					<p>Thanks to technicians at the Brazilian Institute of Geography and Statistics (IBGE) and the of Florianópolis, SC, for their help in carrying out the <italic>Epi</italic>Floripa Elderly Survey 2009/2010.</p>
+				</sec>
+			</ack>
+			<fn-group>
+				<fn id="fn6">
+					<label>a</label>
+					<p>Universidade Federal de Santa Catarina.
+        <italic>Epi</italic>Floripa: condições de saúde de adultos e idosos de Florianópolis. Florianópolis; 2009 [cited 2013 Ago 30]. Available from: http://www.epifloripa.ufsc.br/</p>
+				</fn>
+				<fn id="fn7">
+					<label>b</label>
+					<p>Instituto Brasileiro de Geografia e Estatística. Estimativas populacionais para o TCU.
+        <underline>Estimativas da população para 1º de julho de 2009, segundo os municípios</underline>
+        . Brasília; 2009 [cited 2010 Ago 8]. Available from:
+        <underline>http://www.ibge.gov.br/home/estatistica/populacao/estimativa2009/POP2009_DOU.pdf</underline>
+					</p>
+				</fn>
+				<fn id="fn8">
+					<label>c</label>
+					<p>Programa das Nações Unidas para o Desenvolvimento. Atlas de desenvolvimento humano no Brasil (PNUD). Brasília (DF): 2003 [cited 2010 Ago 8]. Available from: http://www.pnud.org.br/IDH/Atlas2003.aspx?indiceAccordion=1&#x26;li=li_Atlas2003</p>
+				</fn>
+				<fn id="fn9">
+					<label>d</label>
+					<p>Instituto Brasileiro de Geografia e Estatística. Síntese dos indicadores sociais: uma análise das condições de vida da população brasileira -
+        <underline>2010</underline>
+        . Rio de Janeiro; 2010 [cited 2010 Ago 8]. Available from: http://www.ibge.gov.br/home/estatistica/populacao/condicaodevida/indicadoresminimos/sinteseindicsociais2010/SIS_2010.pdf</p>
+				</fn>
+				<fn id="fn10">
+					<label>e</label>
+					<p>Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica. Protocolos do Sistema de Vigilância Alimentar e Nutricional – SISVAN na assistência à saúde. Brasília (DF); 2008. (Série B. Textos Básicos de Saúde).</p>
+				</fn>
+				<fn fn-type="supported-by">
+					<p>This study was supported by the
+        <italic>Conselho Nacional de Desenvolvimento Científico e Tecnológico</italic>
+        (CNPq – Process No. 569834/2008-2).</p>
+				</fn>
+			</fn-group>
+		</back>
+	</sub-article>
+</article>

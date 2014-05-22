@@ -1,0 +1,2974 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="research-article" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047004396</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047004396</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artigo Especial</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="pt">Classe social: conceitos e esquemas operacionais em pesquisa em
+          saúde</article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>Clase social: conceptos y esquemas operativos en investigación en
+            salud</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Barata</surname>
+            <given-names>Rita Barradas</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ribeiro</surname>
+            <given-names>Manoel Carlos Sampaio de Almeida</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Silva</surname>
+            <given-names>Zilda Pereira da</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Antunes</surname>
+            <given-names>José Leopoldo Ferreira</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>I</label>
+        <institution content-type="orgdiv2">Departamento de Medicina Social</institution>
+        <institution content-type="orgdiv1">Faculdade de Ciências Médicas</institution>
+        <institution content-type="orgname">Santa Casa de São Paulo</institution>
+        <addr-line>
+          <named-content content-type="city">São Paulo</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Departamento de Medicina Social. Faculdade de Ciências Médicas
+        Santa Casa de São Paulo. São Paulo, SP, Brasil</aff>
+      <aff id="aff2">
+        <label>II</label>
+        <institution content-type="orgdiv2">Departamento de Epidemiologia</institution>
+        <institution content-type="orgdiv1">Faculdade de Saúde Pública</institution>
+        <institution content-type="orgname">Universidade de São Paulo</institution>
+        <addr-line>
+          <named-content content-type="city">São Paulo</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Departamento de Epidemiologia. Faculdade de Saúde Pública.
+        Universidade de São Paulo. São Paulo, SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondência | Correspondence</bold> : Rita Barradas Barata. Rua Dr. Cesário Mota
+          Jr, 61. 01221-020. São Paulo, SP, Brasil. E-mail: rita.barradasbarata@gmail.com</corresp>
+        <fn fn-type="conflict">
+          <p>Os autores declaram não haver conflito de interesses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>4</issue>
+      <fpage>647</fpage>
+      <lpage>655</lpage>
+      <history>
+        <date date-type="received">
+          <day>30</day>
+          <month>5</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>5</day>
+          <month>9</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="pt">
+        <p>Discute-se a utilização do conceito de classe em pesquisas em saúde, as diferentes
+          abordagens sociológicas de estratificação social e de estrutura de classes, o potencial
+          explicativo do conceito em estudos de determinação social e desigualdades em saúde, os
+          modelos de operacionalização elaborados para uso em pesquisas sociológicas, demográficas
+          ou de saúde e os limites e possibilidades desses modelos. Foram destacados quatro modelos
+          de operacionalização: de Singer para estudo da distribuição de renda no Brasil, adaptado
+          por Barros para uso em pesquisas epidemiológicas; de Bronfman &amp; Tuirán para o censo
+          demográfico mexicano, adaptado por Lombardi et al para pesquisas epidemiológicas; de
+          Goldthorpe para estudos socioeconômicos ingleses, adaptado pela Sociedade Espanhola de
+          Epidemiologia; e o modelo de Wright para pesquisa em sociologia e ciência política, também
+          usado em inquéritos populacionais em saúde. Em conclusão, conceitualmente cada um dos
+          modelos apresentados é coerente com a concepção teórica que os embasam, mas não há como
+          optar por qualquer deles, descartando os demais.</p>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <p>Se discute la utilización del concepto de clase en investigaciones en salud, los
+          diferentes abordajes sociológicos de estratificación social y de estructura de clases, el
+          potencial explicativo del concepto en estudios de determinación social y desigualdades en
+          salud, los modelos de operatividad elaborados para uso en investigaciones sociológicas,
+          demográficas o de salud y los límites y posibilidades de tales modelos. Se destacaron
+          cuatro modelos de operatividad: el de Singer para estudio de la distribución de renta en
+          Brasil, adaptado por Barros para uso en investigaciones epidemiológicas; el de Bronfman
+          &amp; Tuirán para el censo demográfico mexicano, adaptado por Lombardi et al para
+          investigaciones epidemiológicas; de Goldthorpe para estudios socioeconómicos ingleses,
+          adaptado por la Sociedad Española de Epidemiología; y el modelo de Wright para
+          investigación en sociología y ciencia política, también usado en pesquisas poblacionales
+          en salud. En conclusión, conceptualmente cada uno de los modelos presentados es coherente
+          con la concepción teórica que los fundamentan, pero no hay como optar por cualquiera de
+          ellos, descartando al resto.</p>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <kwd>Classe Social</kwd>
+        <kwd>Condições Sociais</kwd>
+        <kwd>Modelos Organizacionais</kwd>
+        <kwd>Ciências Sociais</kwd>
+        <kwd>Inquéritos Epidemiológicos</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>Clase Social</kwd>
+        <kwd>Condiciones Sociales</kwd>
+        <kwd>Modelos Organizacionales</kwd>
+        <kwd>Ciencias Sociales</kwd>
+        <kwd>Encuestas Epidemiológicas</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="10"/>
+        <ref-count count="30"/>
+        <page-count count="9"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUÇÃO</title>
+      <p>Na década de 1970, diante dos processos econômicos que levaram ao rápido crescimento da
+        desigualdade de renda e a novas formas de exclusão social, cientistas sociais buscaram
+        formular modelos de operacionalização para o conceito de classes sociais que pudessem ser
+        usados em pesquisas empíricas destinadas a documentar apropriadamente esses fenômenos. <xref
+          ref-type="bibr" rid="B9">
+          <sup>9</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B26">
+          <sup>26</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref>
+      </p>
+      <p>A operacionalização do conceito de classe social ganhou destaque na América Latina e levou
+        diversos pesquisadores a desenvolver modelos de operacionalização para sua utilização em
+        pesquisas empíricas no campo da saúde. <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref> Entretanto, dificuldades conceituais e metodológicas diminuíram o interesse pelo
+        tema nos anos 1990. <xref ref-type="bibr" rid="B21">
+          <sup>21</sup>
+        </xref>
+      </p>
+      <p>A própria dinâmica social encarregou-se de recolocar a importância da análise de classes
+        sociais. Os processos de globalização, associados ao aumento das situações de risco, em
+        decorrência da erosão dos estados de bem-estar e restrições impostas às políticas sociais de
+        garantia de emprego, renda mínima, previdência social, sistemas universais de saúde e
+        outras, acabaram por reintroduzir a preocupação com as desigualdades sociais. Na última
+        década, o interesse pelo estudo dos determinantes sociais e pela formulação de políticas
+        públicas que reduzissem efetivamente as desigualdades sociais em saúde motivou a retomada da
+        discussão do uso do conceito de classe social como um dos elementos-chave do processo de
+        reprodução social.</p>
+      <p>Apesar da melhoria geral na situação de saúde, nos países de alta e média renda, e do
+        aumento dos gastos públicos e privados com saúde, as desigualdades sociais não parecem estar
+        diminuindo.</p>
+      <p>Classe social é uma categoria chave para o estudo da determinação social do processo
+        saúde-doença. Os riscos tendem a se acumular de maneira desproporcional segundo as classes e
+        suas posições na estrutura social. Quanto melhor a posição das classes na estrutura social,
+        maior a probabilidade de que seus membros possam desfrutar de uma vida mais longa e mais
+        saudável. <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref> Grupos socialmente em desvantagem na estrutura social enfrentam carga
+        desproporcional de lesões, doenças e morte em comparação aos grupos melhor situados. <xref
+          ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref>
+      </p>
+      <p>Inegavelmente a posição de classe determina muitos aspectos da vida material dos
+        indivíduos, definindo não apenas o acesso e a posse de recursos materiais, mas também as
+        atividades da vida cotidiana e a vulnerabilidade em face de inúmeros determinantes de saúde
+        e doença, além de influenciar a percepção dos problemas de saúde e a busca de soluções.</p>
+      <p>Este ensaio tem por objetivo destacar a pertinência do conceito de classe para estudos
+        epidemiológicos; analisar as diferenças entre estratificação social (abordagem
+        funcionalista) e estrutura de classes (abordagem compreensiva ou dialética); discutir a
+        densidade teórica do conceito em pesquisas empíricas no campo da saúde; relacionar os
+        principais modelos de operacionalização disponíveis; e apontar limites e possibilidades do
+        uso empírico do conceito nas pesquisas do campo da saúde.</p>
+    </sec>
+    <sec>
+      <title>ARGUMENTOS FAVORÁVEIS AO USO DO CONCEITO DE CLASSE SOCIAL EM PESQUISA EMPÍRICA</title>
+      <p>Os sociólogos Wright &amp; Goldthorpe desenvolveram os esquemas conceituais e operacionais
+        de classe social para aplicação em pesquisas empíricas mais consagrados na sociologia
+        contemporânea. <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref>
+      </p>
+      <p>Wright <xref ref-type="bibr" rid="B29">
+          <sup>29</sup>
+        </xref> considera que talvez a questão mais importante na pesquisa sociológica
+        contemporânea, para a qual a análise de classe pode oferecer respostas relevantes, seja a
+        das desigualdades nas oportunidades e nos padrões materiais de vida. Segundo ele,
+        praticamente todas as correntes de pensamento sociológico tratam da análise de classes,
+        embora em cada uma das tradições as concepções possam ser diferentes.</p>
+      <p>Esse autor <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref> enfatiza a necessidade da pesquisa empírica como recurso válido para a explicação
+        dos fenômenos sociais, defende que não apenas na tradição da sociologia funcionalista as
+        pesquisas quantitativas podem ser úteis e afirma que a teoria marxista é capaz de gerar
+        proposições sobre o mundo real que podem ser estudadas empiricamente, tanto por meio de
+        abordagens quantitativas quanto qualitativas.</p>
+      <p>Para Wright, <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref> há diversos modos de determinação entre os conceitos ou categorias teóricas e os
+        fenômenos empíricos que podem ser organizados em modelos. Estes nada mais são do que
+        representações esquemáticas das interações entre esses modos de determinação em um dado
+        processo estrutural. Os modelos podem ser vistos como mapas simbólicos ou totalidades
+        estruturadas, usados para intermediar o conhecimento da realidade</p>
+      <p>Em trabalho posterior, Wright, <xref ref-type="bibr" rid="B28">
+          <sup>28</sup>
+        </xref> para defender a importância da pesquisa empírica, cita Bhaskar, que estabelece
+        posição epistemológica intermediária entre o realismo ingênuo e o idealismo, e propõe a
+        distinção entre três domínios da realidade: o real, o atual e o empírico, que
+        corresponderiam a três categorias ontológicas: os mecanismos, os eventos e a experiência. Os
+        mecanismos são os geradores dos eventos e, estes, conjuntamente com condições específicas de
+        percepção e observação, geram as experiências. Assim, as teorias são vistas como
+        pré-condições para a compreensão das regularidades empíricas. Daí a importância concedida à
+        formulação e operacionalização de conceitos.</p>
+      <p>O autor reafirma sua intenção de formular um conceito de estrutura de classe capaz de ser
+        utilizado na análise de processos microssociais, i.e., aplicável ao estudo da vida
+        cotidiana. O modelo de operacionalização será pensado para captar a estrutura de classes,
+        que é um mecanismo real, ou seja, existe independentemente da teoria usada para
+        estudá-lo.</p>
+      <p>Goldthorpe &amp; Marshall <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref> partem de uma concepção <italic>weberiana</italic> de classe social e afirmam a
+        importância da análise de classes no estudo das relações entre estrutura de classes e
+        mobilidade social, desigualdades sociais e ação social. Para eles, a análise de classes
+        constitui um programa de pesquisa que pode perfeitamente admitir teorias sociológicas
+        distintas.</p>
+      <p>A condição de classe afeta os interesses materiais, as experiências de vida e a capacidade
+        para a ação coletiva. Condiciona o acesso a recursos produtivos e molda as experiências no
+        trabalho e no consumo, o que gera efeitos de segunda ordem sobre a saúde, as atitudes, o
+        gosto, etc. <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref> Evidentemente, as desigualdades sociais não podem ser reduzidas às desigualdades de
+        classe, porém as relações de classe têm papel decisivo na modulação de outras formas de
+        desigualdades, como as desigualdades étnicas e de gênero. <xref ref-type="bibr" rid="B19">
+          <sup>19</sup>
+        </xref>
+      </p>
+      <p>É exatamente nessa perspectiva que o conceito de classe pode ser útil em pesquisas
+        epidemiológicas, pelas quais se pretende explicar as desigualdades sociais e identificar os
+        efeitos que as posições de classe podem ter sobre diferentes aspectos do processo
+        saúde-doença na dimensão populacional.</p>
+    </sec>
+    <sec>
+      <title>DIFERENTES ABORDAGENS SOCIOLÓGICAS NA ANÁLISE DE CLASSES: ESTRATIFICAÇÃO X ESTRUTURA DE
+        CLASSES</title>
+      <p>Todos os modos de análise de classes sociais podem potencialmente contribuir para melhor
+        compreensão dos processos micro e macrossociais envolvidos na produção das desigualdades
+        sociais. <xref ref-type="bibr" rid="B30">
+          <sup>30</sup>
+        </xref> Estas podem ser estudadas em termos atributivos ou em termos relacionais, enfocando
+        predominantemente a distribuição dos atributos ou os processos estruturais de reprodução
+        social. <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+      </p>
+      <p>Muitos teóricos da análise de classes diferenciam os conceitos de estratificação e
+        estrutura, reservando o termo estratificação para abordagens que identificam as classes a
+        partir da distribuição dos atributos e condições materiais dos indivíduos, definindo os
+        limites dos estratos de modo mais ou menos arbitrário ou por meio de medidas estatísticas de
+        distribuição. O conceito de classe corresponderia a um “cluster” de atributos econômicos e
+        sociais. A terminologia adotada nos modelos de estratificação costuma diferenciar entre
+        classes altas, médias e baixas, em consonância com o método de construção dos agrupamentos
+        baseado na posição dos indivíduos em um “ranking” de valores contínuos. Do ponto de vista
+        teórico, essas abordagens são mais úteis para propósitos descritivos. <xref ref-type="bibr"
+          rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B30">
+          <sup>30</sup>
+        </xref>
+      </p>
+      <p>Uma variante da estratificação é a classificação baseada no agrupamento de ocupações. Esta
+        a modalidade de análise de classes baseia-se na concepção <italic>durkheimiana</italic> de
+        divisão do trabalho. Os agrupamentos ocupacionais correspondem a determinados estilos de
+        vida, práticas de consumo, associação para a luta por interesses comuns, percepções
+        subjetivas, entre outros. O ponto de partida da classificação é a identificação de “unidades
+        de ocupação”, quer dizer, um conjunto de trabalhos tecnicamente semelhantes
+        institucionalizados no mercado de trabalho por meio de sindicatos ou associações,
+        necessidade de determinadas licenças ou credenciais (títulos), conhecimento de ofício e
+        outras características. <xref ref-type="bibr" rid="B8">
+          <sup>8</sup>
+        </xref> Nesse sentido, a escolha de grupos de ocupações como categoria classificatória teria
+        maior densidade explicativa do que variáveis como renda, escolaridade, riqueza, posse de
+        bens materiais, etc.</p>
+      <p>As abordagens <italic>weberianas</italic> e marxistas analisam as classes como resultantes
+        de relações sociais estruturais, i.e., a posição dos indivíduos na estrutura de classes é
+        inerente a relações sociais institucionalizadas, não correspondendo à gradação em uma
+        escala. Nessas abordagens, as classes são grupos qualitativamente distintos entre si.</p>
+      <p>Weber <xref ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B30">
+          <sup>30</sup>
+        </xref> considera que o mercado é o principal determinante das oportunidades econômicas e
+        sociais dos indivíduos. As relações no mercado de trabalho definem a estrutura de classes,
+        enquanto outras relações sociais, que estabelecem distinções entre os indivíduos como as
+        credencias educacionais, a etnia, o gênero e a religião, definem a hierarquia de status.</p>
+      <p>Weber <xref ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B30">
+          <sup>30</sup>
+        </xref> sugere que podem ser identificadas empiricamente quatro classes básicas nas
+        sociedades capitalistas ocidentais. A primeira distinção ocorre entre os que têm a
+        propriedade dos meios de produção e os que não têm. A segunda divisão depende do tipo de
+        propriedade e do tipo de serviço oferecido no mercado. O esquema resultante compreende os
+        empresários (grandes proprietários de meios de produção), a pequena burguesia (pequenos
+        proprietários), trabalhadores com credenciais acadêmicas e trabalhadores cujo único bem é
+        sua própria força de trabalho. Essas posições na estrutura de classes somam-se àquelas
+        decorrentes das hierarquias de status e configuram a estrutura social, que determina o
+        conjunto de oportunidades econômicas e sociais para os ocupantes das classes.</p>
+      <p>Na tradição marxista da análise de classes os mecanismos de dominação e exploração
+        econômica são considerados os principais determinantes da estrutura social resultante. As
+        relações de exploração estabelecem um vínculo de dependência mútua entre exploradores e
+        explorados que fundamenta as relações de classe. As relações de exploração são estruturantes
+        do processo de reprodução social, determinando não apenas a posição dos indivíduos no
+        processo de produção, mas também as regras de distribuição dos produtos e os padrões de
+        consumo. As relações sociais de produção, portanto, são a soma dos direitos e poderes que os
+        indivíduos possuem em função do modo de participação no processo produtivo. <xref
+          ref-type="bibr" rid="B14">
+          <sup>14</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B29">
+          <sup>29</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B30">
+          <sup>30</sup>
+        </xref>
+      </p>
+      <p>Bourdieu <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> discorda da formulação <italic>weberiana</italic> ao considerar que as diferenças de
+        status são manifestações das posições de classe e delas não constitutivas do ponto de vista
+        estrutural. Ele acredita que o mundo social pode ser descrito como um espaço construído por
+        princípios de diferenciação e distribuição no qual os agentes são definidos por suas
+        posições relativas nesse espaço.</p>
+      <p>O campo ou espaço social pode ser descrito como espaço multidimensional de posições
+        definidas em função de um conjunto de coordenadas. Na primeira dimensão, as posições são
+        definidas pelo volume de capital econômico e cultural dos agentes; na segunda, pela
+        composição desse capital (peso relativo de cada tipo de capital); e na terceira, diferencia
+        as posições de acordo com as trajetórias seguidas pelos agentes segundo a estabilidade ou
+        alteração experimentada ao longo do tempo no volume e composição do capital. <xref
+          ref-type="bibr" rid="B25">
+          <sup>25</sup>
+        </xref>
+      </p>
+      <p>Bourdieu postula uma relação intrínseca e necessária entre localização de classe e
+          <italic>habitus,</italic> ou conjunto de disposições socialmente constituídas que se
+        incorporam aos agentes em decorrência da experiência de pertencimento a determinada classe.
+        A relação entre <italic>habitus</italic> e práticas cotidianas configuram estilos de vida
+        que, por sua vez, constituem coletivos sociais ou grupos de status, diferenciados por
+        limites simbólicos entre agentes ocupando diferentes posições na estrutura de classe. <xref
+          ref-type="bibr" rid="B25">
+          <sup>25</sup>
+        </xref> Com base nas posições dos agentes no espaço social, é possível recortar classes, ou
+        seja, conjuntos de agentes que ocupam posições semelhantes e que submetidos a
+        condicionamentos materiais semelhantes devem compartilhar interesses, atitudes e práticas
+        sociais. <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref>
+      </p>
+      <p>Nas pesquisas em saúde as posições de classe são elementos chave na determinação do acesso
+        a recursos sociais disponíveis para promoção, proteção e recuperação da saúde. As relações
+        de classe têm consequências diretas e indiretas sobre a saúde. As relações entre classes e
+        desfechos em saúde são mediadas por mecanismos complexos de exposição diferenciada a
+        estressores, controle e autonomia nos processos de trabalho, participação na distribuição da
+        riqueza, padrões de consumo, comportamentos, elaborações simbólicas e outros processos
+        sociais existentes na vida cotidiana. <xref ref-type="bibr" rid="B23">
+          <sup>23</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B24">
+          <sup>24</sup>
+        </xref>
+      </p>
+      <p>Na literatura em saúde pública observam-se três principais abordagens ao conceito de classe
+        social: estratificação segundo variáveis econômicas ou sociais, classe social segundo a
+        abordagem marxista ou classe social segundo a concepção de Bourdieu. <xref ref-type="bibr"
+          rid="B3">
+          <sup>3</sup>
+        </xref> Nos estudos de epidemiologia social, é mais frequente o recurso à estratificação
+        social na qual a posição socioeconômica é indicada por variáveis diversas sem nenhuma
+        referência explícita ao modelo teórico ou à corrente sociológica de explicação. Embora menos
+        frequentes, existem exemplos de abordagens relacionais da estrutura de classes. <xref
+          ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref>
+      </p>
+    </sec>
+    <sec>
+      <title>POTENCIAL EXPLICATIVO DO CONCEITO DE CLASSE SOCIAL</title>
+      <p>Embora as medidas de estratificação social apresentem utilidade indiscutível na descrição e
+        na predição da distribuição dos eventos e problemas de saúde, elas têm se mostrado menos
+        apropriadas para a explicação dos mecanismos sociais que determinam a posição dos agentes
+        sociais, nos diferentes gradientes analisados. Por isso, contribuem pouco para a compreensão
+        dos determinantes sociais do processo saúde-doença.</p>
+      <p>Os conceitos relacionais de classe, em qualquer das suas abordagens teóricas, apresentam
+        maior potencial explicativo. Estudos mostram que a estratificação e a estrutura de classes
+        captam diferentes aspectos da desigualdade social em saúde e não são completamente
+        equivalentes entre si.</p>
+      <p>As análises baseadas na estratificação social são mais coerentes com a noção de que os
+        comportamentos em saúde dependem fundamentalmente do conhecimento sobre riscos e benefícios
+        associados a determinados cursos de ação. As explicações derivadas das abordagens
+        relacionais estabelecem conexão entre comportamentos e circunstâncias socioeconômicas
+        pensando os comportamentos dos agentes individuais como determinados pelas condições
+        estruturais. Na versão <italic>weberiana</italic> , a ênfase explicativa será posta na ideia
+        de oportunidades diferentes associadas às diferentes formas de participação dos agentes no
+        mercado. <xref ref-type="bibr" rid="B10">
+          <sup>10</sup>
+        </xref>
+      </p>
+      <p>Na versão marxista e na perspectiva de Bourdieu, <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> as condições materiais e simbólicas inerentes às relações sociais e relativas à
+        posição dos agentes na estrutura ou no espaço social são determinantes para as atitudes,
+        preferências, recursos, cursos de ação e, portanto, resultados para a saúde. As classes
+        sociais exercem efeitos psicológicos pervasivos nos seus membros, modelando o modo com que
+        os indivíduos constroem seu ambiente social e os comportamentos em relação aos outros. <xref
+          ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+      </p>
+      <p>A noção de <italic>habitus</italic> é útil para superar a dualidade macro-micro e
+        objetivo-subjetivo na análise de classes e suas repercussões sobre a saúde, pois se
+        apresenta como mediadora entre a estrutura social (macro-organização social) e os
+        comportamentos de grupos ou indivíduos (nível micro). Por outro lado, ao articular o capital
+        econômico (condições materiais) com o capital social e o capital cultural, permite superar a
+        dualidade subjetivo-objetivo na análise de fenômenos sociais da vida cotidiana. <xref
+          ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref>
+      </p>
+      <p>O poder explicativo do conceito de classe nas pesquisas em saúde pode ser mostrado pela sua
+        interação com variáveis preditoras, como idade, gênero, etnia e outras, todas modificadas ou
+        subsumidas pela determinação das classes sociais.</p>
+      <p>As classes sociais explicam como as desigualdades sociais são geradas e estão na base da
+        distribuição de determinantes sociais de saúde, como renda, condições de trabalho, acesso a
+        serviços de saúde, dentre outros. Os conceitos relacionais significam potencialmente maior
+        poder explicativo e maior densidade teórica na análise empírica em saúde em face das
+        abordagens convencionais centradas na estratificação social. <xref ref-type="bibr" rid="B12">
+          <sup>12</sup>
+        </xref>
+      </p>
+      <p>A análise de classes pode ser útil na explicação das desigualdades no estado de saúde e no
+        perfil epidemiológico, como também dos distintos padrões de acesso e utilização de serviços
+        e recursos de saúde em geral.</p>
+    </sec>
+    <sec>
+      <title>OS MODELOS DE OPERACIONALIZAÇÃO DE CLASSE SOCIAL</title>
+      <p>Além dos dois modelos consagrados na literatura sociológica, propostos por Goldthorpe <xref
+          ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref> e Wright, <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref> foram revisados aqueles propostos por Singer, <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> adaptados por Barros, <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref> para pesquisas em saúde, e o desenvolvido por Bronfmam &amp; Tuirán, <xref
+          ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> adaptado por Lombardi et al. <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref>
+      </p>
+      <p>O modelo desenvolvido por Goldthorpe <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref> é extensivamente usado nas análises empíricas de classe social, principalmente em
+        pesquisas sociológicas de mobilidade social. Do ponto de vista teórico, esse modelo filia-se
+        à concepção <italic>weberiana</italic> de classe social e busca estabelecer a classificação
+        dos indivíduos a partir de distinções em relação a características de inserção no mercado de
+        trabalho. O esquema é construído considerando, num primeiro nível, a situação no mercado, ou
+        seja, agrupando ocupações comparáveis em relação às condições de emprego, fonte e nível de
+        renda, segurança econômica e possibilidades de carreira. Um segundo nível de diferenciação
+        leva em conta a situação de trabalho referente à posição no sistema de autoridade e ao grau
+        de controle sobre o processo de trabalho. Um terceiro nível de diferenciação corresponde à
+        situação de emprego, que considera o tipo de contrato, número de empregados e outras. <xref
+          ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B17">
+          <sup>17</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref> O esquema resultante define três categorias e sete classes ( <xref ref-type="table"
+          rid="t01">Tabela 1</xref> ).</p>
+      <p>
+        <table-wrap id="t01">
+          <label>Tabela 1</label>
+          <caption>
+            <title>Esquema de classes de Goldthorpe <xref ref-type="bibr" rid="B7">
+                <sup>7</sup>
+              </xref> (2010).</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="95%">
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>Classes de serviço</td>
+              </tr>
+              <tr>
+                <td colspan="1" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="5">I – Profissionais com formação de nível superior, executivos e
+                  gestores de grandes empresas e grandes empregadores;</td>
+              </tr>
+              <tr>
+                <td colspan="5">II – Profissionais, gerentes e administradores de pequenos
+                  estabelecimentos ou em posições de menor autoridade na hierarquia, como os
+                  supervisores de trabalhadores não manuais;</td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Classes médias</td>
+              </tr>
+              <tr>
+                <td colspan="2" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="5">III – a) trabalhadores em atividades não manuais na administração ou
+                  no comércio; b) trabalhadores não manuais em atividades de segurança ou serviços
+                  pessoais;</td>
+              </tr>
+              <tr>
+                <td colspan="5">IV – a) pequenos proprietários e artesãos com menos de 25
+                  empregados; b) pequenos proprietários e artesãos sem empregados; c) agricultores e
+                  extrativistas por conta própria;</td>
+              </tr>
+              <tr>
+                <td colspan="5">V – Supervisores de trabalhadores manuais;</td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Classes trabalhadora</td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="5">VI – Trabalhadores manuais qualificados;</td>
+              </tr>
+              <tr>
+                <td colspan="5">VII – a) trabalhadores manuais não qualificados do setor secundário
+                  ou terciário; b) trabalhadores manuais não qualificados do setor primário.</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </p>
+      <p>É possível adotar um esquema resumido com quatro classes: classe de serviço (I+II), classes
+        intermediárias (IIIa+V), trabalhadores manuais (IIIb+VI+VII) e pequena burguesia (IV).</p>
+      <p>A Sociedade Espanhola de Epidemiologia <xref ref-type="bibr" rid="B17">
+          <sup>17</sup>
+        </xref> adaptou esse modelo para o uso em pesquisas no campo da saúde propondo um esquema
+        com cinco classes ( <xref ref-type="table" rid="t02">Tabela 2</xref> ).</p>
+      <p>
+        <table-wrap id="t02">
+          <label>Tabela 2</label>
+          <caption>
+            <title>Esquema de Goldthorpe <xref ref-type="bibr" rid="B7">
+                <sup>7</sup>
+              </xref> (2010) adaptado pela Sociedade Espanhola de Epidemiologia.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="95%">
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>I – Executivos da administração pública ou de empresas com 10 ou mais empregados
+                  e profissionais com titulação superior ou pós-graduada;</td>
+              </tr>
+              <tr>
+                <td>II – Executivos de empresas com menos de 10 empregados, profissionais com
+                  titulação superior, técnicos de nível superior, artistas e desportistas;</td>
+              </tr>
+              <tr>
+                <td>III – a) empregados administrativos e de apoio à gestão administrativa ou
+                  financeira, trabalhadores no ramo de serviços pessoais ou segurança; b) autônomos;
+                  c) supervisores;</td>
+              </tr>
+              <tr>
+                <td>IV – a) trabalhadores manuais qualificados; b) trabalhadores manuais
+                  semiqualificados;</td>
+              </tr>
+              <tr>
+                <td>V – Trabalhadores não qualificados.</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </p>
+      <p>Wright <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref> partiu da formulação de Poulantzas, <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref> que considera três eixos de determinação para as classes: o econômico, o político e
+        o ideológico. O eixo econômico é definido pela polaridade na relação de exploração e pela
+        diferenciação entre trabalho produtivo e improdutivo. Tanto no eixo político quanto no eixo
+        ideológico as distinções são feitas a partir dos conceitos de dominação e subordinação. Uma
+        dificuldade teórico-metodológica, a conceituação e operacionalização de trabalho produtivo e
+        improdutivo, e uma constatação empírica, mais de 85% da população norte-americana
+        economicamente ativa era classificada no proletariado, levaram Wright <xref ref-type="bibr"
+          rid="B27">
+          <sup>27</sup>
+        </xref> a elaborar uma proposta alternativa nos marcos da teoria marxista de análise de
+        classes.</p>
+      <p>Foram identificadas por Wright <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref> três localizações claras na estrutura de classes derivadas das relações de
+        exploração no sistema de produção capitalista: a burguesia (controle sobre investimentos,
+        processo de acumulação, meios de produção e força de trabalho empregada), o proletariado
+        (nenhum controle sobre os meios de produção) e a pequena burguesia (controle sobre
+        investimentos e meios de produção, mas sem controle sobre a força de trabalho). Wright <xref
+          ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref> propõe ainda outras três localizações que chama de contraditórias para dar conta do
+        “problema das classes médias” nas sociedades modernas. Ele postula a existência de
+        localizações contraditórias entre o proletariado e a burguesia (ocupações com distintos
+        graus de controle sobre os meios de produção exercidas por trabalhadores assalariados);
+        entre o proletariado e a pequena burguesia (empregados semiautônomos); e entre a pequena
+        burguesia e a burguesia (pequenos empregadores).</p>
+      <p>Revendo sua proposição, Wright <xref ref-type="bibr" rid="B28">
+          <sup>28</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B29">
+          <sup>29</sup>
+        </xref> reformula seu modelo e coloca maior ênfase no conceito de exploração. Nessa
+        perspectiva, a desigualdade na distribuição dos meios de produção constitui a base material
+        para o sistema de exploração e acumulação capitalista. As relações sociais de produção
+        determinam a configuração das classes sociais, e a contradição fund amental ocorre entre
+        proprietários e não proprietários dos meios de produção. Entre os proprietários, ele propõe
+        a estratificação em burguesia, pequenos empregadores e pequena burguesia de acordo com o
+        número de empregados.</p>
+      <p>Os não proprietários dos meios de produção correspondem aos trabalhadores assalariados cuja
+        localização pode ser feita a partir de dois eixos: as relações de dominação/subordinação no
+        processo de produção e a posse de qualificações ou expertises. Wright <xref ref-type="bibr"
+          rid="B27">
+          <sup>27</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B28">
+          <sup>28</sup>
+        </xref> considera que as relações de dominação também são constitutivas do processo de
+        acumulação, porque assalariados com posições de dominação atuam como delegados dos
+        capitalistas garantindo o processo de apropriação da mais-valia, além de, por meio de seus
+        salários, se apropriarem de parte dessa mais-valia. A posse de credenciais educacionais ou
+        expertise distingue parte dos assalariados em função de sua escassez no mercado de trabalho,
+        mecanismo que permite a esses assalariados apropriarem-se também de parte da mais-valia.
+        Assim, teríamos um esquema com 12 classes definidas pela combinação dos três eixos ( <xref
+          ref-type="table" rid="t03">Tabela 3</xref> ).</p>
+      <p>
+        <table-wrap id="t03">
+          <label>Tabela 3</label>
+          <caption>
+            <title>Esquema de 12 classes proposto por Wrigth <xref ref-type="bibr" rid="B27">
+                <sup>27</sup>
+              </xref> (1978).</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="20%">
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>Proprietários</td>
+                <td colspan="3" align="center">Não proprietários (trabalhadores)</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Burguesia</td>
+                <td align="center">Executivos</td>
+                <td align="center">Gerentes</td>
+                <td align="center">Gerentes não especializados</td>
+                <td align="center">Controle sobre o processo de trabalho</td>
+              </tr>
+              <tr>
+                <td>Pequenos proprietários</td>
+                <td align="center">Supervisores especialistas</td>
+                <td align="center">Supervisores</td>
+                <td align="center">Supervisores não especializados</td>
+                <td align="center">Algum controle sobre o processo de trabalho</td>
+              </tr>
+              <tr>
+                <td>Pequena burguesia</td>
+                <td align="center">Experts</td>
+                <td align="center">Trabalhadores qualificados</td>
+                <td align="center">Trabalhadores não qualificados</td>
+                <td align="center">Sem controle sobre o processo de trabalho</td>
+              </tr>
+              <tr>
+                <td> </td>
+                <td colspan="3" align="center">Expertise e credenciais educacionais</td>
+                <td> </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </p>
+      <p>Santos <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref> utiliza essa classificação para dimensionar as classes sociais na população
+        brasileira utilizando dados das Pesquisas Nacionais por Amostras de Domicílios (PNAD),
+        mostrando a possibilidade de operacionalização com dados brasileiros.</p>
+      <p>No Brasil foram usados dois esquemas de operacionalização em pesquisas no campo da saúde.
+        Um deles foi desenvolvido por Singer <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> para estudar a distribuição de renda no País e adaptado por Barros <xref
+          ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref> para inquéritos domiciliares em saúde; o outro, desenvolvido por Bronfmam &amp;
+        Tuirán <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> para estudos demográficos e adaptado por Lombardi et al, <xref ref-type="bibr"
+          rid="B11">
+          <sup>11</sup>
+        </xref> para uso em pesquisas epidemiológicas.</p>
+      <p>Singer <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> elaborou um esquema de operacionalização de classes a partir de dados disponíveis no
+        censo demográfico e na PNAD. Ele propõe um esquema de cinco classes definidas a partir da
+        posição na ocupação, nível de renda, setor de atividade e ocupação.</p>
+      <p>O autor considera a existência de duas frações de classe na burguesia: a burguesia
+        empresarial, formada pelos proprietários legais das empresas produtivas, e a burguesia
+        gerencial, composta por executivos e técnicos encarregados da administração das empresas e
+        administradores dos aparelhos de Estado (administração pública, universidades, fundações,
+        órgão de pesquisa e outros).</p>
+      <p>A pequena burguesia é constituída pelos autônomos e pequenos empregadores. O proletariado é
+        formado pelo conjunto de trabalhadores assalariados de todos os setores da economia, com
+        exceção daqueles que compõem a burguesia gerencial. Finalmente, o subproletariado é formado
+        pelos indivíduos com inserção precária no mundo do trabalho, como a população rural
+        migrante, ocupações irregulares, autônomos sem negócio, desempregados, inválidos e outros. A
+        estratégia de operacionalização adotada por Barros <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref> na adaptação da proposta de Singer está apresentada na <xref ref-type="table"
+          rid="t04">Tabela 4</xref> .</p>
+      <p>
+        <table-wrap id="t04">
+          <label>Tabela 4</label>
+          <caption>
+            <title>Estratégia de operacionalização do esquema de Singer <xref ref-type="bibr"
+                rid="B19">
+                <sup>19</sup>
+              </xref> (1981) adotado por Barros <xref ref-type="bibr" rid="B1">
+                <sup>1</sup>
+              </xref> (1986).</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="95%">
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>a) Burguesia empresarial – composta pelos empregadores com cinco ou mais
+                  empregados e renda igual ou superior a nove salários mínimos;</td>
+              </tr>
+              <tr>
+                <td>b) Burguesia gerencial – assalariados com ocupações técnicas, profissionais com
+                  educação superior e executivos;</td>
+              </tr>
+              <tr>
+                <td>c) Pequena burguesia – empregadores com até quatro empregados e renda inferior a
+                  nove salários mínimos e autônomos com negócio estabelecido;</td>
+              </tr>
+              <tr>
+                <td>d) Proletariado – assalariados no setor de comércio, serviços ou indústria
+                  exceto construção civil;</td>
+              </tr>
+              <tr>
+                <td>e) Subproletariado – assalariados do setor agrícola, construção civil ou
+                  serviços domésticos, autônomos sem negócio e aqueles fora de população
+                  economicamente ativa.</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </p>
+      <p>Bronfman &amp; Tuirán <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> desenvolveram esquema de operacionalização para a <italic>Encuesta Nacional
+          Demográfica de México</italic> . A primeira dimensão da classificação é o lugar ou posição
+        no sistema de produção (condição de atividade, posição na ocupação, setor e ramo de
+        atividade, ocupação e numero de empregados). A segunda é a propriedade dos meios de
+        produção. A terceira, o papel na organização social do trabalho (formação escolar e
+        conhecimento de ofício) e a quarta, a participação na riqueza (salário e outras fontes de
+        renda). A partir da combinação dessas dimensões, os autores chegam a um esquema de seis
+        classes: burguesia, nova pequena burguesia, pequena burguesia tradicional, proletariado não
+        típico, proletariado típico e subproletariado <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> ( <xref ref-type="table" rid="t05">Tabela 5</xref> ).</p>
+      <p>
+        <table-wrap id="t05">
+          <label>Tabela 5</label>
+          <caption>
+            <title>Esquema de operacionalização de Bronfman &amp; Tuirán <xref ref-type="bibr"
+                rid="B5">
+                <sup>5</sup>
+              </xref> (1984).</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="95%">
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>I – Burguesia – Empregadores com cinco ou mais empregados e renda ≥ 15 salários
+                  mínimos;</td>
+              </tr>
+              <tr>
+                <td>II – Nova pequena burguesia – empregador com formação universitária com até
+                  quatro empregados e/ou renda &lt; 15 salários mínimos; trabalhador por conta
+                  própria no setor industrial, comercial ou de prestação de serviços com formação
+                  universitária; e trabalhador assalariado com formação universitária ou em postos
+                  diretivos do setor industrial, comercial ou de prestação de serviços;</td>
+              </tr>
+              <tr>
+                <td>III – Pequena burguesia tradicional – empregador sem formação universitária com
+                  até quatro empregados e/ou renda &lt; 15 salários mínimos; trabalhador por conta
+                  própria sem formação universitária com negócio ou conhecimento de ofício;</td>
+              </tr>
+              <tr>
+                <td>IV – Proletariado não típico – trabalhador assalariado sem formação
+                  universitária e postos diretivos atuando no setor industrial em atividades sem
+                  relação direta com a produção ou no setor de comércio e prestação de
+                  serviços;</td>
+              </tr>
+              <tr>
+                <td>V – Proletariado típico – trabalhador por conta própria na construção civil;
+                  trabalhador assalariado sem formação universitário e posto diretivo com
+                  conhecimento de ofício na construção civil ou em outros ramos industriais;</td>
+              </tr>
+              <tr>
+                <td>VI – Subproletariado – trabalhador por conta própria ou assalariado sem formação
+                  universitária, sem estabelecimento e sem conhecimento de ofício.</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </p>
+      <p>Lombardi et al <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref> compararam a estrutura de classes da população de Pelotas, RS, classificada segundo
+        o esquema de Bronfman &amp; Tuirán <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> e aquele utilizado por Barros, observando que as principais discrepâncias ocorriam
+        em relação: a) à redução do subproletariado em decorrência da reclassificação dos
+        trabalhadores na agricultura e na construção civil, com conhecimento de ofício ou em funções
+        administrativas para outras classes, bem como dos autônomos sem negócio, mas com
+        conhecimento de ofício; b) ao aumento do proletariado pela incorporação dos reclassificados
+        provenientes do subproletariado; e c) à reclassificação da burguesia gerencial como nova
+        pequena burguesia.</p>
+      <p>De modo geral, esses são os esquemas hoje disponíveis para a operacionalização do conceito
+        de classe em perspectiva relacional. Diferenciam-se das estratificações sociais baseadas no
+        uso de variáveis socioeconômicas isoladas ou na composição ou síntese de um conjunto de
+        variáveis socioeconômicas.</p>
+    </sec>
+    <sec>
+      <title>LIMITES E POSSIBILIDADES DOS ESQUEMAS DE OPERACIONALIZAÇÃO</title>
+      <p>O processo de operacionalização de qualquer conceito apresenta um conjunto de desafios
+        conceituais, metodológicos e técnicos. Em se tratando de um conceito complexo como o de
+        classe social, essas dificuldades são ainda maiores.</p>
+      <p>Na dimensão conceitual as limitações apontadas pelos autores ou críticos desses esquemas
+        dizem respeito a três problemas principais: maior dificuldade em operacionalizar os aspectos
+        políticos do conceito por comparação aos aspectos econômicos; definição dos limites do
+        proletariado e das chamadas classes médias; dificuldade em selecionar variáveis empíricas
+        capazes de apreender certos processos em seu caráter relacional, evitando a redução à
+        simples estratificação. <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref>
+      </p>
+      <p>Com relação ao primeiro problema há críticos que simplesmente consideram a impossibilidade
+        de operacionalização do conceito de classe social. Afirmam que ele só adquire sentido como
+        ferramenta teórica em análises macrossociais, conforme desenvolvido por Marx, como categoria
+        explicativa no materialismo histórico. Outros admitem a operacionalização, mas consideram
+        que apenas os aspectos econômicos são passíveis de tradução empírica. Aqueles, como Wright
+          <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref> e Goldthorp, <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref> compreendem os aspectos econômicos e políticos como inseparáveis e creem na
+        possibilidade de traduzir qualquer conceito teórico em uma série de mecanismos, eventos e
+        experiências empíricas observáveis na realidade Solla. <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref>
+      </p>
+      <p>Quanto às definições das classes, os problemas surgem na conceituação do proletariado, na
+        configuração das classes médias e na definição de frações da burguesia. <xref
+          ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref> Poulantzas <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref> propõe que apenas os trabalhadores produtivos sejam classificados como proletários.
+        Goldthorpe <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref> e Wright <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B28">
+          <sup>28</sup>
+        </xref> classificam como proletários os trabalhadores assalariados que não têm controle
+        sobre o processo de trabalho e consideram difícil a separação empírica entre trabalho
+        produtivo e improdutivo. Segundo Wright, <xref ref-type="bibr" rid="B28">
+          <sup>28</sup>
+        </xref> a delimitação das classes médias recebe dos autores os mais diversos tratamentos,
+        incluindo desde a negação de sua existência, definição como fração das duas classes polares,
+        conceituação como fenômeno novo não teorizado anteriormente na tradição da sociologia
+        marxista ou compreensiva, até a concepção de localizações contraditórias formuladas por ele
+        para solucionar o problema.</p>
+      <p>O terceiro problema, na esfera conceitual, refere-se à tradução de determinadas categorias
+        de análise em variáveis empíricas. Conceitos como apropriação de mais-valia, autonomia e
+        controle sobre as relações de produção, qualificações e credenciais educacionais e outros
+        apresentam desafios na identificação e articulação de variáveis empíricas capazes de
+        traduzi-los adequadamente. <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref>
+      </p>
+      <p>Do ponto de vista metodológico, os principais problemas dizem respeito à classificação de
+        segmentos da população não inseridos no processo produtivo, classificação de indivíduos ou
+        grupos familiares e especificidades das formações sociais concretas.</p>
+      <p>Os diferentes autores reconhecem a necessidade de ajuste dos modelos às características de
+        cada formação social e aos objetivos da pesquisa empírica. Todos os esquemas pressupõem a
+        possibilidade de agrupamento em número menor ou maior de classes, dependendo do objeto da
+        pesquisa. <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B29">
+          <sup>29</sup>
+        </xref>
+      </p>
+      <p>As pessoas não inseridas diretamente no processo produtivo, como estudantes e donas de
+        casa, podem ser classificadas por suas relações familiares (localização de classe mediada
+        por vínculos familiares). Indivíduos permanentemente fora do mercado de trabalho podem ser
+        agrupados, constituindo uma classe de “oprimidos”, i.e., pessoas excluídas das relações
+        capitalistas de produção. <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B27">
+          <sup>27</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B30">
+          <sup>30</sup>
+        </xref> Essas soluções não são igualmente satisfatórias e na aplicação empírica acabam
+        suscitando novos problemas.</p>
+      <p>Outros problemas metodológicos importantes referem-se à trajetória de classe dos indivíduos
+        ou apenas à situação atual; escolher para um indivíduo com inserções diferentes no processo
+        produtivo aquela que o caracteriza; escolher dentre os membros de uma mesma família o membro
+        que determinará a classificação do grupo ou compor uma classificação a partir das diferentes
+        inserções de seus membros; equacionar a situação de classe das mulheres. <xref
+          ref-type="bibr" rid="B29">
+          <sup>29</sup>
+        </xref> Esses aspectos são objeto de escolhas feitas pelos pesquisadores não sem
+        consequências para os resultados empíricos obtidos.</p>
+      <p>Os modelos de operacionalização exigem amostras grandes capazes de proporcionar um número
+        mínimo necessário para as análises estatísticas, de indivíduos de todas as classes e bancos
+        de dados com variáveis suficientes e apropriadas à construção dos esquemas propostos. <xref
+          ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref> Esse é um dos aspectos que mais dificultam o uso ampliado desses esquemas de
+        operacionalização.</p>
+      <p>É necessário estabelecer pontos de cortes relativamente arbitrários para algumas das
+        variáveis utilizadas, como número de empregados, renda e outras, sem que existam
+        justificativas plenamente convincentes. <xref ref-type="bibr" rid="B17">
+          <sup>17</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref>
+      </p>
+      <p>Provavelmente o maior problema decorra do fato de a classe social ser determinante distal,
+        cuja ação é mediada por inúmeras variáveis mais ou menos autônomas, que tem sua força
+        relativamente enfraquecida após o controle dessas variáveis intervenientes nos modelos de
+        regressão usados nas pesquisas em saúde. <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B17">
+          <sup>17</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref> Os modelos de regressão são ferramentas úteis, porém rudimentares para tratar a
+        complexidade da realidade social. Nesses modelos, as classes sociais acabam sendo incluídas
+        como mais uma variável independente sem que seja possível modelar, ainda que
+        aproximadamente, as relações de determinação e mediação entre ela e as demais variáveis
+        intervenientes.</p>
+      <p>Apesar de todas as limitações listadas, a operacionalização do conceito de classe social
+        reúne maior capacidade explicativa em face da fragmentação das análises estratificadas. A
+        ampliação do uso desses esquemas permitirá avaliar até que ponto essa expectativa teórica se
+        confirmará e possibilitará o acúmulo de experiências e soluções práticas.</p>
+    </sec>
+    <sec sec-type="conclusions">
+      <title>CONSIDERAÇÕES FINAIS</title>
+      <p>Há diferentes correntes teóricas e diferentes modelos operacionais para a operacionalização
+        do conceito de classes sociais visando seu uso em pesquisas empíricas.</p>
+      <p>Do ponto de vista teórico, todas as abordagens podem ser úteis no estudo das desigualdades
+        sociais em saúde dependendo sua eleição dos autores de cada pesquisa. Nenhuma das teorias
+        apresentadas poderia ser considerada falsa. Entretanto, algumas têm maior potencial
+        explicativo do que outras, embora sirvam igualmente para a descrição dos fenômenos.</p>
+      <p>Conceitualmente, cada um dos modelos apresentados é coerente com a concepção teórica que os
+        embasam. Também não há como optar por qualquer deles, descartando os demais.</p>
+      <p>Do ponto de vista do uso empírico, provavelmente será possível diferenciar os modelos. Mas
+        essa será uma próxima etapa da pesquisa, na qual se pretende comparar empiricamente os
+        modelos apresentados.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERÊNCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Barros MBA. A utilização do conceito de classe social nos estudos dos
+          perfis epidemiológicos: uma proposta. <italic>Rev Saude Publica</italic> .
+          1986;20(4):269-73. DOI:10.1590/S0034-89101986000400001</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Barros</surname>
+              <given-names>MBA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">A utilização do conceito de classe social nos estudos dos
+            perfis epidemiológicos: uma proposta</article-title>
+          <source>Rev Saude Publica</source>
+          <year>1986</year>
+          <volume>20</volume>
+          <issue>4</issue>
+          <fpage>269</fpage>
+          <lpage>273</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89101986000400001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Blacksher CE. Healthcare disparities: the salience of social class.
+            <italic>Cam Q Healthc Ethics</italic> . 2008;17(2):143-53.
+          DOI:10.1017/S0963180108080171</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Blacksher</surname>
+              <given-names>CE</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Healthcare disparities: the salience of social
+            class</article-title>
+          <source>Cam Q Healthc Ethics</source>
+          <year>2008</year>
+          <volume>17</volume>
+          <issue>2</issue>
+          <fpage>143</fpage>
+          <lpage>153</lpage>
+          <pub-id pub-id-type="doi">10.1017/S0963180108080171</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Bourdieu P. O poder simbólico. Rio de Janeiro: Bertrand Brasil;
+          1989.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Bourdieu</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">O poder simbólico</source>
+          <publisher-loc>Rio de Janeiro</publisher-loc>
+          <publisher-name>Bertrand Brasil</publisher-name>
+          <year>1989</year>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Breen R. Foundations of a neo-Weberian class analysis. In: Wrigth EO,
+          editors. Approaches to class analysis. Cambridge: Cambridge University Press;
+          2005.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Breen</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <chapter-title>Foundations of a neo-Weberian class analysis</chapter-title>
+          <person-group>
+            <name>
+              <surname>Wrigth</surname>
+              <given-names>EO</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Approaches to class analysis</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <year>2005</year>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Bronfman M, Tuirán RA. La desigualdade social ante la muerte: clases
+          sociales y mortalidade en la ni-ez. <italic>Cuad Med Soc.</italic>
+          1984;29/30:53-75.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Bronfman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tuirán</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="es">La desigualdade social ante la muerte: clases sociales y
+            mortalidade en la ni-ez</article-title>
+          <source>Cuad Med Soc</source>
+          <year>1984</year>
+          <volume>29/30</volume>
+          <fpage>53</fpage>
+          <lpage>75</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation>. Goldthorpe J, Marshall G. The promising future of class analysis: a
+          response to recent critiques. <italic>Sociology</italic> . 1992;26(3):381-400.
+          DOI:10.1177/0038038592026003002</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Goldthorpe</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Marshall</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">The promising future of class analysis: a response to recent
+            critiques</article-title>
+          <source>Sociology</source>
+          <year>1992</year>
+          <volume>26</volume>
+          <issue>3</issue>
+          <fpage>381</fpage>
+          <lpage>400</lpage>
+          <pub-id pub-id-type="doi">10.1177/0038038592026003002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation>. Goldthorpe J. Analysing social inequality: a critique of two recent
+          contributions from economics and epidemiology. <italic>Eur Sociol Rev.</italic>
+          2010;26(6):731-44. DOI:10.1093/esr/jcp046</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Goldthorpe</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Analysing social inequality: a critique of two recent
+            contributions from economics and epidemiology</article-title>
+          <source>Eur Sociol Rev</source>
+          <year>2010</year>
+          <volume>26</volume>
+          <issue>6</issue>
+          <fpage>731</fpage>
+          <lpage>744</lpage>
+          <pub-id pub-id-type="doi">10.1093/esr/jcp046</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation>. Grusky D, Galescu G. Foundations of a neo-Durkheimian class analysis. In:
+          Wrigth EO, editors. Approaches to class analysis. Cambridge: Cambridge University Press;
+          2005.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Grusky</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Galescu</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <chapter-title>Foundations of a neo-Durkheimian class analysis</chapter-title>
+          <person-group>
+            <name>
+              <surname>Wrigth</surname>
+              <given-names>EO</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Approaches to class analysis</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <year>2005</year>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation>. Kawachi I, Kennedy BP. The health of nations. New York: The New Press;
+          2002.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Kawachi</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Kennedy</surname>
+              <given-names>BP</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">The health of nations</source>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>The New Press</publisher-name>
+          <year>2002</year>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation>. Lindbladh E, Lyttkens CH, Hanson BS, Östergren P, Isacsson SO, Lindgren B.
+          An economic and sociological interpretation of social differrences in health-related
+          behaviours and encounter as a guide to social epidemiology. <italic>Soc Sci Med.</italic>
+          1996;43(12):1817-27. DOI:10.1016/S0277-9536(96)00087-1</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Lindbladh</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lyttkens</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Hanson</surname>
+              <given-names>BS</given-names>
+            </name>
+            <name>
+              <surname>Östergren</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Isacsson</surname>
+              <given-names>SO</given-names>
+            </name>
+            <name>
+              <surname>Lindgren</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">An economic and sociological interpretation of social
+            differrences in health-related behaviours and encounter as a guide to social
+            epidemiology</article-title>
+          <source>Soc Sci Med</source>
+          <year>1996</year>
+          <volume>43</volume>
+          <issue>12</issue>
+          <fpage>1817</fpage>
+          <lpage>1827</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0277-9536(96)00087-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation>. Lombardi C, Bronfman M, Facchini LA, Victora CG, Barros FC, Beria JU, et
+          al. Operacionalização do conceito de classe social em estudos epidemiológicos. <italic>Rev
+            Saude Publica</italic> . 1988;22(4):253-65.
+          DOI:10.1590/S0034-89101988000400001</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Lombardi</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Bronfman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Facchini</surname>
+              <given-names>LA</given-names>
+            </name>
+            <name>
+              <surname>Victora</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Barros</surname>
+              <given-names>FC</given-names>
+            </name>
+            <name>
+              <surname>Beria</surname>
+              <given-names>JU</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="pt">Operacionalização do conceito de classe social em estudos
+            epidemiológicos</article-title>
+          <source>Rev Saude Publica</source>
+          <year>1988</year>
+          <volume>22</volume>
+          <issue>4</issue>
+          <fpage>253</fpage>
+          <lpage>265</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89101988000400001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation>. Muntaner C, Borrell C, Solá J, Marí-Dell’Olmo M, Chung H, Rodríguez-Sanz
+          M, et al. Capitalists, manangers, profissionals and mortality: findings from the Barcelona
+          social class and all cause mortality longitudinal study. <italic>Scand J Public
+            Health</italic> . 2009;37(8):826-38. DOI:10.1177/1403494809346870</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Muntaner</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Borrell</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Solá</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Marí-Dell’Olmo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Rodríguez-Sanz</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Capitalists, manangers, profissionals and mortality: findings
+            from the Barcelona social class and all cause mortality longitudinal
+            study</article-title>
+          <source>Scand J Public Health</source>
+          <year>2009</year>
+          <volume>37</volume>
+          <issue>8</issue>
+          <fpage>826</fpage>
+          <lpage>838</lpage>
+          <pub-id pub-id-type="doi">10.1177/1403494809346870</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation>. Muntaner C, Borrell C, Vanroelen C, Chung H, Benach J, Kim IH, et al.
+          Employment relations, social class and health: a review and analysis of conceptual and
+          measurement alternatives. <italic>Soc Sci Med.</italic> 2010;71(12):2130-40.
+          DOI:10.1016/j.socscimed.2010.09.038</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Muntaner</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Borrell</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Vanroelen</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Benach</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>IH</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Employment relations, social class and health: a review and
+            analysis of conceptual and measurement alternatives</article-title>
+          <source>Soc Sci Med</source>
+          <year>2010</year>
+          <volume>71</volume>
+          <issue>12</issue>
+          <fpage>2130</fpage>
+          <lpage>2140</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.socscimed.2010.09.038</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation>. Muntaner C, Borrell C, Solá J, Marí-Dell’Olmo M, Chung H, Rodriguez-Sanz
+          M, et al. Class relations and all causa mortality: a test of Wright’s social class scheme
+          using the Barcelona 2000 Health Interview Study. <italic>Inter J Health Ser.</italic>
+          2011;41(3):431-58. DOI:10.2190/HS.41.3.c</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Muntaner</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Borrell</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Solá</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Marí-Dell’Olmo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chung</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Rodriguez-Sanz</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Class relations and all causa mortality: a test of Wright’s
+            social class scheme using the Barcelona 2000 Health Interview Study</article-title>
+          <source>Inter J Health Ser</source>
+          <year>2011</year>
+          <volume>41</volume>
+          <issue>3</issue>
+          <fpage>431</fpage>
+          <lpage>458</lpage>
+          <pub-id pub-id-type="doi">10.2190/HS.41.3.c</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation>. Piff PK, Kraus MW, Cote S, Cheng BH, Keltner D. Having less, giving more:
+          the influence of social class on prosocial behaviors. <italic>J Pers Soc Psychol.</italic>
+          2010; 99(5):771-84. DOI:10.1037/a0020092</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Piff</surname>
+              <given-names>PK</given-names>
+            </name>
+            <name>
+              <surname>Kraus</surname>
+              <given-names>MW</given-names>
+            </name>
+            <name>
+              <surname>Cote</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>BH</given-names>
+            </name>
+            <name>
+              <surname>Keltner</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Having less, giving more: the influence of social class on
+            prosocial behaviors</article-title>
+          <source>J Pers Soc Psychol</source>
+          <year>2010</year>
+          <volume>99</volume>
+          <issue>5</issue>
+          <fpage>771</fpage>
+          <lpage>784</lpage>
+          <pub-id pub-id-type="doi">10.1037/a0020092</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation>. Poulantzas N. As clases sociais no capitalismo de hoje. Rio de Janeiro.
+          Editora Zahar, 1978.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Poulantzas</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">As clases sociais no capitalismo de hoje</source>
+          <publisher-loc>Rio de Janeiro</publisher-loc>
+          <publisher-name>Editora Zahar</publisher-name>
+          <year>1978</year>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <mixed-citation>. Regidor E. La clasificacion de clase social de Goldthorpe: marco de
+          referencia para La propuesta de medición de La clase social Del grupo de trabajo de La
+          Sociedad Espa-ola de Epidemiologia. <italic>Rev Esp Salud Publica.</italic>
+          2001;75(1):13-22. DOI:10.1590/S1135-57272001000100003</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Regidor</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="es">La clasificacion de clase social de Goldthorpe: marco de
+            referencia para La propuesta de medición de La clase social Del grupo de trabajo de La
+            Sociedad Espa-ola de Epidemiologia</article-title>
+          <source>Rev Esp Salud Publica</source>
+          <year>2001</year>
+          <volume>75</volume>
+          <issue>1</issue>
+          <fpage>13</fpage>
+          <lpage>22</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1135-57272001000100003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <mixed-citation>. Santos JAF. Efeitos de classe na desigualdade racial no Brasil.
+            <italic>Dados.</italic> 2005;48(1):21-65.
+          DOI:10.1590/S0011-52582005000100003</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Santos</surname>
+              <given-names>JAF</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Efeitos de classe na desigualdade racial no
+            Brasil</article-title>
+          <source>Dados</source>
+          <year>2005</year>
+          <volume>48</volume>
+          <issue>1</issue>
+          <fpage>21</fpage>
+          <lpage>65</lpage>
+          <pub-id>10.1590/S0011-52582005000100003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <mixed-citation>. Santos JAF. Uma classificação socioeconômica para o Brasil. <italic>Rev
+            Bras Ci Soc.</italic> 2005;20(58):27-46.
+          DOI:10.1590/S0102-69092005000200002</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Santos</surname>
+              <given-names>JAF</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Uma classificação socioeconômica para o
+            Brasil</article-title>
+          <source>Rev Bras Ci Soc</source>
+          <year>2005</year>
+          <volume>20</volume>
+          <issue>58</issue>
+          <fpage>27</fpage>
+          <lpage>46</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-69092005000200002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <mixed-citation>. Singer P. Dominação e desigualdade: estrutura de classes e repartição de
+          renda no Brasil. Rio de Janeiro: Editora Paz e Terra; 1981.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Singer</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">Dominação e desigualdade: estrutura de classes e repartição de renda
+            no Brasil</source>
+          <publisher-loc>Rio de Janeiro</publisher-loc>
+          <publisher-name>Editora Paz e Terra</publisher-name>
+          <year>1981</year>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <mixed-citation>. Solla JJSP. Problemas e limites da utilização do conceito de classe social
+          em investigações epidemiológicas: uma revisão critica da literatura. <italic>Cad Saude
+            Publica</italic> . 1996;12(2):207-16.
+          DOI:10.1590/S0102-311X1996000200009</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Solla</surname>
+              <given-names>JJSP</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Problemas e limites da utilização do conceito de classe
+            social em investigações epidemiológicas: uma revisão critica da
+            literatura</article-title>
+          <source>Cad Saude Publica</source>
+          <year>1996</year>
+          <volume>12</volume>
+          <issue>2</issue>
+          <fpage>207</fpage>
+          <lpage>216</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X1996000200009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <mixed-citation>. Solla JJSP. Diferenças nas propostas de operacionalização do conceito de
+          classe social empregadas em estudos epidemiológicos. <italic>Cad Saude Publica</italic> .
+          1996;12(3):329-37. DOI:10.1590/S0102-311X1996000300006</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Solla</surname>
+              <given-names>JJSP</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Diferenças nas propostas de operacionalização do conceito de
+            classe social empregadas em estudos epidemiológicos</article-title>
+          <source>Cad Saude Publica</source>
+          <year>1996</year>
+          <volume>12</volume>
+          <issue>3</issue>
+          <fpage>329</fpage>
+          <lpage>337</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X1996000300006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <mixed-citation>. Vanroelen C, Levecque K, Moors G, Louckx F. Linking credentialed skills,
+          social class, working conditions and self-reported health: a focus on health inequality
+          –generating mechanisms. <italic>Sociol Health Iln.</italic> 2010;32(6):948-64.
+          DOI:10.1111/j.1467-9566.2010.01260.x</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Vanroelen</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Levecque</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Moors</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Louckx</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Linking credentialed skills, social class, working conditions
+            and self-reported health: a focus on health inequality –generating
+            mechanisms</article-title>
+          <source>Sociol Health Iln</source>
+          <year>2010</year>
+          <volume>32</volume>
+          <issue>6</issue>
+          <fpage>948</fpage>
+          <lpage>964</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1467-9566.2010.01260.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <mixed-citation>. Veentra G. Social space, social class and Bourdieu: healyh inequalities in
+          Britsh Columbia, Canada. <italic>Health Place</italic> . 2007;13(1):14-31.
+          DOI:10.1016/j.healthplace.2005.09.011</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Veentra</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Social space, social class and Bourdieu: healyh inequalities
+            in Britsh Columbia, Canada</article-title>
+          <source>Health Place</source>
+          <year>2007</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>14</fpage>
+          <lpage>31</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.healthplace.2005.09.011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <mixed-citation>. Weininger EB. Foundations of Pierre Bourdier’s class analysis. In: Wrigth
+          EO, editor. Approaches to class analysis. Cambridge: Cambridge University Press;
+          2005.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Weininger</surname>
+              <given-names>EB</given-names>
+            </name>
+          </person-group>
+          <chapter-title>Foundations of Pierre Bourdier’s class analysis</chapter-title>
+          <person-group>
+            <name>
+              <surname>Wrigth</surname>
+              <given-names>EO</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Approaches to class analysis</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <year>2005</year>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <mixed-citation>. Wilkinson RG. Unhealthy Societes. London: Routledge; 1996.
+          DOI:10.4324/9780203421680</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>RG</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Unhealthy Societes</source>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Routledge</publisher-name>
+          <year>1996</year>
+          <pub-id pub-id-type="doi">10.4324/9780203421680</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27">
+        <label>27</label>
+        <mixed-citation>. Wrigth EO. Class, crisis &amp; the State. London: Verso;
+          1978.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Wrigth</surname>
+              <given-names>EO</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Class, crisis &amp; the State</source>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Verso</publisher-name>
+          <year>1978</year>
+        </element-citation>
+      </ref>
+      <ref id="B28">
+        <label>28</label>
+        <mixed-citation>. Wright EO. The debate on classes. London: Verso; 1989.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Wright</surname>
+              <given-names>EO</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">The debate on classes</source>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Verso</publisher-name>
+          <year>1989</year>
+        </element-citation>
+      </ref>
+      <ref id="B29">
+        <label>29</label>
+        <mixed-citation>. Wright EO. Approaches to class analysis. Cambridge: Cambridge University
+          Press; 2005. DOI:10.1017/CBO9780511488900</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Wright</surname>
+              <given-names>EO</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Approaches to class analysis</source>
+          <publisher-loc>Cambridge</publisher-loc>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <year>2005</year>
+          <pub-id pub-id-type="doi">10.1017/CBO9780511488900</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30">
+        <label>30</label>
+        <mixed-citation>. Wrigth EO. Understanding class: towards an integrated approach. New Left
+          Rev. 2009; 60:101-16.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Wrigth</surname>
+              <given-names>EO</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Understanding class: towards an integrated
+            approach</article-title>
+          <source>New Left Rev</source>
+          <year>2009</year>
+          <volume>60</volume>
+          <fpage>101</fpage>
+          <lpage>116</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Special Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Social class: concepts and operationalization models in health
+          research</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Barata</surname>
+            <given-names>Rita Barradas</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ribeiro</surname>
+            <given-names>Manoel Carlos Sampaio de Almeida</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Silva</surname>
+            <given-names>Zilda Pereira da</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Antunes</surname>
+            <given-names>José Leopoldo Ferreira</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">II</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff3">
+        <label>I</label> Departamento de Medicina Social. Faculdade de Ciências Médicas Santa Casa
+        de São Paulo. São Paulo, SP ,Brasil</aff>
+      <aff id="aff4">
+        <label>II</label> Departamento de Epidemiologia. Faculdade de Saúde Pública. Universidade
+        de São Paulo. São Paulo, SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondence</bold> : Rita Barradas Barata. Rua Dr. Cesário Mota Jr, 61. 01221-020
+          São Paulo, SP, Brasil. E-mail: rita.barradasbarata@gmail.com</corresp>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <p>This article discusses the use of the concept of class in health research, different
+          sociological approaches to social stratification and class structure, and the explanatory
+          potential of the class concept in studies on social determinants and health inequalities.
+          It also elaborates on the operationalization models that have been developed for use in
+          sociological, demographic, or health research, as well as the limitations and scope of
+          these models. Four main operationalization models were highlighted: the model developed by
+          Singer for studies on income distribution in Brazil and adapted by Barros for use in
+          epidemiological research, the model of Bronfman and Tuirán to study the Mexican
+          demographics census and adapted by Lombardi for epidemiological research, the model
+          proposed by Goldthorpe for socioeconomic studies in the UK and adapted by the Spanish
+          Society of Epidemiology, and the model proposed by Wright for research in sociology and
+          political science, which has also been used in population surveys in health. In
+          conclusion, each of the models presented is consistent with their underlying theoretical
+          concept, precluding the selection of one model over the others.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Social Class</kwd>
+        <kwd>Social Conditions</kwd>
+        <kwd>Models</kwd>
+        <kwd>Organizational</kwd>
+        <kwd>Social Sciences</kwd>
+        <kwd>Health Surveys</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>In the 1970s, in view of the economic processes that led to the rapid growth of income
+          inequality and new forms of social exclusion, social scientists sought to formulate
+          operationalization models for the concept of social class that could be used in empirical
+          research aimed at accurate documentation of these phenomena. <xref ref-type="bibr"
+            rid="B9">
+            <sup>9</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B26">
+            <sup>26</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref>
+        </p>
+        <p>The operationalization of the concept of social class has gained prominence in Latin
+          America and has led many researchers to develop operationalization models for use in
+          empirical research in the field of health care. <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref> However, in the 90s, conceptual and methodological difficulties decreased interest
+          in the topic. <xref ref-type="bibr" rid="B21">
+            <sup>21</sup>
+          </xref>
+        </p>
+        <p>Social dynamics has itself reestablished the importance of social class analysis. Factors
+          such as globalization, increase in risk situations due to the erosion of welfare
+          protection and restrictions imposed on social policies such as job security, minimum
+          wages, social security, universal health systems, and others eventually reintroduced
+          concern on social inequalities. In the last decade, an interest in the study of social
+          determinants and formulation of public policies that can effectively decrease social
+          inequalities in health reopened the discussion on the use of social class concepts as one
+          of the key elements in the process of social reproduction.</p>
+        <p>Despite the general improvement in health status in high- and middle-income nations and
+          the increase in public and private spending on health, social inequalities have apparently
+          not decreased.</p>
+        <p>Social class is a key category for studies on social determinants of health-disease
+          processes, considering that health risks tend to accumulate at different rates according
+          to social class and position in the social structure. The better the class position in the
+          social scheme, the greater the likelihood that class members will enjoy longer and
+          healthier lives. <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref> On the other hand, socially disadvantaged groups in the social structure face a
+          disproportionate burden of injuries, illnesses, and death compared with better positioned
+          groups. <xref ref-type="bibr" rid="B2">
+            <sup>2</sup>
+          </xref>
+        </p>
+        <p>Undeniably, class position determines many aspects of material life by defining access to
+          and possession of material resources, everyday life activities, and vulnerability to
+          numerous determinants of health and disease. Furthermore, class position influences the
+          perception of health problems and the search for solutions.</p>
+        <p>This article aims to highlight the relevance of the concept of class to epidemiological
+          studies. It analyzes differences between social stratification (functionalist approach)
+          and class structure (comprehensive or dialectic approach), discusses the theoretical
+          density of empirical health research concepts, lists the main operationalization models
+          available, and indicates the limitations and scopes of the empirical use of the concept in
+          health research.</p>
+      </sec>
+      <sec>
+        <title>ARGUMENTS IN FAVOR OF THE USE OF SOCIAL CLASS CONCEPTS IN EMPIRICAL RESEARCH</title>
+        <p>The sociologists Wright and Goldthorpe developed the most renowned conceptual and
+          operationalization models of social class in contemporary sociology for use in empirical
+          research. <xref ref-type="bibr" rid="B18">
+            <sup>18</sup>
+          </xref>
+        </p>
+        <p>According to Wright, <xref ref-type="bibr" rid="B29">
+            <sup>29</sup>
+          </xref> perhaps the most important issue in contemporary sociological research, for which
+          class analysis can provide relevant answers, is related to inequalities in opportunity and
+          material living standards. According to him, almost all current sociological schools of
+          thought have explored class analysis, although the concepts may be different in each of
+          these traditions of thought.</p>
+        <p>Wright <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref> emphasizes the need for empirical research as a valuable resource to explain
+          social phenomena and argues that quantitative research may be useful outside the tradition
+          of functionalist sociology. He also claims that the Marxist theory can generate real world
+          propositions that can be studied empirically using both quantitative and qualitative
+          approaches.</p>
+        <p>For Wright, <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref> there are several modes of determination, such as concepts or theoretical
+          categories, and empirical phenomena, which can be organized into models. These models are
+          schematic representations of the interactions between modes of determination in a given
+          structural process. Moreover, these models can be viewed as symbolic maps or structured
+          wholes used to mediate the knowledge of reality. In later work, Wright <xref
+            ref-type="bibr" rid="B28">
+            <sup>28</sup>
+          </xref> returned to this topic, using Bhaskar formulations to emphasize the importance of
+          empirical research. Bhaskar had established an epistemological position that was
+          intermediate between naive realism and idealism and had proposed a distinction between
+          three domains of reality, namely the real, the actual, and the empirical, and these
+          corresponded to three ontological categories, namely mechanisms, events, and experiences,
+          respectively. Mechanisms generate events, and together with specific conditions of
+          perception and observation, create experiences. Therefore, theories are regarded as
+          preconditions to understand empirical regularities and reveal the importance given to the
+          formulation and operationalization of concepts.</p>
+        <p>Wright restates his goal to formulate a class structure concept that can be used in the
+          analysis of microsocial processes, i.e., processes applicable to the study of everyday
+          life. The operationalization model is designed so as to comprehend class structure, which
+          is a real mechanism that exists independently of the theory used to study it.</p>
+        <p>Goldthorpe and Marshall <xref ref-type="bibr" rid="B6">
+            <sup>6</sup>
+          </xref> start from a Weberian conception of social class, and stress the importance of
+          class analysis in the study of the relationship between class structure and social
+          mobility, social inequalities, and social action. For these authors, class analysis is a
+          research program that can perfectly incorporate distinct sociological theories.</p>
+        <p>Class conditions affect material interests, life experiences, and the capacity for
+          collective action. It allows access to productive resources and shapes work and
+          consumption experiences, leading to second-order effects on health, attitudes, tastes,
+          etc. <xref ref-type="bibr" rid="B18">
+            <sup>18</sup>
+          </xref> Clearly, social inequalities cannot be reduced to class inequalities, but class
+          relations play a decisive role in the modulation of other forms of inequality such as
+          ethnic and gender inequalities. <xref ref-type="bibr" rid="B19">
+            <sup>19</sup>
+          </xref>
+        </p>
+        <p>It is precisely in this perspective that class concepts can be useful in epidemiological
+          studies, in which one attempts to explain the social inequalities and identify the effects
+          that class position can have on different health-disease aspects at the population
+          level.</p>
+      </sec>
+      <sec>
+        <title>DIFFERENT SOCIOLOGICAL APPROACHES IN CLASS ANALYSIS: STRATIFICATION VS. CLASS
+          STRUCTURE</title>
+        <p>All forms of social class analysis can potentially contribute to a better understanding
+          of the microsocial and macrosocial processes involved in the production of social
+          inequalities. <xref ref-type="bibr" rid="B30">
+            <sup>30</sup>
+          </xref> Social inequalities can be studied in attributive or relational terms, focusing
+          predominantly on attribute distributions or structural processes of social reproduction.
+            <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+        </p>
+        <p>Many class analysis theorists make distinctions between stratification and structure
+          concepts, reserving the term stratification to approaches that identify classes on the
+          basis of attribute distribution and material conditions and defining the boundaries of the
+          strata more or less arbitrarily or through statistical measures of distribution. That way,
+          the class concept would correspond to a cluster of economic and social attributes. The
+          terminology used in stratification models usually differentiates between upper, middle,
+          and lower classes in line with the method of cluster construction and on the basis of the
+          position of individuals in a rank of continuous values. From a theoretical standpoint,
+          these approaches are most useful for descriptive purposes. <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B30">
+            <sup>30</sup>
+          </xref>
+        </p>
+        <p>A variant of the stratification concept is the classification based on occupational
+          clustering. This type of class analysis is based on Durkheim’s concept of labor division.
+          The occupational groupings correspond to certain lifestyles, consumption practices, group
+          associations to fight for common interests, and subjective perceptions, among others. The
+          classification is based on the identification of “units of occupation”, i.e., a set of
+          technically similar activities institutionalized in the labor market through trade unions
+          or associations. The classification is also based on the requirement of certain licenses
+          or credentials (titles), skills, and other characteristics. <xref ref-type="bibr" rid="B8">
+            <sup>8</sup>
+          </xref> In this sense, the choice of occupational groups as a classification category
+          would have more explanatory power compared with variables such as income, education,
+          wealth, and material possessions.</p>
+        <p>The approaches by Weber and Marx analyze classes as a result of structural social
+          relations, i.e., the position of individuals in the class structure is inherent to
+          institutionalized social relations and does not correspond to grading on a scale. In these
+          approaches, classes are qualitatively distinct groups.</p>
+        <p>Weber <xref ref-type="bibr" rid="B4">
+            <sup>4</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B30">
+            <sup>30</sup>
+          </xref> believes that the market is the main determinant of economic and social
+          opportunities for individuals. Labor market relations define the class structure, whereas
+          other social relations, which distinguish individuals on the basis of educational
+          credentials, ethnicity, gender, and religion, define the hierarchy of status.</p>
+        <p>Weber <xref ref-type="bibr" rid="B4">
+            <sup>4</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B30">
+            <sup>30</sup>
+          </xref> suggested that four basic classes can be empirically identified in Western
+          capitalist societies. The first distinction is between those who own the means of
+          production and those who do not. The second division depends on the property type and the
+          service type offered in the market. The resulting scheme comprises entrepreneurs (major
+          owners of the means of production), the small bourgeoisie (smallholders), workers with
+          academic credentials, and individuals whose only asset is their own labor. These positions
+          in the class structure are added to those arising from status hierarchies and can shape
+          the social structure, which determines the set of economic and social opportunities for
+          the class occupants.</p>
+        <p>In the Marxist tradition of class analysis, the mechanisms of domination and economic
+          exploitation are considered to be the main determinants of the resulting social structure.
+          Exploitative relations establish a bond of mutual dependence between the exploiters and
+          the exploited, which is the basis of class relations. Exploitative relations are
+          fundamental to the social reproduction process, determining not only the position of
+          individuals in the production process but also the rules of product distribution and
+          consumption patterns. Therefore, the social relations of production comprise the sum of
+          the rights and authorities that individuals have on the basis of their form of
+          participation in the productive process. <xref ref-type="bibr" rid="B14">
+            <sup>14</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B29">
+            <sup>29</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B30">
+            <sup>30</sup>
+          </xref>
+        </p>
+        <p>Bourdieu <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> disagrees with the Weberian formulation by considering that status differences are
+          manifestations of class positions and, from the structural standpoint, are not derived
+          from these positions. He believes that the social world can be described as a space
+          constructed by principles of differentiation and distribution in which agents are defined
+          by their relative positions in that space.</p>
+        <p>The social field or space can be described as a multidimensional space of positions
+          defined according to a set of coordinates. In the first dimension, the positions are
+          defined by the volume of economic and cultural capital of the agents; in the second
+          dimension, they are defined by the composition of capital (relative weight of each type of
+          capital); in the third dimension, they are defined by the trajectories followed by the
+          agents according to the stability or change in capital volume and composition that they
+          experiment over time. <xref ref-type="bibr" rid="B25">
+            <sup>25</sup>
+          </xref>
+        </p>
+        <p>Bourdieu postulated an intrinsic and necessary relationship between class location and
+          habitus, which is a set of socially established provisions that the agents incorporate as
+          a result of the experience of belonging to a certain class. The relationship between
+          habitus and everyday practices configures lifestyles that, in turn, constitute social
+          collectives or status groups differentiated by the symbolic boundaries between the
+          different positions in the class structure occupied by the agents. <xref ref-type="bibr"
+            rid="B25">
+            <sup>25</sup>
+          </xref> Based on the positions of agents in the social space, it is possible to delineate
+          classes, i.e., sets of agents who occupy similar positions and who, when subjected to
+          similar material limitations, must share similar interests, attitudes, and social
+          practices. <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref>
+        </p>
+        <p>In health research, class position is a key element in determining access to social
+          resources that are available for promotion, protection, and recovery of health. Class
+          relations have direct and indirect consequences on health. Relations between classes and
+          health outcomes are mediated by complex mechanisms of differential exposure to stressors,
+          control and autonomy in labor processes, participation in wealth distribution, consumption
+          patterns, behaviors, symbolic elaborations, and other social processes present in everyday
+          life. <xref ref-type="bibr" rid="B23">
+            <sup>23</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B24">
+            <sup>24</sup>
+          </xref>
+        </p>
+        <p>In the public health literature, three main approaches to the social class concept have
+          been observed: stratification according to economic or social variables, social class
+          according to the Marxist approach, or social class according to the conception of
+          Bourdieu. <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> In social epidemiology studies, the use of social stratification is more frequent,
+          wherein the socioeconomic position is indicated by several variables without any explicit
+          reference to the theoretical model or the sociological school of thought. Although less
+          common, there are examples of relational approaches to class structures. <xref
+            ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+        </p>
+      </sec>
+      <sec>
+        <title>EXPLANATORY POTENTIAL OF THE SOCIAL CLASS CONCEPT</title>
+        <p>Although social stratification measures are very useful in describing and predicting the
+          distribution of events and health problems, they have been less suitable to explain the
+          social mechanisms that determine the position of social agents in the different gradients
+          analyzed. Therefore, these measures have contributed little to the understanding of the
+          social determinants of the health-disease processes.</p>
+        <p>The relational concepts of class, in any of their theoretical approaches, have greater
+          explanatory potential. Studies show that stratification and class structure capture
+          various aspects of social inequality in health and are not completely similar to each
+          other.</p>
+        <p>Analyses based on social stratification are more consistent with the notion that health
+          behaviors depend fundamentally on knowledge of the risks and benefits associated with
+          particular courses of action. The explanations derived from relational approaches
+          establish a connection between socioeconomic behaviors and circumstances, considering that
+          behaviors of individual agents are determined by structural conditions. In the Weberian
+          version, the explanatory emphasis is placed on the idea of different opportunities
+          associated with different forms of agent participation in the market. <xref
+            ref-type="bibr" rid="B10">
+            <sup>10</sup>
+          </xref>
+        </p>
+        <p>In the Marxist version and in Bourdieu’s perspective, <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> the material and symbolic conditions inherent to social relations and related to
+          the agent’s position in the social structure or social space are determinants of
+          attitudes, preferences, resources, courses of action, and, consequently, health outcomes.
+          Social classes exert pervasive psychological effects on their members, shaping the way
+          individuals construct their social environment and behavior in relation to others. <xref
+            ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref>
+        </p>
+        <p>The notion of habitus is useful to overcome the macro-micro and objective-subjective
+          dualities in the analysis of class and its impact on health because it mediates social
+          structure (macrosocial organization) and the behavior of groups or individuals
+          (micro-organization). On the other hand, by connecting the economic capital (material
+          conditions) with the social and cultural capital, the subjective-objective duality in the
+          analysis of social phenomena in everyday life is overcome. <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref>
+        </p>
+        <p>The explanatory capacity of class concepts in health research can be demonstrated by
+          their interaction with predictors such as age, gender, and ethnicity, all of which are
+          modified or subsumed by social class determinants.</p>
+        <p>Social classes explain how social inequalities are generated and are the basis for the
+          distribution of social determinants of health, such as income, working conditions, and
+          access to health services. The relational concepts have a potentially greater explanatory
+          power and higher theoretical density in health-related empirical analyses compared with
+          conventional approaches focused on social stratification. <xref ref-type="bibr" rid="B12">
+            <sup>12</sup>
+          </xref>
+        </p>
+        <p>Class analysis can be useful in explaining disparities in health status and
+          epidemiological profile as well as in explaining distinct patterns of access and use of
+          health services and resources in general.</p>
+      </sec>
+      <sec>
+        <title>OPERATIONALIZATION MODELS OF SOCIAL CLASS</title>
+        <p>In addition to the two models embodied in the sociological literature and proposed by
+          Goldthorpe <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref> and Wright <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref> , other models have been reviewed, such as the one proposed by Singer <xref
+            ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> and adapted by Barros <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref> for health research and the one developed by Bronfman and Tuirán <xref
+            ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> and adapted by Lombardi et al. <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref>
+        </p>
+        <p>The model developed by Goldthorpe <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref> is extensively used for the empirical analyses of social class, particularly in
+          sociological research on social mobility. From the theoretical point of view, this model
+          agrees with the Weberian conception of social class and seeks to establish the
+          classification of individuals based on different characteristics of integration in the
+          labor market. The scheme is constructed after considering, at a first level, the situation
+          in the market, i.e., by grouping occupations that are similar in terms of employment
+          conditions, source and level of income, financial security, and career prospects. A second
+          level of differentiation takes into account the labor situation with regard to the
+          position within the authority hierarchy and the level of control over the labor process. A
+          third level of differentiation corresponds to employment, which considers the type of
+          contract, number of employees, and other factors. <xref ref-type="bibr" rid="B4">
+            <sup>4</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B17">
+            <sup>17</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B18">
+            <sup>18</sup>
+          </xref> The resulting scheme defines three categories and seven classes ( <xref
+            ref-type="table" rid="t06">Table 1</xref> ).</p>
+        <p>
+          <table-wrap id="t06">
+            <label>Table 1</label>
+            <caption>
+              <title>Goldthorpe class diagram <xref ref-type="bibr" rid="B7">
+                  <sup>7</sup>
+                </xref> (2010).</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="95%">
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td colspan="2" style="border-bottom: thin solid; border-color: #000000">Classes
+                    of service  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">I - Professionals with higher education, executives, and managers
+                    of large companies and major employers;</td>
+                </tr>
+                <tr>
+                  <td colspan="2" style="border-bottom: thin solid; border-color: #000000">II -
+                    Professionals, managers, and administrators of small businesses or in positions
+                    of authority in a low hierarchy, such as supervisors of non-manual workers;</td>
+                </tr>
+                <tr>
+                  <td style="border-bottom: thin solid; border-color: #000000">Middle Class  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">III - a) Workers in non-manual activities in administration or in
+                    commerce; b) non-manual workers in security activities or personal
+                    services;</td>
+                </tr>
+                <tr>
+                  <td colspan="2">IV - a) Small landowners and craftsmen with less than 25
+                    employees; b) small owners and craftsmen without employees; c) farmers and
+                    self-employed extractivists;</td>
+                </tr>
+                <tr>
+                  <td style="border-bottom: thin solid; border-color: #000000" colspan="2">V -
+                    Supervisors of manual workers;</td>
+                </tr>
+                <tr>
+                  <td style="border-bottom: thin solid; border-color: #000000">Working Class:  </td>
+                </tr>
+                <tr>
+                  <td colspan="2">VI - Skilled manual workers;</td>
+                </tr>
+                <tr>
+                  <td colspan="2">VII - a) Non-skilled manual workers in the secondary or tertiary
+                    sectors; b) non-skilled manual workers in the primary sector.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>It is possible to adopt a summarized structure containing four classes: service class (I
+          + II), intermediate classes (IIIa + V), manual workers (IIIb + VI + VII), and petite
+          bourgeoisie (IV).</p>
+        <p>The Spanish Society of Epidemiology <xref ref-type="bibr" rid="B17">
+            <sup>17</sup>
+          </xref> has adapted this model for use in health research and proposed a scheme with five
+          classes ( <xref ref-type="table" rid="t07">Table 2</xref> ).</p>
+        <p>
+          <table-wrap id="t07">
+            <label>Table 2</label>
+            <caption>
+              <title>Goldthorpe <xref ref-type="bibr" rid="B7">
+                  <sup>7</sup>
+                </xref> (2010) diagram adapted by the Spanish Society of Epidemiology.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="95%">
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>I - Executives in the public administration or in companies with 10 or more
+                    employees and professionals with academic credentials or postgraduate
+                    degrees;</td>
+                </tr>
+                <tr>
+                  <td>II - Executives in companies with less than 10 employees, professionals with
+                    academic credentials, senior technicians, artists, and sportsmen;</td>
+                </tr>
+                <tr>
+                  <td>III - a) Administrative staff, administrative or financial management support
+                    staff, and personal services or security workers; b) self-employed workers; c)
+                    supervisors;</td>
+                </tr>
+                <tr>
+                  <td>IV - a) Skilled manual workers, b) semi-skilled manual workers;</td>
+                </tr>
+                <tr>
+                  <td>V - Unskilled workers.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>Wright <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref> started from Poulantzas’s formulation, <xref ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref> which considers three determination axes for classes: economic, political, and
+          ideological. The economic axis is defined by its polarity in the relation of exploitation
+          and the distinction between productive and unproductive labor. In both the political and
+          ideological axes, distinctions are made on the basis of the concepts of domination and
+          subordination. A theoretical-methodological difficulty, i.e., the conceptualization and
+          operationalization of productive and unproductive labor as well as the empirical
+          observation that more than 85% of the economically active North American population had
+          been categorized as proletariat, led Wright <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref> to develop an alternative proposal within the framework of the Marxist theory of
+          class analysis.</p>
+        <p>Wright <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref> identified three distinct locations in the class structure, derived from
+          exploitation relations in the capitalist production system: the bourgeoisie (investment
+          controls, accumulation processes, means of production, and employed workforce), the
+          proletariat (no control over the means of production), and the petite bourgeoisie
+          (investment control over the means of production but no control over the workforce). He
+          also proposed three other locations, which are considered contradictory, in order to solve
+          the “middle class problem” in modern societies. He also claims the existence of
+          contradictory locations between the proletariat and the bourgeoisie (occupations with
+          varying degrees of control over the means of production exercised by waged employees),
+          between the proletariat and the petite bourgeoisie (semiautonomous employees), and between
+          the petite bourgeoisie and the bourgeoisie (small employers).</p>
+        <p>Reviewing his proposition, Wright <xref ref-type="bibr" rid="B28">
+            <sup>28</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B29">
+            <sup>29</sup>
+          </xref> reformulated his model and put greater emphasis on the concept of exploitation. In
+          this perspective, the unequal distribution of the means of production constitutes the
+          material basis for the exploitation system and capitalist accumulation. The social
+          relations of production determine social class configurations, and fundamental disparity
+          occurs between owners and non-owners of the means of production. Among the owners, he
+          proposes stratification into bourgeoisie, small employers, and petite bourgeoisie
+          according to the number of employees.</p>
+        <p>Non-owners of the means of production correspond to waged workers whose location can be
+          created from two axes: domination/subordination relations in the production process and
+          the possession of qualifications or expertise. Wright <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B28">
+            <sup>28</sup>
+          </xref> considers that domination relations are also constitutive of the accumulation
+          process because waged workers with domination positions act as delegates of capitalists
+          and guarantors of the process of appropriation of the surplus value in addition to taking
+          a portion of the surplus value through their wages. The possession of educational
+          credentials or expertise distinguishes part of the waged workers because of their scarcity
+          in the labor market. This is a mechanism that also allows these workers to be an
+          appropriate part of the surplus value. Therefore, a scheme with 12 classes defined by the
+          combination of the three axes would be possible ( <xref ref-type="table" rid="t08">Table
+            3</xref> ).</p>
+        <p>
+          <table-wrap id="t08">
+            <label>Table 3</label>
+            <caption>
+              <title>Diagram of 12 classes proposed by Wright <xref ref-type="bibr" rid="B27">
+                  <sup>27</sup>
+                </xref> (1978).</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="20%">
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Owners</td>
+                  <td colspan="3" align="center">Non-owners (workers)</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>
+                    <italic>Bourgeoisie</italic>
+                  </td>
+                  <td align="center">Executives</td>
+                  <td align="center">Managers</td>
+                  <td align="center">Non-specialized managers</td>
+                  <td align="center">Control over the work process</td>
+                </tr>
+                <tr>
+                  <td>Smallholders</td>
+                  <td align="center">Supervisors specialists</td>
+                  <td align="center">Supervisors</td>
+                  <td align="center">Non-specialized supervisors</td>
+                  <td align="center">Some control over the work process</td>
+                </tr>
+                <tr>
+                  <td>
+                    <italic>Petite bourgeoisie</italic>
+                  </td>
+                  <td align="center">Experts</td>
+                  <td align="center">Skilled workers</td>
+                  <td align="center">Unskilled workers</td>
+                  <td align="center">Without control over the work process</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="3" align="center">Expertise and educational credentials</td>
+                  <td> </td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>Santos <xref ref-type="bibr" rid="B18">
+            <sup>18</sup>
+          </xref> used this classification to define social classes in the Brazilian population
+          using data from the National Research by Household Sampling (NRHS), and he showed the
+          possibility of operationalization with Brazilian data.</p>
+        <p>In Brazil, two operationalization models have been used in health research. One was
+          developed by Singer <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> to study the distribution of income in Brazil and adapted by Barros <xref
+            ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref> for household health surveys, while the other was developed by Bronfman &amp;
+          Tuirán <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> for demographic studies and was adapted by Lombardi et al <xref ref-type="bibr"
+            rid="B11">
+            <sup>11</sup>
+          </xref> for use in epidemiological research.</p>
+        <p>Singer <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> formulated a class operationalization model from data available in the demographic
+          census and the NRHS. He proposed a scheme of five classes defined on the basis of the
+          occupied position, income level, activity sector, and occupation. Moreover, he considered
+          the existence of two strata for the bourgeoisie: the entrepreneurial bourgeoisie, formed
+          by legal owners of productive enterprises, and the managerial bourgeoisie, composed of
+          executives and technicians in charge of corporate administration and administrators of the
+          State apparatus (public administration, universities, foundations, research agencies, and
+          others).</p>
+        <p>The petite bourgeoisie comprises the self-employed and small employers. The proletariat
+          is a group of waged workers from all sectors of the economy, with the exception of those
+          from the managerial bourgeoisie. Finally, individuals with precarious positions in the
+          labor market, such as rural migrants, squatters, independent workers without a business,
+          the unemployed, and the disabled, form the subproletariat. The operationalization strategy
+          adopted by Barros <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref> as an adaptation of the proposal by Singer is presented in <xref ref-type="table"
+            rid="t09">Table 4</xref> .</p>
+        <p>
+          <table-wrap id="t09">
+            <label>Table 4</label>
+            <caption>
+              <title>Strategy to operationalize the model of Singer <xref ref-type="bibr" rid="B19">
+                  <sup>19</sup>
+                </xref> (1981) adopted by Barros <xref ref-type="bibr" rid="B1">
+                  <sup>1</sup>
+                </xref> (1986).</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="95%">
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>a) Business <italic>bourgeoisie</italic> − including employers with five or
+                    more employees and an income equal to or greater than 9 minimum wages;</td>
+                </tr>
+                <tr>
+                  <td>b) Managerial <italic>bourgeoisie</italic> − technical workers, professionals
+                    with higher education, and executives;</td>
+                </tr>
+                <tr>
+                  <td>c) <italic>Petite bourgeoisie</italic> − employers with up to four employees,
+                    an income of less than 9 minimum wages, and an established independent
+                    business;</td>
+                </tr>
+                <tr>
+                  <td>d) Proletariat − employees in the field of commerce, services, or industry
+                    except civil construction;</td>
+                </tr>
+                <tr>
+                  <td>e) Subproletariat − workers in the agricultural sector, civil construction or
+                    domestic services, self-employed workers without a business, and those not
+                    included in the economically active population.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>Bronfman &amp; Tuirán <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> developed an operationalization model for the <italic>Encuesta Nacional
+            Demográfica de Mexico</italic> (National Demographic Survey of Mexico). The first
+          dimension of the classification is the place or position in the production system
+          (activity status, occupational position, sector and branch of activity, occupation, and
+          number of employees). The second dimension is ownership of the means of production. The
+          third dimension is the role in the social organization of labor (schooling and skills),
+          and the fourth dimension is participation in wealth (salary and other income sources).
+          From the combination of these dimensions, the authors arrive at a model of six classes:
+          bourgeoisie, new petite bourgeoisie, traditional petite bourgeoisie, atypical proletariat,
+          typical proletariat, and sub-proletariat <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> ( <xref ref-type="table" rid="t10">Table 5</xref> ).</p>
+        <p>
+          <table-wrap id="t10">
+            <label>Table 5</label>
+            <caption>
+              <title>Diagram of operationalization of Bronfman &amp; Tuiran <xref ref-type="bibr"
+                  rid="B5">
+                  <sup>5</sup>
+                </xref> (1984).</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="95%">
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>I − <italic>Bourgeoisie</italic> − Employers with five or more employees and
+                    income ≥15 minimum wages;</td>
+                </tr>
+                <tr>
+                  <td>II − New <italic>petit bourgeoisie</italic> − employer with university
+                    training, with up to four employees and/or an income of &lt;15 minimum wages;
+                    self-employed workers in the industrial sector, commerce field, or services,
+                    with university training; and workers with university training or in managerial
+                    positions in the industrial sector, commerce field, or services;</td>
+                </tr>
+                <tr>
+                  <td>III − Traditional <italic>petit bourgeoisie</italic> − employer without
+                    university training, with up to four employees and/or an income of &lt;15
+                    minimum wages; self-employed worker without university training, business owner
+                    or skilled worker;</td>
+                </tr>
+                <tr>
+                  <td>IV − Atypical proletariat − employee without university training and worker in
+                    managerial positions in the industrial sector, in activities not directly
+                    related to production, commerce field, and services;</td>
+                </tr>
+                <tr>
+                  <td>V − Typical proletariat − self-employed worker in civil construction; skilled
+                    worker without university training and in a managerial position in the civil
+                    construction or other industrial areas;</td>
+                </tr>
+                <tr>
+                  <td>VI − Subproletariat − self-employed worker or unskilled employee without
+                    university training and without a business.</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>Lombardi et al <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref> compared the class structure of the population of Pelotas, RS, as classified
+          according to the model of Bronfman &amp; Tuirán <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> and as classified according to that model used by Barros and observed that major
+          discrepancies occurred in relation to: a) the reduction of the subproletariat as a result
+          of the reclassification of agriculture and civil construction workers, skilled workers or
+          administrative workers, as well as of the self-employed without a business but with
+          specific skills; b) the increase of the proletariat as a result of the incorporation of
+          the reclassified workers from the subproletariat; c) the reclassification of the
+          managerial bourgeoisie as new petite bourgeoisie.</p>
+        <p>In general, these are the schemes that are currently available for the operationalization
+          of class concept from a relational perspective. They are distinct from social
+          stratifications based on the use of isolated socioeconomic variables or on the composition
+          or synthesis of a set of socioeconomic variables.</p>
+      </sec>
+      <sec>
+        <title>LIMITATIONS AND SCOPES OF OPERATIONALIZATION MODELS</title>
+        <p>The operationalization process of any concept presents a number of conceptual,
+          methodological, and technical challenges. In the case of a complex concept such as social
+          class, these difficulties are even greater.</p>
+        <p>With regard to the conceptual dimension, the limitations noted by the authors or critics
+          of these models are associated with three main problems: greater difficulty in
+          operationalizing the political aspects of the concept rather than economic aspects,
+          definition of the boundaries between the proletariat and the so-called “middle classes,”
+          and difficulty in selecting empirical variables capable of describing the relational
+          nature of certain processes to avoid reduction to mere stratification. <xref
+            ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref>
+        </p>
+        <p>With regard to the first problem stated above, there are critics who simply consider it
+          impossible to operationalize social class concepts. They claim that it only makes sense as
+          a theoretical tool in macrosocial analyses developed by Marx and as an explanatory
+          category in historical materialism. Others acknowledge operationalization, but they
+          believe that only the economic aspects of translation into empirical approaches are
+          amenable. Authors such as Wright <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref> and Goldthorp <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref> are of the opinion that economic and political aspects are inseparable, and they
+          believe in the possibility of translating any theoretical concept into a series of
+          mechanisms, events, and empirical experiences susceptible of being observed in reality.
+            <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref>
+        </p>
+        <p>With regard to class definitions, problems arise in the conceptualization of the
+          proletariat, in the configuration of middle classes, and in the definition of strata
+          within the bourgeoisie. <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref> Poulantzas <xref ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref> proposed that only productive workers should be classified as workers. Goldthorpe
+            <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref> and Wright <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B28">
+            <sup>28</sup>
+          </xref> classified waged workers who have no control over the labor process as
+          proletariat, and found it difficult to empirically separate productive from unproductive
+          labor. According to Wright <xref ref-type="bibr" rid="B28">
+            <sup>28</sup>
+          </xref> , authors’ views on the boundaries of the middle class vary considerably and
+          include the denial of their existence, the definition as a relation between two polar
+          classes, conceptualization as new phenomena not previously theorized in the tradition of
+          Marxist sociology or comprehensive sociology, and the concept of contradictory locations
+          formulated by Marx to solve the problem.</p>
+        <p>The third problem within the conceptual domain refers to the translation of certain
+          analysis categories into empirical variables. Concepts such as appropriation of surplus
+          value, autonomy and control over production, and educational qualifications and
+          credentials present challenges in the identification and articulation of empirical
+          variables capable of translating them adequately. <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref>
+        </p>
+        <p>From a methodological point of view, the main problems encountered are as follows:
+          classification of population segments that are not included in the production process,
+          classification of individuals or family groups, and specificities of particular social
+          formations.</p>
+        <p>Various authors recognize the need to adjust the models to the characteristics of each
+          social formation and the goals of the empirical research. All models presuppose the
+          possibility of grouping individuals in more or less classes, depending on the object of
+          the research. <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B29">
+            <sup>29</sup>
+          </xref>
+        </p>
+        <p>Individuals not included directly in the production process, such as students and
+          housewives, can be classified by their family relationships (class location mediated by
+          family ties). Those individuals who are permanently excluded from the labor market can be
+          grouped in the “oppressed” class, i.e., individuals excluded from the capitalist relations
+          of production. <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B27">
+            <sup>27</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B30">
+            <sup>30</sup>
+          </xref> These solutions are not equally satisfactory and may pose new problems when
+          applied empirically.</p>
+        <p>Other important methodological problems are associated with the class trajectory of
+          individuals or simply their current situation, e.g., assigning the most adequate
+          trajectory to an individual with different insertions in the production process, either
+          choosing a family member who will determine the classification of the group or create a
+          classification structure based on the different insertions of its members, and addressing
+          the class situation of women. <xref ref-type="bibr" rid="B29">
+            <sup>29</sup>
+          </xref> These aspects depend on choices made by the researchers and will influence the
+          final empirical results.</p>
+        <p>For statistical purposes, the operationalization models require large samples capable of
+          providing a minimum number of individuals from all classes as well as databases with
+          variables that are sufficient and appropriate to the construction of the proposed models.
+            <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref> This is one of the aspects that hinders the widespread use of these
+          operationalization models.</p>
+        <p>It is necessary to establish relatively arbitrary cutoffs for some of the variables used,
+          such as the number of employees and income, even if fully convincing arguments for the
+          values chosen are not available. <xref ref-type="bibr" rid="B17">
+            <sup>17</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref>
+        </p>
+        <p>The major problem may arise from the fact that social class is a distal determinant, the
+          action of which is mediated by several more or less independent variables, and that its
+          strength is relatively weakened after controlling these intervening variables in the
+          regression models used in health research. <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B17">
+            <sup>17</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref> Although regression models are useful tools, they are rudimentary instruments
+          while dealing with the complexity of social reality. In these models, social classes are
+          included as another independent variable, and the relations of determination and mediation
+          between the social class and the other intervening variables are not included in the
+          model.</p>
+        <p>Despite all the limitations listed above, operationalization of the concept of social
+          class has a greater explanatory power because stratified analyses are fragmented. The more
+          widespread use of these models will allow assessment of the extent to which this
+          theoretical expectation can be confirmed as well as the accumulation of experiences and
+          practical solutions.</p>
+      </sec>
+      <sec sec-type="conclusions">
+        <title>FINAL CONSIDERATIONS</title>
+        <p>There are different theoretical perspectives and various operational models that can be
+          used for the operationalization of social class concepts that can be used in empirical
+          research.</p>
+        <p>From the theoretical point of view, all approaches are valuable for the study of social
+          inequalities in health depending on the authors of the research. Therefore, none of the
+          theories presented can be considered false, and all are useful to describe the phenomena;
+          however, some theories have a greater explanatory power compared with others.</p>
+        <p>Conceptually, each of the models presented is consistent with the theoretical concept
+          that underlies it, precluding the selection of one model over the others.</p>
+        <p>From an empirical point of view, it may be possible to differentiate the models at a
+          later phase of the research, with the purpose of making empirical comparisons of the
+          models presented.</p>
+      </sec>
+    </body>
+  </sub-article>
+</article>

@@ -1,14 +1,20 @@
 import argparse
 import logging
 
-from . import feedstock
+from elixir import feedstock
 
 __version__ = '0.0.1'
 
 
 def pack_document(*args, **kwargs):
 
-    article = feedstock.Article(kwargs['pid'], kwargs['source_dir'])
+    logging.info('Starting to pack a document')
+    if feedstock.is_valid_pid(kwargs['pid']):
+        xml = feedstock.loadXML(kwargs['pid'])
+        raw_data = feedstock.load_rawdata(kwargs['pid'])
+        article = feedstock.Article(kwargs['pid'], xml, raw_data, kwargs['source_dir'])
+
+        article_htmls = article.images
 
 
 def main():

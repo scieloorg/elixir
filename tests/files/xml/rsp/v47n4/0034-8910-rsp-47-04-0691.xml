@@ -1,0 +1,2099 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="research-article" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047004454</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047004454</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artigos Originais</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="pt">Introdução e expansão da Leishmaniose visceral americana em
+          humanos no estado de São Paulo, 1999-2011</article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>Introducción y expansión de la Leishmaniosis visceral americana en humanos en
+            el estado de São Paulo, 1999-2011.</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cardim</surname>
+            <given-names>Marisa Furtado Mozini</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rodas</surname>
+            <given-names>Lilian A Colebrusco</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dibo</surname>
+            <given-names>Margareth Regina</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">III</xref>
+          <xref ref-type="aff" rid="aff4">IV</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guirado</surname>
+            <given-names>Marluci Monteiro</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">III</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Oliveira</surname>
+            <given-names>Agda Maria</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">V</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chiaravalloti</surname>
+            <given-names>Francisco</given-names>
+            <suffix>Neto</suffix>
+          </name>
+          <xref ref-type="aff" rid="aff6">VI</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>I</label>
+        <institution content-type="orgname">Faculdades Adamantinenses Integradas</institution>
+        <addr-line>
+          <named-content content-type="city">Adamantina</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Faculdades Adamantinenses Integradas. Adamantina, SP, Brasil </aff>
+      <aff id="aff2">
+        <label>II</label>
+        <institution content-type="orgname">Superintendência de Controle de Endemias</institution>
+        <addr-line>
+          <named-content content-type="city">Araçatuba</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Superintendência de Controle de Endemias. Araçatuba, SP, Brasil </aff>
+      <aff id="aff3">
+        <label>III</label>
+        <institution content-type="orgdiv1">Laboratório de Vetores de São José do Rio
+          Preto</institution>
+        <institution content-type="orgname">Superintendência de Controle de Endemias</institution>
+        <addr-line>
+          <named-content content-type="city">São José do Rio Preto</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Laboratório de Vetores de São José do Rio Preto. Superintendência
+        de Controle de Endemias. São José do Rio Preto, SP, Brasil </aff>
+      <aff id="aff4">
+        <label>IV</label>
+        <institution content-type="orgdiv1">Departamento de Epidemiologia e Saúde
+          Coletiva</institution>
+        <institution content-type="orgname">Faculdade de Medicina de São José do Rio
+          Preto</institution>
+        <addr-line>
+          <named-content content-type="city">São José do Rio Preto</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Departamento de Epidemiologia e Saúde Coletiva. Faculdade de
+        Medicina de São José do Rio Preto. São José do Rio Preto, SP, Brasil</aff>
+      <aff id="aff5">
+        <label>V</label>
+        <institution content-type="orgdiv1">Faculdade de Saúde Pública</institution>
+        <institution content-type="orgname">Universidade de São Paulo</institution>
+        <addr-line>
+          <named-content content-type="city">São Paulo</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Programa de Pós-Graduação em Saúde Pública. Faculdade de Saúde
+        Pública. Universidade de São Paulo. São Paulo, SP, Brasil </aff>
+      <aff id="aff6">
+        <label>VI</label>
+        <institution content-type="orgdiv2">Departamento de Epidemiologia</institution>
+        <institution content-type="orgdiv1">Faculdade de Saúde Pública</institution>
+        <institution content-type="orgname">Universidade de São Paulo</institution>
+        <addr-line>
+          <named-content content-type="city">São Paulo</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Departamento de Epidemiologia . Faculdade de Saúde Pública.
+        Universidade de São Paulo. São Paulo, SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondência | Correspondence</bold> :Francisco Chiaravalloti-Neto. Departamento
+          de Epidemiologia. Faculdade de Saúde Pública. Universidade de São Paulo. Av. Dr. Arnaldo,
+          715. 01246-904 São Paulo, SP, Brasil. E-mail: franciscochiara@usp.br</corresp>
+        <fn fn-type="conflict">
+          <p>Os autores declaram não haver conflito de interesses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>04</issue>
+      <fpage>691</fpage>
+      <lpage>700</lpage>
+      <history>
+        <date date-type="received">
+          <day>6</day>
+          <month>7</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>1</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="pt">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>
+            <bold>:</bold> Analisar a expansão da ocorrência de leishmaniose visceral americana em
+            humanos e identificar localidades prioritárias para o desenvolvimento de ações de
+            vigilância e controle.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>
+            <bold>:</bold> A área de estudo constituiu-se dos 316 municípios do estado de São Paulo
+            pertencentes às cinco regiões de saúde com ocorrência da leishmaniose visceral americana
+            em humanos, utilizando os casos autóctones e óbitos, com ano de notificação e município
+            de ocorrência. Calcularam-se taxas de incidência e de mortalidade e letalidade por
+            município, por região e para a área de estudo. Utilizaram-se o estimador bayesiano
+            empírico para obtenção de taxas de incidência e de mortalidade bayesianas locais para
+            cada município e a <italic>krigagem</italic> para visualização da distribuição espacial
+            das temperaturas e das precipitações pluviométricas.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>
+            <bold>:</bold> Foram detectados 73 municípios com transmissão da doença. As primeiras
+            ocorrências deram-se em áreas com maiores temperaturas e menores pluviosidades, mas sua
+            disseminação também ocorreu em áreas menos quentes e mais úmidas. A expansão da
+            leishmaniose visceral americana em humanos apresentou um eixo principal de disseminação
+            no sentido noroeste para sudeste, acompanhando a rodovia Marechal Rondon e o gasoduto
+            Bolívia-Brasil, e um eixo secundário, na direção norte-sul, acompanhando a malha
+            rodoviária. As taxas de incidência, segundo regiões de saúde, apresentaram um pico
+            seguido de queda, com exceção da região de São José do Rio Preto. Observou-se maior
+            concentração de municípios com altas taxas de incidência e mortalidade nas regiões de
+            saúde de Araçatuba, Presidente Prudente e Marília.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSÕES</title>
+          <p>
+            <bold>:</bold> Possíveis fatores determinantes da expansão da doença incluíram a rodovia
+            Marechal Rondon e a construção do gasoduto Bolívia-Brasil. Fatores climáticos pareceram
+            não ter papel determinante nessa expansão. O uso de técnicas de análise espacial
+            permitiu identificar municípios com possível subnotificação de casos e óbitos e indicar
+            municípios prioritários para o desenvolvimento de ações de vigilância e controle.</p>
+        </sec>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Analizar la expansión de la ocurrencia de leishmaniosis visceral americana en humanos
+            en el estado de Sao Paulo e identificar municipios prioritarios para el desarrollo de
+            acciones de vigilancia y control.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>El área de estudio estaba conformada por 316 municipios del estado pertenecientes a
+            cinco regiones de salud con ocurrencia de la enfermedad, utilizando los casos autóctonos
+            y óbitos de leishmaniosis visceral americana en humanos, con año de notificación y
+            municipio de ocurrencia. Se calcularon las tasas de incidencia y de mortalidad y
+            letalidad por municipio, por región y para el área de estudio. Se utilizaron el
+            estimador bayesiano empírico para la obtención de tasas de incidencia y de mortalidad
+            bayesianas locales para cada municipio y la krigagem para visualización de la
+            distribución espacial de las temperaturas y de las precipitaciones pluviométricas.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>Se detectaron 73 municipios con transmisión de la enfermedad. Las primeras ocurrencias
+            se presentaron en áreas con mayores temperaturas y menores pluviosidades, sin embargo su
+            diseminación también ocurrió en áreas menos calientes y más húmedas. La expansión de la
+            leishmaniosis visceral americana en humanas presentó un eje principal de diseminación en
+            el sentido noroeste hacia sureste, acompañando la carretera Marechal Rondon y el
+            gasoducto Bolivia-Brasil, y un eje secundario, en la dirección norte-sur, acompañando la
+            red vial. Las tasas de incidencia, según regiones de salud, presentaron un pico seguido
+            por una disminución, con excepción de la región Sao José do Rio Preto. Se observó mayor
+            concentración de municipios con altas tasas de incidencia y mortalidad en las regiones
+            de salud de Araçatuba, Presidente Prudente y Marília.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONES</title>
+          <p>Posibles factores determinantes de la expansión de la enfermedad incluyeron la
+            carretera Marechal Rondon y la construcción del gasoducto Bolivia-Brasil. Factores
+            climáticos parecieran no tener papel determinante en ésta expansión. El uso de técnicas
+            de análisis espacial permitió identificar municipios con posibles sub-notificaciones de
+            casos y óbitos e indicar municipios prioritarios para el desarrollo de acciones de
+            vigilancia y control.=</p>
+        </sec>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <kwd>Leishmaniose Visceral Americana, epidemiologia</kwd>
+        <kwd>Análise Espacial</kwd>
+        <kwd>Letalidade</kwd>
+        <kwd>Fatores de Risco</kwd>
+        <kwd>Fatores Socioeconômicos</kwd>
+        <kwd>Fatores Abióticos</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>Leishmaniasis Visceral Americana, epidemiologia</kwd>
+        <kwd>Análisis Espacial</kwd>
+        <kwd>Letalidad</kwd>
+        <kwd>Factores de Riesgo</kwd>
+        <kwd>Factores Socioeconómicos</kwd>
+        <kwd>Factores Abióticos</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="10"/>
+        <ref-count count="23"/>
+        <page-count count="10"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUÇÃO</title>
+      <p>A leishmaniose visceral americana (LVA), infecção zoonótica que afeta animais e o ser
+        humano, é causada pelo protozoário <italic>Leishmania chagasi,</italic> transmitido por
+          <italic>Lutzomyia longipalpis</italic> . A leishmaniose visceral americana em humanos
+        (LVAH) caracteriza-se por causar hepatoesplenomegalia, apresentando febre e comprometimento
+        do estado geral do organismo. É de alta letalidade em pessoas não tratadas e em crianças
+        desnutridas, afetando indivíduos imunodeprimidos, em especial os portadores da infecção pelo
+        HIV. <xref ref-type="fn" rid="fn1"><sup>a</sup></xref>
+      </p>
+      <p>Tratava-se de uma doença tipicamente rural no Brasil, até 1970; atualmente ocorre também em
+        áreas urbanas. <xref ref-type="fn" rid="fn1"><sup>a</sup></xref> Na região Nordeste a doença
+        somava 90% dos casos até 1990, porém se expandiu para as demais regiões brasileiras. Na
+        região Nordeste <xref ref-type="fn" rid="fn2"><sup>b</sup></xref> foram notificados 51,9%
+        dos casos no Brasil, em 2009; a região Norte foi responsável por 20,9%, a Sudeste por 18,9%,
+        a Centro-Oeste por 8,1% e a Sul por 0,2% dos casos. O número de casos notificados aumentou
+        89,9% de 1999 a 2009 (de 1.944 para 3.693) e a letalidade passou de 3,2% para 6,2%, aumento
+        quase três vezes maior no número de óbitos. <xref ref-type="fn" rid="fn2"
+          ><sup>b</sup></xref>
+      </p>
+      <p>A expansão da LVA está associada à urbanização da doença e do vetor, às mudanças
+        socioambientais e às dificuldades de controle em grandes centros urbanos, onde problemas de
+        desnutrição, moradia e saneamento básico estão presentes. <xref ref-type="bibr" rid="B11"
+            ><sup>11</sup></xref> A imigração de populações humanas e caninas de áreas endêmicas
+        contribui para sua expansão, ao introduzir o parasito <italic>L. chagasi</italic> em novos
+        ambientes. <xref ref-type="bibr" rid="B18"><sup>18</sup></xref> Entre os fatores antrópicos,
+        obras de construção civil, rodovias e outras devem ser consideradas no quadro epidemiológico
+        da LVA. Antonialli et al <xref ref-type="bibr" rid="B1"><sup>1</sup></xref> (2007) sugerem
+        que a disseminação da doença no Mato Grosso do Sul (MS) teve influência de três grandes
+        obras: ferrovia Novoeste; rodovia Vitória-Corumbá e Gasoduto Bolívia-Brasil.</p>
+      <p>Fatores climáticos podem ser determinantes na epidemiologia da LVA. Assim, têm sido
+        investigadas a associação entre temperatura, umidade do ar, precipitação pluviométrica e
+        presença do flebotomíneo. <xref ref-type="bibr" rid="B16"><sup>16</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B21"><sup>21</sup></xref>
+      </p>
+      <p>Os casos de LVAH registrados no estado de São Paulo eram importados de outras regiões
+        brasileiras até 1998 e os primeiros casos autóctones surgiram em Araçatuba em 1999. <xref
+          ref-type="bibr" rid="B6"><sup>6</sup></xref> Isso ocorreu na sequência da detecção de
+          <italic>Lu. longipalpis</italic> em zona urbana em 1997, <xref ref-type="bibr" rid="B9"
+            ><sup>9</sup></xref> seguida da detecção da enzootia canina em 1998. <xref
+          ref-type="bibr" rid="B6"><sup>6</sup></xref> Desde então, a doença vem-se expandindo pelos
+        municípios do estado, <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="fn" rid="fn3"><sup>c</sup></xref> com o registro de 1.919 casos e 169
+        óbitos, até 2011.</p>
+      <p>O objetivo deste estudo foi analisar a expansão da LVAH e identificar municípios
+        prioritários para o desenvolvimento de ações de vigilância e controle.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>MÉTODOS</title>
+      <p>Foram utilizados os casos autóctones e os óbitos por LVAH segundo notificação no estado de
+        São Paulo, de 1999 a 2011. O estado de São Paulo possui 645 municípios e população de
+        41.262.199. A Secretaria de Estado da Saúde divide o estado em 17 regiões administrativas
+        (RS). As unidades de estudo foram os 316 municípios pertencentes às seguintes regiões que
+        notificaram casos autóctones de LVAH: Araçatuba, Bauru, Marília, Presidente Prudente e São
+        José do Rio Preto ( <xref ref-type="fig" rid="f01">Figura 1A</xref> ).</p>
+      <p>
+        <fig id="f01">
+          <label>Figura 1</label>
+          <caption>
+            <title>Regiões de saúde e municípios (A) e ano de detecção do(s) primeiro(s) caso(s) de
+              leishmaniose visceral americana em humanos. Estado de São Paulo, 1999 a 2011
+              (B).</title>
+          </caption>
+          <graphic xlink:href="0034-8910-rsp-47-04-0691-gf01"/>
+        </fig>
+      </p>
+      <p>Os dados foram obtidos a partir de informações disponibilizadas pelo Centro de Vigilância
+        Epidemiológica Prof. Alexandre Vranjac, da Secretaria de Saúde do Estado de São Paulo. <xref
+          ref-type="fn" rid="fn3"><sup>c</sup></xref> Foram utilizadas informações sobre os números
+        de habitantes dos municípios, nos anos de estudo, e as coordenadas geográficas de seus
+        centróides no sistema Lat/Long SAD-69.</p>
+      <p>Os dados de temperatura e precipitação foram obtidos do Centro Integrado de Informações
+        Agrometeorológicas do Instituto Agronômico de Campinas. <xref ref-type="fn" rid="fn4"
+            ><sup>d</sup></xref> Foram utilizados os valores mensais da precipitação pluviométrica
+        (mm) e as médias mensais da temperatura (ºC) medidas em 60 postos meteorológicos nos
+        municípios da área de estudo.</p>
+      <p>O mapa georreferenciado dos municípios no sistema Lat/Long SAD-69, os traçados da rodovia
+        Marechal Rondon e da ferrovia Novoeste e as populações dos municípios foram obtidos da
+        Fundação Instituto Brasileiro de Geografia e Estatística. <xref ref-type="fn" rid="fn5"
+            ><sup>e</sup></xref> O traçado do Gasoduto Bolívia-Brasil foi obtido do site da
+        Transportadora Brasileira Gasoduto Bolívia-Brasil. <xref ref-type="fn" rid="fn6"
+            ><sup>f</sup></xref>
+      </p>
+      <p>Foram calculadas as taxas anuais de incidência e mortalidade e a letalidade por LVAH. As
+        informações sobre o ano de ocorrência do(s) primeiro(s) caso(s) de LVAH em cada município
+        foram utilizadas para descrever sua expansão, avaliada em conjunto com os traçados do
+        gasoduto Bolívia-Brasil, da rodovia Marechal Rondon e da Ferrovia Novoeste.</p>
+      <p>As taxas brutas de incidência e de mortalidade por LVAH foram, respectivamente, calculadas
+        dividindo os totais de casos e de óbitos pela população de cada município no meio do
+        período. Foram estimadas taxas bayesianas empíricas locais de incidência e de mortalidade
+        por LVAH, com a utilização do estimador bayesiano empírico, em que as estimativas bayesianas
+        são feitas localmente, i.e., em relação a uma média local. <xref ref-type="bibr" rid="B5"
+            ><sup>5</sup></xref> Essas taxas foram utilizadas para corrigir a flutuação aleatória
+        das taxas brutas em municípios com pequeno número de habitantes e para estimar possível
+        subnotificação de casos e óbitos de LVAH, principalmente em municípios com pequeno número de
+        casos ou sem ocorrência.</p>
+      <p>As taxas bayesianas empíricas foram obtidas a partir da construção de uma matriz de
+        vizinhança para os municípios considerando como vizinhos dois municípios com pelo menos um
+        ponto de sua divisa em comum. Esses procedimentos foram realizados por meio do Programa
+        TerraView versão 4.1.0. Foram utilizados mapas coropléticos para a representação das taxas
+        de incidência e de mortalidade, obtidos por meio do Programa ArcGIS versão 10.</p>
+      <p>Médias mensais das temperaturas e das precipitações pluviométricas foram calculadas para
+        cada um dos 60 pontos de medidas climáticas e para todo o período de estudo. As
+        semivariâncias foram calculadas para cada variável e foram utilizadas na construção dos
+        semivariogramas, ajustados por um modelo matemático. Esses mostram a existência da
+        variabilidade espacial dos dados, expressando o grau de dependência entre os pontos
+        amostrados. <xref ref-type="bibr" rid="B2"><sup>2</sup></xref> O Programa GS+ for Windows
+        5.0.3 Beta (GS+) foi utilizado para essas análises. Uma vez detectada a dependência espacial
+        expressa pelo semivariograma, foram estimados valores das variáveis em locais não
+        amostrados, utilizando a interpolação por <italic>krigagem</italic>
+        <xref ref-type="bibr" rid="B2"><sup>2</sup></xref> e obtidos os mapas coropléticos e de
+        isolinhas. O Programa Surfer 6.01 foi utilizado para isso.</p>
+      <p>O critério estabelecido pelo Ministério da Saúde <xref ref-type="fn" rid="fn1"
+          ><sup>a</sup></xref> para classificação dos municípios brasileiros com transmissão de LVAH
+        considera os últimos cinco anos e as categorias “sem transmissão” (número médio de casos =
+        0), “transmissão esporádica” (número médio &gt; 0 e &lt; 2,4, valores abaixo do percentil
+        80), “transmissão moderada” (número médio ≥ 2,4 e &lt; 4,4, valores entre os percentis 80 e
+        90) e “transmissão intensa” (número médio ≥ 4,4, valores iguais ou maiores ao percentil 90).
+        Esse critério foi utilizado para classificar os municípios estudados que tiveram transmissão
+        entre 2007 e 2011. Considerando os mesmos percentis do critério estabelecido pelo Ministério
+        da Saúde, mas utilizando como valores de corte as taxas de incidência entre 2007 e 2011,
+        obteve-se outra classificação (incidências baixa, moderada e alta), que foi comparada com a
+        obtida com o número médio de casos.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTADOS</title>
+      <p>A <xref ref-type="fig" rid="f01">Figura 1B</xref> mostra a expansão da LVAH na região
+        administrativa (RS) de Araçatuba a partir de sua sede (Araçatuba) para outros municípios
+        dessa região em 1999 (Birigui); na RS de Bauru, com a detecção de casos em Promissão, em
+        2002; na de Marília, com casos em Guarantã, em 2003; na região de Presidente Prudente, com
+        casos em Dracena e Ouro Verde, em 2005; e na de São José do Rio Preto, com a detecção de
+        casos em Jales, em 2007. Ocorreram casos autóctones de LVAH em 73 municípios do estado entre
+        1999 e 2011.A expansão da LVAH apresentou um eixo principal de disseminação, na direção
+        noroeste para sudeste e no sentido da região de Bauru, seguindo a rodovia Marechal Rondon, a
+        ferrovia Novoeste e a construção do gasoduto. Apresentou também um eixo secundário de
+        disseminação a partir do eixo principal, no sentido sul, para as regiões de Presidente
+        Prudente e Marília, e no sentido norte, para a região de São José do Rio Preto ( <xref
+          ref-type="fig" rid="f01">Figura 1B</xref> ).</p>
+      <p>Após a detecção dos primeiros casos em 1999, houve contínuo aumento das taxas de incidência
+        até atingirem o pico em 2008, seguido de queda. A letalidade apresentou grande variação
+        entre 1999 e 2006 e estabilização de 2007 em diante, momento em que o perfil da taxa de
+        mortalidade passou a acompanhar o da incidência ( <xref ref-type="fig" rid="f02">Figura
+          2A</xref> ).</p>
+      <p>
+        <fig id="f02">
+          <label>Figura 2</label>
+          <caption>
+            <title>Taxas de incidência e de mortalidade e letalidade por leishmaniose visceral
+              americana em humanos para toda a área (A) e taxas de incidência segundo as regiões de
+              saúde de Araçatuba, Bauru, Marília, Presidente Prudente e São José do Rio Preto (B).
+              Estado de São Paulo, 1999 a 2011.</title>
+          </caption>
+          <graphic xlink:href="0034-8910-rsp-47-04-0691-gf02"/>
+        </fig>
+      </p>
+      <p>Notaram-se picos de incidência na região administrativa de Araçatuba em 2003 (19,0
+        casos/100.000 habitantes) e Presidente Prudente em 2007 (10,9 casos/100.000 habitantes),
+        seguidos de queda. As regiões de Bauru e Marília apresentaram pico em 2008, seguidos de
+        queda. A região de São José do Rio Preto apresentou taxas de incidência crescentes, porém
+        inferiores às das demais regiões. As taxas das cinco regiões variaram entre 1,3 (São José do
+        Rio Preto) e 6,3 casos por 100.000 habitantes (Araçatuba) em 2011 ( <xref ref-type="fig"
+          rid="f02">Figura 2B</xref> ).</p>
+      <p>Maior concentração de municípios com as mais altas taxas brutas de incidência e de
+        mortalidade por LVAH ocorreu na região de Araçatuba, seguida por Presidente Prudente e
+        Marília ( <xref ref-type="fig" rid="f03">Figuras 3A</xref> e <xref ref-type="fig" rid="f03"
+          >3B</xref> ). Além de corrigir a flutuação aleatória, as taxas bayesianas apontaram
+        valores não nulos de incidência e mortalidade por LVAH em municípios sem a notificação de
+        casos humanos ( <xref ref-type="fig" rid="f03">Figuras 3C</xref> e <xref ref-type="fig"
+          rid="f03">3D</xref> ).</p>
+      <p>
+        <fig id="f03">
+          <label>Figura 3</label>
+          <caption>
+            <title>Taxas brutas de incidência (A) e de mortalidade (B) e taxas bayesianas empíricas
+              locais de incidência (C) e de mortalidade (D) por leishmaniose visceral americana em
+              humanos. Estado de São Paulo, 1999 a 2011.</title>
+          </caption>
+          <graphic xlink:href="0034-8910-rsp-47-04-0691-gf03"/>
+        </fig>
+      </p>
+      <p>Ocorreram médias mais altas das temperaturas nas regiões oeste e norte e mais amenas nas
+        leste e sul ( <xref ref-type="fig" rid="f04">Figura 4A</xref> ). A precipitação
+        pluviométrica apresentou comportamento contrário ao da temperatura ( <xref ref-type="fig"
+          rid="f04">Figura 4B</xref> ). Os municípios com transmissão mais antiga de LVAH e também
+        os com as taxas de incidência mais altas localizaram-se na região com temperaturas médias
+        mais altas e precipitações médias mais baixas (RS de Araçatuba) ( <xref ref-type="fig"
+          rid="f01">Figuras 1</xref> e <xref ref-type="fig" rid="f04">4</xref> ).</p>
+      <p>
+        <fig id="f04">
+          <label>Figura 4</label>
+          <caption>
+            <title>Temperaturas médias anuais em ºC (A) e precipitações pluviométricas médias anuais
+              (B). Estado de São Paulo, 1999 a 2011.</title>
+          </caption>
+          <graphic xlink:href="0034-8910-rsp-47-04-0691-gf04"/>
+        </fig>
+      </p>
+      <p>A <xref ref-type="fig" rid="f05">Figura 5A</xref> apresenta os municípios segundo
+        classificação do Ministério da Saúde em função da transmissão ocorrida entre 2007 e 2011
+        (média de número de casos nos últimos cinco anos) e a <xref ref-type="fig" rid="f05"> Figura
+          5B</xref> , segundo a classificação correspondente à incidência. Não houve coincidência
+        entre os critérios utilizados em algumas situações. Cinco municípios apresentaram
+        transmissão esporádica pelo critério do Ministério da Saúde, mas classificados como de alta
+        incidência (Irapuru, Nova Guataporanga, Pauliceia, Ouro Verde e São João do Pau D’Alho), e
+        quatro municípios com transmissão intensa, mas classificados em baixa incidência (Araçatuba,
+        Birigui, Lins, Bauru).</p>
+      <p>
+        <fig id="f05">
+          <label>Figura 5</label>
+          <caption>
+            <title>Municípios de transmissão esporádica, moderada e intensa (em função do número
+              médio de casos de leishmaniose visceral americana em humanos em cinco anos) (A) e com
+              taxa de incidência por leishmaniose visceral americana em humanos baixa, moderada e
+              alta (B). Estado de São Paulo, 2007 a 2011.</title>
+          </caption>
+          <graphic xlink:href="0034-8910-rsp-47-04-0691-gf05"/>
+        </fig>
+      </p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSÃO</title>
+      <p>Este estudo mostra a expansão geográfica da LVAH no estado de São Paulo, de 1999 a 2011,
+        cuja introdução foi identificada em Araçatuba. <xref ref-type="bibr" rid="B6"
+          ><sup>6</sup></xref> Muitos fatores são apontados para explicar esse fenômeno: o fluxo de
+        pessoas e mercadorias pelas rodovias e ferrovias que interligam as regiões brasileiras e
+        seus centros urbanos, os processos migratórios, a urbanização e as condições precárias de
+        saneamento, o deslocamento de animais infectados, adaptação do vetor, entre outras, além da
+        necessidade de estruturação das equipes de saúde. <xref ref-type="bibr" rid="B1"
+            ><sup>1</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B18"><sup>18</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B23"><sup>23</sup></xref>
+      </p>
+      <p>Barata <xref ref-type="bibr" rid="B3"><sup>3</sup></xref> (2000) aponta para o impacto na
+        disseminação da LVAH no estado de São Paulo, decorrente da substituição de criação de gado
+        pelo plantio de cana-de-açúcar. Essa cultura emprega mão de obra migrante, em geral
+        proveniente da região Nordeste, endêmica para a doença. A introdução da LVAH em função da
+        migração de indivíduos provenientes de Minas Gerais também é plausível. Estudo realizado na
+        região metropolitana de Belo Horizonte, MG, mostrou que a transmissão de LVAH, iniciada em
+        1989, apresentou aumento da notificação de 1998 a 1999, quando em 15 (42%) dos 36 municípios
+        de região metropolitana foram diagnosticados casos de LVAH. <xref ref-type="bibr" rid="B12"
+            ><sup>12</sup></xref> O período de aumento de notificação e expansão da doença nessa
+        região coincide com o período de detecção dos primeiros casos das formas canina e humana da
+        doença na região de Araçatuba. <xref ref-type="bibr" rid="B6"><sup>6</sup></xref>
+      </p>
+      <p>A hipótese de que a doença tenha sido originada do Mato Grosso do Sul deve ser considerada.
+        Foram diagnosticados clinicamente casos humanos de LVA e observados cães com sintomas da
+        doença no município de Corumbá, MS, a partir de 1980. A LVAH se espalhou para outros
+        municípios, a partir de 1998. Os primeiros casos humanos de LVA em Campo Grande, MS, foram
+        diagnosticados em 1999, <xref ref-type="bibr" rid="B1"><sup>1</sup></xref> mesmo ano de
+        detecção da doença no estado de São Paulo. Essa hipótese é reforçada pelo fato de os
+        municípios da região de Araçatuba fazerem divisa com Mato Grosso do Sul, sendo que a ligação
+        entre as duas regiões é facilitada pela Rodovia Marechal Rondon e pela Ferrovia
+        Novoeste.</p>
+      <p>Antonialli et al <xref ref-type="bibr" rid="B1"><sup>1</sup></xref> (2007) observaram que a
+        expansão da LVA no Mato Grosso do Sul seguiu, no espaço e no tempo, o sentido da construção
+        do gasoduto Bolívia-Brasil e levantaram a hipótese de sua participação na expansão da doença
+        nesse estado. A mesma hipótese pode ser considerada para explicar parcialmente a expansão da
+        doença em São Paulo, onde o gasoduto foi construído entre 1997 e 1999, interligando as
+        cidades de Castilho, na região administrativa de Araçatuba e divisa com Mato Grosso do Sul,
+        com Campinas. A construção do gasoduto recrutou grande número de trabalhadores, originários
+        de várias regiões brasileiras, entre elas os estados de Mato Grosso do Sul, Minas Gerais e
+        região Nordeste, que estavam sempre em mobilidade decorrente das constantes mudanças
+        desencadeadas pelo avanço do gasoduto. <xref ref-type="fn" rid="fn6"><sup>f</sup>
+        </xref>
+      </p>
+      <p>O transporte de cães infectados e/ou doentes, provenientes das várias regiões brasileiras
+        com transmissão de LVA, pode ter contribuído para a introdução e expansão da doença para
+        outras áreas. <xref ref-type="bibr" rid="B15"><sup>15</sup></xref> Scandar et al <xref
+          ref-type="bibr" rid="B18"><sup>18</sup></xref> (2011) apontam que a introdução do parasito
+        em regiões sem transmissão poderia ocorrer pelo envio de cães assintomáticos de outras
+        áreas, a fim de que não fossem eutanasiados. A circulação de pessoas, animais e produtos
+        entre municípios de uma mesma área endêmica pode ter influenciado a expansão da doença, como
+        observado por Mestre &amp; Fontes <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>
+        (2007).</p>
+      <p>As taxas de incidência apresentaram um pico seguido de queda, o que pode estar relacionado
+        com as atividades de vigilância e controle desenvolvidas e/ou a um comportamento cíclico da
+        doença, exceto na região administrativa de São José do Rio Preto, com introdução mais
+        recente da LVAH. Ximenes et al <xref ref-type="bibr" rid="B23"><sup>23</sup></xref> (2007)
+        mostraram a ocorrência de um padrão cíclico da doença no estado do Rio Grande do Norte e
+        sugeriram um ciclo a cada dez anos. Werneck et al <xref ref-type="bibr" rid="B22"
+            ><sup>22</sup></xref> (2008) identificaram padrão semelhante em Teresina, PI. Embora os
+        fundamentos das medidas de controle tenham boa sustentação teórica, não há evidências de sua
+        efetividade. <xref ref-type="bibr" rid="B22"><sup>22</sup></xref> Essas medidas não têm sido
+        efetivas para conter a disseminação da doença que está em plena expansão no estado de São
+        Paulo, a exemplo do que ocorre no País. <xref ref-type="fn" rid="fn1"><sup>a</sup></xref>
+      </p>
+      <p>O uso das taxas bayesianas empíricas locais permitiu reduzir a flutuação aleatória presente
+        na incidência e mortalidade. <xref ref-type="bibr" rid="B20"><sup>20</sup></xref> Ao apontar
+        locais sem notificação de casos de LVAH, mas com incidências estimadas &gt; 0, essas taxas
+        permitiram identificar municípios prioritários para o desenvolvimento de ações de vigilância
+        e controle por se localizarem na vizinhança de municípios com transmissão confirmada ou por
+        possível ocorrência de subnotificação de casos de LVAH, estimada entre 42% e 45% por
+        Maia-Elkhoury et al <xref ref-type="bibr" rid="B13"><sup>13</sup></xref> (2007).</p>
+      <p>Alguns municípios que aparecem com taxas bayesianas empíricas de incidência &gt; 0 e sem
+        notificação de casos de LVAH possuem a presença do vetor. Os demais estão incluídos na lista
+        dos 363 municípios do estado de São Paulo classificados como vulneráveis, em função da
+        proximidade e/ou fluxo de pessoas e mercadorias com municípios com transmissão. <xref
+          ref-type="bibr" rid="B8"><sup>8</sup></xref> Os municípios nessa situação poderiam ser
+        considerados prioritários para as ações de vigilância e controle entre os vulneráveis.</p>
+      <p>Os municípios com ocorrência de LVAH identificada, que apresentaram mortalidade nula e
+        taxas bayesianas empíricas &gt; 0, precisam ser investigados para verificar a ocorrência de
+        subnotificação de óbitos, estimada entre 46% e 53%. <xref ref-type="bibr" rid="B13"
+            ><sup>13</sup></xref> Isso deve ocorrer principalmente naqueles com transmissão recente,
+        em que nem a população nem os profissionais de saúde estão sensibilizados para a
+        problemática da doença.</p>
+      <p>A estratificação proposta pelo Ministério da Saúde <xref ref-type="fn" rid="fn1"
+            ><sup>a</sup></xref> possibilita avaliar e priorizar municípios com notificação de casos
+        nos últimos cinco anos. Dos 64 municípios com ocorrências de casos autóctones entre 2007 e
+        2011, 12 apresentaram transmissão intensa, sete com altas taxas de incidência (Dracena,
+        Panorama, Junqueirópolis, Tupi Paulista, Pacaembu, Flórida Paulista e Adamantina). Cinco
+        municípios que apresentaram altas taxas de incidência foram classificados como de
+        transmissão esporádica em função de suas pequenas populações. Polos regionais com papel
+        importante na disseminação e expansão da LVA, como Araçatuba, Birigui, Bauru e Lins,
+        considerados como de transmissão intensa pelo Ministério da Saúde, foram classificados no
+        nível mais baixo de incidência.</p>
+      <p>Os dois critérios apresentam imperfeições. O do Ministério da Saúde, por considerar apenas
+        o número médio de casos, não é muito sensível para identificar municípios com altas taxas de
+        incidência, e a classificação pela incidência deixa de identificar municípios
+        epidemiologicamente importantes. O uso do número médio de casos em conjunto com as
+        incidências produziria um critério de classificação com maior capacidade de identificar
+        municípios prioritários para o desenvolvimento de ações de vigilância e controle,
+        principalmente para os municípios com altas taxas de incidência e pequeno número de casos.
+          <xref ref-type="fn" rid="fn1">
+          <sup>a</sup></xref> Esses são os do eixo secundário de disseminação da LVA no sentido sul
+        para as regiões de Presidente Prudente e Marília (SP). É necessária a intensificação de
+        medidas de vigilância e controle como ações educativas voltadas à notificação de casos,
+        inquéritos caninos censitários e medidas de manejo ambiental.</p>
+      <p>A grande variação na letalidade entre 1999 e 2006 dos doentes de LVAH, antes da
+        estabilização dos valores, a partir de 2007 pode estar relacionada com o aprendizado dos
+        profissionais responsáveis pela atenção em saúde. Oliveira et al <xref ref-type="bibr"
+          rid="B17"><sup>17</sup></xref> (2010) relatam que a identificação precoce de determinadas
+        características clínicas e laboratoriais relacionadas à LVAH no primeiro atendimento é
+        extremamente importante para reduzir a mortalidade, pela introdução oportuna de medidas
+        terapêuticas e profiláticas. Esses procedimentos são mais necessários nos municípios com
+        transmissão identificada mais recentemente.</p>
+      <p>A ocorrência dos primeiros casos de LVAH na região com maiores temperaturas médias e
+        menores precipitações pluviométricas médias poderia significar a preferência de <italic>Lu
+          longipalpis</italic> pelas áreas mais quentes e secas do estado. Porém, sua disseminação
+        por regiões menos quentes e mais úmidas, como alguns municípios das regiões administrativas
+        de Bauru e de Marília, mostra que o vetor adapta-se a outras situações climáticas. O
+        microclima pode ser mais importante para a sobrevivência do vetor do que o macroclima, uma
+        vez que os adultos vivem preferencialmente em locais úmidos. <xref ref-type="bibr" rid="B4"
+            ><sup>4</sup></xref> Silva et al <xref ref-type="bibr" rid="B19"><sup>19</sup></xref>
+        (2007), em capturas realizadas durante um ano, constataram que os meses mais úmidos
+        coincidiram com os de maior frequência do vetor e com o maior número de vetores infectados
+        por <italic>Leishmania</italic> sp.</p>
+      <p>Se o macroclima não tiver papel fundamental na expansão da LVA no estado de São Paulo, os
+        fatores que estariam determinando a expansão da doença para a parte do estado, sem a sua
+        ocorrência, poderiam ser considerados os mesmos que atuam ou atuaram na sua disseminação nas
+        regiões estudadas. Essa conclusão, a ser validada por estudos futuros, em conjunto com as
+        experiências de vigilância e controle, acumuladas até o momento, poderiam servir de base
+        para estruturação de atividades que visassem ao menos o retardamento da expansão da LVA no
+        estado.</p>
+      <p>O uso dos Sistemas de Informação Geográfica (SIG) e da análise espacial auxilia na
+        descrição do processo de disseminação das doenças, possibilitando identificar seus padrões
+        espaciais de ocorrência e prováveis fatores de risco. <xref ref-type="bibr" rid="B7"
+            ><sup>7</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B14"><sup>14</sup></xref> O uso do estimador bayesiano empírico
+        no presente estudo permitiu reduzir a variação aleatória nas taxas de incidência e
+        mortalidade e indicar municípios prioritários para o desenvolvimento de ações de vigilância
+        e controle. O uso da geoestatística, outra técnica de análise espacial, possibilitou
+        visualizar o padrão das variáveis climáticas e compará-lo com o comportamento da LVAH.</p>
+      <p>O uso de dados secundários e de notificação passiva, com a provável ocorrência de
+        subnotificação de casos, e o uso de delineamento ecológico são limitações deste estudo.
+        Apesar disso, o estudo permitiu descrever a expansão da LVAH no estado de São Paulo e
+        apontou seus possíveis fatores determinantes. Dentre eles, a contribuição da rodovia
+        Marechal Rondon, da ferrovia Novoeste, da construção do gasoduto Bolívia-Brasil e o papel
+        das variáveis climáticas, ambientais e socioeconômicas na disseminação da LVA serão alvo de
+        estudos mais detalhados.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERÊNCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Antonialli SAC, Torres TG, Paranhos Filho AC, Tolezano JE. Spatial
+          analysis of American Visceral Leishmaniasis in Mato Grosso do Sul State, Central Brazil.
+            <italic>J Infect.</italic> 2007;54(5):509-14.
+          DOI:10.1016/j.jinf.2006.08.004</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Antonialli</surname>
+              <given-names>SAC</given-names>
+            </name>
+            <name>
+              <surname>Torres</surname>
+              <given-names>TG</given-names>
+            </name>
+            <name>
+              <surname>Paranhos</surname>
+              <given-names>AC</given-names>
+              <suffix>Filho</suffix>
+            </name>
+            <name>
+              <surname>Tolezano</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Spatial analysis of American Visceral Leishmaniasis in Mato
+            Grosso do Sul State, Central Brazil</article-title>
+          <source>J Infect</source>
+          <year>2007</year>
+          <volume>54</volume>
+          <issue>5</issue>
+          <fpage>509</fpage>
+          <lpage>514</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jinf.2006.08.004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Bailey TC, Gatrell AC. Interactive spatial data analysis. Essex: Longman
+          Scientific &amp;Technical; 1995.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Bailey</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Gatrell</surname>
+              <given-names>AC</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Interactive spatial data analysis</source>
+          <publisher-loc>Essex</publisher-loc>
+          <publisher-name>Longman Scientific &amp;Technical</publisher-name>
+          <year>1995</year>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Barata RB. Cem anos de endemias e epidemias. <italic>Cienc Saude
+            Coletiva.</italic> 2000;5(2):333-45.
+          DOI:10.1590/S1413-81232000000200008</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Barata</surname>
+              <given-names>RB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Cem anos de endemias e epidemias</article-title>
+          <source>Cienc Saude Coletiva</source>
+          <year>2000</year>
+          <volume>5</volume>
+          <issue>2</issue>
+          <fpage>333</fpage>
+          <lpage>345</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1413-81232000000200008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Brazil RP, Brazil BG. Biologia de flebotomíneos neotropicais. In: Rangel
+          EF, Laison R, organizadores. Flebotomíneos do Brasil. Rio de Janeiro: Editora Fiocruz;
+          2003. p.257-74.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Brazil</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Brazil</surname>
+              <given-names>BG</given-names>
+            </name>
+          </person-group>
+          <chapter-title>Biologia de flebotomíneos neotropicais</chapter-title>
+          <person-group>
+            <name>
+              <surname>Rangel</surname>
+              <given-names>EF</given-names>
+            </name>
+            <name>
+              <surname>Laison</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">Flebotomíneos do Brasil</source>
+          <publisher-loc>Rio de Janeiro</publisher-loc>
+          <publisher-name>Editora Fiocruz</publisher-name>
+          <year>2003</year>
+          <fpage>257</fpage>
+          <lpage>274</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Câmara G, Carvalho MS, Cruz OG, Correa V. Análise espacial de áreas. In:
+          Druck S, Carvalho MS, Câmara G, Monteiro AMV. Análise Espacial de dados geográficos.
+          Brasília: Embrapa Cerrados; 2004. p.155-209.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Câmara</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Carvalho</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Cruz</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Correa</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <chapter-title>Análise espacial de áreas</chapter-title>
+          <person-group>
+            <name>
+              <surname>Druck</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Carvalho</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Câmara</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Monteiro</surname>
+              <given-names>AMV</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">Análise Espacial de dados geográficos</source>
+          <publisher-loc>Brasília</publisher-loc>
+          <publisher-name>Embrapa Cerrados</publisher-name>
+          <year>2004</year>
+          <fpage>155</fpage>
+          <lpage>209</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation>. Camargo-Neves VLF, Katz G, Rodas LAC, Poletto DW, Lage LC, Spínola RMF, et
+          al. Utilização de ferramentas de análise espacial na vigilância epidemiológica de
+          leishmaniose visceral americana – Araçatuba, São Paulo, Brasil, 1998-1999. <italic>Cad
+            Saude Publica.</italic> 2001;17(5):1263-7.
+          DOI:10.1590/S0102-311X2001000500026</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Camargo-Neves</surname>
+              <given-names>VLF</given-names>
+            </name>
+            <name>
+              <surname>Katz</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Rodas</surname>
+              <given-names>LAC</given-names>
+            </name>
+            <name>
+              <surname>Poletto</surname>
+              <given-names>DW</given-names>
+            </name>
+            <name>
+              <surname>Lage</surname>
+              <given-names>LC</given-names>
+            </name>
+            <name>
+              <surname>Spínola</surname>
+              <given-names>RMF</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="pt">Utilização de ferramentas de análise espacial na vigilância
+            epidemiológica de leishmaniose visceral americana – Araçatuba, São Paulo, Brasil,
+            1998-1999</article-title>
+          <source>Cad Saude Publica</source>
+          <year>2001</year>
+          <volume>17</volume>
+          <issue>5</issue>
+          <fpage>1263</fpage>
+          <lpage>1267</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X2001000500026</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation>. Carvalho MS, Souza-Santos R. Análise de dados espaciais em saúde pública:
+          métodos, problemas, perspectivas. <italic>Cad Saude Publica.</italic> 2005;21(2):361-78.
+          DOI:/10.1590/S0102-311X2005000200003</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Carvalho</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Souza-Santos</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Análise de dados espaciais em saúde pública: métodos,
+            problemas, perspectivas</article-title>
+          <source>Cad Saude Publica</source>
+          <year>2005</year>
+          <volume>21</volume>
+          <issue>2</issue>
+          <fpage>361</fpage>
+          <lpage>378</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X2005000200003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation>. Comitê de Leishmaniose Visceral Americana da Secretaria de Estado da Saúde
+          de São Paulo, SP, Brasil. Classificação epidemiológica dos municípios segundo o Programa
+          de Vigilância e Controle da Leishmaniose Visceral Americana no Estado de São Paulo,
+          atualizado em novembro de 2011. <italic>Bol Epidemiol Paulista.</italic>
+          2011;8(96):32-6.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <collab>Comitê de Leishmaniose Visceral Americana da Secretaria de Estado da Saúde de
+              São Paulo, SP, Brasil</collab>
+          </person-group>
+          <article-title xml:lang="pt">Classificação epidemiológica dos municípios segundo o
+            Programa de Vigilância e Controle da Leishmaniose Visceral Americana no Estado de São
+            Paulo, atualizado em novembro de 2011</article-title>
+          <source>Bol Epidemiol Paulista</source>
+          <year>2011</year>
+          <volume>8</volume>
+          <issue>96</issue>
+          <fpage>32</fpage>
+          <lpage>36</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation>. Costa IAP, Casanova C, Rodas L, Galati, EAB. Atualização da distribuição
+          geográfica e primeiro encontro de Lutzomyia longipalpis em área urbana no Estado de São
+          Paulo, Brasil. <italic>Rev Saude Publica.</italic> 1997;31(6):632-3.
+          DOI:10.1590/S0034-89101997000700012</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Costa</surname>
+              <given-names>IAP</given-names>
+            </name>
+            <name>
+              <surname>Casanova</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Rodas</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Galati</surname>
+              <given-names>EAB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Atualização da distribuição geográfica e primeiro encontro de
+            Lutzomyia longipalpis em área urbana no Estado de São Paulo, Brasil</article-title>
+          <source>Rev Saude Publica</source>
+          <year>1997</year>
+          <volume>31</volume>
+          <issue>6</issue>
+          <fpage>632</fpage>
+          <lpage>633</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89101997000700012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation>. Cutolo AA, Camargo DA, Zuben CJVN. Novos registros de Lutzomyia
+          longipalpis (Lutz &amp; Neiva, 1912) (Diptera: Psychodidae) na região Centro-Leste do
+          estado de São Paulo, Brasil. <italic>Rev Bras Parasitol Vet.</italic> 2009;18(1):62-5.
+          DOI:10.4322/rbpv.01801012</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Cutolo</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Camargo</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Zuben</surname>
+              <given-names>CJVN</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Novos registros de Lutzomyia longipalpis (Lutz &amp; Neiva,
+            1912) (Diptera: Psychodidae) na região Centro-Leste do estado de São Paulo,
+            Brasil</article-title>
+          <source>Rev Bras Parasitol Vet</source>
+          <year>2009</year>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>62</fpage>
+          <lpage>65</lpage>
+          <pub-id pub-id-type="doi">10.4322/rbpv.01801012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation>. Gontijo CMF, Melo MN. Leishmaniose visceral no Brasil: quadro atual,
+          desafios e perspectivas. <italic>Rev Bras Epidemiol.</italic> 2004;7(3):338-49.
+          DOI:10.1590/S1415-790X2004000300011</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Gontijo</surname>
+              <given-names>CMF</given-names>
+            </name>
+            <name>
+              <surname>Melo</surname>
+              <given-names>MN</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Leishmaniose visceral no Brasil: quadro atual, desafios e
+            perspectivas</article-title>
+          <source>Rev Bras Epidemiol</source>
+          <year>2004</year>
+          <volume>7</volume>
+          <issue>3</issue>
+          <fpage>338</fpage>
+          <lpage>349</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1415-790X2004000300011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation>. Luz ZMP, Pimental DN, Cabral ALLV, Fiúza VOP, Rabello A. A urbanização das
+          leishmanioses e a baixa resolutividade diagnóstica em municípios da Região Metropolitana
+          de Belo Horizonte. <italic>Rev Soc Bras Med Trop.</italic> 2001;34(3):249-54.
+          DOI:10.1590/S0037-86822001000300004</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Luz</surname>
+              <given-names>ZMP</given-names>
+            </name>
+            <name>
+              <surname>Pimental</surname>
+              <given-names>DN</given-names>
+            </name>
+            <name>
+              <surname>Cabral</surname>
+              <given-names>ALLV</given-names>
+            </name>
+            <name>
+              <surname>Fiúza</surname>
+              <given-names>VOP</given-names>
+            </name>
+            <name>
+              <surname>Rabello</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">A urbanização das leishmanioses e a baixa resolutividade
+            diagnóstica em municípios da Região Metropolitana de Belo Horizonte</article-title>
+          <source>Rev Soc Bras Med Trop</source>
+          <year>2001</year>
+          <volume>34</volume>
+          <issue>3</issue>
+          <fpage>249</fpage>
+          <lpage>254</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0037-86822001000300004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation>. Maia-Elkhoury ANS, Carmo EH, Sousa-Gomes ML, Mota E. Análise dos registros
+          de leishmaniose visceral pelo método de captura-recaptura. <italic>Rev Saude
+            Publica.</italic> 2007;41(6):931-7. DOI:10.1590/S0034-89102007000600007</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Maia-Elkhoury</surname>
+              <given-names>ANS</given-names>
+            </name>
+            <name>
+              <surname>Carmo</surname>
+              <given-names>EH</given-names>
+            </name>
+            <name>
+              <surname>Sousa-Gomes</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Mota</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Análise dos registros de leishmaniose visceral pelo método de
+            captura-recaptura</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2007</year>
+          <volume>41</volume>
+          <issue>6</issue>
+          <fpage>931</fpage>
+          <lpage>937</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102007000600007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation>. Marshall RJ. A review of methods for the statistical analysis of spatial
+          patterns of diseases. <italic>J R Statist Soc.</italic> 1991;154(3):421-41.
+          DOI:10.2307/2983152</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Marshall</surname>
+              <given-names>RJ</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">A review of methods for the statistical analysis of spatial
+            patterns of diseases</article-title>
+          <source>J R Statist Soc</source>
+          <year>1991</year>
+          <volume>154</volume>
+          <issue>3</issue>
+          <fpage>421</fpage>
+          <lpage>441</lpage>
+          <pub-id pub-id-type="doi">10.2307/2983152</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation>. Mestre GLC, Fontes CJF. A expansão da epidemia da leishmaniose visceral no
+          estado de Mato Grosso, 1998-2005. <italic>Rev Soc Bras Med Trop.</italic> 2007;40(1):42-8.
+          DOI:10.1590/S0037-86822007000100008</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Mestre</surname>
+              <given-names>GLC</given-names>
+            </name>
+            <name>
+              <surname>Fontes</surname>
+              <given-names>CJF</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">A expansão da epidemia da leishmaniose visceral no estado de
+            Mato Grosso, 1998-2005</article-title>
+          <source>Rev Soc Bras Med Trop</source>
+          <year>2007</year>
+          <volume>40</volume>
+          <issue>1</issue>
+          <fpage>42</fpage>
+          <lpage>48</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0037-86822007000100008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation>. Oliveira AG, Galati EAB, Fernandes CE, Dorval MEC, Brazil RP. Seasonal
+          variation of Lutzomyia longipalpis (Lutz &amp; Neiva, 1912) (Diptera: Psychodidae:
+          Phlebotominae) in endemic area of visceral leishmaniasis, Campo Grande, state of Mato
+          Grosso do Sul, Brazil. <italic>Acta Trop.</italic> 2008;105(1):55-61.
+          DOI:10.1016/j.actatropica.2007.09.008</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>AG</given-names>
+            </name>
+            <name>
+              <surname>Galati</surname>
+              <given-names>EAB</given-names>
+            </name>
+            <name>
+              <surname>Fernandes</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Dorval</surname>
+              <given-names>MEC</given-names>
+            </name>
+            <name>
+              <surname>Brazil</surname>
+              <given-names>RP</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Seasonal variation of Lutzomyia longipalpis (Lutz &amp;
+            Neiva, 1912) (Diptera: Psychodidae: Phlebotominae) in endemic area of visceral
+            leishmaniasis, Campo Grande, state of Mato Grosso do Sul, Brazil</article-title>
+          <source>Acta Trop</source>
+          <year>2008</year>
+          <volume>105</volume>
+          <issue>1</issue>
+          <fpage>55</fpage>
+          <lpage>61</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.actatropica.2007.09.008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <mixed-citation>. Oliveira JM, Fernandes AC, Dorval MEC, Alves TP, Fernandes ID, Oshiro ET,
+          et al. Mortalidade por leishmaniose visceral: aspectos clínicos e laboratoriais.
+            <italic>Rev Soc Bras Med Trop.</italic> 2010;43(2):188-93.
+          DOI:10.1590/S0037-86822010000200016</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Fernandes</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Dorval</surname>
+              <given-names>MEC</given-names>
+            </name>
+            <name>
+              <surname>Alves</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Fernandes</surname>
+              <given-names>ID</given-names>
+            </name>
+            <name>
+              <surname>Oshiro</surname>
+              <given-names>ET</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="pt">Mortalidade por leishmaniose visceral: aspectos clínicos e
+            laboratoriais</article-title>
+          <source>Rev Soc Bras Med Trop</source>
+          <year>2010</year>
+          <volume>43</volume>
+          <issue>2</issue>
+          <fpage>188</fpage>
+          <lpage>193</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0037-86822010000200016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <mixed-citation>. Scandar SAS, Silva RA, Cardoso Jr RP, Oliveira FH. Ocorrência de
+          leishmaniose visceral americana na região de São José do Rio Preto, estado de São Paulo,
+          Brasil. <italic>Bol Epidemiol Paulista.</italic> 2011;8(88):13-22.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Scandar</surname>
+              <given-names>SAS</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Cardoso</surname>
+              <given-names>RP</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Oliveira</surname>
+              <given-names>FH</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Ocorrência de leishmaniose visceral americana na região de
+            São José do Rio Preto, estado de São Paulo, Brasil</article-title>
+          <source>Bol Epidemiol Paulista</source>
+          <year>2011</year>
+          <volume>8</volume>
+          <issue>88</issue>
+          <fpage>13</fpage>
+          <lpage>22</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <mixed-citation>. Silva JGD, Werneck GL, Cruz MSP, Costa CHN, Mendonça IL. Infecção natural
+          de Lutzomyia longipalpis por Leishmania sp. em Teresina, Piauí, Brasil. <italic>Cad Saude
+            Publica.</italic> 2007;23(7):1715-20.
+          DOI:10.1590/S0102-311X2007000700024</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Silva</surname>
+              <given-names>JGD</given-names>
+            </name>
+            <name>
+              <surname>Werneck</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Cruz</surname>
+              <given-names>MSP</given-names>
+            </name>
+            <name>
+              <surname>Costa</surname>
+              <given-names>CHN</given-names>
+            </name>
+            <name>
+              <surname>Mendonça</surname>
+              <given-names>IL</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Infecção natural de Lutzomyia longipalpis por Leishmania sp.
+            em Teresina, Piauí, Brasil</article-title>
+          <source>Cad Saude Publica</source>
+          <year>2007</year>
+          <volume>23</volume>
+          <issue>7</issue>
+          <fpage>1715</fpage>
+          <lpage>1720</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X2007000700024</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <mixed-citation>. Souza WV, Barcellos CC, Brito AM, Carvalho MS, Cruz OG, Albuquerque MFM,
+          et al. Aplicação de modelo bayesiano empírico na análise espacial da ocorrência de
+          hanseníase. <italic>Rev Saude Publica.</italic> 2001;35(5):474-80.
+          DOI:10.1590/S0034-89102001000500011</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Souza</surname>
+              <given-names>WV</given-names>
+            </name>
+            <name>
+              <surname>Barcellos</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Brito</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Carvalho</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Cruz</surname>
+              <given-names>OG</given-names>
+            </name>
+            <name>
+              <surname>Albuquerque</surname>
+              <given-names>MFM</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="pt">Aplicação de modelo bayesiano empírico na análise espacial da
+            ocorrência de hanseníase</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2001</year>
+          <volume>35</volume>
+          <issue>5</issue>
+          <fpage>474</fpage>
+          <lpage>480</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102001000500011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <mixed-citation>. Viana GMC, Nascimento MDSB, Rabelo EMF, Diniz-Neto JA, Binda Jr JR, Galvão
+          CS et al. Relationship between rainfall and temperature: observations on the cases of
+          visceral leishmaniasis in São Luis Island, State of Maranhão, Brazil. <italic>Rev Soc Bras
+            Med Trop.</italic> 2011;44(6):722-4.
+          DOI:10.1590/S0037-86822011000600013</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Viana</surname>
+              <given-names>GMC</given-names>
+            </name>
+            <name>
+              <surname>Nascimento</surname>
+              <given-names>MDSB</given-names>
+            </name>
+            <name>
+              <surname>Rabelo</surname>
+              <given-names>EMF</given-names>
+            </name>
+            <name>
+              <surname>Diniz-Neto</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Binda</surname>
+              <given-names>JR</given-names>
+              <suffix>Jr</suffix>
+            </name>
+            <name>
+              <surname>Galvão</surname>
+              <given-names>CS</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Relationship between rainfall and temperature: observations
+            on the cases of visceral leishmaniasis in São Luis Island, State of Maranhão,
+            Brazil</article-title>
+          <source>Rev Soc Bras Med Trop</source>
+          <year>2011</year>
+          <volume>44</volume>
+          <issue>6</issue>
+          <fpage>722</fpage>
+          <lpage>724</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0037-86822011000600013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <mixed-citation>. Wernek GL, Pereira TJCF, Farias GC, Silva FO, Chaves FC, Gouvêa MV, et al.
+          Avaliação da efetividade das estratégias de controle da leishmaniose visceral na cidade de
+          Teresina, Estado do Piauí, Brasil: resultados do inquérito inicial – 2004.
+            <italic>Epidemiol Serv Saude.</italic> 2008;17(2):87-96.
+          DOI:10.5123/S1679-49742008000200002</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Wernek</surname>
+              <given-names>GL</given-names>
+            </name>
+            <name>
+              <surname>Pereira</surname>
+              <given-names>TJCF</given-names>
+            </name>
+            <name>
+              <surname>Farias</surname>
+              <given-names>GC</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>FO</given-names>
+            </name>
+            <name>
+              <surname>Chaves</surname>
+              <given-names>FC</given-names>
+            </name>
+            <name>
+              <surname>Gouvêa</surname>
+              <given-names>MV</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="pt">Avaliação da efetividade das estratégias de controle da
+            leishmaniose visceral na cidade de Teresina, Estado do Piauí, Brasil: resultados do
+            inquérito inicial – 2004</article-title>
+          <source>Epidemiol Serv Saude</source>
+          <year>2008</year>
+          <volume>17</volume>
+          <issue>2</issue>
+          <fpage>87</fpage>
+          <lpage>96</lpage>
+          <pub-id pub-id-type="doi">10.5123/S1679-49742008000200002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <mixed-citation>. Ximenes MFFM, Silva VPM, Queiroz PVS, Rego MM, Cortez ALM, Batista LMM, et
+          al. Flebotomíneos (Díptera:Psychodidae) e Leishmanioses no Rio Grande do Norte, Nordeste
+          do Brasil – Reflexos do ambiente antrópico. <italic>Neotrop entomol.</italic>
+          2007;36(1):128-37. DOI:10.1590/S1519-566X2007000100016</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Ximenes</surname>
+              <given-names>MFFM</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>VPM</given-names>
+            </name>
+            <name>
+              <surname>Queiroz</surname>
+              <given-names>PVS</given-names>
+            </name>
+            <name>
+              <surname>Rego</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Cortez</surname>
+              <given-names>ALM</given-names>
+            </name>
+            <name>
+              <surname>Batista</surname>
+              <given-names>LMM</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="pt">Flebotomíneos (Díptera:Psychodidae) e Leishmanioses no Rio
+            Grande do Norte, Nordeste do Brasil – Reflexos do ambiente antrópico</article-title>
+          <source>Neotrop entomol</source>
+          <year>2007</year>
+          <volume>36</volume>
+          <issue>1</issue>
+          <fpage>128</fpage>
+          <lpage>137</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1519-566X2007000100016</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="fn1">
+        <label>a</label>
+        <p>Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância
+          Epidemiológica. Manual de vigilância e controle da leishmaniose visceral. Brasília (DF);
+          2006.  </p>
+      </fn>
+      <fn id="fn2">
+        <label>b</label>
+        <p>Ministério da Saúde. Secretaria de Vigilância em Saúde. Casos confirmados de Leishmaniose
+          Visceral, Brasil, Grandes Regiões e Unidades Federadas: 1990 a 2010. Brasília (DF); 2011
+          [citado 2012 jun 29]. Disponível em:
+          http://portal.saude.gov.br/portal/arquivos/pdf/lv_casos_05_09_11.pdf</p>
+      </fn>
+      <fn id="fn3">
+        <label>c</label>
+        <p>Centro de Vigilância Epidemiológica Prof. Alexandre Vranjak. LVAH – Casos autóctones e
+          óbitos por LPI. São Paulo; 2009 [citado 2012 jan 10]. Disponível em:
+          http://www.cve.saude.sp.gov.br/htm/cve_leishvis.html  </p>
+      </fn>
+      <fn id="fn4">
+        <label>d</label>
+        <p>Centro Integrado de Informações Agrometeorológicas. Dados meteorológicos. São Paulo; 2009
+          [citado 2011dez 1]. Disponível em: http://www.ciiagro.sp.gov.br  </p>
+      </fn>
+      <fn id="fn5">
+        <label>e</label>
+        <p>Fundação Instituto Brasileiro de Geografia e Estatística. Informações Demográficas e
+          Geográficas. Brasília (DF); 2011 [citado 2011 dez 1]. Disponível em: www.ibge.gov.br  </p>
+      </fn>
+      <fn id="fn6">
+        <label>f</label>
+        <p>Transportadora Brasileira Gasoduto Bolívia-Brasil. Gasoduto Bolívia-Brasil. Rio de
+          Janeiro; 1997 [citado 2012 abr 1]. Disponível em: http://www.tbg.com.br</p>
+      </fn>
+    </fn-group>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Introduction and expansion of human American visceral
+          leishmaniasis in the state of Sao Paulo, Brazil, 1999-2011</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cardim</surname>
+            <given-names>Marisa Furtado Mozini</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff7">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rodas</surname>
+            <given-names>Lilian A Colebrusco</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff8">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dibo</surname>
+            <given-names>Margareth Regina</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff9">III</xref>
+          <xref ref-type="aff" rid="aff10">IV</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guirado</surname>
+            <given-names>Marluci Monteiro</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff9">III</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Oliveira</surname>
+            <given-names>Agda Maria</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff11">V</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chiaravalloti</surname>
+            <given-names>Francisco</given-names>
+            <suffix>Neto</suffix>
+          </name>
+          <xref ref-type="aff" rid="aff12">VI</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff7">
+        <label>I</label> Faculdades Adamantinenses Integradas. Adamantina, SP, Brasil</aff>
+      <aff id="aff8">
+        <label>II</label> Superintendência de Controle de Endemias. Araçatuba, SP, Brasil</aff>
+      <aff id="aff9">
+        <label>III</label> Laboratório de Vetores de São José do Rio Preto. Superintendência de
+        Controle de Endemias. São José do Rio Preto, SP, Brasil</aff>
+      <aff id="aff10">
+        <label>IV</label> Departamento de Epidemiologia e Saúde Coletiva. Faculdade de Medicina de
+        São José do Rio Preto. São José do Rio Preto, SP, Brasil</aff>
+      <aff id="aff11">
+        <label>V</label> Programa de Pós-Graduação em Saúde Pública. Faculdade de Saúde Pública.
+        Universidade de São Paulo. São Paulo, SP, Brasil</aff>
+      <aff id="aff12">
+        <label>VI</label> Departamento de Epidemiologia. Faculdade de Saúde Pública. Universidade de
+        São Paulo. São Paulo, SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <label>Correspondence</label> : Francisco Chiaravalloti-Neto Departamento de Epidemiologia
+          Faculdade de Saúde Pública Universidade de São Paulo Av. Dr. Arnaldo, 715 01246-904 São
+          Paulo, SP, Brasil E-mail: franciscochiara@usp.br</corresp>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conflict of interests.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <sec>
+          <title>OBJECTIVE</title>
+          <p>
+            <bold>:</bold> To analyze the spread of human American visceral leishmaniasis and
+            identify the key municipalities for developing surveillance and control activities.</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p>
+            <bold>:</bold> The area of the study was composed of the 316 municipalities in the state
+            of Sao Paulo belonging to the five health districts in which human American visceral
+            leishmaniasis occurs, using data on autochthonous cases and deaths according to the
+            reporting year and municipality in which the death occurred. The incidence, mortality
+            and case fatality rates for each municipality and for the entire area were calculated.
+            An empirical Bayes estimator was used to calculate the local Bayesian incidence and
+            rates of mortality per municipality, and Kriging was used to visualize the spatial
+            distribution of temperature and rainfall.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p>
+            <bold>:</bold> A total of 73 municipalities with transmission of the disease were
+            identified. Human American visceral leishmaniasis was first detected in areas with
+            higher temperatures and lower rainfall, but it also spread in cooler and wetter areas.
+            The expansion of human American visceral leishmaniasis occurred along a main axis of
+            dissemination, from Northwest to Southeast, following the Marechal Rondon highway and
+            the Bolivia-Brazil gas pipeline, and along a secondary axis that was derived from the
+            main axis, which runs both North and South, following the highway network. Rates of
+            incidence according to health district exhibit a peak, followed by a fall, except the
+            Sao Jose do Rio Preto region. Higher concentrations of municipalities with high
+            incidence and mortality rates were observed in the Araçatuba, Presidente Prudente and
+            Marília health districts.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONS</title>
+          <p>
+            <bold>:</bold> This study indicates possible determinants of the spread of disease,
+            including the Marechal Rondon highway and the construction of the Bolivia-Brazil gas
+            pipeline. Climatic factors seemed to play no role in the spread. The use of spatial
+            analysis techniques allowed the municipalities where cases and deaths are possibly
+            underreported to be identified, which indicated the municipalities which should be
+            prioritized for the development of surveillance and control activities.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>Leishmaniasis, Visceral epidemiology</kwd>
+        <kwd>Spatial Analysis</kwd>
+        <kwd>Case fatality rate</kwd>
+        <kwd>Risk Factors</kwd>
+        <kwd>Socioeconomic Factors</kwd>
+        <kwd>Abiotic Factors</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>American visceral leishmaniasis (AVL), a zoonotic infection which affects both animals
+          and humans, is caused by the <italic>Leishmania chagasi</italic> parasite, transmitted by
+            <italic>Lutzomyia longipalpis</italic> . Human American visceral leishmaniasis (HAVL) is
+          characterized by causing hepatosplenomegaly, presenting fever and affecting the body’s
+          general state of health. It has a high rate of mortality if untreated and in malnourished
+          children, affecting immune-depressed individuals, especially HIV carriers. <xref
+            ref-type="fn" rid="fn7"><sup>a</sup></xref>
+        </p>
+        <p>In Brazil, HAVL was a common disease in rural areas until the 1970s; it is now found in
+          urban areas. <xref ref-type="fn" rid="fn7"><sup>a</sup></xref> Before 1990, 90% of cases
+          occurred in the Northeast, the disease then expanded into all other regions of the
+          country. The Northeast <xref ref-type="fn" rid="fn8"><sup>b</sup></xref> is where 51.9% of
+          cases in Brazil were recorded in 2009; 20.9% were in the North, 18.9% in the Southeast,
+          8.1% in the Midwest and 0.2% in the South. The number of reported cases increased by 89.9%
+          between 1999 and 2009 (from 1,944 to 3,693) and the rate of mortality grew from 3.2% to
+          6.2%, almost tripling the number of deaths from the disease. <xref ref-type="fn" rid="fn8"
+              ><sup>b</sup></xref>
+        </p>
+        <p>The expansion of AVL is linked to the urbanization of the disease and the vector, to
+          socio-environmental changes and to the difficulties of controlling the disease in large
+          urban centers, where problems with malnutrition and poor housing and sanitation exist.
+            <xref ref-type="bibr" rid="B11"><sup>11</sup></xref> Human and canine immigration from
+          endemic areas have contributed to this expansion, introducing the <italic>L.
+            chagasi</italic> parasite into new areas. <xref ref-type="bibr" rid="B18"
+            ><sup>18</sup></xref> Human factors, civil construction projects and highways, among
+          others, should also appear in the AVL epidemiological picture. Antonialli et al <xref
+            ref-type="bibr" rid="B1"><sup>1</sup></xref> (2007) suggested that the spread of disease
+          in Mato Grosso do Sul, MS, Midwestern Brazil, was influenced by three large scale
+          projects: the <italic>Novoeste</italic> railway, the <italic>Vitória-Corumbá</italic>
+          highway, and the Bolivia-Brazil gas pipeline.</p>
+        <p>Climatic factors may also be determinants in LVA epidemiology. Thus, the link between
+          temperature, humidity, rainfall, and the presence of the sandfly have been investigated.
+            <xref ref-type="bibr" rid="B16"><sup>16</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B21"><sup>21</sup></xref>
+        </p>
+        <p>Until 1998, HAVL cases recorded in the state of Sao Paulo were imported from other
+          regions of Brazil and the first autochthonous cases appeared in Araçatuba City in 1999.
+            <xref ref-type="bibr" rid="B6"><sup>6</sup></xref> This occurred after the detection of
+            <italic>Lu. longipalpis</italic> in urban areas in 1997, <xref ref-type="bibr" rid="B9"
+              ><sup>9</sup></xref> followed by detection in canines in 1998. <xref ref-type="bibr"
+            rid="B6"><sup>6</sup></xref> Since then, the disease has expanded into municipalities in
+          the state, <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="fn" rid="fn9"><sup>c</sup></xref> with 1,919 cases and 169 deaths recorded
+          by 2011.</p>
+        <p>The aim of this study was to analyze the expansion of HAVL and identify the key
+          municipalities for developing surveillance and control activities.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>METHODS</title>
+        <p>Reported autochthonous cases and deaths from HAVL between 1999 and 2011 in the state of
+          Sao Paulo were the data used in the study. The state of Sao Paulo has 645 municipalities
+          and a population of 41,262,199. The State Health Department divides the state into 17
+          administrative areas. The units of study were the 316 municipalities belonging to the
+          following areas, which had reported autochthonous cases of HAVL: Araçatuba, Bauru,
+          Marília, Presidente Prudente and São José do Rio Preto ( <xref ref-type="fig" rid="f06"
+            >Figure 1A</xref> ).</p>
+        <p>
+          <fig id="f06">
+            <label>Figure 1</label>
+            <caption>
+              <title>Health care regions and municipalities (A) and the year in which the first
+                case(s) of Human American visceral leishmaniasis was detected. State of Sao Paulo,
+                1999 to 2011 (B).</title>
+            </caption>
+            <graphic xlink:href="0034-8910-rsp-47-04-0691-gf01-en"/>
+          </fig>
+        </p>
+        <p>The data were obtained from the Sao Paulo State Health Department. Center for
+          Epidemiological Surveillance. <xref ref-type="fn" rid="fn9"><sup>c</sup></xref> The number
+          of inhabitants per municipality in the years in question were used, as were the
+          geographical coordinates of their centroids in the Lat/Long SAD-69 system.</p>
+        <p>Data on temperature and rainfall were obtained from the Center for Integrated
+          agrometeorological information of the Agronomic Institute (CIIAGRO – <italic>Centro
+            Integrado de Informações Agrometeorológicas of the Instituto Agronômico</italic> ),
+          Campinas. <xref ref-type="fn" rid="fn10"><sup>d</sup></xref> Monthly values for
+          temperature (ºC) measured in 60 meteorological posts in the municipalities in question
+          were used.</p>
+        <p>The georeferenced map of the municipalities in the Lat/Long SAD-69 system, the route of
+          the <italic>Marechal Rondon</italic> highway and the <italic>Novoeste</italic> railway and
+          the populations of the municipalities were obtained from the Brazilian Institute of
+          Geography and Statistics (IBGE). <xref ref-type="fn" rid="fn11"><sup>e</sup></xref> The
+          route of the Bolivia-Brazil gas pipeline was obtained from the <italic>Transportadora
+            Brasileira Gasoduto Bolívia-Brasil</italic> website. <xref ref-type="fn" rid="fn12"
+              ><sup>f</sup></xref>
+        </p>
+        <p>Annual rates for incidence and mortality and the case fatality rate from HAVL were
+          calculated. Data on the year in which the first case(s) of HAVL occurred in each
+          municipality were used to describe its expansion, evaluated together with the routes of
+          the Bolivia-Brazil gas pipeline, the <italic>Marechal Rondon</italic> highway and the
+            <italic>Novoeste</italic> railway.</p>
+        <p>Crude rates of incidence and mortality from HAVL were, respectively, calculated by
+          dividing total cases and deaths by the population of each municipality in the middle of
+          the period in question. Local Bayesian incidence and rates of mortality for HAVL were
+          estimated using an empirical Bayes estimator, in which the Bayesian estimates were made
+          locally, i.e., in relation to a local mean. <xref ref-type="bibr" rid="B5"
+            ><sup>5</sup></xref> These rates were used to correct random fluctuation in crude rates
+          in sparsely inhabited municipalities and to estimate possible underreporting of HAVL cases
+          and deaths, especially in municipalities with few or no cases.</p>
+        <p>Empirical Bayesian rates were obtained by constructing a neighbor matrix for the
+          municipalities, neighboring municipalities being those with at least one common border.
+          TerraView Program version 4.1.0 was used to carry out these procedures. Choropleth maps
+          were used to represent incidence and mortality rates, obtained using the ArcGIS program
+          version 10.</p>
+        <p>Monthly mean temperature and rainfall were calculated for each of the 60 meteorological
+          posts for the entire period of the study. Semivariance was calculated for each variable
+          and used to create semivariograms, adjusted to a mathematical model. These show the
+          existence of the spatial variability of the data, presenting the degree of dependence
+          among the sample points. <xref ref-type="bibr" rid="B2"><sup>2</sup></xref> These analysis
+          were carried out using the GS+ for Windows 5.0.3 Beta (GS+) Program. After detecting the
+          spatial dependence shown in the semivariogram, values for the variables in non-sampled
+          locations were estimated using Kriging interpolation <xref ref-type="bibr" rid="B2"
+              ><sup>2</sup></xref> and choropleth and contour maps obtained using the Surfer 6.01
+          Program.</p>
+        <p>The criteria established by the Ministry of Health <xref ref-type="fn" rid="fn7"
+              ><sup>a</sup></xref> for classifying Brazilian municipalities with HAVL transmission
+          covers the last five years and the categories are: “no transmission” (mean number of cases
+          = 0), “sporadic transmission” (mean number of cases &gt; 0 and &lt; 2.4, with values below
+          the 80<sup>th</sup>percentile), “moderate transmission” (mean number of cases ≥ 2.4 and
+          &lt; 4.4, values between the 80<sup>th</sup>and 90<sup>th</sup>percentiles) and intense
+          transmission (mean number of cases ≥ 4.4, values equal to or above the
+          90<sup>th</sup>percentile). These criteria were used to classify the municipalities in
+          question with transmission between 2007 and 2011. The same percentiles as in the criteria
+          established by the Ministry of Health were used, but rates of incidence between 2007 and
+          2011 were used as cutoff points, giving a different classification (low, moderate and high
+          incidence) which was compared with that obtained from the mean number of cases.</p>
+      </sec>
+      <sec sec-type="results">
+        <title>RESULTS</title>
+        <p>
+          <xref ref-type="fig" rid="f06">Figure 1B</xref> shows how HAVL spread in the
+          administrative area of Araçatuba, from the main town (Araçatuba) to other municipalities
+          in the area in 1999 (Birigui); in the administrative area of Bauru, with cases recorded in
+          Promissão in 2002; in Marília, with cases in Guarantã, in 2003; in Presidente Prudente,
+          with cases in Dracena and Ouro Verde, in 2005; and in Sao Jose do Rio Preto, with cases
+          detected in Jales city, in 2007. Between 1999 and 2011, there were autochthonous cases of
+          HAVL in 73 municipalities in the state.</p>
+        <p>The spread of HAVL was along a main axis of dissemination, from Northwest to Southeast,
+          towards the area of Bauru, following the <italic>Marechal Rondon</italic> highway, the
+            <italic>Novoeste</italic> railway and the construction of the Bolivia-Brazil gas
+          pipeline. There was also a secondary axis that was derived from the main axis, which runs
+          South towards the areas of Presidente Prudente and Marília and North towards Sao Jose do
+          Rio Preto ( <xref ref-type="fig" rid="f06">Figure 1B</xref> ).</p>
+        <p>After the first cases were detected in 1999, there was a steady increase in rates of
+          incidence, peaking in 2008 then falling. Case fatality rates varied greatly between 1996
+          and 2006, before stabilizing from 2007 onwards, when the profile of the rate of mortality
+          started to reflect that of the rate of incidence ( <xref ref-type="fig" rid="f07">Figure
+            2A</xref> ).</p>
+        <p>
+          <fig id="f07">
+            <label>Figure 2</label>
+            <caption>
+              <title>Incidence and mortality rates and case fatality rate for Human American
+                visceral leishmaniasis in the whole area (A) and rates of incidence according to
+                health care region of Araçatuba, Bauru, Marília, Presidente Prudente and Sao Jose do
+                Rio Preto (B). State of Sao Paulo, 1999 to 2011.</title>
+            </caption>
+            <graphic xlink:href="0034-8910-rsp-47-04-0691-gf02-en"/>
+          </fig>
+        </p>
+        <p>There was a peak in incidences in the administrative area of Araçatuba in 2003 (19.0
+          cases/100,000 inhabitants) and Presidente Prudente in 2007 (10.9 cases/100,000
+          inhabitants), followed by a decline. Incidence in Bauru and Marília peaked in 2008, then
+          fell. The rates of incidence in the Sao Jose do Rio Preto increased, although they were
+          lower than those in the other areas. The rates in the five regions varied between 1.3 (Sao
+          Jose do Rio Preto) and 6.3 cases per 100,000 inhabitants (Araçatuba) in 2011 ( <xref
+            ref-type="fig" rid="f07">Figure 2B</xref> ).</p>
+        <p>There was a higher concentration of municipalities with high HAVL incidence and rates of
+          mortality in the region of Araçatuba, followed by Presidente Prudente and Marília ( <xref
+            ref-type="fig" rid="f08">Figures 3A</xref> and <xref ref-type="fig" rid="f08">3B</xref>
+          ). In addition to correcting random fluctuations, the Bayesian rates indicated non-zero
+          values for HAVL incidence and mortality in municipalities with no reports of cases in
+          humans ( <xref ref-type="fig" rid="f08">Figures 3C</xref> and <xref ref-type="fig"
+            rid="f08">3D</xref> ).</p>
+        <p>
+          <fig id="f08">
+            <label>Figure 3</label>
+            <caption>
+              <title>Mean annual temperature in ºC (A) and mean annual rainfall (B). State of Sao
+                Paulo, 1999 to 2011.</title>
+            </caption>
+            <graphic xlink:href="0034-8910-rsp-47-04-0691-gf03-en"/>
+          </fig>
+        </p>
+        <p>There were higher mean temperatures in the Western and Northern regions, ( <xref
+            ref-type="fig" rid="f09">Figure 4A</xref> ). Rainfall levels behaved in the opposite way
+          to temperature, presenting lower incidence in the West and North ( <xref ref-type="fig"
+            rid="f09">Figure 4B</xref> ). Municipalities where HAVL occurred earlier and those with
+          the highest rates of incidence were found in the regions with the highest mean
+          temperatures and lowest mean rainfall (administrative area of Araçatuba) ( <xref
+            ref-type="fig" rid="f06">Figures 1</xref> and <xref ref-type="fig" rid="f09">4</xref>
+          ).</p>
+        <p>
+          <fig id="f09">
+            <label>Figure 4</label>
+            <caption>
+              <title>Crude incidence (A) and mortality rates (B) and local empirical Bayesian rates
+                of incidence (C) and mortality (D) from Human American visceral leishmaniasis. State
+                of Sao Paulo, 1999 to 2011.</title>
+            </caption>
+            <graphic xlink:href="0034-8910-rsp-47-04-0691-gf04-en"/>
+          </fig>
+        </p>
+        <p>
+          <xref ref-type="fig" rid="f10">Figure 5A</xref> shows municipalities according to Ministry
+          of Health classification of transmission occurring between 2007 and 2011 (mean number of
+          cases in the last five years) and <xref ref-type="fig" rid="f10">Figure 5B</xref> shows
+          them classified according to incidence. In some situations there was no correspondence
+          between the criteria used. Five municipalities were classed as having sporadic
+          transmission according to the Ministry of Health criteria, but had high incidence
+          (Irapuru, Nova Guataporanga, Pauliceia, Ouro Verde and Sao Joao do Pau D’Alho), and four
+          municipalities with intense transmission were classified as low incidence (Araçatuba,
+          Birigui, Lins, Bauru).</p>
+        <p>
+          <fig id="f10">
+            <label>Figure 5</label>
+            <caption>
+              <title>Municipalities with sporadic, moderate and intense transmission (according to
+                mean number of cases of Human American visceral leishmaniasis in five years) (A) and
+                with low, moderate and high incidence rates of Human American visceral leishmaniasis
+                (B). State of Sao Paulo, 2007 to 2011.</title>
+            </caption>
+            <graphic xlink:href="0034-8910-rsp-47-04-0691-gf05-en"/>
+          </fig>
+        </p>
+      </sec>
+      <sec sec-type="discussion">
+        <title>DISCUSSION</title>
+        <p>This study shows the geographical spread of HAVL in the state of Sao Paulo between 1999
+          and 2011, first identified in Araçatuba. <xref ref-type="bibr" rid="B6"
+            ><sup>6</sup></xref> Many factors explain this phenomenon: movement of people and goods
+          on the highways and railways linking different regions of the country and their urban
+          centers, migration, urbanization and poor sanitation, movement of infected animals and
+          adaptation of the vector, among others, as well as the need to structure health care
+          teams. <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B18"><sup>18</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B23"><sup>23</sup></xref>
+        </p>
+        <p>Barata <xref ref-type="bibr" rid="B3"><sup>3</sup></xref> (2000) highlights the impact of
+          substituting breeding livestock with sugar cane plantations in the state of Sao Paulo as
+          having an impact on the spread of HAVL. This business involves migrant labor, often from
+          the Northeast, where the disease is endemic. The introduction of HAVL due to migration by
+          individuals from Minas Gerais state is also plausible. A study carried out in the
+          metropolitan area of Belo Horizonte, MG, Southeastern Brazil, showed the HAVL transmission
+          began in 1989, increasing significantly between 1998 and 1999, when cases of HAVL were
+          diagnosed in 15 (42%) of the 36 municipalities in the metropolitan area. <xref
+            ref-type="bibr" rid="B12"><sup>12</sup></xref> The period in which reporting and spread
+          of the disease increased coincides with the period in which the first human and canine
+          cases of the disease were detected in the region of Araçatuba. <xref ref-type="bibr"
+            rid="B6"><sup>6</sup></xref>
+        </p>
+        <p>The hypothesis that the disease originated in the state of Mato Grosso do Sul should also
+          be considered. Cases of AVL in humans and dogs showing symptoms of the disease were
+          observed in the municipality of Corumbá, MS, Midwestern Brazil, from 1980 onwards. HAVL
+          spread to other municipalities from 1998. The first cases of AVL in humans in Campo
+          Grande, MS, were diagnosed in 1999, <xref ref-type="bibr" rid="B1"><sup>1</sup></xref> the
+          same year in which the disease was detected in Sao Paulo State. This hypothesis is
+          reinforced by the fact that the municipalities in Araçatuba share a border with Mato
+          Grosso do Sul, and the link between the two regions is facilitated by the <italic>Marechal
+            Rondon</italic> highway and the <italic>Novoeste</italic> railway.</p>
+        <p>Antonialli et al <xref ref-type="bibr" rid="B1"><sup>1</sup></xref> (2007) noted that the
+          spread of AVL in Mato Grosso do Sul followed the construction of the Bolivia-Brazil gas
+          pipeline, both in space and time, and raised the hypothesis that this may have been a
+          factor in the spread of the disease in this state. The same hypothesis can be considered
+          as partially explaining the spread of the disease in Sao Paulo, where the pipeline was
+          constructed between 1997 and 1999, linking the cities of Castilho – in the area of
+          Araçatuba, bordering Mato Grosso do Sul – with Campinas. Construction of the pipeline
+          involved recruiting large numbers of workers from different regions of Brazil, among them
+          Mato Grosso do Sul, Minas Gerais and the Northeast, who were constantly moving as the gas
+          pipeline construction advanced. <xref ref-type="fn" rid="fn12"><sup>f</sup></xref>
+        </p>
+        <p>Transporting infected and/or ill dogs, from various regions of Brazil with AVL
+          transmission may have contributed to the introduction and spread of the disease in other
+          areas. <xref ref-type="bibr" rid="B15"><sup>15</sup></xref> Scandar et al <xref
+            ref-type="bibr" rid="B18"><sup>18</sup></xref> (2011) indicate that the introduction of
+          the parasite in regions with no transmission may have occurred by asymptomatic dogs, which
+          were thus not put down, arriving from other areas. Circulation of people, animals and
+          goods between municipalities in the same endemic area may have influenced the spread of
+          the disease, as observed by Mestre &amp; Fontes <xref ref-type="bibr" rid="B15"
+              ><sup>15</sup></xref> (2007).</p>
+        <p>Rates of incidence peaked then fell, which may be linked to the surveillance and control
+          activities developed and/or to the cyclical behavior of the disease, except in Sao Jose do
+          Rio Preto, where HAVL was most recently introduced. Ximenes et al <xref ref-type="bibr"
+            rid="B23"><sup>23</sup></xref> (2007) showed the cyclical pattern of the disease in the
+          state of Rio Grande do Norte, Northeastern Brazil, and suggested a period of ten years per
+          cycle. Werneck et al <xref ref-type="bibr" rid="B22"><sup>22</sup></xref> (2008)
+          identifies a similar pattern in Teresina, PI, Northeastern Brazil. Although the
+          foundations of the control measures are backed up by theory, there is no evidence of their
+          effectiveness. <xref ref-type="bibr" rid="B22"><sup>22</sup></xref> These measures have
+          not been effective in controlling the spread of the disease, which is spreading throughout
+          the state of Sao Paulo, an example of what is occurring in the country as a whole. <xref
+            ref-type="fn" rid="fn7"><sup>a</sup></xref>
+        </p>
+        <p>Using local empirical Bayesian rates meant that random fluctuations in incidence and
+          rates of mortality were reduced. <xref ref-type="bibr" rid="B20"><sup>20</sup></xref> By
+          indicating locations with no reports of HAVL, but with estimated incidence &gt; 0, these
+          rates allowed to identified the key municipalities for the development of surveillance and
+          control activities, either for being in the neighborhood of municipalities with confirmed
+          transmission or due a possible underreporting of HAVL cases, estimated at between 42% and
+          45% by Maia-Elkhoury et al <xref ref-type="bibr" rid="B13"><sup>13</sup></xref>
+          (2007).</p>
+        <p>The vector was present in some municipalities with empirical Bayesian rates of incidence
+          &gt; 0 and with no reports of HAVL cases. The others are included in the list of the 363
+          municipalities in the state of Sao Paulo which are classified as vulnerable, due to
+          proximity and/or movement of people and goods from areas with transmission. <xref
+            ref-type="bibr" rid="B8"><sup>8</sup></xref> Municipalities in this situation could be
+          viewed as key for surveillance and control activities.</p>
+        <p>Municipalities with identified incidence of HAVL, with no mortality and empirical
+          Bayesian rates &gt; 0, need to be investigated to verify the occurrence of underreporting
+          of deaths, estimated at between 46% and 53%. <xref ref-type="bibr" rid="B13"
+            ><sup>13</sup></xref> This should take place mainly in those with recent transmission,
+          where neither the population nor the health care professionals are alert to the problem of
+          the disease.</p>
+        <p>The stratification proposed by the Ministry of Health <xref ref-type="fn" rid="fn7"
+              ><sup>a</sup></xref> enabled those municipalities with cases reported in the last five
+          years to be assessed and prioritized. Of the 64 municipalities with autochthonous cases
+          between 2007 and 2011, 12 had intense transmission, seven with high rates of incidence
+          (Dracena, Panorama, Junqueirópolis, Tupi Paulista, Pacaembu, Flórida Paulista and
+          Adamantina). Five municipalities with high rates of incidence were classified as having
+          sporadic transmission due to their small populations. Regional centers playing a
+          significant part in the spread of AVL, such as Araçatuba, Birigui, Bauru and Lins,
+          considered as having intense transmission by the Ministry of Health, were classes as
+          having the lowest level of incidence.</p>
+        <p>Both sets of criteria have some faults. That of the Ministry of Health, as it only
+          considers the mean number of cases and so is not sensitive in identifying municipalities
+          with high rates of incidence, and the classification according to the incidence fails to
+          identify epidemiologically important municipalities. Using the mean number of cases
+          together with incidence would produce classification criteria better able to identify key
+          municipalities for developing surveillance and control actions, especially those
+          municipalities with a high rate of incidence and a small number of cases. <xref
+            ref-type="fn" rid="fn7"><sup>a</sup></xref> These are those on the secondary axis of AVL
+          spread, south towards the regions of Presidente Prudente and Marília (SP). Surveillance
+          and control measures such as educational activities aimed at reporting cases, censuses of
+          canines and environmental management need to be intensified.</p>
+        <p>The large variation in case fatality rate from HAVL between 1999 and 2006, before the
+          figures stabilized in 2007, may be related to the learning curve of the health care
+          professionals providing care. Oliveira et al <xref ref-type="bibr" rid="B17"
+            ><sup>17</sup></xref> (2010) reported that early identification of certain clinical and
+          laboratorial characteristics of HAVL is extremely important in reducing mortality, as the
+          appropriate treatment and preventative measures are taken. These procedures are more
+          necessary in municipalities where transmission has most recently been identified.</p>
+        <p>The occurrence of the first cases of HAVL in the region with higher mean temperatures and
+          lower mean rainfall may reflect the preference of <italic>Lu longipalpis</italic> for the
+          drier, hotter areas of the state. Therefore, the spread into cooler more humid regions,
+          such as municipalities in the areas of Bauru and Marília, show how the vector has adapted
+          to other climates. Microclimate may be more significant to the vectors survival than
+          macroclimate, as the adults prefer to live in humid locations. <xref ref-type="bibr"
+            rid="B4"><sup>4</sup></xref> Silva et al <xref ref-type="bibr" rid="B19"
+            ><sup>19</sup></xref> (2007), in a yearlong study, stated that the most humid months
+          coincide with higher frequency of the vector and with a greater number of vectors infected
+          with <italic>Leishmania</italic> sp.</p>
+        <p>If the macroclimate in the state of Sao Paulo did not play an essential role in the
+          spread of AVL, the factors which would determine the spread of the disease to parts
+          previously untouched may be deemed to be the same as those which affect or affected the
+          spread to the regions studied. This conclusion, to be verified in future studies, together
+          with accumulated experiences of surveillance and control, may serve as the basis for
+          structuring activities aiming to at least delay the spread of AVL in the state of Sao
+          Paulo.</p>
+        <p>Using Geographic Information Systems (GIS) and spatial analysis aids in describing the
+          spread of disease, enabling patterns of occurrence and probable risk factors to be
+          identified. <xref ref-type="bibr" rid="B7"><sup>7</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B14"><sup>14</sup></xref> Using empirical Bayesian estimator in
+          this study meant that random variations in incidence and mortality rates were reduced and
+          highlighted key municipalities for developing surveillance and control activities. Using
+          geostatistics, another technique of spatial analysis, it was possible to visualize
+          climatic variables and compare them with the behavior of HAVL.</p>
+        <p>Using secondary data and passive notification, with the likelihood of underreporting of
+          cases, and the use of an ecological design, are some of the limitations of this study. In
+          spite of this, the study enabled the spread of HAVL in the state of Sao Paulo to be
+          described and indicated possible determinants. Among these, the <italic>Marechal
+            Rondon</italic> highway, the <italic>Novoeste</italic> railway and the construction of
+          the Bolivia-Brazil gas pipeline and the role of climatic, environmental and socio-economic
+          variables in spreading AVL will be the target of more in-depth studies.</p>
+      </sec>
+    </body>
+    <back>
+      <fn-group>
+        <fn id="fn7">
+          <label>a</label>
+          <p>Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância
+            Epidemiológica. Manual de vigilância e controle da leishmaniose visceral. Brasília (DF);
+            2006.</p>
+        </fn>
+        <fn id="fn8">
+          <label>b</label>
+          <p>Ministério da Saúde. Secretaria de Vigilância em Saúde. Casos confirmados de
+            Leishmaniose Visceral, Brasil, Grandes Regiões e Unidades Federadas: 1990 a 2010.
+            Brasília (DF); 2011 [cited 2012 Jun 29]. Available from:
+            http://portal.saude.gov.br/portal/arquivos/pdf/lv_casos_05_09_11.pdf</p>
+        </fn>
+        <fn id="fn9">
+          <label>c</label>
+          <p>Centro de Vigilância Epidemiológica Prof. Alexandre Vranjak. LVAH – Casos autóctones e
+            óbitos por LPI. São Paulo; 2009 [cited 2012 Jan 10]. Available from:
+            http://www.cve.saude.sp.gov.br/htm/cve_leishvis.html</p>
+        </fn>
+        <fn id="fn10">
+          <label>d</label>
+          <p>Centro Integrado de Informações Agrometeorológicas. Dados meteorológicos. São Paulo;
+            2009 [cited 2011Dec 1]. Available from: http://www.ciiagro.sp.gov.br</p>
+        </fn>
+        <fn id="fn11">
+          <label>e</label>
+          <p>Fundação Instituto Brasileiro de Geografia e Estatística. Informações Demográficas e
+            Geográficas. Brasília (DF); 2011 [cited 2011 Dec 1]. Available from: www.ibge.gov.br</p>
+        </fn>
+        <fn id="fn12">
+          <label>f</label>
+          <p>Transportadora Brasileira Gasoduto Bolívia-Brasil. Gasoduto Bolívia-Brasil. Rio de
+            Janeiro; 1997 [cited 2012 Apr 1] Available from: http://www.tbg.com.br</p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+</article>

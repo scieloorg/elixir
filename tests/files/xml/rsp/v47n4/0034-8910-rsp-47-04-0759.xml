@@ -1,0 +1,4193 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="research-article" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047003768</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047003768</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Prática de Saúde Pública</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="pt">Epidemiologia do uso de medicamentos entre idosos em área
+          urbana do Nordeste do Brasil</article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>Epidemiología del uso de medicamentos entre ancianos en área urbana del
+            Noreste de Brasil</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Neves</surname>
+            <given-names>Sabrina Joany Felizardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Marques</surname>
+            <given-names>Ana Paula de Oliveira</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Leal</surname>
+            <given-names>Márcia Carrera Campos</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Diniz</surname>
+            <given-names>Alcides da Silva</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">III</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Medeiros</surname>
+            <given-names>Tibério Silva</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">IV</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Arruda</surname>
+            <given-names>Ilma Kruze Grande de</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">III</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>I</label>
+        <institution content-type="orgdiv1">Departamento de Nutrição</institution>
+        <institution content-type="orgname">Universidade Federal de Pernambuco</institution>
+        <addr-line>
+          <named-content content-type="city">Recife</named-content>
+          <named-content content-type="state">PE</named-content>
+        </addr-line>
+        <country>Brasil</country> Programa de Pós-Graduação em Nutrição. Departamento de Nutrição.
+        Universidade Federal de Pernambuco. Recife, PE, Brasil</aff>
+      <aff id="aff2">
+        <label>II</label>
+        <institution content-type="orgdiv2">Departamento de Medicina Social</institution>
+        <institution content-type="orgdiv1">Centro de Ciências da Saúde</institution>
+        <institution content-type="orgname">Universidade Federal de Pernambuco</institution>
+        <addr-line>
+          <named-content content-type="city">Recife</named-content>
+          <named-content content-type="state">PE</named-content>
+        </addr-line>
+        <country>Brasil</country> Departamento de Medicina Social. Centro de Ciências da Saúde.
+        Universidade Federal de Pernambuco. Recife, PE, Brasil</aff>
+      <aff id="aff3">
+        <label>III</label>
+        <institution content-type="orgdiv2">Departamento de Nutrição</institution>
+        <institution content-type="orgdiv1">Centro de Ciências da Saúde</institution>
+        <institution content-type="orgname">Universidade Federal de Pernambuco</institution>
+        <addr-line>
+          <named-content content-type="city">Recife</named-content>
+          <named-content content-type="state">PE</named-content>
+        </addr-line>
+        <country>Brasil</country> Departamento de Nutrição. Centro de Ciências da Saúde.
+        Universidade Federal de Pernambuco. Recife, PE, Brasil</aff>
+      <aff id="aff4">
+        <label>IV</label>
+        <institution content-type="orgdiv1">Instituto de Ciência Biológicas e da Saúde</institution>
+        <institution content-type="orgname">Universidade Federal de Alagoas</institution>
+        <addr-line>
+          <named-content content-type="city">Maceió</named-content>
+          <named-content content-type="state">AL</named-content>
+        </addr-line>
+        <country>Brasil</country> Programa de Pós-Graduação em Ciências da Saúde. Instituto de
+        Ciência Biológicas e da Saúde. Universidade Federal de Alagoas. Maceió, AL, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondência | Correspondence</bold> : Sabrina Joany Felizardo Neves. Rua
+          Deputado José Lages, 1230 apto. 1001 - Ponta Verde. 54035-330 Maceió, AL, Brasil. E-mail:
+          joanysabrina@gmail.com</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>Estudo subvencionado pelo Conselho Nacional de Desenvolvimento Científico, Edital
+            MCT/CNPq 15/2007 – Universal (Processo nº 475725/2007-7).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>Os autores declaram não haver conflito de interesses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>04</issue>
+      <fpage>759</fpage>
+      <lpage>768</lpage>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>9</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>4</day>
+          <month>3</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="pt">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Analisar o uso de medicamentos entre idosos e os fatores associados.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>Estudo transversal com 400 indivíduos maiores de 60 anos residentes na área de
+            abrangência da Estratégia Saúde da Família, em Recife, PE, em 2009. Os indivíduos foram
+            selecionados por amostra probabilística sistemática, com coleta de dados de base
+            domiciliar. Foram avaliadas variáveis socioeconômicas e demográficas, estilo de vida,
+            condições de saúde e nutricionais. A variável independente foi uso de medicamentos. O
+            diagrama analítico envolveu análises estatísticas uni e multivariadas.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>A prevalência de uso de medicamentos foi de 85,5%. A polifarmácia (&gt; 5 medicamentos)
+            ocorreu em 11% dos casos. Dos 951 medicamentos relatados, 98,2% foram por prescrição
+            médica e 21,6% foram considerados inseguros para idosos. Os medicamentos de uso nos
+            sistemas cardiovascular (42,9%), nervoso central (20,2%), digestório e no metabolismo
+            orgânico (17,3%) foram os mais utilizados. O uso de polifarmácia associou-se à
+            escolaridade (p = 0,008), à saúde autorreferida (p = 0,012), à doença crônica
+            autorreferida (p = 0,000) e ao número de consultas médicas ao ano (0,000).</p>
+        </sec>
+        <sec>
+          <title>CONCLUSÕES</title>
+          <p>A proporção de uso de medicamentos é elevada entre idosos, inclusive daqueles
+            considerados inadequados, e há desigualdades entre grupos de idosos quando se considera
+            escolaridade, quantidade de consultas médicas e saúde autorreferida.</p>
+        </sec>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Analizar el uso de medicamentos entre ancianos y los factores asociados</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>Estudio transversal con 400 individuos mayores de 60 años residentes en área abarcada
+            por la Estrategia Salud de la Familia, en Recife, PE, Brasil, 2009. Los individuos
+            fueron seleccionados por muestreo probabilístico sistemático, con colecta de datos de
+            tipo domiciliar. Se evaluaron variables socioeconómicas y demográficas, estilo de vida,
+            condiciones de salud y nutricionales. La variable independiente fue el uso de
+            medicamentos. El diagrama analítico involucró análisis estadísticos uni y
+            multivariados.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>La prevalencia del uso de medicamentos fue de 85,5%. La polifarmacia (&gt; 5
+            medicamentos) ocurrió en 11% de los casos. De los 951 medicamentos relatados, 98,2%
+            fueron por prescripción médica y 21,6% fueron considerados inseguros para ancianos. Los
+            medicamentos de uso en los sistemas cardiovascular (42,9%), nervioso central (20,2%),
+            digestivo y en el metabolismo orgánico (17,3%) fueron los más utilizados. El uso de
+            polifarmacia se asoció con la escolaridad (p=0,008), la salud auto-referida (p=0,012),
+            la enfermedad crónica auto-referida (p=0,000) y el número de consultas médicas por año
+            (p=0,000).</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONES</title>
+          <p>La proporción de uso de medicamentos es elevada entre ancianos, inclusive en aquellos
+            considerados inadecuados, y desigualdades entre grupos de ancianos al considerarse la
+            escolaridad, cantidad de consultas médicas y la salud auto-referida.</p>
+        </sec>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <kwd>Idoso</kwd>
+        <kwd>Uso de Medicamentos</kwd>
+        <kwd>Polimedicação</kwd>
+        <kwd>Fatores Socioeconômicos</kwd>
+        <kwd>Saúde da População Urbana</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>Anciano</kwd>
+        <kwd>Utilización de Medicamentos</kwd>
+        <kwd>Polifarmacia</kwd>
+        <kwd>Factores Socioeconómicos</kwd>
+        <kwd>Salud Urbana</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>Conselho Nacional de Desenvolvimento Científico</funding-source>
+          <award-id>475725/2007-7</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <table-count count="10"/>
+        <ref-count count="26"/>
+        <page-count count="10"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUÇÃO</title>
+      <p>Mudanças na qualidade de vida, saúde, padrões de consumo e no comportamento relacionado à
+        fecundidade e mortalidade no ultimo século levam ao aumento da longevidade. O envelhecimento
+        populacional tornou-se um fenômeno mundial. <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B25">
+          <sup>25</sup>
+        </xref> O Brasil é considerado um país estruturalmente envelhecido, pois os idosos
+        correspondem a 10,7% da população (cerca de 19 milhões de pessoas). <xref ref-type="fn"
+          rid="fn1">
+          <sup>a</sup>
+        </xref>
+      </p>
+      <p>O processo de envelhecimento cursa com redução progressiva dos tecidos ativos no organismo,
+        perda da capacidade funcional e modificações significativas das funções metabólicas. <xref
+          ref-type="bibr" rid="B17">
+          <sup>17</sup>
+        </xref> Consequentemente, há aumento na incidência de doenças crônicas, internações
+        hospitalares e uso de medicamentos. <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="fn" rid="fn2">
+          <sup>b</sup>
+        </xref>
+      </p>
+      <p>O uso elevado de medicamentos pela população idosa é descrito no Brasil e no mundo. <xref
+          ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B9">
+          <sup>9</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> A população idosa apresenta biologicamente menor capacidade de depleção e
+        metabolização dos fármacos, sofre com maior frequência seus efeitos adversos e redução de
+        sua eficácia terapêutica. Isso ocorre por um conjunto de fatores: maior prevalência de
+        doenças crônicas, polifarmácia e estado nutricional muitas vezes comprometido. <xref
+          ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B10">
+          <sup>10</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B21">
+          <sup>21</sup>
+        </xref>
+      </p>
+      <p>O termo polifarmácia <xref ref-type="bibr" rid="B12">
+          <sup>12</sup>
+        </xref> não possui definição consolidada. Bushardt et al, <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> em revisão de literatura, identificaram inúmeros conceitos de polifarmácia; dentre
+        os mais citados estão “o uso de medicação não apropriada ao diagnóstico”, “uso de múltiplos
+        medicamentos”, “duplicação de drogas e/ou o uso de medicação potencialmente inapropriada”.
+        Neste estudo, classificamos como polifarmácia o uso concomitante de cinco ou mais
+        medicamentos. <xref ref-type="bibr" rid="B12">
+          <sup>12</sup>
+        </xref>
+      </p>
+      <p>A prática da polifarmácia associada às condições fisiológicas e clínicas peculiares à
+        pessoa idosa torna o uso de medicamentos alvo de preocupação para o setor saúde. <xref
+          ref-type="bibr" rid="B8">
+          <sup>8</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B9">
+          <sup>9</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B21">
+          <sup>21</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B26">
+          <sup>26</sup>
+        </xref> É importante compreender os padrões de utilização de medicamentos por essa população
+        para estabelecer caminhos para seu uso racional, melhoria da qualidade de vida e manutenção
+        da capacidade funcional.</p>
+      <p>O presente trabalho teve por objetivo analisar o uso de medicamentos entre idosos e os
+        fatores associados.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>MÉTODOS</title>
+      <p>Estudo de corte transversal com 432 idosos de 60 anos ou mais, não institucionalizados, de
+        ambos os sexos, capazes de se comunicarem, responsáveis pela sua medicação e residentes em
+        áreas adscritas à Estratégia de Saúde da Família (ESF) em Recife, PE, de abril a setembro de
+        2009. A pesquisa foi realizada no Distrito Sanitário IV, situado na região oeste de Recife,
+        Microrregião 4.2, que possuía 2.796 idosos cadastrados na ESF. <xref ref-type="fn" rid="fn3">
+          <sup>c</sup>
+        </xref>
+      </p>
+      <p>O tamanho amostral foi determinado com base em prevalência do “uso de medicamentos” de 80%,
+        com variabilidade de 5%, resultando em 246 indivíduos. Para corrigir eventuais perdas e
+        permitir melhor desagregação das variáveis independentes foram contatados 432 idosos, dos
+        quais 27 recusaram-se a participar do estudo (taxa de recusa de 6,2%) e cinco foram
+        retirados por não terem sido encontrados nas suas residências após a terceira tentativa, o
+        que resultou em amostra de 400 idosos elegíveis.</p>
+      <p>Esse rastreamento permite estimar a prevalência do uso de medicamento na população
+        estudada, bem como as características desse uso e fatores associados.</p>
+      <p>O recrutamento dos indivíduos ocorreu por alocação probabilística, a partir de lista com
+        nomes e endereços dos idosos cadastrados na ESF. Realizava-se sorteio para selecionar o
+        idoso quando havia dois ou mais indivíduos que se enquadrassem no critério de inclusão no
+        mesmo domicílio. A coleta de dados foi domiciliar, composta por aplicação do questionário e
+        aferição de peso e altura por duplas de entrevistadores com cada idoso, isoladamente.</p>
+      <p>Os participantes foram indagados sobre os medicamentos utilizados no dia da entrevista. As
+        entrevistadoras solicitaram prescrições e embalagens dos medicamentos para assegurar a
+        acurácia dos nomes de medicamentos fornecidos e evitar omissão de medicamentos em uso por
+        esquecimento. O nome e a dosagem do medicamento foram utilizados na identificação. Os
+        princípios ativos em cada especialidade farmacêutica foram classificados de acordo com o
+          <italic>Anatomical-Therapeutical-Chemical Classification System</italic> (ATC). <xref
+          ref-type="fn" rid="fn4">
+          <sup>d</sup>
+        </xref>
+      </p>
+      <p>A variável dependente foi o número de mediamentos em uso no dia da entrevista. Essa
+        variável foi categorizada em dois grupos: uso de menos de cinco medicamentos; uso de cinco
+        medicamentos ou mais (classificado como polifarmácia). <xref ref-type="bibr" rid="B12">
+          <sup>12</sup>
+        </xref>
+      </p>
+      <p>Os medicamentos em uso foram classificados em: Medicamentos prescritos (prescritos por
+        médico, incluindo as situações em que é permitida a renovação pelo enfermeiro); Medicamentos
+        não prescritos (usados por iniciativa própria, por recomendação ou indicação de outros que
+        não um profissional médico); Medicamentos inseguros para uso em idosos (deveriam ser
+        evitados independentemente de dose, duração do tratamento ou circunstâncias clínicas, por
+        não serem efetivos ou por apresentarem risco desnecessariamente alto para pessoas idosas –
+        risco excedendo benefício – segundo os critérios de Beers-Fick <xref ref-type="bibr"
+          rid="B6">
+          <sup>6</sup>
+        </xref> ).</p>
+      <p>As variáveis independentes incluíram: características sociodemográficas (idade, sexo,
+        escolaridade – em anos completos, situação conjugal, arranjo familiar e renda mensal – em
+        salários mínimos nacionais da época); condição de saúde (percepção da própria saúde;
+        autorrelato de doenças crônicas); <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref> comportamentos relacionados à saúde (prática de atividades físicas); uso de serviços
+        de saúde (número de consultas médicas realizadas nos últimos 12 meses); estado nutricional
+        (Índice de Massa Corporal, classificado segundo os pontos de corte adotados por Lipschitz
+          <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref> ).</p>
+      <p>As medidas de peso e altura foram tomadas segundo recomendações de Lohman et al. <xref
+          ref-type="bibr" rid="B14">
+          <sup>14</sup>
+        </xref> O peso foi aferido em uma balança da marca Marte, com capacidade de 150 kg, e a
+        altura medida em estadiômetro portátil da marca Alturaexata com extensão de 2,00 m,
+        divididos em centímetros.</p>
+      <p>Os dados foram digitados com dupla entrada e verificados com o “validate”, módulo do
+        Programa EpiInfo, versão 6.04 (WHO/CDC; Atlanta, GE, USA), para identificar eventuais
+        inconsistências. O <italic>software Statistical Package for Social Sciences</italic> (SPSS)
+        for Windows, versão 12.0 foi utilizado nas análises.</p>
+      <p>As análises univariadas foram feitas para verificar associação entre as características da
+        população de estudo e a ocorrência de polifarmácia. Foram utilizados os testes:
+        Kolmogorov-Sminorv para estimar o padrão de normalidade das variáveis contínuas; teste do
+        Qui-quadrado de Pearson para as variáveis categóricas; e teste H de Kruskal-Walis para as
+        contínuas. Foi conduzida a análise múltipla (regressão logística) para identificar fatores
+        associados à ocorrência da polifarmácia. Foi realizado Teste de Wald para tendência e
+        heterogeneidade na análise bruta. Variáveis que obtiveram significância ≤ 0,20 na análise
+        univariada não ajustada foram consideradas na composição do modelo. O método
+          <italic>stepwise</italic> (seleção de variáveis por passos) com eliminação retrógada foi
+        utilizado na análise ajustada. Permaneceram no modelo final as variáveis associadas a p &lt;
+        0,05. O nível de significância utilizado foi definido em α = 0,05 bi-caudal.</p>
+      <p>O protocolo de pesquisa foi aprovado pelo Comitê de Ética da Universidade Federal de
+        Pernambuco (Processo nº 0388.0.172.000-08 e Protocolo nº 396/08). Os participantes assinaram
+        o Termo de Consentimento Livre e Esclarecido.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTADOS</title>
+      <p>A maioria dos idosos (75,5%; IC95% <sup>70,9;79,6) era do sexo feminino. A idade variou de
+          60 a 101 anos, com mediana de 69 anos (64,00:75,75); a faixa etária dos 60 aos 69 anos foi
+          a de maior frequência (51,3%) ( <xref ref-type="table" rid="t01">Tabela 1</xref> ).</sup>
+      </p>
+      <p>
+        <table-wrap id="t01">
+          <label>Tabela 1</label>
+          <caption>
+            <title>Características demográficas, socioeconômicas, de estilo de vida e de saúde entre
+              idosos não institucionalizados. Recife, PE, 2009.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="25%">
+              <col width="50%"/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="3">Variável</td>
+                <td colspan="2" align="center">Idosos</td>
+              </tr>
+              <tr>
+                <td colspan="2" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td align="center">n</td>
+                <td align="center">%</td>
+              </tr>
+              <tr>
+                <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Sexo</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Feminino</td>
+                <td align="center">302</td>
+                <td align="center">75,5</td>
+              </tr>
+              <tr>
+                <td> Masculino</td>
+                <td align="center">98</td>
+                <td align="center">24,5</td>
+              </tr>
+              <tr>
+                <td>Faixa etária (anos)</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 60 a 69</td>
+                <td align="center">205</td>
+                <td align="center">51,3</td>
+              </tr>
+              <tr>
+                <td> 70 a 79</td>
+                <td align="center">134</td>
+                <td align="center">33,5</td>
+              </tr>
+              <tr>
+                <td> 80 ou mais</td>
+                <td align="center">61</td>
+                <td align="center">15,4</td>
+              </tr>
+              <tr>
+                <td>Escolaridade (anos de estudo)</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Analfabeto</td>
+                <td align="center">146</td>
+                <td align="center">36,6</td>
+              </tr>
+              <tr>
+                <td> 1 a 4</td>
+                <td align="center">87</td>
+                <td align="center">21,9</td>
+              </tr>
+              <tr>
+                <td> 5 a 9</td>
+                <td align="center">62</td>
+                <td align="center">15,5</td>
+              </tr>
+              <tr>
+                <td> 10 ou mais</td>
+                <td align="center">104</td>
+                <td align="center">26,1</td>
+              </tr>
+              <tr>
+                <td>Situação conjugal</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Com companheiro(a)</td>
+                <td align="center">147</td>
+                <td align="center">36,8</td>
+              </tr>
+              <tr>
+                <td> Sem companheiro(a)</td>
+                <td align="center">252</td>
+                <td align="center">63,2</td>
+              </tr>
+              <tr>
+                <td> Pessoas por domicílio</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Até 3</td>
+                <td align="center">228</td>
+                <td align="center">57,0</td>
+              </tr>
+              <tr>
+                <td> 4 ou mais</td>
+                <td align="center">142</td>
+                <td align="center">43,0</td>
+              </tr>
+              <tr>
+                <td>Renda (SM)</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> &lt; 1</td>
+                <td align="center">60</td>
+                <td align="center">15,1</td>
+              </tr>
+              <tr>
+                <td> 1 a 2</td>
+                <td align="center">310</td>
+                <td align="center">78,1</td>
+              </tr>
+              <tr>
+                <td> &gt; 2</td>
+                <td align="center">27</td>
+                <td align="center">6,8</td>
+              </tr>
+              <tr>
+                <td>Saúde</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Excelente, muito boa e boa</td>
+                <td align="center">24</td>
+                <td align="center">6,0</td>
+              </tr>
+              <tr>
+                <td> Regular e ruim</td>
+                <td align="center">376</td>
+                <td align="center">94,0</td>
+              </tr>
+              <tr>
+                <td>Relato de doenças</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Não</td>
+                <td align="center">48</td>
+                <td align="center">12,0</td>
+              </tr>
+              <tr>
+                <td> Uma doença crônica</td>
+                <td align="center">137</td>
+                <td align="center">34,2</td>
+              </tr>
+              <tr>
+                <td> Duas ou mais doenças crônicas </td>
+                <td align="center">215</td>
+                <td align="center">53,8</td>
+              </tr>
+              <tr>
+                <td>Atividade física</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Não</td>
+                <td align="center">98</td>
+                <td align="center">24,5</td>
+              </tr>
+              <tr>
+                <td> Sim</td>
+                <td align="center">302</td>
+                <td align="center">75,5</td>
+              </tr>
+              <tr>
+                <td>Estado nutricional (IMC)</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> &lt; 22 kg/m <sup>2</sup>
+                </td>
+                <td align="center">50</td>
+                <td align="center">13,7</td>
+              </tr>
+              <tr>
+                <td> 22 a 27 kg/m <sup>2</sup>
+                </td>
+                <td align="center">140</td>
+                <td align="center">38,5</td>
+              </tr>
+              <tr>
+                <td> &gt; 27 kg/m <sup>2</sup>
+                </td>
+                <td align="center">174</td>
+                <td align="center">47,8</td>
+              </tr>
+              <tr>
+                <td>Consultas médicas ao ano</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Até 4</td>
+                <td align="center">257</td>
+                <td align="center">64,3</td>
+              </tr>
+              <tr>
+                <td> 5 ou mais</td>
+                <td align="center">143</td>
+                <td align="center">35,8</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>SM: salário mínimo; IMC: índice de massa corporal</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>Baixa escolaridade foi frequente e a amostra foi constituída predominantemente por
+        analfabetos (36,6%). Maior proporção de idosos possuía renda entre um e dois salários
+        mínimos (78,1%); 63,2% viviam sem companheiro(a) e a mediana de pessoas por família foi de
+        3,0 (2,00:5,00).</p>
+      <p>A maioria dos idosos (94,0%) classificou sua saúde como ruim. Maior parte dos entrevistados
+        (88,0%) referiu ser portador de pelo menos uma doença crônica; desses, 53,8% afirmaram
+        possuir duas ou mais. As doenças referidas foram hipertensão arterial (47,6%),
+        artrite/reumatismo/artrose (21,3%), diabetes (13,3%), doença cardíaca (6,3%), derrame
+        (5,7%), doença pulmonar crônica (3,8%) e neoplasia (2,0%). A média do IMC foi de 27,9 kg/m
+          <xref ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref> (DP = 5,4) e o sobrepeso foi a condição nutricional predominante (47,5%).</p>
+      <p>O uso do Sistema Único de Saúde (SUS) foi informado por 83,5% dos idosos; desses, 64,5%
+        utilizaram exclusivamente a ESF nos últimos 12 meses. A mediana de consultas foi 4 (2,00:
+        6,00) para o mesmo período. A internação ocorreu em 24,5% dos idosos nos quatro meses que
+        antecederam a entrevista ( <xref ref-type="table" rid="t01">Tabela 1</xref> ).</p>
+      <p>A prevalência de uso de medicamentos foi de 85,5%. Desses, a proporção de idosos, usando ao
+        menos um medicamento prescrito, foi de 98,2%, e a proporção usando pelo menos um medicamento
+        não prescrito foi de 6,7%. A polifarmácia ocorreu em 11,0% dos casos. O uso de ao menos um
+        medicamento considerado inseguro para idosos ocorreu em 21,6% dos casos. Os mais utilizados
+        foram: diazepan, digoxina e óleo mineral.</p>
+      <p>Identificaram-se 951 medicamentos em utilização no momento da entrevista, compostos por 739
+        fármacos distintos. O número médio de medicamentos em uso pelo idoso no momento da
+        entrevista foi de 2,4 (DP = 1,78) e a mediana foi 2,0 (1,00: 3,00), variando de zero a dez
+        medicamentos. A mediana foi de 2,0 (1,00: 3,00) entre os medicamentos prescritos, variando
+        de zero a dez, e entre os medicamentos não prescritos foi de 0 (0,00: 0,00), variando de 0 a
+        3 medicamentos. Os homens apresentaram mediana de 2,0 (0,75: 3,00), enquanto as mulheres 2,0
+        (1,00: 3,00) (p = 0,001).</p>
+      <p>Os medicamentos mais utilizados pelos idosos pertenciam à classe dos cardiovasculares,
+        seguidos pelos medicamentos utilizados para o sistema nervoso central ( <xref
+          ref-type="table" rid="t02">Tabela 2</xref> ).</p>
+      <p>
+        <table-wrap id="t02">
+          <label>Tabela 2</label>
+          <caption>
+            <title>Medicamentos utilizados por idosos não institucionalizados segundo classe
+              terapêutica e grupo farmacológico. Recife, PE, 2009. (N = 951)</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="20%">
+              <col width="60%"/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>Classe e Subgrupo</td>
+                <td align="center">n</td>
+                <td align="center">%</td>
+              </tr>
+              <tr>
+                <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Medicamentos cardiovasculares</td>
+                <td align="center">408</td>
+                <td align="center">42,9</td>
+              </tr>
+              <tr>
+                <td> Diuréticos</td>
+                <td align="center">124</td>
+                <td align="center">13,0</td>
+              </tr>
+              <tr>
+                <td> Fármacos ativos no sistema renina angiotensina</td>
+                <td align="center">107</td>
+                <td align="center">11,2</td>
+              </tr>
+              <tr>
+                <td> Bloqueadores dos canais de cálcio</td>
+                <td align="center">37</td>
+                <td align="center">3,9</td>
+              </tr>
+              <tr>
+                <td> β-bloqueadores</td>
+                <td align="center">19</td>
+                <td align="center">2,0</td>
+              </tr>
+              <tr>
+                <td> Terapia cardíaca</td>
+                <td align="center">14</td>
+                <td align="center">1,5</td>
+              </tr>
+              <tr>
+                <td> Hipolipermiantes</td>
+                <td align="center">4</td>
+                <td align="center">0,4</td>
+              </tr>
+              <tr>
+                <td> Outros</td>
+                <td align="center">103</td>
+                <td align="center">10,9</td>
+              </tr>
+              <tr>
+                <td>Medicamentos para o nervoso central</td>
+                <td align="center">192</td>
+                <td align="center">20,2</td>
+              </tr>
+              <tr>
+                <td> Analgésicos</td>
+                <td align="center">80</td>
+                <td align="center">8,4</td>
+              </tr>
+              <tr>
+                <td> Psicolépticos</td>
+                <td align="center">26</td>
+                <td align="center">2,7</td>
+              </tr>
+              <tr>
+                <td> Psicoanalépticos</td>
+                <td align="center">20</td>
+                <td align="center">2,1</td>
+              </tr>
+              <tr>
+                <td> Antiparkinsonianos</td>
+                <td align="center">6</td>
+                <td align="center">0,6</td>
+              </tr>
+              <tr>
+                <td> Antiepilético</td>
+                <td align="center">4</td>
+                <td align="center">0,4</td>
+              </tr>
+              <tr>
+                <td> Outros</td>
+                <td align="center">6</td>
+                <td align="center">0,6</td>
+              </tr>
+              <tr>
+                <td>Medicamentos para o trato alimentar e metabolismo</td>
+                <td align="center">165</td>
+                <td align="center">17,3</td>
+              </tr>
+              <tr>
+                <td> Antidiabéticos</td>
+                <td align="center">65</td>
+                <td align="center">6,8</td>
+              </tr>
+              <tr>
+                <td> Suplementos minerais</td>
+                <td align="center">18</td>
+                <td align="center">1,9</td>
+              </tr>
+              <tr>
+                <td> Antiácidos, antiulcerosos e antiflatulentos</td>
+                <td align="center">14</td>
+                <td align="center">1,5</td>
+              </tr>
+              <tr>
+                <td> Vitaminas</td>
+                <td align="center">5</td>
+                <td align="center">0,5</td>
+              </tr>
+              <tr>
+                <td> Outros</td>
+                <td align="center">3</td>
+                <td align="center">0,3</td>
+              </tr>
+              <tr>
+                <td>Outros</td>
+                <td align="center">186</td>
+                <td align="center">19,6</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </p>
+      <p>Dentre os medicamentos mais utilizados, destacaram-se a Hidroclorotiazida 25 mg, o
+        Captopril 25 mg e o AAS 100 mg ( <xref ref-type="table" rid="t03">Tabela 3</xref> ).</p>
+      <p>
+        <table-wrap id="t03">
+          <label>Tabela 3</label>
+          <caption>
+            <title>Medicamentos utilizados por idosos não institucionalizados. Recife, PE,
+              2009.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="20%">
+              <col width="60%"/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>Medicamento</td>
+                <td align="center">n</td>
+                <td align="center">%</td>
+              </tr>
+              <tr>
+                <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Hidroclorotiazida 25 mg cpr</td>
+                <td align="center">153</td>
+                <td align="center">16,1</td>
+              </tr>
+              <tr>
+                <td>Captopril 25 mg cpr</td>
+                <td align="center">102</td>
+                <td align="center">10,8</td>
+              </tr>
+              <tr>
+                <td>AAS 100 mg cpr</td>
+                <td align="center">66</td>
+                <td align="center">6,9</td>
+              </tr>
+              <tr>
+                <td>Metformina 850 mg cpr</td>
+                <td align="center">42</td>
+                <td align="center">4,4</td>
+              </tr>
+              <tr>
+                <td>Propranolol 40 mg cpr</td>
+                <td align="center">42</td>
+                <td align="center">4,4</td>
+              </tr>
+              <tr>
+                <td>Glibenclamida 5 mg cpr</td>
+                <td align="center">36</td>
+                <td align="center">3,8</td>
+              </tr>
+              <tr>
+                <td>Sinvastatina 40 mg cpr</td>
+                <td align="center">30</td>
+                <td align="center">3,1</td>
+              </tr>
+              <tr>
+                <td>Diazepan 10 mg cpr</td>
+                <td align="center">21</td>
+                <td align="center">2,2</td>
+              </tr>
+              <tr>
+                <td>Atenolol 50 mg cpr</td>
+                <td align="center">15</td>
+                <td align="center">1,6</td>
+              </tr>
+              <tr>
+                <td>Furosemida 40 mg cpr</td>
+                <td align="center">12</td>
+                <td align="center">1,3</td>
+              </tr>
+              <tr>
+                <td>Outros</td>
+                <td align="center">432</td>
+                <td align="center">45,4</td>
+              </tr>
+              <tr>
+                <td>Total</td>
+                <td align="center">951</td>
+                <td align="center">100,0</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </p>
+      <p>O uso de polifarmácia mostrou-se associado à menor escolaridade (p = 0,008), à saúde
+        autorreferida como negativa (p = 0,012), presença de duas ou mais doenças crônicas
+        autorreferidas (p = 0,000) e ao número de consultas médicas ao ano (0,000). As demais
+        variáveis não estiveram associadas ao uso de polifarmácia ( <xref ref-type="table" rid="t04"
+          >Tabela 4</xref> ).</p>
+      <p>
+        <table-wrap id="t04">
+          <label>Tabela 4</label>
+          <caption>
+            <title>Associação entre o uso de medicamentos, características sociodemográficas,
+              aspectos relacionados à saúde e uso de serviços de saúde entre idosos não
+              institucionalizados. Recife, PE, 2009.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="10%">
+              <col width="50%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="3"> Variável</td>
+                <td colspan="4" align="center"> Polifarmácia </td>
+                <td rowspan="3" align="center"> p <sup>a</sup>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="2" align="center">Sim</td>
+                <td colspan="2" align="center">Não</td>
+              </tr>
+              <tr>
+                <td> </td>
+                <td align="center">n</td>
+                <td align="center">%</td>
+                <td align="center">n</td>
+                <td align="center">%</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="6" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Sexo</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,302</td>
+              </tr>
+              <tr>
+                <td> Feminino</td>
+                <td align="center">8</td>
+                <td align="center">8,2</td>
+                <td align="center">90</td>
+                <td align="center">91,8</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Masculino</td>
+                <td align="center">36</td>
+                <td align="center">11,9</td>
+                <td align="center">266</td>
+                <td align="center">88,1</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Faixa etária (anos)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,097</td>
+              </tr>
+              <tr>
+                <td> 60 a 69</td>
+                <td align="center">29</td>
+                <td align="center">14,15</td>
+                <td align="center">176</td>
+                <td align="center">85,9</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 70 a 79</td>
+                <td align="center">9</td>
+                <td align="center">6,7</td>
+                <td align="center">125</td>
+                <td align="center">93,3</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 80 ou mais</td>
+                <td align="center">6</td>
+                <td align="center">9,8</td>
+                <td align="center">55</td>
+                <td align="center">90,2</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Escolaridade (anos de estudo)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,008</td>
+              </tr>
+              <tr>
+                <td> Analfabeto</td>
+                <td align="center">20</td>
+                <td align="center">19,2</td>
+                <td align="center">84</td>
+                <td align="center">80,8</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 1 a 4</td>
+                <td align="center">7</td>
+                <td align="center">11,3</td>
+                <td align="center">55</td>
+                <td align="center">88,7</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 5 a 9</td>
+                <td align="center">9</td>
+                <td align="center">10,3</td>
+                <td align="center">78</td>
+                <td align="center">89,7</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 10 ou mais</td>
+                <td align="center">8</td>
+                <td align="center">5,5</td>
+                <td align="center">138</td>
+                <td align="center">94,5</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Situação conjugal</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,688</td>
+              </tr>
+              <tr>
+                <td> Com companheiro(a)</td>
+                <td align="center">15</td>
+                <td align="center">10,2</td>
+                <td align="center">132</td>
+                <td align="center">89,8</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Sem companheiro(a)</td>
+                <td align="center">29</td>
+                <td align="center">11,5</td>
+                <td align="center">223</td>
+                <td align="center">88,5</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Pessoas por domicílio</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,535</td>
+              </tr>
+              <tr>
+                <td> Até 3</td>
+                <td align="center">27</td>
+                <td align="center">11,8</td>
+                <td align="center">201</td>
+                <td align="center">88,2</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 4 ou mais</td>
+                <td align="center">17</td>
+                <td align="center">9,9</td>
+                <td align="center">155</td>
+                <td align="center">90,1</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Renda (SM)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,416</td>
+              </tr>
+              <tr>
+                <td> &lt; 1</td>
+                <td align="center">3</td>
+                <td align="center">9,4</td>
+                <td align="center">29</td>
+                <td align="center">90,6</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 1 a 2</td>
+                <td align="center">1</td>
+                <td align="center">3,7</td>
+                <td align="center">26</td>
+                <td align="center">96,3</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> &gt; 2</td>
+                <td align="center">40</td>
+                <td align="center">11,8</td>
+                <td align="center">300</td>
+                <td align="center">88,2</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Saúde</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,012</td>
+              </tr>
+              <tr>
+                <td> Excelente, muito boa e boa</td>
+                <td align="center">6</td>
+                <td align="center">5,0</td>
+                <td align="center">114</td>
+                <td align="center">95,0</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Regular e ruim</td>
+                <td align="center">38</td>
+                <td align="center">13,6</td>
+                <td align="center">242</td>
+                <td align="center">86,4</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Relato de doenças</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,000</td>
+              </tr>
+              <tr>
+                <td> Não</td>
+                <td align="center">–</td>
+                <td align="center">–</td>
+                <td align="center">48</td>
+                <td align="center">100,0</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Uma doença crônica</td>
+                <td align="center">5</td>
+                <td align="center">3,7</td>
+                <td align="center">129</td>
+                <td align="center">96,3</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Duas ou mais doenças crônicas</td>
+                <td align="center">39</td>
+                <td align="center">17,9</td>
+                <td align="center">179</td>
+                <td align="center">82,1</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Atividade física</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,183</td>
+              </tr>
+              <tr>
+                <td> Não</td>
+                <td align="center">30</td>
+                <td align="center">9,8</td>
+                <td align="center">275</td>
+                <td align="center">90,2</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Sim</td>
+                <td align="center">14</td>
+                <td align="center">14,7</td>
+                <td align="center">81</td>
+                <td align="center">85,3</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Estado nutricional (IMC)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,663</td>
+              </tr>
+              <tr>
+                <td> &lt; 22 kg/m <sup>2</sup>
+                </td>
+                <td align="center">19</td>
+                <td align="center">9,9</td>
+                <td align="center">173</td>
+                <td align="center">90,1</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 22 a 27 kg/m <sup>2</sup>
+                </td>
+                <td align="center">16</td>
+                <td align="center">13,1</td>
+                <td align="center">106</td>
+                <td align="center">86,9</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> &gt; 27 kg/m <sup>2</sup>
+                </td>
+                <td align="center">6</td>
+                <td align="center">12,2</td>
+                <td align="center">43</td>
+                <td align="center">87,8</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Consultas médicas ao ano</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,000</td>
+              </tr>
+              <tr>
+                <td> Até 4</td>
+                <td align="center">16</td>
+                <td align="center">6,2</td>
+                <td align="center">241</td>
+                <td align="center">93,8</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 5 ou mais</td>
+                <td align="center">28</td>
+                <td align="center">19,6</td>
+                <td align="center">115</td>
+                <td align="center">80,4</td>
+                <td> </td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>SM: salário mínimo; IMC: índice de massa corporal</p>
+            <p>
+              <sup>a</sup> Qui-quadrado</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>
+        <table-wrap id="t05">
+          <label>Tabela 5</label>
+          <caption>
+            <title>Modelo final da análise multivariada para polifarmácia, entre idosos não
+              institucionalizados. Recife, PE, 2009.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="17%">
+              <col width="30%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>Variável</td>
+                <td align="center">OR</td>
+                <td align="center">IC95%</td>
+                <td align="center">Erro Padrão</td>
+                <td align="center">p</td>
+              </tr>
+              <tr>
+                <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="5">Escolaridade (anos de estudo)</td>
+              </tr>
+              <tr>
+                <td> Analfabeto</td>
+                <td align="center">1</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 1 a 4</td>
+                <td align="center">5,276</td>
+                <td align="center">2,142;12,989</td>
+                <td align="center">0,460</td>
+                <td align="center">0,000</td>
+              </tr>
+              <tr>
+                <td> 5 a 9</td>
+                <td align="center">2,426</td>
+                <td align="center">1,004;5,860</td>
+                <td align="center">0,450</td>
+                <td align="center">0,049</td>
+              </tr>
+              <tr>
+                <td> 10 ou mais</td>
+                <td align="center">2,131</td>
+                <td align="center">0,809;5,616</td>
+                <td align="center">0,494</td>
+                <td align="center">0,126</td>
+              </tr>
+              <tr>
+                <td>Saúde</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Excelente, muito boa e boa</td>
+                <td align="center">1</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Regular e ruim</td>
+                <td align="center">2,787</td>
+                <td align="center">1,111;6,995</td>
+                <td align="center">0,469</td>
+                <td align="center">0,029</td>
+              </tr>
+              <tr>
+                <td colspan="5">Consultas médicas ao ano</td>
+              </tr>
+              <tr>
+                <td> Até 4</td>
+                <td align="center">1</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 5 ou mais</td>
+                <td align="center">3,754</td>
+                <td align="center">1,899;7,422</td>
+                <td align="center">0,348</td>
+                <td align="center">0,000</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>OR: <italic>odds ratio</italic>
+            </p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>Três variáveis mantiveram-se no modelo após o ajuste para os potenciais fatores de riscos
+        para o uso de polifarmácia, mostrando associação independente com o uso de polifarmácia. Ter
+        de um a quatro anos de estudo foi o fator mais fortemente associado ao uso de polifarmácia
+        (OR = 5,276; IC95% 2,142;12,989) (p = 0,000).</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSÃO</title>
+      <p>A elevada prevalência do uso de medicamentos entre os idosos (85,5%) é concordante com a
+        literatura e encontra-se dentro da média esperada, com valores próximos aos obtidos em
+        Fortaleza, CE, (80,3%), <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref> Região Sul (82,0%) <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref> e Belo Horizonte, MG (86,2% <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref> e 89,6% <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> ).</p>
+      <p>O número médio de medicamentos em uso no momento da pesquisa foi menor que o observado no
+        Rio de Janeiro, RJ, <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref> Região Sul <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref> e Belo Horizonte, MG. <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> Porém, foi maior que o encontrado em Fortaleza, <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> população que mais se aproxima da população de referência desta pesquisa, o que
+        sugere diferenças regionais na intensidade do uso de medicamentos.</p>
+      <p>Sexo, idade e acesso a serviços de saúde são apontados como fatores preditores para o uso
+        de medicamentos entre idosos. <xref ref-type="bibr" rid="B9">
+          <sup>9</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B21">
+          <sup>21</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref> Nesta pesquisa, mulheres tenderam a usar mais medicamentos, porém a prevalência
+        específica de polifarmácia não apresentou diferenças estatisticamente significantes entre os
+        sexos. Em geral, mulheres procuram mais os serviços de saúde e relatam melhor suas doenças;
+          <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref> assim, são mais propensas à utilização de medicamentos. Essa tendência de usar
+        medicamentos e em maior quantidade é consistente com os resultados de outras investigações
+        epidemiológicas. <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> Entretanto, essa diferença não esteve refletida na prática da polifarmácia. Da mesma
+        forma, não houve associação entre polifarmácia e faixa etária. A assistência dos idosos pela
+        equipe do ESF torna o acesso gratuito ao medicamento vinculado à prescrição baseada nas
+        listas padronizadas, o que resulta em uso de menor quantidade de medicamentos além do
+        estímulo ao uso mais racional. Isso pode reduzir a polifarmácia em todas as faixas etárias e
+        em ambos os sexos. Nossos achados são discordantes dos estudos realizados em Belo Horizonte.
+          <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> Entretanto, esses estudos foram realizados com idosos na população geral,
+        independente de vinculação a ESF, sugerindo que o acompanhamento do idoso pela equipe de
+        saúde tende a reduzir a polifarmácia em todas as faixas etárias.</p>
+      <p>As classes terapêuticas mais utilizadas foram semelhantes às encontradas em outras
+        pesquisas. <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref> Os medicamentos para o sistema cardiovascular foram os mais utilizados, o que
+        concorda com o perfil epidemiológico nacional, <xref ref-type="fn" rid="fn5">
+          <sup>e</sup>
+        </xref> e a hipertensão foi a condição crônica autorreferida mais frequente.</p>
+      <p>A proporção de idosos usando medicamentos prescritos foi expressiva e alcançou maior
+        proporção do que a encontrada em pesquisas realizadas na população geral de idosos. <xref
+          ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref> Por outro lado, a proporção de idosos usando medicamentos não prescritos foi
+        inferior às referidas pela literatura. <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref> Esse comportamento pode estar relacionado ao fato de se tratar de uma população
+        basicamente dependente do SUS, sendo portanto necessária a apresentação de uma prescrição
+        para que seja dispensado qualquer medicamento. A frequência do uso de medicamentos
+        considerados inseguros para idosos <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> foi maior que a descrita no Rio de Janeiro <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref> e em Fortaleza, <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> mas apresentou valores menores, comparados àqueles obtidos em estudos realizados com
+        idosos não usuários do SUS. <xref ref-type="bibr" rid="B19">
+          <sup>19</sup>
+        </xref> Mesmo assim, observou-se o uso do diazepan por 2,2% dos idosos. Essa prevalência foi
+        maior do que a encontrada por Bushardt et al, <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> porém menor que a encontrada em Fortaleza. <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> Segundo o critério estabelecido por Beers-Fick <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref> e painel de especialistas, o diazepan é considerado um medicamento não recomendado
+        para idosos, independentemente do diagnóstico e da condição clínica, pois possui meia vida
+        longa, produzindo sedação prolongada e aumento do risco de quedas e fraturas.</p>
+      <p>A prática vigente de padronização de medicamentos no SUS e da dispensação de medicamentos
+        vinculada à prescrição pode estar relacionada ao aumento do uso de medicamentos prescritos e
+        à redução de prescrições de medicamentos inseguros para idosos e do uso de medicamentos não
+        prescritos. Essa prática vigente na ESF parece atuar de forma positiva, dada a baixa
+        prevalência de idosos usando medicamentos inseguros e não prescritos, o que reduz o risco de
+        sofrerem com iatrogenias, reações adversas e interações medicamentosas. <xref
+          ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B10">
+          <sup>10</sup>
+        </xref>
+      </p>
+      <p>Apenas a escolaridade relacionou-se diretamente com o uso de medicamentos entre as
+        variáveis socioeconômicas. Idosos com escolaridade mais baixa apresentaram maior prevalência
+        de polifarmácia. A baixa escolaridade é um fator preditivo para o aumento de morbidades
+        crônicas, <xref ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref> que, por sua vez, está associada ao aumento do uso de medicamentos.</p>
+      <p>A frequência de consultas médicas foi maior entre idosos que faziam uso de polifarmácia,
+        reforçando a importância da qualificação dos protocolos clínicos e educação continuada do
+        profissional prescritor, uma vez que os serviços de atenção primária foram referidos como o
+        principal tipo de acesso ao sistema de saúde. Lebrão &amp; Laurenti, <xref ref-type="bibr"
+          rid="B11">
+          <sup>11</sup>
+        </xref> em pesquisa com idosos na comunidade, independentemente de acesso à ESF, encontraram
+        maior percentual de procura aos serviços hospitalares. Essa diferença quanto ao acesso ao
+        sistema de saúde mostra a importância da inserção da ESF para facilitar o acesso dos idosos
+        aos serviços de saúde, educar e promover seu acompanhamento contínuo.</p>
+      <p>A autopercepção negativa de saúde esteve associada à prática da polifarmácia, como em
+        outros estudos epidemiológicos. <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> A prevalência de autoavaliação de saúde negativa foi elevada. Ao contrário do
+        presente estudo, idosos tenderam a avaliar mais positivamente sua saúde nos estudos de
+        Lebrão &amp; Laurenti <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref> e Paskulin &amp; Vianna. <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref> Entretanto, tais estudos foram realizados nas Regiões Sudeste e Sul e as diferenças
+        regionais podem ter influenciado esse resultado. São necessários mais estudos na Região
+        Nordeste para confirmar essa tendência.</p>
+      <p>A prevalência de doenças crônicas foi próxima à observada por outros autores. <xref
+          ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref> Hipertensão foi a doença mais relatada, em concordância com o perfil epidemiológico
+        brasileiro e com outros estudos. <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref> As VI Diretrizes Brasileiras de Hipertensão <xref ref-type="bibr" rid="B23">
+          <sup>23</sup>
+        </xref> destacam que, apesar de apresentar alta prevalência, a hipertensão possui baixas
+        taxas de controle. É considerada um dos principais fatores de risco modificáveis para a
+        mortalidade relacionada às doenças cardiovasculares, que por sua vez figuram entre as
+        principais causas de morte no Brasil nos últimos anos. <xref ref-type="fn" rid="fn6">
+          <sup>f</sup>
+        </xref>
+      </p>
+      <p>O uso de medicamentos, apesar de necessário, constitui risco para idosos, principalmente a
+        polifarmácia ou o uso de medicamentos considerados inseguros. <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref>
+      </p>
+      <p>A prática continuada da polifarmácia está associada à piora das condições de saúde física e
+        mental entre idosos. <xref ref-type="bibr" rid="B10">
+          <sup>10</sup>
+        </xref> O acesso a medicamentos deve ser visto como uma conquista do SUS, porém sua
+        prescrição deve ser baseada nas condições de saúde globais do paciente idoso, e não apenas
+        no tratamento específico de doenças, adotando padrões que minimizem a polifarmácia e o uso
+        de medicamentos inseguros.</p>
+      <p>O baixo percentual de perdas é um dos pontos positivos do presente estudo, pois ajudou a
+        reduzir a possibilidade de viés de seleção e contribuiu para a validade interna da pesquisa.
+        Destacam-se limitações inerentes ao delineamento transversal: dificuldade de identificar a
+        relação cronológica dos eventos, reduzida com a aplicação de formulário previamente
+        validado; dados da exposição atual não podem representar os dados da exposição passada,
+        minimizados para algumas variáveis nas quais o idoso foi indagado sobre a cronicidade de sua
+        condição; e a interpretação dificultada pela presença de variáveis de confundimento,
+        contornado na análise estatística, ajustada para minimizar a influência dessas
+        variáveis.</p>
+      <p>Como os fatores de risco atribuídos ao uso de polifarmácia são múltiplos e desconhecidos,
+        apenas a utilização de indicadores habituais pode não ser a maneira mais apropriada para
+        investigar a causalidade do uso da polifarmácia no contexto estudado. É difícil determinar a
+        ação isolada do ambiente, da personalidade e da idade (viés de memória), uma vez que se
+        trata de um fenômeno que compreende complexa rede de determinantes causais. Outros fatores
+        de risco não devidamente avaliados em nossa investigação podem desempenhar papel crucial na
+        gênese da elevada prevalência do uso de fármacos. A investigação do estresse psicológico, do
+        uso de determinadas medicações, merece ser devidamente realizada, juntamente com as
+        alterações fisiológicas decorrentes da senectude.</p>
+      <p>Os dados do presente estudo indicam alta proporção de uso de medicamentos entre idosos,
+        inclusive daqueles considerados inadequados, e desigualdades entre grupos de idosos quanto
+        ao uso de medicamentos, quando se considera escolaridade, quantidade de consultas médicas e
+        saúde autorreferida. A proporção de idosos usando medicamentos prescritos foi maior que a
+        encontrada em populações de idosos não adscritas à ESF. O fato de cerca de 11,0% da
+        população fazer uso da polifarmácia associado ao envelhecimento populacional brasileiro é um
+        fator preocupante, considerando os riscos potenciais do uso de medicamentos entre os idosos.
+        É necessária ampla discussão sobre a necessidade de adoção de medidas para a promoção do uso
+        racional de medicamentos entre essa parcela da população, educação continuada dos
+        profissionais prescritores, qualificação dos sistemas de saúde para oferecer educação
+        permanente e acesso a informações adequadas em momento oportuno, e adoção de medidas no
+        âmbito da assistência farmacêutica por meio da elaboração e implementação de listas de
+        medicamentos e protocolos clínicos adequados às necessidades da população idosa. A elevada
+        prevalência de uso de medicação principalmente na classe terapêutica das DCVs mostra a
+        necessidade de adoção de medidas para o estímulo à atividade física e de hábitos alimentares
+        saudáveis. Além disso, é fundamental a orientação contínua dos idosos e cuidadores quanto
+        aos riscos do uso de medicamentos e adoção de medidas no âmbito da assistência
+        farmacêutica.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <p>DESTAQUES</p>
+      <p>O envelhecimento populacional é um desafio para o Sistema Único de Saúde, pois a população
+        mais idosa pressupõe aumento de doenças crônicas, maior taxa de internações hospitalares,
+        aumento no uso de medicamentos, entre outros cuidados, e isso tudo aumenta os gastos com
+        saúde, bem como faz com que haja necessidade de maior qualificação dos serviços e
+        profissionais para tratar essa “nova clientela”. O maior uso de medicamentos pelos idosos
+        apresenta ainda outras implicações, tais como reações adversas, interações medicamentosas
+        nocivas, intoxicações ou ineficácia terapêutica, decorrentes em parte dos aspectos
+        específicos do metabolismo nos idosos e em parte de imperícia dos prescritores que ignoram
+        essas peculiaridades.</p>
+      <p>O artigo apresenta os resultados de um estudo transversal com amostra probabilística de
+        clientela coberta pela Estratégia Saúde da Família, na cidade de Recife. Os resultados são
+        representativos de idosos que utilizam exclusivamente os serviços oferecidos pelo Sistema
+        Único de Saúde e preferencialmente os serviços de atenção básica, população que em sua
+        maioria apresenta precárias condições socioeconômicas (renda e escolaridade baixas) e
+        precárias condições de saúde (alta proporção de indivíduos com saúde regular, ruim ou muito
+        ruim e de indivíduos com pelo menos uma doença crônica).</p>
+      <p>Nessa clientela observou-se alta prevalência de uso de medicamentos (85%), mediana de dois
+        medicamentos por indivíduo, 11% usando mais de cinco medicamentos simultaneamente e 22% de
+        medicamentos inseguros (inadequados para idosos ou sem eficácia comprovada), apesar de 98%
+        do uso ter sido decorrente de prescrição médica. O uso excessivo de medicamentos esteve
+        associado ao pior estado de saúde, maior consumo de consultas médicas no período e menor
+        nível de escolaridade.</p>
+      <p>Os resultados podem orientar os gestores de saúde e os responsáveis pelas equipes da
+        Estratégia Saúde da Família com vistas a uma prescrição mais responsável, aumentando a
+        segurança dos pacientes idosos.</p>
+      <p>Profa. Rita de Cássia Barradas Barata Editora Científica</p>
+    </app-group>
+    <ref-list>
+      <title>REFERÊNCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Barreto SM, Figueiredo RC. Doença crônica, auto-avaliação de saúde e
+          comportamento de risco: diferença de gênero. <italic>Rev Saude Publica</italic> .
+          2009;43(Supl 2):38-47. DOI:10.1590/S0034-89102009000900006</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Barreto</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Figueiredo</surname>
+              <given-names>RC</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Doença crônica, auto-avaliação de saúde e comportamento de
+            risco: diferença de gênero</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2009</year>
+          <volume>43</volume>
+          <supplement>2</supplement>
+          <fpage>38</fpage>
+          <lpage>47</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102009000900006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Barros MBA, Cesar CLG, Carandina L, Torre GD. Desigualdades na prevalência
+          de doenças crônicas no Brasil, PNAD – 2003. <italic>Ciências &amp; Saúde Coletiva</italic>
+          . 2006;11(4):911-6</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Barros</surname>
+              <given-names>MBA</given-names>
+            </name>
+            <name>
+              <surname>Cesar</surname>
+              <given-names>CLG</given-names>
+            </name>
+            <name>
+              <surname>Carandina</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Torre</surname>
+              <given-names>GD</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Desigualdades na prevalência de doenças crônicas no Brasil,
+            PNAD – 2003</article-title>
+          <source>Ciências &amp; Saúde Coletiva</source>
+          <year>2006</year>
+          <volume>11</volume>
+          <issue>4</issue>
+          <fpage>911</fpage>
+          <lpage>916</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Bushardt RL, Massey EB, Simpson TW, Ariail JC, Simpson KN. Polypharmacy:
+          misleading, but manageable. <italic>Clin Interv Aging</italic> . 2008;3(2):383-9.
+          DOI:10.2147/CIA.S2468</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Bushardt</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Massey</surname>
+              <given-names>EB</given-names>
+            </name>
+            <name>
+              <surname>Simpson</surname>
+              <given-names>TW</given-names>
+            </name>
+            <name>
+              <surname>Ariail</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Simpson</surname>
+              <given-names>KN</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Polypharmacy: misleading, but manageable</article-title>
+          <source>Clin Interv Aging</source>
+          <year>2008</year>
+          <volume>3</volume>
+          <issue>2</issue>
+          <fpage>383</fpage>
+          <lpage>389</lpage>
+          <pub-id pub-id-type="doi">10.2147/CIA.S2468</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Campos MTFS, Monteiro JBR, Ornelas APRC. Fatores que afetam o consumo
+          alimentar e a nutrição do idoso. <italic>Rev Nutr</italic> . 2000;13(3):157-65.
+          DOI:10.1590/S1415-52732000000300002</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Campos</surname>
+              <given-names>MTFS</given-names>
+            </name>
+            <name>
+              <surname>Monteiro</surname>
+              <given-names>JBR</given-names>
+            </name>
+            <name>
+              <surname>Ornelas</surname>
+              <given-names>APRC</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Fatores que afetam o consumo alimentar e a nutrição do
+            idoso</article-title>
+          <source>Rev Nutr</source>
+          <year>2000</year>
+          <volume>13</volume>
+          <issue>3</issue>
+          <fpage>157</fpage>
+          <lpage>165</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1415-52732000000300002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Coelho Filho JM, Marcopito LF, Castelo A. Perfil de utilização de
+          medicamentos por idosos em área urbana do Nordeste do Brasil. <italic>Rev Saude
+            Publica</italic> . 2004;38(4):557-64.
+          DOI:10.1590/S0034-89102004000400012</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Coelho</surname>
+              <given-names>JM</given-names>
+              <suffix>Filho</suffix>
+            </name>
+            <name>
+              <surname>Marcopito</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Castelo</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Perfil de utilização de medicamentos por idosos em área
+            urbana do Nordeste do Brasil</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2004</year>
+          <volume>38</volume>
+          <issue>4</issue>
+          <fpage>557</fpage>
+          <lpage>564</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102004000400012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation>. Fick DM, Cooper JW, Wade WE, Waller JL, Maclean JR, Beers MH. Updating the
+          Beers criteria for potentially inappropriate medication use in older adults: results of a
+          US consensus panel of experts. <italic>Arch Intern Med</italic> . 2003;163(22):2716-24.
+          DOI:10.1001/archinte.163.22.2716</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Fick</surname>
+              <given-names>DM</given-names>
+            </name>
+            <name>
+              <surname>Cooper</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Wade</surname>
+              <given-names>WE</given-names>
+            </name>
+            <name>
+              <surname>Waller</surname>
+              <given-names>JL</given-names>
+            </name>
+            <name>
+              <surname>Maclean</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Beers</surname>
+              <given-names>MH</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Updating the Beers criteria for potentially inappropriate
+            medication use in older adults: results of a US consensus panel of
+            experts</article-title>
+          <source>Arch Intern Med</source>
+          <year>2003</year>
+          <volume>163</volume>
+          <issue>22</issue>
+          <fpage>2716</fpage>
+          <lpage>2724</lpage>
+          <pub-id pub-id-type="doi">10.1001/archinte.163.22.2716</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation>. Flores LM, Mengue SS. Uso de medicamentos por idosos em região do sul do
+          Brasil. <italic>Rev Saude Publica</italic> . 2005;39(6):925-9.
+          DOI:10.1590/S0034-89102005000600009</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Flores</surname>
+              <given-names>LM</given-names>
+            </name>
+            <name>
+              <surname>Mengue</surname>
+              <given-names>SS</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Uso de medicamentos por idosos em região do sul do
+            Brasil</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2005</year>
+          <volume>39</volume>
+          <issue>6</issue>
+          <fpage>925</fpage>
+          <lpage>929</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102005000600009</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation>. Helling DK, Lemke JH, Semla TP, Wallace RB, Lipson DP, Cornoni-Huntley J.
+          Medication use characteristics in the elderly: The Iowa 65+ Rural Health Study. <italic>J
+            Am Geriatr Soc</italic> . 1987;35(1):4-12.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Helling</surname>
+              <given-names>DK</given-names>
+            </name>
+            <name>
+              <surname>Lemke</surname>
+              <given-names>JH</given-names>
+            </name>
+            <name>
+              <surname>Semla</surname>
+              <given-names>TP</given-names>
+            </name>
+            <name>
+              <surname>Wallace</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Lipson</surname>
+              <given-names>DP</given-names>
+            </name>
+            <name>
+              <surname>Cornoni-Huntley</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Medication use characteristics in the elderly: The Iowa 65+
+            Rural Health Study</article-title>
+          <source>J Am Geriatr Soc</source>
+          <year>1987</year>
+          <volume>35</volume>
+          <issue>1</issue>
+          <fpage>4</fpage>
+          <lpage>12</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation>. Junius-Walker U, Theile G, Hummers-Pradier E. Prevalence and predictors of
+          polypharmacy among older primary care patients in Germany. <italic>Fam Pract</italic> .
+          2007;24(1):14-9. DOI:10.1093/fampra/cml067</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Junius-Walker</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Theile</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Hummers-Pradier</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Prevalence and predictors of polypharmacy among older primary
+            care patients in Germany</article-title>
+          <source>Fam Pract</source>
+          <year>2007</year>
+          <volume>24</volume>
+          <issue>1</issue>
+          <fpage>14</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="doi">10.1093/fampra/cml067</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation>. Kadam UT. Potential health impacts of multiple drug prescribing for older
+          people: a case-control study. <italic>Br J Gen Pract</italic> . 2011;61(583):128-30.
+          DOI:10.3399/bjgp11X556263</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Kadam</surname>
+              <given-names>UT</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Potential health impacts of multiple drug prescribing for
+            older people: a case-control study</article-title>
+          <source>Br J Gen Pract</source>
+          <year>2011</year>
+          <volume>61</volume>
+          <issue>583</issue>
+          <fpage>128</fpage>
+          <lpage>130</lpage>
+          <pub-id pub-id-type="doi">10.3399/bjgp11X556263</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation>. Lebrão ML, Laurenti R. Saúde, bem-estar e envelhecimento: o estudo SABE no
+          Município de São Paulo. <italic>Rev Bras Epidemiol</italic> . 2005;8(2):127-41.
+          DOI:10.1590/S1415-790X2005000200005</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Lebrão</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Laurenti</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Saúde, bem-estar e envelhecimento: o estudo SABE no Município
+            de São Paulo</article-title>
+          <source>Rev Bras Epidemiol</source>
+          <year>2005</year>
+          <volume>8</volume>
+          <issue>2</issue>
+          <fpage>127</fpage>
+          <lpage>141</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1415-790X2005000200005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation>. Linjakumpu T, Hartikainen S, Klaukka T, Veijola J, Kivelä SL, Isoaho R.
+          Use of medications and polypharmacy are increasing among the elderly. <italic>J Clin
+            Epidemiol</italic> . 2002;55(8):809-17.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Linjakumpu</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hartikainen</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Klaukka</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Veijola</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kivelä</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Isoaho</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Use of medications and polypharmacy are increasing among the
+            elderly</article-title>
+          <source>J Clin Epidemiol</source>
+          <year>2002</year>
+          <volume>55</volume>
+          <issue>8</issue>
+          <fpage>809</fpage>
+          <lpage>817</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation>. Lipschitz DA. Screening for nutritional status in the elderly.
+            <italic>Prim Care</italic> . 1994;21(1):55-67.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Lipschitz</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Screening for nutritional status in the
+            elderly</article-title>
+          <source>Prim Care</source>
+          <year>1994</year>
+          <volume>21</volume>
+          <issue>1</issue>
+          <fpage>55</fpage>
+          <lpage>67</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation>. Lohman TG, Roche AF, Martorell R. Anthropometric standardization reference
+          manual. Champaign, Ill: Human Kinetics; 1988.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Lohman</surname>
+              <given-names>TG</given-names>
+            </name>
+            <name>
+              <surname>Roche</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Martorell</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Anthropometric standardization reference manual</source>
+          <publisher-loc>Champaign, Ill</publisher-loc>
+          <publisher-name>Human Kinetics</publisher-name>
+          <year>1988</year>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation>. Loyola Filho AI, Uchoa E, Lima-Costa MF. Estudo epidemiológico de base
+          populacional sobre uso de medicamentos entre idosos na Região Metropolitana de Belo
+          Horizonte, Minas Gerais, Brasil. <italic>Cad Saude Publica</italic> . 2006;22(12):2657-67.
+          DOI:10.1590/S0102-311X2006001200015</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Loyola</surname>
+              <given-names>AI</given-names>
+              <suffix>Filho</suffix>
+            </name>
+            <name>
+              <surname>Uchoa</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Lima-Costa</surname>
+              <given-names>MF</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Estudo epidemiológico de base populacional sobre uso de
+            medicamentos entre idosos na Região Metropolitana de Belo Horizonte, Minas Gerais,
+            Brasil</article-title>
+          <source>Cad Saude Publica</source>
+          <year>2006</year>
+          <volume>22</volume>
+          <issue>12</issue>
+          <fpage>2657</fpage>
+          <lpage>2667</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X2006001200015</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation>. Monsegui GBG, Rozenfeld S, Veras RP, Vianna CMM. Avalição da qualidade do
+          uso de medicamentos em idosos. <italic>Rev Saude Publica</italic> . 1999;33(5):437-44.
+          DOI:10.1590/S0034-89101999000500002</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Monsegui</surname>
+              <given-names>GBG</given-names>
+            </name>
+            <name>
+              <surname>Rozenfeld</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Veras</surname>
+              <given-names>RP</given-names>
+            </name>
+            <name>
+              <surname>Vianna</surname>
+              <given-names>CMM</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Avalição da qualidade do uso de medicamentos em
+            idosos</article-title>
+          <source>Rev Saude Publica</source>
+          <year>1999</year>
+          <volume>33</volume>
+          <issue>5</issue>
+          <fpage>437</fpage>
+          <lpage>444</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89101999000500002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <mixed-citation>. Papaléo Netto M, Borgonovi N. Biologia e teorias do envelhecimento. In:
+          Papaléo Netto M, organizador. Gerontologia. São Paulo: Atheneu; 1997.
+          p.44-59.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Papaléo Netto</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Borgonovi</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <chapter-title>Biologia e teorias do envelhecimento</chapter-title>
+          <person-group>
+            <name>
+              <surname>Papaléo Netto</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">Gerontologia</source>
+          <publisher-loc>São Paulo</publisher-loc>
+          <publisher-name>Atheneu</publisher-name>
+          <year>1997</year>
+          <fpage>44</fpage>
+          <lpage>59</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <mixed-citation>. Paskulin LMG, Vianna LAC. Perfil sociodemográfico e condições de saúde
+          autorreferidas de idosos de Porto Alegre. <italic>Rev Saude Publica</italic> .
+          2007;41(5):757-68. DOI:10.1590/S0034-89102007000500010</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Paskulin</surname>
+              <given-names>LMG</given-names>
+            </name>
+            <name>
+              <surname>Vianna</surname>
+              <given-names>LAC</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Perfil sociodemográfico e condições de saúde autorreferidas
+            de idosos de Porto Alegre</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2007</year>
+          <volume>41</volume>
+          <issue>5</issue>
+          <fpage>757</fpage>
+          <lpage>768</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102007000500010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <mixed-citation>. Pereira LRL, Vecchi LUP, Baptista MEC, Carvalho D. Avaliação da utilização
+          de medicamentos em pacientes idosos por meio de conceito de farmacoepidemiologia e
+          farmacovigilância. <italic>Cienc Saude Coletiva</italic> . 2004;9(2):479-81.
+          DOI:10.1590/S1413-81232004000200023 </mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Pereira</surname>
+              <given-names>LRL</given-names>
+            </name>
+            <name>
+              <surname>Vecchi</surname>
+              <given-names>LUP</given-names>
+            </name>
+            <name>
+              <surname>Baptista</surname>
+              <given-names>MEC</given-names>
+            </name>
+            <name>
+              <surname>Carvalho</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Avaliação da utilização de medicamentos em pacientes idosos
+            por meio de conceito de farmacoepidemiologia e farmacovigilância</article-title>
+          <source>Cienc Saude Coletiva</source>
+          <year>2004</year>
+          <volume>9</volume>
+          <issue>2</issue>
+          <fpage>479</fpage>
+          <lpage>481</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1413-81232004000200023 </pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <mixed-citation>. Ribeiro AQ, Rozenfeld S, Klein CH, César CC, Acucio FA. Inquérito sobre
+          uso de medicamentos por idosos aposentados, Belo Horizonte, MG. <italic>Rev Saude
+            Publica</italic> . 2008;42(4):724-32.
+          DOI:10.1590/S0034-89102008005000031</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Ribeiro</surname>
+              <given-names>AQ</given-names>
+            </name>
+            <name>
+              <surname>Rozenfeld</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Klein</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>César</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Acucio</surname>
+              <given-names>FA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Inquérito sobre uso de medicamentos por idosos aposentados,
+            Belo Horizonte, MG</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2008</year>
+          <volume>42</volume>
+          <issue>4</issue>
+          <fpage>724</fpage>
+          <lpage>732</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102008005000031</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <mixed-citation>. Rozenfeld S. Prevalência, fatores associados e mau uso de medicamentos
+          entre idosos: uma revisão. <italic>Cad Saude Publica</italic> . 2003;19(3):717-24.
+          DOI:10.1590/S0102-311X2003000300004</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Rozenfeld</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Prevalência, fatores associados e mau uso de medicamentos
+            entre idosos: uma revisão</article-title>
+          <source>Cad Saude Publica</source>
+          <year>2003</year>
+          <volume>19</volume>
+          <issue>3</issue>
+          <fpage>717</fpage>
+          <lpage>724</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X2003000300004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <mixed-citation>. Ruzicka LT. The use of mortaliy and morbidy statistics for national health
+          promotion. London: WHO; 1990.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Ruzicka</surname>
+              <given-names>LT</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">The use of mortaliy and morbidy statistics for national health
+            promotion</source>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>WHO</publisher-name>
+          <year>1990</year>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <mixed-citation>. Sociedade Brasileira de Cardiologia; Sociedade Brasileira de Hipertensão;
+          Sociedade Brasileira de Nefrologia. VI Diretrizes Brasileiras de Hipertensão Arterial.
+            <italic>Arq Bras Cardiol</italic> . 2010;95(1 supl.1):1-51.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <collab>Sociedade Brasileira de Cardiologia</collab>
+            <collab>Sociedade Brasileira de Hipertensão</collab>
+            <collab>Sociedade Brasileira de Nefrologia</collab>
+          </person-group>
+          <article-title xml:lang="pt">VI Diretrizes Brasileiras de Hipertensão
+            Arterial</article-title>
+          <source>Arq Bras Cardiol</source>
+          <year>2010</year>
+          <volume>95</volume>
+          <issue>1</issue>
+          <supplement>1</supplement>
+          <fpage>1</fpage>
+          <lpage>51</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <mixed-citation>. Tavares EL, Anjos LA. Perfil antropométrico da população idosa brasileira:
+          resultados da Pesquisa Nacional sobre Saúde e Nutrição. <italic>Cad Saude Publica</italic>
+          . 1999;15(4):759-68. DOI:10.1590/S0102-311X1999000400010</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Tavares</surname>
+              <given-names>EL</given-names>
+            </name>
+            <name>
+              <surname>Anjos</surname>
+              <given-names>LA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Perfil antropométrico da população idosa brasileira:
+            resultados da Pesquisa Nacional sobre Saúde e Nutrição</article-title>
+          <source>Cad Saude Publica</source>
+          <year>1999</year>
+          <volume>15</volume>
+          <issue>4</issue>
+          <fpage>759</fpage>
+          <lpage>768</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X1999000400010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <mixed-citation>. Veras R. Envelhecimento populacional contemporâneo: demandas, desafios e
+          inovações. <italic>Rev Saude Publica</italic> . 2009;43(3):548-54.
+          DOI:10.1590/S0034-89102009005000025</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Veras</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Envelhecimento populacional contemporâneo: demandas, desafios
+            e inovações</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2009</year>
+          <volume>43</volume>
+          <issue>3</issue>
+          <fpage>548</fpage>
+          <lpage>554</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102009005000025</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26">
+        <label>26</label>
+        <mixed-citation>. Zhan C, Sangl J, Bierman AS, Miller MR, Friedman B, Wickizer SW, et al.
+          Potentially inappropriate medication use in the community-dwelling elderly: findings from
+          the 1996 Medical Expenditure Panel Survey. <italic>JAMA</italic> . 2001;286(22):2823-9.
+          DOI:10.1001/jama.286.22.2823</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Zhan</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Sangl</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Bierman</surname>
+              <given-names>AS</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Friedman</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Wickizer</surname>
+              <given-names>SW</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Potentially inappropriate medication use in the
+            community-dwelling elderly: findings from the 1996 Medical Expenditure Panel
+            Survey</article-title>
+          <source>JAMA</source>
+          <year>2001</year>
+          <volume>286</volume>
+          <issue>22</issue>
+          <fpage>2823</fpage>
+          <lpage>2829</lpage>
+          <pub-id pub-id-type="doi">10.1001/jama.286.22.2823</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="fn1">
+        <p>Trabalho baseado em tese de doutorado de Neves S.J.F., intitulada: “Estado nutricional e
+          uso de medicamentos em idosos assistidos pela Estratégia Saúde da Família”, apresentada à
+          Universidade Federal de Pernambuco, em 2011.</p>
+      </fn>
+      <fn id="fn2">
+        <label>a</label>
+        <p>Instituto Brasileiro de Geografia e Estatística. Censo demográfico 2010: resultados
+          preliminares. Rio de Janeiro; 2010.</p>
+      </fn>
+      <fn id="fn3">
+        <label>b</label>
+        <p>Veras RP, Lourenço R, Martins CSF, Sanchez MA, Chaves PH. Novos paradigmas do modelo
+          assistencial no setor saúde: consequência da explosão populacional dos idosos no Brasil.
+          In: Veras RP, organizador. Terceira idade: gestão contemporânea em saúde. Rio de Janeiro:
+          Relume Dumará; 2002. p.11-79.</p>
+      </fn>
+      <fn id="fn4">
+        <label>c</label>
+        <p>Secretaria Municipal de Saúde do Recife. Sistema de Informação da Atenção Básica. Recife;
+          2009.</p>
+      </fn>
+      <fn id="fn5">
+        <label>d</label>
+        <p>WHO Collaborating Centre for Drug Statistics Methodology. ATC/DDD Index 2010. Oslo; 2010
+          [citado 20 Mai 2010]. Disponível em: http://www.whocc.no/atc_ddd_index/</p>
+      </fn>
+      <fn id="fn6">
+        <label>e</label>
+        <p>Ministério da Saúde. Saúde Brasil 2009: uma análise da situação de saúde e da agenda
+          nacional e internacional de prioridades em saúde. Brasília (DF): 2010.</p>
+      </fn>
+      <fn id="fn7">
+        <label>f</label>
+        <p>Malta DC, Moura L, Souza FM, Rocha FM, Fernandes RM. Doenças crônicas não transmissíveis:
+          mortalidade e fatores de risco no Brasil, 1990 a 2006. In: Ministério da Saúde. Saúde
+          Brasil 2008. Brasília (DF); 2009. p.337-62.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Public Health Practice</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Epidemiology of medication use among the elderly in an urban
+          area of Northeastern Brazil</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Neves</surname>
+            <given-names>Sabrina Joany Felizardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Marques</surname>
+            <given-names>Ana Paula de Oliveira</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Leal</surname>
+            <given-names>Márcia Carrera Campos</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Diniz</surname>
+            <given-names>Alcides da Silva</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff7">III</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Medeiros</surname>
+            <given-names>Tibério Silva</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff8">IV</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Arruda</surname>
+            <given-names>Ilma Kruze Grande de</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff7">III</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff5">
+        <label>I</label> Programa de Pós-Graduação em Nutrição. Departamento de Nutrição.
+        Universidade Federal de Pernambuco. Recife, PE, Brasil</aff>
+      <aff id="aff6">
+        <label>II</label> Departamento de Medicina Social. Centro de Ciências da Saúde. Universidade
+        Federal de Pernambuco. Recife, PE, Brasil</aff>
+      <aff id="aff7">
+        <label>III</label> Departamento de Nutrição. Centro de Ciências da Saúde. Universidade
+        Federal de Pernambuco. Recife, PE, Brasil</aff>
+      <aff id="aff8">
+        <label>IV</label> Programa de Pós-Graduação em Ciências da Saúde. Instituto de Ciência
+        Biológicas e da Saúde. Universidade Federal de Alagoas. Maceió, AL, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondence</bold> : Sabrina Joany Felizardo Neves Rua Deputado José Lages, 1230
+          apto. 1001 - Ponta Verde 54035-330 Maceió, AL, Brasil E-mail:
+          joanysabrina@gmail.com</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>The study was subsidized by the <italic>Conselho Nacional de Desenvolvimento
+              Científico</italic> , Edital MCT/CNPq 15/2007 – Universal (Process No.
+            475725/2007-7).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <sec>
+          <title>OBJECTIVE</title>
+          <p>To analyze medication use and associated factors among the elderly.</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p>A population-based cross-sectional study was carried out with a sample of 400 elderly
+            people aged over 60 living in the urban area covered by the Family Health Strategy
+            program in Recife, Northeastern Brazil in 2009. Individuals were selected by systematic
+            random sampling and household data were collected. Demographic, socio-economic,
+            lifestyle factors including nutrition practices and health variables were evaluated.
+            Medication use was the independent variable. Univariate and multivariate statistical
+            analysis were performed.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p>
+            <bold/> : The prevalence of medication use was 85.5%. Polypharmacy (&gt; 5 drugs)
+            occurred in 11% of cases. Of the 951 drugs reported, 98.2% were prescribed by doctors
+            and 21.6% were considered unsafe for the elderly. The most commonly prescribed groups
+            were: cardiovascular drugs (42.9%), central nervous system agents (20.2%) and drugs with
+            an effect on the digestive tract and metabolism (17.3%). The use of polypharmacy was
+            associated with education (p = 0.008), self-reported health (p = 0.012), self-reported
+            chronic disease (p = 0.000) and the number of doctor appointments per year (0.000).</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONS</title>
+          <p>The results of this study indicate a high proportion of medication use among the
+            elderly, including of those considered unsuitable, and inequality among groups of
+            elderly individuals regarding the use ofmedication, when education, number of doctor
+            appointments and self-reported health are considered.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Aged</kwd>
+        <kwd>Drug Utilization</kwd>
+        <kwd>Polypharmacy</kwd>
+        <kwd>Socioeconomic Factors</kwd>
+        <kwd>Urban Health</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>Changes in quality of life, health care, patterns of consumption and behavior linked to
+          fertility and mortality in the last century have led to an increase in longevity. Ageing
+          populations have become a global pehnomenon. <xref ref-type="bibr" rid="B18">
+            <sup>18</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B25">
+            <sup>25</sup>
+          </xref> In Brazil, the population structure is considered aged, as the elderly make up
+          10.7% of the population (around 19 million people). <xref ref-type="fn" rid="fn8">
+            <sup>a</sup>
+          </xref>
+        </p>
+        <p>The ageing process leads to a progressive reduction in the organism’s active tissue, a
+          loss of functional capacity and significant changes in metabolic functions. <xref
+            ref-type="bibr" rid="B17">
+            <sup>17</sup>
+          </xref> Consequently, there is increased incidence of chronic disease, hospital admissions
+          and medication use. <xref ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="fn" rid="fn9">
+            <sup>b</sup>
+          </xref>
+        </p>
+        <p>High levels of medication use by the elderly population, in Brazil and worldwide, has
+          been described. <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B9">
+            <sup>9</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> Biologically, the elderly have less capacity to metabolize medication, they suffer
+          adverse effects more frequently and efficacy of the treatment is reduced. This is due to a
+          combination of factors: higher prevalence of chronic illness, polypharmacy and, often,
+          malnutrition. <xref ref-type="bibr" rid="B4">
+            <sup>4</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B10">
+            <sup>10</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B21">
+            <sup>21</sup>
+          </xref>
+        </p>
+        <p>There is no consolidated definition of the term polypharmacy. Bushardt et al, <xref
+            ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> in a revision of the literature, identified a number of concepts; among the most
+          commonly found were ”taking medication inappropriate to the diagnosis”, “taking multiple
+          medications”, “duplicating drugs and/or taking potentially inappropriate medication”. In
+          this study, polypharmacy is defined as taking five or more medications simultaneously.
+            <xref ref-type="bibr" rid="B12">
+            <sup>12</sup>
+          </xref>
+        </p>
+        <p>Polypharmacy linked to physiological and clinical conditions which are specific to the
+          elderly makes taking medication a cause of concern for the health care sector. <xref
+            ref-type="bibr" rid="B8">
+            <sup>8</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B9">
+            <sup>9</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B21">
+            <sup>21</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B26">
+            <sup>26</sup>
+          </xref> It is important to understand this population’s patterns of medication use in
+          order to establish rational use, improve quality of life and maintain functional
+          capacity.</p>
+        <p>This study aimed to analyze medication use and associated factors among the elderly.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>METHODS</title>
+        <p>A cross-sectional study with 432 elderly individuals aged 60 and over, living in the
+          community, of both sexes, capable of communication, responsible for their own medication
+          and living in areas covered by the Family Health Care Strategy (ESF) in Recife, PE,
+          Northeastern Brazil between April and September 2009. The research took place in Health
+          Care district IV, located in the west of Recife, micro region 4.2, with a registered
+          population of 2,796 elderly individuals in the ESF. <xref ref-type="fn" rid="fn10">
+            <sup>c</sup>
+          </xref>
+        </p>
+        <p>Sample size was determined based on an 80% prevalence of “taking medication”, with a
+          variability of 5%, resulting in 246 individuals. In order to correct for potential losses
+          and allow greater breakdown of independent variables, 432 elderly individuals were
+          contacted, of which 27 refused to participate in the study (refusal rate of 6.2%) and five
+          were withdrawn as, after three attempts, they could not be contacted, giving a sample of
+          400 eligible elderly individuals.</p>
+        <p>This tracking enabled the prevalence of medication use in the population in question to
+          be estimated, as well as characterizing this use and associated factors.</p>
+        <p>Individuals were recruited using probabilistic allocation, based on a list of names and
+          addresses of elderly individuals registered with the ESF. Names were drawn to select the
+          individual when there were two or more individuals fulfilling the criteria in the same
+          residence. Data, including a questionnaire and height and weight measurements, was
+          collected by two interviewers in the individuals’ homes.</p>
+        <p>Participants were questioned about what medication they had taken on the day of the
+          interview. The interviewers asked to see prescriptions and packets to ensure the names of
+          the medications were recorded accurately and to avoid any medications being forgotten and
+          thus omitted. The name and dose of the medication was used in the identification. The
+          active ingredients were classified according to the Anatomical-Therapeutical-Chemical
+          Classification System (ATC). <xref ref-type="fn" rid="fn11">
+            <sup>d</sup>
+          </xref>
+        </p>
+        <p>The dependent variable was the number of medications taken on the day of the interview.
+          This variable was categorized into two groups: taking fewer than five medications; taking
+          five or more medications (classified as polypharmacy). <xref ref-type="bibr" rid="B12">
+            <sup>12</sup>
+          </xref>
+        </p>
+        <p>Medications taken were classified as: prescribed (prescribed by a doctor, including
+          repeat prescriptions authorized by a nurse); non-prescribed (taken on the individual’s own
+          initiative, or recommended by a third party, not of the medical profession); medications
+          unsafe for use by the elderly (should be avoided irrespective of dose, duration of
+          treatment or clinical circumstances, either because ineffective or because they present an
+          unacceptably high risk for the elderly – risk exceeds benefit – according to the
+          Beers-Fick criteria). <xref ref-type="bibr" rid="B6">
+            <sup>6</sup>
+          </xref>
+        </p>
+        <p>Independent variables included: socio-demographic characteristics (age, sex, schooling –
+          in completed years, marital status, family arrangements and monthly income – in national
+          minimum wage at time of writing); health (perception of own health; self-reported chronic
+          illness); <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref> health related behavior (doing physical activity); use of health care services
+          (number of doctor’s appointments in the last 12 months); nutritional state (Body Mass
+          Index, classified according to the cutoff points adopted by Lipschitz). <xref
+            ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+        </p>
+        <p>Height and weight were measured according to recommendations by Lohman et al. <xref
+            ref-type="bibr" rid="B14">
+            <sup>14</sup>
+          </xref> Weight was measured using a Marte scale, capacity of 150 kg, and height was
+          measured using an Alturaexata portable stadiometer, with a maximum extension of 2.00 m,
+          divided into centimeters.</p>
+        <p>Data were entered twice and checked using the “validate” module of the EpiInfo program,
+          version 6.04 (WHO/CDC; Atlanta, GE, USA), in order to identify any inconsistencies.
+          Statistical Package for Social Sciences (SPSS) for Windows software, version 12.0 was used
+          to analyze the data.</p>
+        <p>Uni-variate analysis was conducted in order to verify the link between characteristics of
+          the study population and polypharmacy. The following tests were used: Kolmogorov-Sminorv
+          to estimate the normal range for continuous variables, Pearson’s Chi-squared test for
+          categorical variables; and the Kruskal-Walis H test for the continuous variables. Multiple
+          analysis (logistical regression) was used to identify factors associated with
+          polypharmacy. The Wald test for trend and heterogeneity was used in the unadjusted
+          analysis. Variables which had significance ≤ 0.20 in the unadjusted uni-variate analysis
+          were considered when building the model. The stepwise method (variables selected in steps)
+          with retrograde elimination was used in the adjusted analysis. Variable linked to p &lt;
+          0.05 remained in the final model. The level of significance used was defined as α = 0.05
+          bi-caudal.</p>
+        <p>The research protocol was approved by the research ethics committee of the
+            <italic>Universidade Federal de Pernambuco</italic> (Process No. 0388.0.172.000-08 and
+          Protocol No. 396/08). Participants signed a consent form.</p>
+      </sec>
+      <sec sec-type="results">
+        <title>RESULTS</title>
+        <p>The majority of the elderly individuals (75.5%, 95%CI 70.9;79.6) were female. Age varied
+          between 60 and 101 years old, with a mean age of 69 (64.00:75.75); the 60 to 69 years old
+          age group was the most frequent (51.3%) ( <xref ref-type="table" rid="t06">Table 1</xref>
+          ).</p>
+        <p>
+          <table-wrap id="t06">
+            <label>Table 1</label>
+            <caption>
+              <title>. Demographic, socio-economic, lifestyle and health characteristics of elderly
+                individuals living in the community. Recife, PE, Northeastern Brazil, 2009.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="25%">
+                <col width="50%"/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td rowspan="3">Variable</td>
+                  <td colspan="2" align="center">Elderly</td>
+                </tr>
+                <tr>
+                  <td colspan="2" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td align="center">n</td>
+                  <td align="center">%</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Sex</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Female</td>
+                  <td align="center">302</td>
+                  <td align="center">75.5</td>
+                </tr>
+                <tr>
+                  <td> Male</td>
+                  <td align="center">98</td>
+                  <td align="center">24.5</td>
+                </tr>
+                <tr>
+                  <td>Age group (years)</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 60 to 69</td>
+                  <td align="center">205</td>
+                  <td align="center">51.3</td>
+                </tr>
+                <tr>
+                  <td> 70 to 79</td>
+                  <td align="center">134</td>
+                  <td align="center">33.5</td>
+                </tr>
+                <tr>
+                  <td> 80 and over</td>
+                  <td align="center">61</td>
+                  <td align="center">15.4</td>
+                </tr>
+                <tr>
+                  <td>Schooling (years of study)</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Illiterate</td>
+                  <td align="center">146</td>
+                  <td align="center">36.6</td>
+                </tr>
+                <tr>
+                  <td> 1 to 4</td>
+                  <td align="center">87</td>
+                  <td align="center">21.9</td>
+                </tr>
+                <tr>
+                  <td> 5 to 9</td>
+                  <td align="center">62</td>
+                  <td align="center">15.5</td>
+                </tr>
+                <tr>
+                  <td> 10 or more</td>
+                  <td align="center">104</td>
+                  <td align="center">26.1</td>
+                </tr>
+                <tr>
+                  <td>Marital status</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Living with a partner</td>
+                  <td align="center">147</td>
+                  <td align="center">36.8</td>
+                </tr>
+                <tr>
+                  <td> Not living with a partner</td>
+                  <td align="center">252</td>
+                  <td align="center">63.2</td>
+                </tr>
+                <tr>
+                  <td>Individuals per residence</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Up to 3</td>
+                  <td align="center">228</td>
+                  <td align="center">57.0</td>
+                </tr>
+                <tr>
+                  <td> 4 or more</td>
+                  <td align="center">142</td>
+                  <td align="center">43.0</td>
+                </tr>
+                <tr>
+                  <td>Income (MW)</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> &lt; 1</td>
+                  <td align="center">60</td>
+                  <td align="center">15.1</td>
+                </tr>
+                <tr>
+                  <td> 1 to 2</td>
+                  <td align="center">310</td>
+                  <td align="center">78.1</td>
+                </tr>
+                <tr>
+                  <td> &gt; 2</td>
+                  <td align="center">27</td>
+                  <td align="center">6.8</td>
+                </tr>
+                <tr>
+                  <td>Health</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Excellent. very good and good </td>
+                  <td align="center">24</td>
+                  <td align="center">6.0</td>
+                </tr>
+                <tr>
+                  <td> Regular or very bad</td>
+                  <td align="center">376</td>
+                  <td align="center">94.0</td>
+                </tr>
+                <tr>
+                  <td>Reported illness</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> None</td>
+                  <td align="center">48</td>
+                  <td align="center">12.0</td>
+                </tr>
+                <tr>
+                  <td> One chronic illness</td>
+                  <td align="center">137</td>
+                  <td align="center">34.2</td>
+                </tr>
+                <tr>
+                  <td> Two or more chronic illnesses</td>
+                  <td align="center">215</td>
+                  <td align="center">53.8</td>
+                </tr>
+                <tr>
+                  <td>Physical activity</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">98</td>
+                  <td align="center">24.5</td>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">302</td>
+                  <td align="center">75.5</td>
+                </tr>
+                <tr>
+                  <td>Nutritional status (BMI)</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> &lt; 22 kg/m <sup>2</sup>
+                  </td>
+                  <td align="center">50</td>
+                  <td align="center">13.7</td>
+                </tr>
+                <tr>
+                  <td> 22 to 27 kg/m <sup>2</sup>
+                  </td>
+                  <td align="center">140</td>
+                  <td align="center">38.5</td>
+                </tr>
+                <tr>
+                  <td> &gt; 27 kg/m <sup>2</sup>
+                  </td>
+                  <td align="center">174</td>
+                  <td align="center">47.8</td>
+                </tr>
+                <tr>
+                  <td>Doctor’s appointments per year</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Up to 4</td>
+                  <td align="center">257</td>
+                  <td align="center">64.3</td>
+                </tr>
+                <tr>
+                  <td> 5 or more</td>
+                  <td align="center">143</td>
+                  <td align="center">35.8</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>MV: minimum wage; BMI: body mass index  </p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>Low levels of schooling were common, and the sample was predominantly illiterate (36.6%).
+          The highest percentage of the elderly individuals had a monthly income of two minimum
+          wages (78.1%); 63.2% lived alone and the median number of individuals per family was 3.0
+          (2.00:5.00).</p>
+        <p>The majority of elderly individuals classified their own health as very bad. Most of
+          those interviewed (88%) reported having one or more chronic disease; of these 53.8%
+          reported having two or more. The most commonly reported diseases were high blood pressure
+          (47.6%), arthritis/rheumatism (21.3%), diabetes (13.3%), heart disease (6.3%), stroke
+          (5.7%), chronic pulmonary disease (3.8%) and cancer (2.0%). Mean BMI was 27.9 kg/m
+            <sup>2</sup> (SD = 5.4) and the predominant nutritional state was overweight
+          (47.5%).</p>
+        <p>There were 83.5% of the elderly individuals who reported making use of the Brazilian
+          Unified Health System (SUS); of these, 64.5% had used the ESF exclusively in the last 12
+          months. The median number of appointments was 4 (2.00: 6.00) for the same period.
+          Hospitalization in the four months preceding the interview was reported by 24.5% of the
+          elderly individuals ( <xref ref-type="table" rid="t06">Table 1</xref> ).</p>
+        <p>The prevalence of taking medication was 85.5%. Of these, the proportion of elderly
+          individuals who took at least one prescribed medication was 98.2%, and the proportion
+          taking at least one non-prescribed medication was 6.7%. Polypharmacy occurred in 11.0% of
+          cases. The use of at least one medication judged unsafe for use by the elderly occurred in
+          21.6% of cases. The most commonly used were: diazepan, digoxin, and mineral oil.</p>
+        <p>At the time of the interview, 951 medications, made up of 739 different drugs were being
+          taken. The mean number of medications being taken by the elderly individuals at the time
+          of the interview was 2.4 (SD = 1.78) and the median was 2.0 (1.00: 3.00), varying between
+          zero and ten medications. The median was 2.0 (1.00: 3.00) in prescribed medication,
+          varying between zero and ten, and 0 (0.00: 0.00), varying between 0 and 3 medications for
+          non-prescribed medications. Men had a median of 2.0 (0.75: 3.00), whereas for women it was
+          2.0 (1.00: 3.00) (p = 0.001).</p>
+        <p>The medications most commonly taken by the elderly individuals were cardiovascular drugs,
+          followed by medicine used for the central nervous system ( <xref ref-type="table"
+            rid="t07">Table 2</xref> ).</p>
+        <p>
+          <table-wrap id="t07">
+            <label>Table 2</label>
+            <caption>
+              <title>Medications taken by the elderly individuals living in the community according
+                to therapeutic group and pharmacological group. Recife, PE, Northeastern Brazil,
+                2009. (N = 951)</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="10%">
+                <col width="80%"/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Group and subgroup</td>
+                  <td align="center">n</td>
+                  <td align="center">%</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Cardiovascular drugs</td>
+                  <td align="center">408</td>
+                  <td align="center">42.9</td>
+                </tr>
+                <tr>
+                  <td> Diuretics</td>
+                  <td align="center">124</td>
+                  <td align="center">13.0</td>
+                </tr>
+                <tr>
+                  <td> Drugs active in the renin angiotensin system</td>
+                  <td align="center">107</td>
+                  <td align="center">11.2</td>
+                </tr>
+                <tr>
+                  <td> Calcium channel blockers</td>
+                  <td align="center">37</td>
+                  <td align="center">3.9</td>
+                </tr>
+                <tr>
+                  <td> β-blockers</td>
+                  <td align="center">19</td>
+                  <td align="center">2.0</td>
+                </tr>
+                <tr>
+                  <td> Cardiac therapy</td>
+                  <td align="center">14</td>
+                  <td align="center">1.5</td>
+                </tr>
+                <tr>
+                  <td> Hipolipermiantes</td>
+                  <td align="center">4</td>
+                  <td align="center">0.4</td>
+                </tr>
+                <tr>
+                  <td> Other</td>
+                  <td align="center">103</td>
+                  <td align="center">10.9</td>
+                </tr>
+                <tr>
+                  <td>Medicines for central nervous</td>
+                  <td align="center">192</td>
+                  <td align="center">20.2</td>
+                </tr>
+                <tr>
+                  <td> Analgesics</td>
+                  <td align="center">80</td>
+                  <td align="center">8.4</td>
+                </tr>
+                <tr>
+                  <td> Psycholeptics</td>
+                  <td align="center">26</td>
+                  <td align="center">2.7</td>
+                </tr>
+                <tr>
+                  <td> Psychoanaleptics</td>
+                  <td align="center">20</td>
+                  <td align="center">2.1</td>
+                </tr>
+                <tr>
+                  <td> Antiparkinsonian</td>
+                  <td align="center">6</td>
+                  <td align="center">0.6</td>
+                </tr>
+                <tr>
+                  <td> Antiepileptic</td>
+                  <td align="center">4</td>
+                  <td align="center">0.4</td>
+                </tr>
+                <tr>
+                  <td> Other</td>
+                  <td align="center">6</td>
+                  <td align="center">0.6</td>
+                </tr>
+                <tr>
+                  <td>Medicines for the alimentary tract and metabolism</td>
+                  <td align="center">165</td>
+                  <td align="center">17.3</td>
+                </tr>
+                <tr>
+                  <td> Antidiabetic</td>
+                  <td align="center">65</td>
+                  <td align="center">6.8</td>
+                </tr>
+                <tr>
+                  <td> Mineral supplements</td>
+                  <td align="center">18</td>
+                  <td align="center">1.9</td>
+                </tr>
+                <tr>
+                  <td> Antacids, anti-ulcer and antiflatulents</td>
+                  <td align="center">14</td>
+                  <td align="center">1.5</td>
+                </tr>
+                <tr>
+                  <td> Vitamins</td>
+                  <td align="center">5</td>
+                  <td align="center">0.5</td>
+                </tr>
+                <tr>
+                  <td> Other</td>
+                  <td align="center">3</td>
+                  <td align="center">0.3</td>
+                </tr>
+                <tr>
+                  <td>Other</td>
+                  <td align="center">186</td>
+                  <td align="center">19.6</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>Of the most commonly taken medications, hydrochlorothiazide 25 mg, Captopril 25 mg and
+          AAS 100 mg stand out ( <xref ref-type="table" rid="t08">Table 3</xref> ).</p>
+        <p>
+          <table-wrap id="t08">
+            <label>Table 3</label>
+            <caption>
+              <title>Medications taken by elderly individuals in the community. Recife, PE,
+                Northeastern Brazil, 2009.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="10%">
+                <col width="80%"/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Medication</td>
+                  <td align="center">n</td>
+                  <td align="center">%</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Hydrochlorothiazide 25 mg pill</td>
+                  <td align="center">153</td>
+                  <td align="center">16.1</td>
+                </tr>
+                <tr>
+                  <td>Captopril 25 mg pill</td>
+                  <td align="center">102</td>
+                  <td align="center">10.8</td>
+                </tr>
+                <tr>
+                  <td>ASA 100 mg pill</td>
+                  <td align="center">66</td>
+                  <td align="center">6.9</td>
+                </tr>
+                <tr>
+                  <td>Metformin 850 mg pill</td>
+                  <td align="center">42</td>
+                  <td align="center">4.4</td>
+                </tr>
+                <tr>
+                  <td>Propranolol 40 mg pill</td>
+                  <td align="center">42</td>
+                  <td align="center">4.4</td>
+                </tr>
+                <tr>
+                  <td>Glibenclamide 5 mg pill</td>
+                  <td align="center">36</td>
+                  <td align="center">3.8</td>
+                </tr>
+                <tr>
+                  <td>Simvastatin 40 mg pill</td>
+                  <td align="center">30</td>
+                  <td align="center">3.1</td>
+                </tr>
+                <tr>
+                  <td>Diazepam 10 mg pill</td>
+                  <td align="center">21</td>
+                  <td align="center">2.2</td>
+                </tr>
+                <tr>
+                  <td>Atenolol 50 mg pill</td>
+                  <td align="center">15</td>
+                  <td align="center">1.6</td>
+                </tr>
+                <tr>
+                  <td>Furosemide 40 mg pill</td>
+                  <td align="center">12</td>
+                  <td align="center">1.3</td>
+                </tr>
+                <tr>
+                  <td>Other</td>
+                  <td align="center">432</td>
+                  <td align="center">45.4</td>
+                </tr>
+                <tr>
+                  <td>Total</td>
+                  <td align="center">951</td>
+                  <td align="center">100.0</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>Polypharmacy proved to be linked to lower levels of schooling (p = 0.008), to poor
+          self-reported health (p = 0.012), to two or more self-reported chronic diseases (p =
+          0.000) and to the number of doctor’s appointments per year (0.000). The other variables
+          were not linked to polypharmacy ( <xref ref-type="table" rid="t09">Table 4</xref> ).</p>
+        <p>
+          <table-wrap id="t09">
+            <label>Table 4</label>
+            <caption>
+              <title>Link between taking medication, sociodemograohic characteristics, health
+                related aspects, and use of health care services among elderly individuals in the
+                community. Recife, PE, Northeastern Brazil, 2009.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="11%">
+                <col width="30%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td rowspan="4">  Variable  </td>
+                  <td colspan="4" align="center">Polypharmacy</td>
+                  <td rowspan="4" align="center">  p <sup>a</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td colspan="2" align="center">Yes</td>
+                  <td colspan="2" align="center">No</td>
+                </tr>
+                <tr>
+                  <td align="center">n</td>
+                  <td align="center">%</td>
+                  <td align="center">n</td>
+                  <td align="center">%</td>
+                </tr>
+                <tr>
+                  <td colspan="6" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Sex</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.302</td>
+                </tr>
+                <tr>
+                  <td> Female</td>
+                  <td align="center">8</td>
+                  <td align="center">8.2</td>
+                  <td align="center">90</td>
+                  <td align="center">91.8</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Male</td>
+                  <td align="center">36</td>
+                  <td align="center">11.9</td>
+                  <td align="center">266</td>
+                  <td align="center">88.1</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Age group (years)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.097</td>
+                </tr>
+                <tr>
+                  <td> 60 to 69</td>
+                  <td align="center">29</td>
+                  <td align="center">14.15</td>
+                  <td align="center">176</td>
+                  <td align="center">85.9</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 70 to 79</td>
+                  <td align="center">9</td>
+                  <td align="center">6.7</td>
+                  <td align="center">125</td>
+                  <td align="center">93.3</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 80 and over</td>
+                  <td align="center">6</td>
+                  <td align="center">9.8</td>
+                  <td align="center">55</td>
+                  <td align="center">90.2</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Schooling (years of study)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.008</td>
+                </tr>
+                <tr>
+                  <td> Illiterate</td>
+                  <td align="center">20</td>
+                  <td align="center">19.2</td>
+                  <td align="center">84</td>
+                  <td align="center">80.8</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 1 to 4</td>
+                  <td align="center">7</td>
+                  <td align="center">11.3</td>
+                  <td align="center">55</td>
+                  <td align="center">88.7</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 5 to 9</td>
+                  <td align="center">9</td>
+                  <td align="center">10.3</td>
+                  <td align="center">78</td>
+                  <td align="center">89.7</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 10 or more</td>
+                  <td align="center">8</td>
+                  <td align="center">5.5</td>
+                  <td align="center">138</td>
+                  <td align="center">94.5</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Marital status</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.688</td>
+                </tr>
+                <tr>
+                  <td> Living with a partner</td>
+                  <td align="center">15</td>
+                  <td align="center">10.2</td>
+                  <td align="center">132</td>
+                  <td align="center">89.8</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Not living with a partner</td>
+                  <td align="center">29</td>
+                  <td align="center">11.5</td>
+                  <td align="center">223</td>
+                  <td align="center">88.5</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Individuals per residence</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.535</td>
+                </tr>
+                <tr>
+                  <td> Up to 3</td>
+                  <td align="center">27</td>
+                  <td align="center">11.8</td>
+                  <td align="center">201</td>
+                  <td align="center">88.2</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 4 or more</td>
+                  <td align="center">17</td>
+                  <td align="center">9.9</td>
+                  <td align="center">155</td>
+                  <td align="center">90.1</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Income (MW)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.416</td>
+                </tr>
+                <tr>
+                  <td> &lt; 1</td>
+                  <td align="center">3</td>
+                  <td align="center">9.4</td>
+                  <td align="center">29</td>
+                  <td align="center">90.6</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 1 to 2</td>
+                  <td align="center">1</td>
+                  <td align="center">3.7</td>
+                  <td align="center">26</td>
+                  <td align="center">96.3</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> &gt; 2</td>
+                  <td align="center">40</td>
+                  <td align="center">11.8</td>
+                  <td align="center">300</td>
+                  <td align="center">88.2</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Health</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.012</td>
+                </tr>
+                <tr>
+                  <td> Excellent, very good and good</td>
+                  <td align="center">6</td>
+                  <td align="center">5.0</td>
+                  <td align="center">114</td>
+                  <td align="center">95.0</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Regular or very bad</td>
+                  <td align="center">38</td>
+                  <td align="center">13.6</td>
+                  <td align="center">242</td>
+                  <td align="center">86.4</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Reported illness</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.000</td>
+                </tr>
+                <tr>
+                  <td> None</td>
+                  <td align="center">–</td>
+                  <td align="center">–</td>
+                  <td align="center">48</td>
+                  <td align="center">100.0</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> One chronic illness</td>
+                  <td align="center">5</td>
+                  <td align="center">3.7</td>
+                  <td align="center">129</td>
+                  <td align="center">96.3</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Two or more chronic illnesses</td>
+                  <td align="center">39</td>
+                  <td align="center">17.9</td>
+                  <td align="center">179</td>
+                  <td align="center">82.1</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Physical activity</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.183</td>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">30</td>
+                  <td align="center">9.8</td>
+                  <td align="center">275</td>
+                  <td align="center">90.2</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">14</td>
+                  <td align="center">14.7</td>
+                  <td align="center">81</td>
+                  <td align="center">85.3</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Nutritional status (BMI)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.663</td>
+                </tr>
+                <tr>
+                  <td> &lt; 22 kg/m2</td>
+                  <td align="center">19</td>
+                  <td align="center">9.9</td>
+                  <td align="center">173</td>
+                  <td align="center">90.1</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 22 to 27 kg/m2</td>
+                  <td align="center">16</td>
+                  <td align="center">13.1</td>
+                  <td align="center">106</td>
+                  <td align="center">86.9</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> &gt; 27 kg/m2</td>
+                  <td align="center">6</td>
+                  <td align="center">12.2</td>
+                  <td align="center">43</td>
+                  <td align="center">87.8</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Doctor’s appointments per year</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.000</td>
+                </tr>
+                <tr>
+                  <td> Up to 4</td>
+                  <td align="center">16</td>
+                  <td align="center">6.2</td>
+                  <td align="center">241</td>
+                  <td align="center">93.8</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 5 or more</td>
+                  <td align="center">28</td>
+                  <td align="center">19.6</td>
+                  <td align="center">115</td>
+                  <td align="center">80.4</td>
+                  <td> </td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>MW: minimum wage; BMI: body mass index</p>
+              <p>
+                <sup>a</sup> Chi-squared</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>
+          <table-wrap id="t10">
+            <label>Table 5</label>
+            <caption>
+              <title>Final model of the multivariate analysis for polypharmacy among elderly
+                individuals living in the community. Recife, PE, Northeastern Brazil, 2009.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="17%">
+                <col width="30%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Variable</td>
+                  <td align="center">OR</td>
+                  <td align="center">95%CI</td>
+                  <td align="center">Standard error</td>
+                  <td align="center">p</td>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td colspan="5">Schooling (years of study)</td>
+                </tr>
+                <tr>
+                  <td> Illiterate</td>
+                  <td align="center">1</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 1 to 4</td>
+                  <td align="center">5.276</td>
+                  <td align="center">2.142;12.989</td>
+                  <td align="center">0.460</td>
+                  <td align="center">0.000</td>
+                </tr>
+                <tr>
+                  <td> 5 to 9</td>
+                  <td align="center">2.426</td>
+                  <td align="center">1.004;5.860</td>
+                  <td align="center">0.450</td>
+                  <td align="center">0.049</td>
+                </tr>
+                <tr>
+                  <td> 10 or more</td>
+                  <td align="center">2.131</td>
+                  <td align="center">0.809;5.616</td>
+                  <td align="center">0.494</td>
+                  <td align="center">0.126</td>
+                </tr>
+                <tr>
+                  <td>Health</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Excellent, very good and good</td>
+                  <td align="center">1</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Regular or very bad</td>
+                  <td align="center">2.787</td>
+                  <td align="center">1.111;6.995</td>
+                  <td align="center">0.469</td>
+                  <td align="center">0.029</td>
+                </tr>
+                <tr>
+                  <td colspan="5">Doctor’s appointments per year</td>
+                </tr>
+                <tr>
+                  <td> Up to 4</td>
+                  <td align="center">1</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 5 or more</td>
+                  <td align="center">3.754</td>
+                  <td align="center">1.899;7.422</td>
+                  <td align="center">0.348</td>
+                  <td align="center">0.000</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>Three variables remained in the model after adjustment for potential risk factors for
+          polypharmacy, showing an independent association with polypharmacy. Having between one and
+          four years of schooling was the factor most strongly linked to polypharmacy (OR = 5.276
+          95%CI 2.142;12.989) (p = 0.000).</p>
+      </sec>
+      <sec sec-type="discussion">
+        <title>DISCUSSION</title>
+        <p>The high prevalence of medication use among the elderly individuals (85.5%) concords with
+          the literature and is within the expected range, with values close to those found in
+          Fortaleza, CE, Northeastern Brazil (80.3%), <xref ref-type="bibr" rid="B6">
+            <sup>6</sup>
+          </xref> the South Region (82.0%) <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref> and Belo Horizonte, MG, Southeastern Brazil (86.2% <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref> and 89.6%). <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref>
+        </p>
+        <p>The mean number of medications being taken at the time of the interview was lower than
+          that observed in Rio de Janeiro, RJ, <xref ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref> in the South Region <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref> and in Belo Horizonte, MG. <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> However, it was higher than that found in Fortaleza, <xref ref-type="bibr"
+            rid="B5">
+            <sup>5</sup>
+          </xref> the population which is closest to the population of this study, which suggests
+          regional differences in the intensity of medication use.</p>
+        <p>Sex, age and access to health care services are highlighted as predictive factors for
+          medication use among the elderly. <xref ref-type="bibr" rid="B9">
+            <sup>9</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B21">
+            <sup>21</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B22">
+            <sup>22</sup>
+          </xref> In this study, women tended to take more medications than men, although the
+          difference in prevalence of polypharmacy was not statistically significant between the
+          sexes. In general, women made more use of health care services and were better at
+          reporting their conditions; <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref> thus, they are more likely to take medication. This trend of taking larger
+          quantities of medications is consistent with the results of other epidemiological
+          investigations. <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> However, this difference was not reflected in the occurrence of polypharmacy.
+          Likewise, there was no link between polypharmacy and age group. Elderly individuals
+          receiving care from an ESF team makes access to medications linked to prescriptions based
+          on standardized lists free, which results in smaller quantities of medications being taken
+          as well as encouraging more rational use. This may mean that polypharmacy in all age
+          groups and both sexes is reduced. The findings here do not agree with those of studies
+          conducted in Belo Horizonte. <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> However, these studies were carried out with elderly individuals in the general
+          population, irrespective of registration with the ESF, suggesting that health teams
+          monitoring the elderly tends to reduce polypharmacy in all age groups.</p>
+        <p>The most frequently used drugs were similar to those found in other research. <xref
+            ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref> Cardiovascular medication were the most commonly used, which agrees with the
+          national epidemiological profile, <xref ref-type="fn" rid="fn11">
+            <sup>e</sup>
+          </xref> and hypertension was the most commonly self-reported chronic condition.</p>
+        <p>A significant proportion of the elderly individuals were taking prescribed medications
+          and this reached a higher proportion than that found in research on elderly individuals in
+          the general population. <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B6">
+            <sup>6</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref> On the other hand, the proportion of elderly individuals using non-prescribed
+          medication was lower than that reported in the literature. <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B6">
+            <sup>6</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref> This may be linked to the fact that this study dealt with a population dependent
+          on the SUS and therefore needing a prescription for any kind of medication. The frequency
+          with which medications judged unsafe for use by the elderly <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> were found was greater than that found in Rio de Janeiro <xref ref-type="bibr"
+            rid="B16">
+            <sup>16</sup>
+          </xref> and in Fortaleza, <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> but the values were lower than those obtained for elderly individuals not
+          dependent on the SUS. <xref ref-type="bibr" rid="B19">
+            <sup>19</sup>
+          </xref> Even so, it was observed that 2.2% of the elderly individuals took diazepam. This
+          was a higher prevalence than that found by Bushardt et al, <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> although lower than that found in Fortaleza. <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> According to the Beers-Fick <xref ref-type="bibr" rid="B6">
+            <sup>6</sup>
+          </xref> criteria and a panel of specialists, diazepam is judged to be not recommendable
+          for use by the elderly, irrespective of diagnosis and clinical condition, as it has a long
+          half-life, producing prolonged sedation and increased risk of falls and fractures.</p>
+        <p>The current practice of standardization of medicines in the SUS and dispensing drugs
+          linked to prescription may be related to the increased use of prescription medication and
+          the reduction in prescription medication that are unsafe for the elderly and the use of
+          non-prescribed medications. The current ESF practice seems to have positive effect, given
+          the low prevalence of elderly individuals using unsafe and non-prescribed medication,
+          reducing the risk of iatrogenic effects, adverse reactions and drug interactions. <xref
+            ref-type="bibr" rid="B4">
+            <sup>4</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B10">
+            <sup>10</sup>
+          </xref>
+        </p>
+        <p>Of the socio-economic variables, only the level of schooling was directly linked to
+          taking medication. Polypharmacy was more prevalent among elderly individuals with lower
+          levels of schooling. Low levels of schooling is a predictive factor for the increase in
+          chronic morbidities, <xref ref-type="bibr" rid="B2">
+            <sup>2</sup>
+          </xref> which may, in turn, be linked to increased medication use.</p>
+        <p>Frequency of doctor’s appointments was higher among elderly individuals who practiced
+          polypharmacy, reinforcing the importance of qualifying clinical protocols and the
+          continuous professional development of health care professionals who prescribe
+          medications, as primary care services were reported to be the main type of access to the
+          health care system. Lebrão &amp; Laurenti, <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref> researching elderly individuals in the community, irrespective of access to the
+          ESF, found a higher percentage of individuals seeking hospital care. This difference in
+          access to the system shows the importance of establishing the ESF in order to facilitate
+          access to health care services for the elderly, to educate and encourage continuous
+          monitoring.</p>
+        <p>Negative perception of own health was linked to polypharmacy, as seen in other
+          epidemiological studies. <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> There was a high prevalence of negative self-evaluated health. In contrast to this
+          study, in the studies by Lebrão &amp; Laurenti <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref> and Paskulin &amp; Vianna the elderly individuals tended to rate their own health
+          positively. <xref ref-type="bibr" rid="B18">
+            <sup>18</sup>
+          </xref> However, such studies were carried out in the Southeast and South of the country,
+          and regional differences may have influenced this result. More studies in the Northeast
+          are necessary to confirm this trend.</p>
+        <p>The prevalence of chronic illness was close to that observed by other authors. <xref
+            ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B18">
+            <sup>18</sup>
+          </xref> High blood pressure was the most commonly reported disease, as in the Brazilian
+          epidemiological profile and as seen in other studies. <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B18">
+            <sup>18</sup>
+          </xref> The VI Brazilian Hypertension Guidelines <xref ref-type="bibr" rid="B23">
+            <sup>23</sup>
+          </xref> highlight how. In spite of the high prevalence of hypertension, there are low
+          levels of control. It is considered one of the principal modifiable risk factors for
+          mortality related to cardiovascular disease, which in turn has been one of the main causes
+          of death in Brazil over the last few years. <xref ref-type="fn" rid="fn12">
+            <sup>f</sup>
+          </xref>
+        </p>
+        <p>Taking medication, albeit necessary, constitutes a risk for elderly individuals,
+          especially polypharmacy or taking medications judged unsafe. <xref ref-type="bibr"
+            rid="B6">
+            <sup>6</sup>
+          </xref>
+        </p>
+        <p>Polypharmacy is linked to worsening physical and mental health among the elderly. <xref
+            ref-type="bibr" rid="B10">
+            <sup>10</sup>
+          </xref> Access to medication should be viewed as an achievement by the SUS, as
+          prescription should be based on elderly patients’ overall health conditions and not solely
+          on the treatment for a specific disease, adopting standards that minimize polypharmacy and
+          use of unsafe medications.</p>
+        <p>The low percentage of losses is one of the positive aspects of this study, as it helps to
+          reduce the possibility of selection bias and contributes to the study’s internal validity.
+          Limitations inherent to the crosssectional design stand out: difficulty identifying the
+          chronological relationship of the events, reduced by using a previously validated
+          questionnaire; data on current exposure do not represent data of past exposure, minimized
+          for some variables in which the elderly individual was asked about the chronic nature of
+          their condition; and interpretation complicated by the presence of confounding variables,
+          outlined in the statistical analysis, adjusted to minimize the influence of these
+          variables.</p>
+        <p>As there are multiple, unknown risk factors linked to polypharmacy, using only the usual
+          indicators may not be the most appropriate way of investigating causality of polypharmacy
+          in the context in question. It is difficult to determine the isolation from the
+          environment, personality and age (memory bias), as it is a phenomenon which includes a
+          complex network of causal determinants. Other risk factors which were not analyzed but
+          should have been, in this investigation, may play a crucial role in the prevalence of
+          medication use. Investigating psychological stress and of the use of specific medications
+          is worth investigating, together with physiological changes due to senescence.</p>
+        <p>The data in this study indicate a high percentage of medication use among the elderly,
+          including medications judged unsafe, and inequality in medicine use between groups of
+          elderly individuals when schooling, doctor’s appointments and self-reported health are
+          taken into account. The proportion of elderly individuals taking prescribed medications
+          was higher than that found in other studies of the elderly with populations not registered
+          with the ESF. The fact that around 11% of the population practice polypharmacy, linked to
+          the ageing population in Brazil, is a cause for concern, considering the potential risks
+          of medication use for the elderly. Broad discussion on the need to adopt measures for
+          encouraging the rational use of medication in this segment of the population is needed, as
+          is the continuous professional development of health care professional prescribing
+          medications, qualifying the health care systems in order to provide permanent education
+          and appropriate information at the correct moment, the adoption of measures in the area of
+          pharmaceutical care, drawing up and establishing lists of medications and clinical
+          protocols appropriate to the needs of the elderly population. The high prevalence of
+          taking medication, mainly for CVD, shows the need to adopt measures to encourage physical
+          activity and healthy eating. Moreover, it is essential that continual guidance is given to
+          the elderly and their carers as to the risks of taking medications and that measures are
+          adopted in the area of pharmaceutical care.</p>
+      </sec>
+    </body>
+    <back>
+      <app-group>
+        <p>
+          <bold>HIGHLIGHTS</bold>
+        </p>
+        <p>The ageing population is a challenge for the Brazilian Unified Health System (SUS), as a
+          more elderly population means an increase in chronic diseases, a higher rate of
+          hospitalizations, increased use of medications, and other care requirements. This
+          situation leads to increased spending on health care as well as requiring services and
+          health care professionals better qualified to deal with this “new clientele”. The
+          increased use of medications by the elderly has other implications, such as: adverse
+          reactions, harmful drug interactions, overdoses or lack of therapeutic efficacy, partly
+          due to aspects specific to metabolism in the elderly and partly due to lack of knowledge
+          of these aspects on the part of the prescriber.</p>
+        <p>The article presents the results of a cross-sectional study with a probabilistic sample
+          of <italic>Estratégia Saúde da Família</italic> (Family Health Care Strategy) clientele in
+          the city of Recife, CE, Northeastern Brazil. The results are representative of elderly
+          individuals who only make use of services offered by the SUS, preferentially primary care,
+          a population which generally has precarious socio-economic (low levels of income and
+          schooling) and health (high proportion of individuals with regular, bad or very bad health
+          and of individuals with at least one chronic disease) conditions.</p>
+        <p>A high prevalence of medication use (85%) was observed in this clientele, with a median
+          of two medications per individual, and 11% using more than five medications concurrently.
+          Although 98% of the medications used had been prescribed, 22% of them were unsafe
+          (inappropriate for the elderly, or without proven efficacy). Excessive use of medications
+          has been associated with poorer health, higher number of medical appointments in the
+          period and lower levels of schooling.</p>
+        <p>The results may guide health care managers and those responsible for the
+            <italic>Estratégia Saúde da Família</italic> aim to prescribe more responsibly,
+          increasing the safety of elderly patients.</p>
+        <p>Profa. Rita de Cássia Barradas Barata Scientific Editor</p>
+      </app-group>
+      <fn-group>
+        <fn id="fn8">
+          <label>a</label>
+          <p>Instituto Brasileiro de Geografia e Estatística. Censo demográfico 2010: resultados
+            preliminares. Rio de Janeiro; 2010.</p>
+        </fn>
+        <fn id="fn9">
+          <label>b</label>
+          <p>Veras RP, Lourenço R, Martins CSF, Sanchez MA, Chaves PH. Novos paradigmas do modelo
+            assistencial no setor saúde: consequência da explosão populacional dos idosos no Brasil.
+            In: Veras RP, organizador. Terceira idade: gestão contemporânea em saúde. Rio de
+            Janeiro: Relume Dumará; 2002. p.11-79.</p>
+        </fn>
+        <fn id="fn10">
+          <label>c</label>
+          <p>Secretaria Municipal de Saúde do Recife. Sistema de Informação da Atenção Básica.
+            Recife; 2009.</p>
+        </fn>
+        <fn id="fn11">
+          <label>d</label>
+          <p>WHO Collaborating Centre for Drug Statistics Methodology. ATC/DDD Index 2010. Oslo;
+            2010 [cited 20 May 2010] Available from: http://www.whocc.no/atc_ddd_index/</p>
+        </fn>
+        <fn id="fn12">
+          <label>e</label>
+          <p>Ministério da Saúde. Saúde Brasil 2009: uma análise da situação de saúde e da agenda
+            nacional e internacional de prioridades em saúde. Brasília (DF): 2010.9.</p>
+        </fn>
+        <fn id="fn13">
+          <label>f</label>
+          <p>Malta DC, Moura L, Souza FM, Rocha FM, Fernandes RM. Doenças crônicas não
+            transmissíveis: mortalidade e fatores de risco no Brasil, 1990 a 2006. In: Ministério da
+            Saúde. Saúde Brasil 2008. Brasília (DF); 2009. p.337-62.</p>
+        </fn>
+        <fn fn-type="supplementary-material">
+          <p>Study based on the doctoral thesis of Neves S.J.F., entitled: <italic>“</italic> Estado
+            nutricional e uso de medicamentos em idosos assistidos pela Estratégia Saúde da Família
+              <italic>”</italic> , presented to the <italic>Universidade Federal de
+              Pernambuco</italic> , in 2011.</p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+</article>

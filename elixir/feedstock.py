@@ -112,7 +112,7 @@ def read_html(html_file, replace_entities=False):
     return images_regex.findall(html)[0]
 
 
-def list_html_images(source):
+def list_document_images(source):
     """
     This method retrieve a list of images paths founded into a HTML.
 
@@ -134,7 +134,7 @@ def check_images_availability(source, available_images):
     if isinstance(source, list):
         html_images = source
     elif isinstance(source, str):
-        html_images = list_html_images(source)
+        html_images = list_document_images(source)
     else:
         raise ValueError('Expected a list of images or a string with an html document, given: %s' % source)
 
@@ -150,9 +150,26 @@ def check_images_availability(source, available_images):
     return images_availability
 
 
-class SourceFiles(object):
+def list_path(path):
 
-    def __init__(self, source_dir):
+    try:
+        files = os.listdir(path)
+        logging.info('Source directory found (%s)' % path)
+    except FileNotFoundError:
+        logging.error('Source directory not found (%s)' % path)
+        raise FileNotFoundError(
+            u'Source directory does not exists: %s' % path
+        )
+
+    return files
+
+
+class Article(object):
+
+    def __init__(self, pid, xml, raw_data, source_dir):
+
+        if not is_valid_pid(pid):
+            raise ValueError(u'Invalid PID: %s' % pid)
 
         try:
             os.listdir(source_dir)
@@ -161,90 +178,92 @@ class SourceFiles(object):
             logging.error('Source directory not found (%s)' % source_dir)
             raise FileNotFoundError(u'Invalid source directory: %s' % source_dir)
 
-        self._source_dir = source_dir
+        self.source_dir = source_dir
+        self.xml = xml
+        self.xylose = raw_data
+        self.pid = pid
 
-    def list_images(self, journal_acronym, issue_label):
-
-        imgs_dir = '/'.join(
-            [self._source_dir, 'img', journal_acronym, issue_label]
-        )
-
-        try:
-            files = os.listdir(imgs_dir)
-            logging.info('Images source directory found (%s)' % imgs_dir)
-        except FileNotFoundError:
-            logging.error('Images source directory not found (%s)' % imgs_dir)
-            raise FileNotFoundError(
-                u'Image directory does not exists: %s' % imgs_dir
-            )
-
-        return files
-
-    def list_pdfs(self, journal_acronym, issue_label):
-
-        pdfs_dir = '/'.join(
-            [self._source_dir, 'pdf', journal_acronym, issue_label]
-        )
-
-        try:
-            files = os.listdir(pdfs_dir)
-            logging.info('PDF\'s source directory found (%s)' % pdfs_dir)
-        except FileNotFoundError:
-            logging.error('PDF\'s source directory not found (%s)' % pdfs_dir)
-            raise FileNotFoundError(
-                u'PDF directory does not exists: %s' % pdfs_dir
-            )
-
-        return files
-
-    def list_htmls(self, journal_acronym, issue_label):
-
-        htmls_dir = '/'.join(
-            [self._source_dir, 'html', journal_acronym, issue_label]
-        )
-
-        try:
-            files = os.listdir(htmls_dir)
-            logging.info('PDF\'s source directory found (%s)' % htmls_dir)
-        except FileNotFoundError:
-            raise FileNotFoundError(
-                u'HTML directory does not exists: %s' % htmls_dir
-            )
-            logging.error('PDF\'s source directory not found (%s)' % htmls_dir)
-
-        return files
-
-
-class MetaData(object):
-
-    def __init__(self, pid):
-
-        if not is_valid_pid(pid):
-            raise ValueError(u'Invalid PID: %s' % pid)
-
-        self._xml = loadXML(pid)
-        self._raw_data = load_rawdata(pid)
-        self._pid = pid
-        logging.info('Issue label  for source files is (%s)' % self.issue_label)
+        logging.info('Issue label for source files is (%s)' % self.issue_label)
         logging.info('Journal acronym for source files is (%s)' % self.journal_acronym)
+        logging.info('Content version (%s)' % self.content_version)
 
     @property
-    def xml(self):
-        return self._xml
+    def list_images(self):
+
+        path = '/'.join(
+            [self.source_dir, 'img', self.journal_acronym, self.issue_label]
+        )
+
+        #return [x for x in list_path(path) if x in list_document_images('ss')]
+        return list_path(path)
 
     @property
-    def pid(self):
-        return self._pid
+    def list_pdfs(self):
+
+        path = '/'.join(
+            [self.source_dir, 'pdf', self.journal_acronym, self.issue_label]
+        )
+
+        return [x for x in list_path(path) if self.file_code in x]
+
+    @property
+    def list_htmls(self):
+
+        path = '/'.join(
+            [self.source_dir, 'html', self.journal_acronym, self.issue_label]
+        )
+
+        return [x for x in list_path(path) if self.file_code in x]
+
+    @property
+    def list_xmls(self):
+
+        path = '/'.join(
+            [self.source_dir, 'xml', self.journal_acronym, self.issue_label]
+        )
+
+        return [x for x in list_path(path) if self.file_code in x]
+
+    @property
+    def list_documents(self):
+        """
+        This method retrieve the html's or xml's according to the vesion of the
+        given document.
+        """
+
+        if self.content_version == 'sps':
+            return self.list_xmls
+        else:
+            return self.list_htmls
 
     @property
     def journal_acronym(self):
-        ja = self._raw_data.journal_acronym
+        ja = self.xylose.journal_acronym
 
         return ja
 
     @property
     def file_code(self):
-        return self._raw_data.file_code
+        return self.xylose.file_code
+
+    @property
+    def content_version(self):
+        """
+        This method retrieve the version of the document. If the file with
+        the document content is an XML SPS, the method will retrieve 'rsps',
+        otherwise, if the file is an html the method will retrieve 'legacy'.
+        This is checked using the file extension of do path stored into the
+        field v702.
+        """
+
+        extension = self.xylose.data['article']['v702'][0]['_'].split('.')[-1]
+
+        version = 'legacy'
+
+        if extension == 'xml':
+            version = 'sps'
+
+        return version
 
     @property
     def issue_label(self):
@@ -258,34 +277,36 @@ class MetaData(object):
 
         issue_dir = ''
 
-        if self._raw_data.issue == 'ahead':
-            issue_dir += self._raw_data.publication_date[0:4]
+        if self.xylose.issue == 'ahead':
+            issue_dir += self.xylose.publication_date[0:4]
 
-        if self._raw_data.volume:
-            issue_dir += 'v%s' % self._raw_data.volume
+        if self.xylose.volume:
+            issue_dir += 'v%s' % self.xylose.volume
 
-        if self._raw_data.supplement_volume:
-            issue_dir += 's%s' % self._raw_data.supplement_volume
+        if self.xylose.supplement_volume:
+            issue_dir += 's%s' % self.xylose.supplement_volume
 
-        if self._raw_data.issue:
-            issue_dir += 'n%s' % self._raw_data.issue
+        if self.xylose.issue:
+            issue_dir += 'n%s' % self.xylose.issue
 
-        if self._raw_data.supplement_issue:
-            issue_dir += 's%s' % self._raw_data.supplement_issue
+        if self.xylose.supplement_issue:
+            issue_dir += 's%s' % self.xylose.supplement_issue
 
-        if self._raw_data.document_type == 'press-release':
+        if self.xylose.document_type == 'press-release':
             issue_dir += 'pr'
 
         issue_label = issue_dir.lower()
 
         return issue_label
 
-    @property
-    def xylose(self):
-        return self._raw_data
+    def images(self):
+        pass
 
+    def pdfs(self):
+        pass
 
-class Article(object):
-    def __init__(self, pid, source_dir):
-        self.metadata = MetaData(pid)
-        self.sourcefiles = SourceFiles(source_dir)
+    def images_status(self):
+        pass
+
+    def build_package(self, deposit_path):
+        pass

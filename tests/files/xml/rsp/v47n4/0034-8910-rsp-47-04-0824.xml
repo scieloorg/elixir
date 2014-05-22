@@ -1,0 +1,1335 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="brief-report" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047004756</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047004756</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Comentários</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="pt">Medidas de experiência e cienciometria para avaliar impacto da
+          produção científica</article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>Medidas de experiencia y cienciometría para evaluar impacto de la producción
+            científica</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Akerman</surname>
+            <given-names>Marco</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <institution content-type="orgname">Faculdade de Medicina do ABC</institution>
+        <addr-line>
+          <named-content content-type="city">Santo André</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Faculdade de Medicina do ABC. Santo André, SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondência | Correspondence</bold> : Marco Akerman. Disciplina de Saúde
+          Coletiva. Av. Príncipe de Gales, 821. 09060-650 Santo André, SP, Brasil. E-mail:
+            <email>marco.akerman@gmail.com</email>
+        </corresp>
+        <fn fn-type="conflict">
+          <p>O autor declara não haver conflito de interesses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>04</issue>
+      <fpage>824</fpage>
+      <lpage>828</lpage>
+      <history>
+        <date date-type="received">
+          <day>3</day>
+          <month>2</month>
+          <year>2013</year>
+        </date>
+        <date date-type="accepted">
+          <day>11</day>
+          <month>6</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="pt">
+        <p>Propõe-se a “experienciometria” como medida da experiência acadêmica de pesquisadores de
+          modo a complementar a medida consagrada da cienciometria nas avaliações de competências em
+          pesquisa. O artigo baseia-se em parte na produção cientifica do autor, utilizada sob uma
+          perspectiva qualitativa para explorar possibilidades de análise de impactos. Ensaia-se uma
+          síntese com possíveis implicações dessa análise, indicando algumas possibilidades para se
+          avaliar impacto de pesquisas e artigos que não se restrinjam exclusivamente à contagem de
+          números de citações dos autores para o cálculo do fator de impacto.</p>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <p>Se propone la “experienciometría” como medida de la experiencia académica de
+          investigadores con el objetivo de complementar la medida consagrada de la cienciometría en
+          las evaluaciones de competencias en investigación. El artículo en parte, se basa en la
+          producción científica del autor, utilizada bajo una perspectiva cualitativa para explorar
+          posibilidades de análisis de impactos. Se ensaya una síntesis con posibles implicaciones
+          de éste análisis, indicando algunas posibilidades para evaluar el impacto de
+          investigaciones y artículos, que no se limiten exclusivamente al contaje de números de
+          citaciones de los autores para el cálculo del factor de impacto.</p>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <kwd>Pesquisadores</kwd>
+        <kwd>Sistemas de Créditos e Avaliação de Pesquisadores</kwd>
+        <kwd>Indicadores de Produção Científica</kwd>
+        <kwd>Publicações Periódicas como Assunto</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>Investigadores</kwd>
+        <kwd>Sistemas de Créditos y Evaluación de Investigadores</kwd>
+        <kwd>Indicadores de Producción Científica</kwd>
+        <kwd>Publicaciones Periódicas como Asunto</kwd>
+      </kwd-group>
+      <counts>
+        <ref-count count="16"/>
+        <page-count count="5"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUÇÃO</title>
+      <p>Ao considerar a engenhosidade dos critérios de meritocracia engendrados pela CAPES para
+        qualificar programas de pós-graduação, é necessário tanto aperfeiçoar seus mecanismos
+        quantitativos como explorar novas maneiras de avaliar impacto de pesquisadores e de
+        programas.</p>
+      <p>Ao acompanhar um processo de credenciamento de mestrado como coordenador da pós-graduação,
+        publiquei um artigo de opinião com o título: “Há muitos doutores, mas faltam ‘empreendedores
+        sociais’”. <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref>
+      </p>
+      <p>Empreender ou aventurar-se seria o resultado esperado da tríade “pesquisa-ensino-extensão”
+        e que mecanismos combinados de avaliação necessitam ser colocados em prática. Como menciona
+        Ribeiro, RJR, “a universidade se tornará verdadeiramente universidade, quando o príncipe (a
+        pesquisa) beijar o sapo (a extensão)” (Almeida Filho, 2007). <xref ref-type="bibr" rid="B8">
+          <sup>8</sup>
+        </xref>
+      </p>
+      <p>E como fazer isso? Talvez captando também quando a pesquisa “serve à humanidade e não
+        apenas à ciência”.</p>
+      <p>Tomando-se emprestada a expressão de Packer, <xref ref-type="fn" rid="fn1">
+          <sup>a</sup>
+        </xref> de que “um médico pode ter lido um artigo científico e ter salvado duas vidas”, ao
+        não informar isso de maneira sistematizada à comunidade científica, “ele ajudou a
+        humanidade, mas não a ciência”. Dessa forma, o autor do artigo lido pelo médico jamais
+        saberá desse impacto causado pelo artigo.</p>
+      <p>Ainda, Packer <xref ref-type="fn" rid="fn1">
+          <sup>a</sup>
+        </xref> (2012) afirma que a comunidade científica reconhece a necessidade desse tipo de
+        qualificação da pesquisa ou de sua repercussão na vida de sujeitos, mas que, por não haver
+        ainda uma metodologia validada, continuaremos a usar os métodos já consagrados de
+        cienciometria <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> para avaliar o impacto de revistas, artigos e pesquisadores.</p>
+      <p>Essa tentativa de qualificar o impacto de uma pesquisa/artigo/pesquisador não seria
+        subterfúgio de quem jamais conseguirá níveis quantitativos competitivos ao fazer uso de
+        arroubos qualitativistas? Não chegamos a nenhuma conclusão quanto a essa insinuação. Segundo
+        Packer <xref ref-type="fn" rid="fn1">
+          <sup>a</sup>
+        </xref> (2012), a “ciência das citações” também estaria suscetível à Lei de Pareto,
+        conhecida como “princípio 80-20”, no qual 80% das citações estariam sempre sendo atribuídas
+        a 20% dos pesquisadores. Coimbra Jr. <xref ref-type="bibr" rid="B10">
+          <sup>10</sup>
+        </xref> discute que a área de saúde pública não está representada na “porção do leão” das
+        revistas mais citadas, nem mesmo as revistas internacionais, como o <italic>American Journal
+          of Public Health</italic> e o <italic>International Journal of Epidemiology</italic> .</p>
+      <p>Para aqueles 80% de pesquisadores, com número inferior de citações, estariam reservadas
+        “migalhas” do fomento à pesquisa? Qual desse contingente de pesquisas tem maior potência de
+        ajuda para a humanidade? Há outras formas de avaliar impacto de artigos que não apenas a
+        cienciometria das citações?</p>
+      <p>O objetivo deste artigo foi sugerir possibilidades para uma análise qualitativa do impacto
+        de uma produção científica.</p>
+    </sec>
+    <sec>
+      <title>POSSÍVEL PONTO DE PARTIDA</title>
+      <p>Em 1993 ampla pesquisa, realizada sobre “Saúde e Ambiente: estudo dos diferenciais
+        intraurbanos em países em desenvolvimento, em Acra, capital de Gana, e São Paulo, Brasil”,
+          <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref> mostrou a existência de um gradiente social em relação ao risco de morrer por
+        algumas doenças crônicas selecionadas, causas externas, doenças respiratórias e enfermidades
+        infecciosas quando se compararam diferentes áreas geográficas nas cidades estudadas. <xref
+          ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B14">
+          <sup>14</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+      </p>
+      <p>Mais do que um estudo epidemiológico ecológico de diferenciais intraurbanos, praticou-se o
+        exercício negociado de construção de indicadores compostos, <xref ref-type="fn" rid="fn2">
+          <sup>b</sup>
+        </xref> , <xref ref-type="fn" rid="fn3">
+          <sup>c</sup>
+        </xref> que influenciou um conjunto de pesquisas em violência, qualidade de vida e
+        exclusão/inclusão social. <xref ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref>
+        <sup>-</sup>
+        <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref>
+      </p>
+      <p>Uma dessas pesquisas foi o Mapa de Risco da Violência da cidade de São Paulo. <xref
+          ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref> Essa iniciativa e os mapas de Risco da Violência das cidades de Curitiba, PR, Rio de
+        Janeiro, RJ, e Salvador, BA, <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> fizeram parte do esforço do Governo Federal para elaborar o Plano Nacional de
+        Direitos Humanos, elaborado em 1996, pelo Ministério da Justiça.</p>
+      <p>Optou-se por divulgar os resultados desses mapas coloridos, em formato de boletim, de fácil
+        leitura e divulgação como dispositivo para informar políticas e sensibilizar a sociedade
+        para a magnitude da violência urbana.</p>
+      <p>Dentro dessa lógica, foi decidido divulgar os resultados do mapeamento da violência na
+        cidade de São Paulo, com exclusividade, na imprensa paulista.</p>
+      <p>A matéria, com a manchete “Jardim Ângela é o lugar mais perigoso do mundo”, <xref
+          ref-type="fn" rid="fn4">
+          <sup>d</sup>
+        </xref> introduzia a reportagem com os resultados da pesquisa baseando-se em um pequeno
+        gráfico que comparava as taxas de mortalidade por homicídios em Cali e Medellín, Colômbia,
+        com bairros da cidade de São Paulo, onde a taxa do Jardim Ângela superava as taxas das duas
+        cidades colombianas, consideradas muito violentas naquela época.</p>
+      <p>Posteriormente, houve uma queda vertiginosa nas taxas de violência no bairro Jardim Ângela
+        que perdura atualmente. Houve uma queda de 73,3% no índice de homicídios, conforme texto
+        abaixo:</p>
+      <disp-quote>
+        <p>
+          <italic>O distrito do Jardim Ângela, zona sul de São Paulo, onde residem 300 mil
+            habitantes, foi considerado pela ONU, em 1996, o local mais violento do planeta. Para se
+            ter uma ideia da gravidade da situação, em 2001 foram registrados 277 assassinatos.
+            Desde então o índice vem caindo ano a ano e, em 2004, o distrito registrou 151
+            assassinatos, uma redução de 45%.</italic>
+        </p>
+        <p>
+          <italic>Mas o melhor está acontecendo: este ano, até o dia de hoje, foram registradas 26
+            mortes violentas, contra 65 em igual período do ano passado e 120, em 2001. Isso mostra
+            que em menos de 4 anos, o índice de homicídios no Jardim Ângela caiu mais de
+            73%,</italic> Instituto Sou da Paz. <sup>e</sup>
+        </p>
+      </disp-quote>
+      <p>Não se pretende com essa narrativa estabelecer uma relação de causa-efeito direta entre a
+        manchete provocada pela mídia em 1996 e a importante redução das taxas de homicídio em 2005.
+        Entretanto, essa manchete repercute até hoje nos jornais e parece ter exercido um papel de
+        marketing social, tendo influenciado a mobilização e o desencadeamento de ações dirigidas a
+        esse território, o qual esteve na “berlinda”, empurrado pela manchete, nada mais tendo feito
+        do que dar visibilidade para uma realidade que existia muito antes da manchete.</p>
+      <p>Parece que uma manchete de jornal, que não se encontra no escopo da ciência, indicou que a
+        pesquisa poderia ter tido um “alto impacto para a humanidade”.</p>
+    </sec>
+    <sec>
+      <title>OUTRO TIPO DE IMPACTO</title>
+      <p>Quem já não ouviu a expressão “isto me causou um impacto enorme”? E com essa expressão o
+        sujeito fala de algo que o afetou, algo que ele experimentou.</p>
+      <p>Segundo Bondía: <xref ref-type="bibr" rid="B9">
+          <sup>9</sup>
+        </xref>
+      </p>
+      <disp-quote>
+        <p>
+          <italic>“A experiência, a possibilidade de que algo nos aconteça ou nos toque, requer um
+            gesto de interrupção, um gesto que é quase impossível nos tempos que correm: requer
+            parar para pensar, parar para olhar, parar para escutar... suspender o automatismo da
+            ação, cultivar a atenção e a delicadeza, abrir os olhos... cultivar a arte do encontro,
+            calar muito, ter paciência e dar-se tempo e espaço”</italic> . <xref ref-type="bibr"
+            rid="B9">
+            <sup>9</sup>
+          </xref>
+        </p>
+      </disp-quote>
+      <p>Assim, Bondía <xref ref-type="bibr" rid="B9">
+          <sup>9</sup>
+        </xref> nos alerta que uma sociedade “constituída sob o signo da informação” dificulta a
+        experiência.</p>
+      <p>E aqui não cabe o antagonismo entre conhecimento/informação e saber da experiência/sentido,
+        cada par com seu propósito, sua ética e sua estética, mas há que se advogar por uma adequada
+        tensão entre os dois pares.</p>
+      <p>Entretanto, Bondía <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref> comenta que a ciência moderna desconfia da experiência e criou caminho seguro
+        traduzido pelo método que reduz a experiência ao experimento.</p>
+      <p>Se a lógica do experimento é o acordo, o consenso e a homogeneidade, no saber da
+        experiência importam a diferença, a heterogeneidade e a singularidade. <xref ref-type="bibr"
+          rid="B9">
+          <sup>9</sup>
+        </xref>
+      </p>
+      <p>Se a base da cienciometria <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref> é o fator de impacto e outros indicadores bibliométricos produzindo resultados
+        objetivos, regulares, repetíveis, comparáveis, impessoais, infinitos, universais, seria uma
+        grande ousadia se pesquisadores brasileiros pudessem explorar o desenvolvimento de uma
+        “experienciometria”, que produzisse resultados pessoais e comparáveis e que também
+        contribuísse para o melhor entendimento do mecanismo de pesquisa científica como uma
+        atividade social.</p>
+    </sec>
+    <sec>
+      <title>RESISTÊNCIA A UMA ELITIZAÇÃO ANUNCIADA?</title>
+      <p>Nos “considerandos” da lei do rodízio em São Paulo consta: “segundo a pesquisa do Prof.
+        Pedro Jacobi que apontou a percepção do aumento da poluição na cidade pelas donas de casa de
+        um bairro da cidade pela quantidade de fuligem que se formava nos lençóis pendurados nos
+        varais”. <xref ref-type="fn" rid="fn6">
+          <sup>f</sup>
+        </xref>
+      </p>
+      <p>Ao ver isso descrito na lei, imediatamente se interpreta como se tratar de um genuíno
+        impacto de uma pesquisa científica.</p>
+      <p>As universidades europeias vêm construindo maneiras de avaliar impacto que não se
+        restrinjam apenas aos índices de citações, os quais frequentemente induziam opiniões de que
+        o mundo acadêmico estava dividido entre aqueles que faziam “ciencinha” e outros que faziam
+        ciência “de verdade” quando se comparavam os índices de citação de pesquisadores
+        distintos.</p>
+      <p>O que deveríamos fazer é buscar formas para induzir/conceber um repertório mais ampliado de
+        indicadores para avaliar a trajetória de um professor universitário, considerando-se outros
+        campos de sua atividade medidos com o mesmo valor de sua capacidade de disseminação de seus
+        artigos científicos de modo a não predominar somente o critério quantitativo das
+        citações.</p>
+    </sec>
+    <sec sec-type="intro">
+      <title>CONSIDERAÇÕES FINAIS</title>
+      <p>Primeiramente, é necessário reconhecer o caráter provisório do presente trabalho –
+        tentativo e precário nas palavras de Deleuse &amp; Guattarri: <xref ref-type="bibr"
+          rid="B11">
+          <sup>11</sup>
+        </xref>
+      </p>
+      <disp-quote>
+        <p>
+          <italic>“Ainda e, sobretudo, no domínio teórico, qualquer esboço precário e pragmático é
+            melhor que o decalque de conceitos com seus cortes e seus progressos que nada mudam. A
+            imperceptível ruptura em vez do corte significante”</italic> .</p>
+      </disp-quote>
+      <p>Em segundo lugar, é necessário recuperar o contexto de vida acadêmica de modo a “tensionar”
+        a meritocracia em pesquisa como determinante principal de avaliação da atuação acadêmica e
+        advogar que outros âmbitos da atuação acadêmica possam também adquirir o mesmo grau de
+        relevância avaliativa que tem a atividade de pesquisa e publicação.</p>
+      <p>Terceiro ponto a se destacar é: qual o propósito da ciência? Ajudar a humanidade ou se
+        autorreproduzir entre seus pares? Como é possível saber se ela realmente está ajudando a
+        humanidade? Temos por ora apenas métodos quantitativos já validados, oriundos da
+        cienciometria, mas carecemos de métodos que possam também qualificar o impacto da
+        ciência/pesquisa na direção de seu “aporte para a humanidade”. Ademais, o método mais
+        consagrado – o fator de impacto medido pelo número de citações – padece de limites e
+        críticas como, por exemplo, a que lhe atribuem Pinto &amp; Andrade: <xref ref-type="bibr"
+          rid="B13">
+          <sup>13</sup>
+        </xref>
+      </p>
+      <disp-quote>
+        <p>
+          <italic>“A ciência pode se beneficiar muito da aplicação desses parâmetros da
+            cienciometria, mas o seu crescimento e a sua qualidade exigem que se trabalhe em todas
+            as direções para que áreas importantes do conhecimento não se atrofiem por não serem as
+            da moda, aquelas que congregam o maior número de cientistas e que só figuram nas
+            revistas com alto fator de impacto... ”</italic> . <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+        </p>
+      </disp-quote>
+      <p>Para alcançar essa aspiração de que pesquisas tenham como propósito principal a “ajuda à
+        humanidade”, poderiam ser estabelecidos critérios indiretos, por exemplo, a capacidade
+        potencial, ou realizada, de que uma pesquisa possa influenciar políticas públicas: (1) nível
+        de participação de atores sociais no processo de elaboração da pesquisa; (2) estratégias de
+        comunicação entre atores sociais envolvidos e pesquisadores; (3) clareza na definição dos
+        objetivos; (4) visibilidade do processo de pesquisa e da disseminação dos resultados; (5)
+        cumprimento de prazos; e (6) alcance dos objetivos previamente estabelecidos. <xref
+          ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref>
+      </p>
+      <p>Esses critérios são apenas uma aproximação inicial para avaliar os elementos constituintes
+        de pesquisas que se propõem a influenciar políticas. Outros elementos favorecedores podem
+        não ter sido identificados e outros estudos que explorem essas questões são bem-vindos,
+        assim como a definição mais clara de indicadores que permitam atestar a associação entre
+        esses elementos e a influência nas políticas públicas. A ênfase dessa discussão está no fato
+        de que, caso haja “vontade científica” genuína de pesquisadores em influenciar políticas por
+        meio de seus trabalhos, há que, de forma explícita e direta, incluir os critérios
+        anteriormente citados no delineamento da pesquisa como elementos potenciais para influenciar
+        a formulação de políticas públicas. <xref ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref>
+      </p>
+      <p>Nesse sentido, esses elementos indicariam possibilidades para se buscar um modo de análise
+        para apontar o “saber da experiência” da pesquisa em influenciar políticas públicas,
+        trilhando caminhos para se constituir em uma “experienciometria” avaliativa.</p>
+      <p>Um quarto eixo de discussão, conectado ao anterior, propõe inserir “narrativas” (saber da
+        experiência) percebidas e documentadas dos impactos da pesquisa, por exemplo, em sujeitos,
+        grupos populacionais, territórios ou leis, como as que aqui foram exemplificadas: (1) no
+        caso da “Lei do Rodízio” e da influência da pesquisa do Prof. Pedro Jacobi e (2) o caso do
+        “Mapa de Risco da Violência da Cidade de São Paulo” e sua inter-relação com o “Jardim
+        Ângela”.</p>
+      <disp-quote>
+        <p>
+          <italic>“A narrativa é uma forma linguística caracterizada, dentre outros aspectos, por:
+            apresentar uma sequência finita e longitudinal de tempo; pressupor a existência de um
+            narrador e de um ouvinte, cujas visões de mundo estão embutidas no como as histórias são
+            contadas;... engajar o ouvinte e o convidar a uma interpretação.”</italic>
+          <xref ref-type="bibr" rid="B12">
+            <sup>12</sup>
+          </xref>
+        </p>
+      </disp-quote>
+      <p>Sendo assim, caberia ao pesquisador posicionar-se como um recolhedor da experiência,
+        inspirado pela vontade de compartilhar impactos percebidos e observados da sua pesquisa. Tal
+        exercício poderia inclusive ser estimulado por meio de roteiros pré-concebidos nos processos
+        de avaliação e serem incorporados ao Coleta CAPES ou ao Currículo Lattes, por exemplo, e
+        terem algum grau no peso das avaliações de programas de pesquisa, pós-graduação e pedidos de
+        apoio às agências de fomento.</p>
+      <p>Grossman &amp; Cardoso <xref ref-type="bibr" rid="B12">
+          <sup>12</sup>
+        </xref> dão alguns indícios que poderiam servir para a proposição desse roteiro ao afirmarem
+        que as “narrativas estão estruturadas sobre cinco elementos, quais sejam: os fatos, as
+        personagens, o tempo, o espaço e o narrador”. Adicionalmente, cabe sugerir a criação de um
+        roteiro que fosse acompanhado de material documental para circunstanciar e sustentar os
+        fatos.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERÊNCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Akerman M. Há muitos doutores, mas faltam empreendedores sociais.
+            <italic>Diario Grande ABC.</italic> 2005 ago 7:13.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Akerman</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Há muitos doutores, mas faltam empreendedores
+            sociais</article-title>
+          <source>Diario Grande ABC</source>
+          <year>2005</year>
+          <month>ago</month>
+          <issue>7</issue>
+          <elocation-id>13</elocation-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Akerman M. Examinado elementos que possam influenciar a formulação de
+          políticas em estudos que utilizam indicadores compostos: o chão contra o cifrão.
+            <italic>Cienc Saude Coletiva.</italic> 2000;5(1):115-24. DOI:
+          10.1590/S1413-81232000000100010</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Akerman</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Examinado elementos que possam influenciar a formulação de
+            políticas em estudos que utilizam indicadores compostos: o chão contra o
+            cifrão</article-title>
+          <source>Cienc Saude Coletiva</source>
+          <year>2000</year>
+          <volume>5</volume>
+          <issue>1</issue>
+          <fpage>115</fpage>
+          <lpage>124</lpage>
+          <pub-id pub-id-type="doi"> 10.1590/S1413-81232000000100010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Akerman M, Bousquat A. Mapa de risco da violência das cidades de São
+          Paulo, Curitiba, Salvador e Rio de Janeiro. <italic>Sao Paulo Perspec.</italic>
+          2000;13(4):112-20. DOI: 10.1590/S0102-88391999000400012</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Akerman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bousquat</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Mapa de risco da violência das cidades de São Paulo,
+            Curitiba, Salvador e Rio de Janeiro</article-title>
+          <source>Sao Paulo Perspec</source>
+          <year>2000</year>
+          <volume>13</volume>
+          <issue>4</issue>
+          <fpage>112</fpage>
+          <lpage>120</lpage>
+          <pub-id pub-id-type="doi"> 10.1590/S0102-88391999000400012</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Akerman M, Massei W, Cabral S, Broch A, Cremonese A, Alves TS, et al. A
+          concepção de um projeto de observatório de qualidade de vida: relato de uma experiência
+          realizada em Campinas. <italic>Saude Soc.</italic> 1997;6(2):83-100. DOI:
+          10.1590/S0104-12901997000200010</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Akerman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Massei</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Cabral</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Broch</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Cremonese</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Alves</surname>
+              <given-names>TS</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="pt">A concepção de um projeto de observatório de qualidade de
+            vida: relato de uma experiência realizada em Campinas</article-title>
+          <source>Saude Soc</source>
+          <year>1997</year>
+          <volume>6</volume>
+          <issue>2</issue>
+          <fpage>83</fpage>
+          <lpage>100</lpage>
+          <pub-id pub-id-type="doi"> 10.1590/S0104-12901997000200010</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Akerman M. Qualidade de vida e exclusão: quanto custa incluir?
+            <italic>Debates Socioambient.</italic> 1996;2(4):8-9.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Akerman</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Qualidade de vida e exclusão: quanto custa
+            incluir?</article-title>
+          <source>Debates Socioambient</source>
+          <year>1996</year>
+          <volume>2</volume>
+          <issue>4</issue>
+          <fpage>8</fpage>
+          <lpage>9</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation>. Akerman M, Bousquat A Mapa de risco da violência da cidade de São Paulo.
+          São Paulo: Centro de Estudos de Cultura Contemporânea; 1996.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Akerman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Bousquat</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">Mapa de risco da violência da cidade de São Paulo</source>
+          <publisher-loc>São Paulo</publisher-loc>
+          <publisher-name>Centro de Estudos de Cultura Contemporânea</publisher-name>
+          <year>1996</year>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation>. Akerman M, Stephens C, Campanario P, Maia PB. Saúde e meio ambiente: uma
+          análise de diferenciais intra-urbanos enfocando o Município de São Paulo, Brasil.
+            <italic>Rev Saude Publica.</italic> 1994;28(4):320-5. DOI:
+          10.1590/S0034-89101994000400013</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Akerman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Stephens</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Campanario</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Maia</surname>
+              <given-names>PB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Saúde e meio ambiente: uma análise de diferenciais
+            intra-urbanos enfocando o Município de São Paulo, Brasil</article-title>
+          <source>Rev Saude Publica</source>
+          <year>1994</year>
+          <volume>28</volume>
+          <issue>4</issue>
+          <fpage>320</fpage>
+          <lpage>325</lpage>
+          <pub-id pub-id-type="doi"> 10.1590/S0034-89101994000400013</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation>. Almeida Filho N. Universidade nova: textos críticos e esperançosos.
+          Brasília/Salvador: Editora UnB/EDUFBA; 2007.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Almeida</surname>
+              <given-names>N</given-names>
+              <suffix>Filho</suffix>
+            </name>
+          </person-group>
+          <source xml:lang="pt">Universidade nova: textos críticos e esperançosos</source>
+          <publisher-loc>Brasília</publisher-loc>
+          <publisher-loc>Salvador</publisher-loc>
+          <publisher-name>Editora UnB</publisher-name>
+          <publisher-name>EDUFBA</publisher-name>
+          <year>2007</year>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation>. Bondia JL. Notas sobre a experiência e o saber da experiência. <italic>Rev
+            Bras Educ.</italic> 2002;19(1):20-9. DOI:
+          10.1590/S1413-24782002000100003</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Bondia</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Notas sobre a experiência e o saber da
+            experiência</article-title>
+          <source>Rev Bras Educ</source>
+          <year>2002</year>
+          <volume>19</volume>
+          <issue>1</issue>
+          <fpage>20</fpage>
+          <lpage>29</lpage>
+          <pub-id pub-id-type="doi"> 10.1590/S1413-24782002000100003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation>. Coimbra Jr CEA. Produção científica em saúde pública e as bases
+          bibliográficas internacionais. <italic>Cad Saude Publica.</italic> 1999;15(4):883-8. DOI:
+          10.1590/S0102-311X1999000400022</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Coimbra</surname>
+              <given-names>CEA</given-names>
+              <suffix>Jr</suffix>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Produção científica em saúde pública e as bases
+            bibliográficas internacionais</article-title>
+          <source>Cad Saude Publica</source>
+          <year>1999</year>
+          <volume>15</volume>
+          <issue>4</issue>
+          <fpage>883</fpage>
+          <lpage>888</lpage>
+          <pub-id pub-id-type="doi"> 10.1590/S0102-311X1999000400022</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation>. Deleuze G, Guatarri F. Mil Platôs. Rio de Janeiro: Editora 34;
+          1995.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Deleuze</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Guatarri</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">Mil Platôs</source>
+          <publisher-loc>Rio de Janeiro</publisher-loc>
+          <publisher-name>Editora 34</publisher-name>
+          <year>1995</year>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation>. Grossman E, Cardoso MHCA. As narrativas em medicina: contribuições à
+          prática clínica e ao ensino médico. <italic>Rev Bras Educ Med.</italic> 2006;30(1):6-14.
+          DOI: 10.1590/S0100-55022006000100002</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Grossman</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Cardoso</surname>
+              <given-names>MHCA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">As narrativas em medicina: contribuições à prática clínica e
+            ao ensino médico</article-title>
+          <source>Rev Bras Educ Med</source>
+          <year>2006</year>
+          <volume>30</volume>
+          <issue>1</issue>
+          <fpage>6</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="doi"> 10.1590/S0100-55022006000100002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation>. Pinto AC, de Andrade, JB. Fator de impacto de revistas científicas: qual o
+          significado deste parâmetro? <italic>Quim Nova.</italic> 1999;22(3):448-53. DOI:
+          10.1590/S0100-40421999000300026</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Pinto</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>de Andrade</surname>
+              <given-names>JB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Fator de impacto de revistas científicas: qual o significado
+            deste parâmetro?</article-title>
+          <source>Quim Nova</source>
+          <year>1999</year>
+          <volume>22</volume>
+          <issue>3</issue>
+          <fpage>448</fpage>
+          <lpage>453</lpage>
+          <pub-id pub-id-type="doi"> 10.1590/S0100-40421999000300026</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation>. Stephens C, Akerman M, Maia PB. Health and environment in São Paulo,
+          Brazil: methods of data linkage and questions for policy. <italic>World Health Stat
+            Q.</italic> 1995;48(2):95-107.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Stephens</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Akerman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Maia</surname>
+              <given-names>PB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Health and environment in São Paulo, Brazil: methods of data
+            linkage and questions for policy</article-title>
+          <source>World Health Stat Q.</source>
+          <year>1995</year>
+          <volume>48</volume>
+          <issue>2</issue>
+          <fpage>95</fpage>
+          <lpage>107</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation>. Stephens C, Akerman M., Avle S, Maia PB, Campanário P, Doe B, Tetteh D.
+          Urban equity and urban health: using existing data to understand inequalities in health
+          and environment in Accra, Ghana and Sao Paulo Brazil. <italic>Environ Urban.</italic>
+          1997;9(1):181-202.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Stephens</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Akerman</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Avle</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Maia</surname>
+              <given-names>PB</given-names>
+            </name>
+            <name>
+              <surname>Campanário</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Doe</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Tetteh</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Urban equity and urban health: using existing data to
+            understand inequalities in health and environment in Accra, Ghana and Sao Paulo
+            Brazil</article-title>
+          <source>Environ Urban</source>
+          <year>1997</year>
+          <volume>9</volume>
+          <issue>1</issue>
+          <fpage>181</fpage>
+          <lpage>202</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation>. Stephens C, Timaeus I, Akerman M, Avle S, Maia PB, Campanário P, Harpham
+          T. Field study: São Paulo, Brazil. In: Stephens C, organizador. Environment and health in
+          developing countries: an analysis of intra-urban differentials using existing data.
+          London: London School of Hygiene and Tropical Medicine; 1994. p. 49-80.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Stephens</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Timaeus</surname>
+              <given-names>I</given-names>
+            </name>
+            <name>
+              <surname>Akerman</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Avle</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Maia</surname>
+              <given-names>PB</given-names>
+            </name>
+            <name>
+              <surname>Campanário</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Harpham</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <chapter-title>Field study: São Paulo, Brazil</chapter-title>
+          <person-group>
+            <name>
+              <surname>Stephens</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Environment and health in developing countries: an analysis of
+            intra-urban differentials using existing data</source>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>London School of Hygiene and Tropical Medicine</publisher-name>
+          <year>1994</year>
+          <fpage>49</fpage>
+          <lpage>80</lpage>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="fn1">
+        <label>a</label>
+        <p>Packer A. Comunicação pessoal; 2012.</p>
+      </fn>
+      <fn id="fn2">
+        <label>b</label>
+        <p>Akerman M. Diferenciais intra-urbanos de saúde: estudo de caso de macrolocalização de
+          problemas como estratégia de influenciar políticas públicas In: Equidade e saúde:
+          contribuições da epidemiologia. Rio de Janeiro: ABRASCO; 1997. v.1, p. 177-86.</p>
+      </fn>
+      <fn id="fn3">
+        <label>c</label>
+        <p>Akerman M. Metodologia de construção de indicadores compostos: um exercício de negociação
+          intersetorial In: Condições de vida e saúde. Rio de Janeiro: ABRASCO; 1997. v.1, p.
+          95-113.</p>
+      </fn>
+      <fn id="fn4">
+        <label>d</label>
+        <p>Folha de São Paulo. Jardim Ângela é o lugar mais perigoso do mundo, 1996, caderno
+          cotidiano, página 3.</p>
+      </fn>
+      <fn id="fn5">
+        <label>e</label>
+        <p>Instituto Sou da Paz. Homicídios caem 73.3% no Jardim Ângela. São Paulo;2005 [citado 2012
+          jan 28]. Disponível em:
+          http://www.soudapaz.org/Home/tabid/630/EntryID/740/language/pt-BR/Default.aspx</p>
+      </fn>
+      <fn id="fn6">
+        <label>f</label>
+        <p>Centro de Estudos de Cultura Contemporânea. Coordenadoria de Educação Ambiental. Respira
+          São Paulo: resultado da pesquisa sobre a Operação Rodízio. São Paulo; 1997.</p>
+      </fn>
+      <fn id="fn7">
+        <p>Artigo derivado de tese de Livre-Docência de Akerman M., intitulada: “Impacto. Que
+          impactos? Uma tentativa de diálogo com meu leitor”, submetida à Faculdade de Saúde Pública
+          da Universidade de São Paulo, em 2012.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Comments</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Measures of experience and scientometrics to evaluate the
+          impact of scientific production</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Akerman</surname>
+            <given-names>Marco</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">Faculdade de Medicina do ABC. Santo André, SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondence</bold> : Marco Akerman. Disciplina de Saúde Coletiva. Av. Príncipe de
+          Gales, 821. 09060-650 Santo André, SP, Brasil. E-mail:
+            <email>marco.akerman@gmail.com</email>
+        </corresp>
+        <fn fn-type="conflict">
+          <p>The author declares that there are no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <p>“Experiencimetrics” is proposed as a measure of researchers’ academic experience, to
+          complement the existing measure, scientometrics, when evaluating expertise in research.
+          The article is partly based on the author’s scientific output, and explores the
+          possibilities of analyzing impact from a qualitative perspective. A synthesis is produced,
+          with possible implications for this analysis, highlighting some options for evaluating the
+          impact of research and articles which are not limited to counting author’s citations in
+          order to calculate the impact factor.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Research Personnel</kwd>
+        <kwd>Researcher Performance Evaluation Systems</kwd>
+        <kwd>Scientific Publication Indicators</kwd>
+        <kwd>Periodicals as Topic</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>When considering the ingenuity of the criteria of meritocracy engendered by the
+            <italic>Coordenação de Aperfeiçoamento de Pessoal de Nível Superior</italic> (CAPES) to
+          qualify post-graduate programs, it is necessary both to improve the quantitative
+          mechanisms and to examine new ways of evaluating the impact of the researchers and
+          programs.</p>
+        <p>On following the process of accreditation of a Masters as post-graduate coordinator, I
+          published an opinion piece entitled: “There are many doctors, but few ‘social
+          entrepreneurs’”. <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref>
+        </p>
+        <p>Entrepreneurship or taking a risk would be the expected result of the “research –
+          teaching- extension” triad and combined mechanisms of evaluation would need to be
+          practiced. As mentioned in Ribeiro, RJR “the university will truly become university when
+          the prince (research) kisses the frog (extension)” (Almeida Filho, 2007). <xref
+            ref-type="bibr" rid="B8">
+            <sup>8</sup>
+          </xref>
+        </p>
+        <p>And how is this to be done? Perhaps by identifying when research also “serves humanity
+          and not just science”.</p>
+        <p>Borrowing Packer’s expression, <xref ref-type="fn" rid="fn9">
+            <sup>a</sup>
+          </xref> that “a doctor may have read one scientific article and have saved two lives”, by
+          not reporting this in a systematic manner to the scientific community, “he helps humanity,
+          but not science”. Thus, the author of said article read by the doctor will never know of
+          the impact caused by article.</p>
+        <p>Moreover, Packer <xref ref-type="fn" rid="fn8">
+            <sup>a</sup>
+          </xref> (2012) states that the scientific community recognizes the need for this type of
+          qualification of research or of its repercussions on the life of the subjects; but, for
+          lack of a validated methodology, we continue to use the enshrined measure of
+          scientometrics <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> to evaluate the impact of journals, articles and researchers.</p>
+        <p>Would this attempt to qualify the impact of research/article/researcher not be the
+          subterfuge of someone who would never achieve the competitive quantitative levels, hiding
+          behind qualitative raptures? We have not reached a conclusion on this insinuation.
+          According to Packer <xref ref-type="fn" rid="fn8">
+            <sup>a</sup>
+          </xref> (2012), the “science of citations” is also susceptible to Pareto’s Law, known as
+          the “80-20 principle”, in which 80% of citations would always be attributed to 20% of
+          researchers. Coimbra Jr. <xref ref-type="bibr" rid="B10">
+            <sup>10</sup>
+          </xref> argues that the field of Public Health is not represented in the “lions share” of
+          the most cited journals, not even in international journals, such as the American Journal
+          of Public Health and the International Journal of Epidemiology.</p>
+        <p>So the “crumbs” of research promotion would be left for those 80% of researchers with an
+          inferior number of citations? Of that contingent of research, what has the greatest
+          potential to help humanity? Are there other forms of evaluating the impact of articles
+          that does not involve simply counting citations?</p>
+        <p>The aim of this article was to suggest possibilities for the qualitative analysis of the
+          impact of scientific production.</p>
+      </sec>
+      <sec>
+        <title>A POSSIBLE STARTING POINT</title>
+        <p>In 1993, a broad piece of research entitled “Health and Environment: a study of
+          intra-urban differences in developing countries, in Acra, capital of Ghana and Sao Paulo,
+          Brazil”, <xref ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref> demonstrated the existence of a social gradient with regards the risk of dying
+          from various selected chronic diseases, external causes, respiratory disease and
+          communicable diseases when comparing different geographical territories in the cities
+          studied. <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B14">
+            <sup>14</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref>
+        </p>
+        <p>More than an ecological epidemiological study of intra-urban differences, it practiced
+          the exercise in negotiation of constructing composite indicators, <xref ref-type="fn"
+            rid="fn9">
+            <sup>b</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="fn" rid="fn10">
+            <sup>c</sup>
+          </xref> which influenced a set of research into violence, quality of life and social
+          exclusion/inclusion. <xref ref-type="bibr" rid="B4">
+            <sup>4</sup>
+          </xref>
+          <sup>-</sup>
+          <xref ref-type="bibr" rid="B6">
+            <sup>6</sup>
+          </xref>
+        </p>
+        <p>One of those pieces of research was the Violence Risk Map of Sao Paulo, SP, Southeastern
+          Brazil. <xref ref-type="bibr" rid="B6">
+            <sup>6</sup>
+          </xref> This initiated maps of violence risk in the cities of Curitiba, PR, Rio de
+          Janeiro, RJ, Southeastern Brazil and Salvador, BA, <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> Northeastern Brazil, forming part of Federal Government efforts to draw up a
+          National Human Rights Plan, created in 1996 by the Ministry of Justice.</p>
+        <p>It was decided to report the results of these colored maps in the form of an easy-to-read
+          bulletin, divulged as a tool for informing policies and raising society’s awareness of the
+          magnitude of urban violence.</p>
+        <p>Following this logic, it was decided to report the results of mapping of violence in the
+          city of Sao Paulo, exclusively, in that city’s press.</p>
+        <p>The material, carrying the headline “Jardim Ângela is the most dangerous place in the
+          world”, <xref ref-type="fn" rid="fn11">
+            <sup>d</sup>
+          </xref> introduced the report with the results of the research based on a small chart
+          which compared mortality rates from homicide in Cali and Medellin, Colombia, with
+          neighborhoods in the city of Sao Paulo, where the rate in Jardim Ângela exceeded the rates
+          of the Colombian cities, at the time considered to be extremely violent.</p>
+        <p>Following this, there was a steep decline in the violence rates in Jardim Ângela which
+          persists to this day. There was a 73.3% drop in the homicide rate, according to the text
+          below:</p>
+        <disp-quote>
+          <p>The district of Jardim Ângela, in the south of Sao Paulo, with a population of 300
+            thousand inhabitants was, in 1996, considered by the UN to be the most violent place on
+            the planet. To give an idea of the gravity of the situation, in 2001, 277 murders were
+            recorded. Since then the rate has dropped year on year and, in 2004 the district
+            recorded 151 murders, a reduction of 45%.</p>
+          <p>But the best was yet to come, this year, at time of writing, 26 violent deaths have
+            been recorded, compared with 65 in the same period last year, and 120 in 2001. This
+            shows that in fewer than four years the homicide rate in Jardim Ângela has fallen by
+            more than 73%. <italic>Instituto Sou da Paz. <xref ref-type="fn" rid="fn12">
+                <sup>e</sup>
+              </xref>
+            </italic>
+          </p>
+        </disp-quote>
+        <p>It is not intended that this narrative establishes a cause-effect relation between the
+          headline in 1996 and the significant decrease in homicide rates in 2005. However, this
+          headline has repercussions up to the present day in newspapers and seems to play a social
+          marketing role, influencing the mobilization and rolling out of actions aimed at this
+          area, which was pushed into the spotlight by the headline, which did nothing more than
+          illuminate a situation that had existed long before the headline.</p>
+        <p>It seems that a newspaper headline, which does not come within the scope of science,
+          indicated that the research may have had a “great impact on humanity”.</p>
+      </sec>
+      <sec>
+        <title>OTHER TYPES OF IMPACT</title>
+        <p>Who has not heard the expression “This had a huge impact on me”? With this expression,
+          the subject is talking of something that affected them, something they experienced.</p>
+        <p>According to Bondía: <xref ref-type="bibr" rid="B9">
+            <sup>9</sup>
+          </xref>
+        </p>
+        <disp-quote>
+          <p>“Experience, the possibility that something might happen to us or touche us, requires a
+            gesture of interruption, a gesture which is almost impossible nowadays because the lack
+            of time: it requires one to stop and think, stop to look, stop to listen… suspend
+            automated actions, cultivate attention and gentleness, open the eyes… cultivate the art
+            of finding, being very quiet, being patient and giving oneself time and space”. <italic>
+              <xref ref-type="bibr" rid="B9">
+                <sup>9</sup>
+              </xref>
+            </italic>
+          </p>
+        </disp-quote>
+        <p>Thus, Bondía <xref ref-type="bibr" rid="B9">
+            <sup>9</sup>
+          </xref> alerts us that a society “constituted under the sign of information” makes
+          experiencing difficult.</p>
+        <p>There is no room here for the conflict between knowledge/information and knowing from
+          experience/feeling, each pair with their purpose, their ethics and aesthetics, but we must
+          advocate for adequate tension between the two pairs.</p>
+        <p>However, Bondía <xref ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref> comments that modern science distrusts experience and creates a safe path
+          translated by the method which reduces experience to experimentation.</p>
+        <p>If the logic of experimentation is agreement, consensus and homogeneity, in knowing from
+          experience, difference, heterogeneity and singularity are important. <xref ref-type="bibr"
+            rid="B9">
+            <sup>9</sup>
+          </xref>
+        </p>
+        <p>If the scientometric base <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref> is the impact factor and other bibliometric indicators producing objective,
+          regular, repeatable, comparable, impersonal, infinite, universal results, it would be very
+          daring of Brazilian researchers to be able to explore the development of
+          “experiencimetrics”, which would produce personal and comparable results and which would
+          also contribute to better understanding of the scientific research mechanism as a social
+          activity.</p>
+      </sec>
+      <sec>
+        <title>RESISTENCE TO A DECLARED ELITISM?</title>
+        <p>In the “preamble” of the “rodízio” traffic law in Sao Paulo – limiting which days cars
+          with particular number plates can be used – it states: “according to research by Prof.
+          Pedro Jacobi, who pointed out the perceived increased pollution in the city by housewives
+          in a neighborhood by the quantity of soot forming on the sheets hanging out on the clothes
+          lines”. <xref ref-type="fn" rid="fn13">
+            <sup>f</sup>
+          </xref>
+        </p>
+        <p>On seeing this described in the law, it is interpreted immediately as being a genuine
+          impact of scientific research.</p>
+        <p>Universities in Europe are in the process of creating ways of evaluating impact that are
+          not limited to citation indexes, which frequently lead to opinions that the academic world
+          is split between those who do “little science” and those who do “real” science when
+          comparing the citation indexes for different researchers.</p>
+        <p>What needs to be done is to find forms of inducing/designing a wider repertoire of
+          indicators for evaluating the career of a university professor, considering other fields
+          of activity, measured with the same value as the capacity for disseminating scientific
+          articles, so that the quantitative criterion of citations is not solely predominant.</p>
+      </sec>
+      <sec sec-type="conclusions">
+        <title>FINAL CONSIDERATIONS</title>
+        <p>First, it is necessary to recognize the provisory character of this work – tentative and
+          precarious, in the words of Deleuse &amp; Guattarri: <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref>
+        </p>
+        <disp-quote>
+          <p>
+            <italic>“</italic> Also, above all in the theoretical domain, any pragmatic rough sketch
+            is better than a copy of concepts with cuts and progresses which never change. The
+            imperceptible rupture instead of a significant cut. <italic>”</italic>
+          </p>
+        </disp-quote>
+        <p>Second, it is necessary to recover the context of academic life so as to “tighten”
+          meritocracy in research as a determining principle in evaluating academic performance and
+          advocate that other areas of academic performance also acquire the same degree of
+          evaluative relevance as research and publishing.</p>
+        <p>The third point that needs to be highlighted is: what is the purpose of science? To help
+          humanity or to self- reproduce among peers? How is it possible to know if it is really
+          helping humanity? At the moment we only have the quantitative methods already validated,
+          derived from scientometrics, but we lack methods which could also qualify the impact of
+          science/research in the sense of its “contribution to humanity”. Moreover, the most
+          enshrined method – the impact factor measured by number of citations – has its limitations
+          and critics such as, for example, that attributed by Pinto &amp; Andrade: <xref
+            ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+        </p>
+        <disp-quote>
+          <p>
+            <italic>“</italic> Science could benefit from the application of these scientometric
+            parameters, but its growth and quality demand work in all directions so that important
+            areas of knowledge do not atrophy for not being in fashion, like those which gather the
+            highest number of scientists and only appear in high impact factor journals... <italic>”
+                <xref ref-type="bibr" rid="B13">
+                <sup>13</sup>
+              </xref>
+            </italic>
+          </p>
+        </disp-quote>
+        <p>In order to achieve the aspiration that research’s main purpose is to “help humanity”,
+          indirect criteria could be established, for example, potential or realized capacity of
+          research to influence public policies: (1) level of participation of social players in the
+          process of drawing up the research; (2) communication strategies between the social
+          players and the researchers involved; (3) clarity in defining objectives; (4) visibility
+          of the research process and dissemination of the results; (5) meeting deadlines; and (6)
+          achieving previously established objectives. <xref ref-type="bibr" rid="B2">
+            <sup>2</sup>
+          </xref>
+        </p>
+        <p>These criteria are only a first approximation for evaluating the elements research that
+          aim to influence policies. Other elements may not have been identified, and other studies
+          exploring these issues are welcome, as would a clearer definition of indicators which
+          allow the association between these elements and influence on public policies to be
+          certified. In this discussion, the emphasis is on the fact that, in the case of there
+          being genuine “scientific willingness” on the part of the researchers in influencing
+          policy through their work, the abovementioned criteria need to be directly and explicitly
+          included in the design of the research as elements that could potentially influence the
+          formulation of public policies. <xref ref-type="bibr" rid="B2">
+            <sup>2</sup>
+          </xref>
+        </p>
+        <p>Thus, these elements indicate the possibility of searching for a mode of analysis to
+          highlight “knowledge from experience” of the research in influencing public policies,
+          blazing trails to constitute evaluative “experiencometrics”.</p>
+        <p>A fourth thread of discussion, connected to the previous one, proposes inserting
+          perceived and documented “narratives” (knowledge from experience) of the impacts of the
+          research, for example, in subjects, population groups, territories or laws such as those
+          exemplified here: (1) in the case of the “Rodízio” law and the influence of research by
+          Prof. Pedro Jacobi and (2) the case of the Violence Risk Map of Sao Paulo City and its
+          connection with “Jardim Ângela”.</p>
+        <disp-quote>
+          <p>
+            <italic>“</italic> Narrative is a linguistic form characterized by: presenting finite
+            and longitudinal time sequence; presupposing the existence of a narrator and an
+            audience, whose visions of the world are embedded in how the stories are told;...
+            engaging the audience and inviting them to interpret. <italic>” <xref ref-type="bibr"
+                rid="B12">
+                <sup>12</sup>
+              </xref>
+            </italic>
+          </p>
+        </disp-quote>
+        <p>Therefore, it would become the role of researchers to position themselves as a collector
+          of experiences, inspired by the willingness to share the perceived and observed impact of
+          their research. Such an exercise may even be encouraged by preconceived scripts during the
+          evaluation processes, and incorporated into CAPES or into the <italic>Currículo
+            Lattes</italic> network, e.g., and they would have some weight in evaluating research,
+          post-graduate programs and requests for subsidies to development agencies.</p>
+        <p>Grossman &amp; Cardoso <xref ref-type="bibr" rid="B12">
+            <sup>12</sup>
+          </xref> give some indications that may serve for proposing this script when they affirm
+          that “narratives are structured on five elements, namely: the facts, the characters, time,
+          space and the narrator”. Moreover, it is possible to suggest creating a script which would
+          come with documental material in order to support and state in detail the facts.</p>
+      </sec>
+    </body>
+    <back>
+      <fn-group>
+        <fn id="fn8">
+          <label> a </label>
+          <p>Packer A. Comunicação pessoal; 2012.</p>
+        </fn>
+        <fn id="fn9">
+          <label> b </label>
+          <p>Akerman M. Diferenciais intra-urbanos de saúde: estudo de caso de macrolocalização de
+            problemas como estratégia de influenciar políticas públicas In: Equidade e saúde:
+            contribuições da epidemiologia. Rio de Janeiro: ABRASCO; 1997. v.1, p. 177-86.</p>
+        </fn>
+        <fn id="fn10">
+          <label>c</label>
+          <p>Akerman M. Metodologia de construção de indicadores compostos: um exercício de
+            negociação intersetorial In: Condições de vida e saúde. Rio de Janeiro: ABRASCO; 1997.
+            v.1, p. 95-113. <br/>
+          </p>
+        </fn>
+        <fn id="fn11">
+          <label>d</label>
+          <p>Folha de São Paulo. Jardim Ângela é o lugar mais perigoso do mundo, 1996, caderno
+            cotidiano, página 3.</p>
+        </fn>
+        <fn id="fn12">
+          <label>e</label>
+          <p>Instituto Sou da Paz. Homicídios caem 73.3% no Jardim Ângela. São Paulo; 2005 [cited
+            2012 Jan 28]. Available from:
+            http://www.soudapaz.org/Home/tabid/630/EntryID/740/language/pt-BR/Default.aspx</p>
+        </fn>
+        <fn id="fn13">
+          <label>f</label>
+          <p>Centro de Estudos de Cultura Contemporânea. Coordenadoria de Educação Ambiental.
+            Respira São Paulo: resultado da pesquisa sobre a Operação Rodízio. São Paulo; 1997.</p>
+        </fn>
+        <fn id="fn14">
+          <p>Article based on the Doctoral thesis of Akerman M., entitled: “Impacto. Que impactos?
+            Uma tentativa de diálogo com meu leitor”, submitted to the <italic>Faculdade de Saúde
+              Pública, Universidade de São Paulo</italic> , 2012.</p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+</article>

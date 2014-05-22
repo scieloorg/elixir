@@ -1,0 +1,2584 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="research-article" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047004374</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047004374</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artigos Originais</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="pt">Adaptação e validação do WHODAS 2.0 em utentes com dor
+          musculoesquelética</article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>Adaptación y validación del WHODAS 2.0 en usuarios con dolor
+            musculoesquelético</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Silva</surname>
+            <given-names>Carla</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Coleta</surname>
+            <given-names>Inês</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Silva</surname>
+            <given-names>Anabela G</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Amaro</surname>
+            <given-names>António</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Alvarelhão</surname>
+            <given-names>Joaquim</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Queirós</surname>
+            <given-names>Alexandra</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rocha</surname>
+            <given-names>Nelson</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>I</label>
+        <institution content-type="orgdiv1">Escola Superior de Saúde</institution>
+        <institution content-type="orgname">Universidade de Aveiro</institution>
+        <addr-line>
+          <named-content content-type="city">Aveiro</named-content>
+        </addr-line>
+        <country>Portugal</country> Escola Superior de Saúde. Universidade de Aveiro. Aveiro,
+        Portugal</aff>
+      <aff id="aff2">
+        <label>II</label>
+        <institution content-type="orgdiv1">Secção Autónoma de Ciências da Saúde</institution>
+        <institution content-type="orgname">Universidade de Aveiro</institution>
+        <addr-line>
+          <named-content content-type="city">Aveiro</named-content>
+        </addr-line>
+        <country>Portugal</country> Secção Autónoma de Ciências da Saúde. Universidade de Aveiro.
+        Aveiro, Portugal</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondência | Correspondence</bold> : Anabela G. Silva. Escola Superior de
+          Saúde,. Universidade de Aveiro - Edifício 30. Agras do Crasto. Campus Universitário de
+          Santiago. 3810-193 Aveiro, Portugall. E-mail: <email>asilva@ua.pt</email>
+        </corresp>
+        <fn fn-type="conflict">
+          <p>Os autores declaram não haver conflito de interesses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>04</issue>
+      <fpage>752</fpage>
+      <lpage>758</lpage>
+      <history>
+        <date date-type="received">
+          <day>21</day>
+          <month>5</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>2</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="pt">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Validar a versão em português do <italic>World Health Organization Disability
+              Assessment Schedule</italic> (WHODAS 2.0).</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>A versão original de 36 itens do WHODAS 2.0, administrada por entrevista, foi traduzida
+            para o português de acordo com orientações internacionais e testada em nove
+            participantes da população em geral. A versão em português foi administrada em 204
+            pacientes com patologia musculoesquelética. Foram coletados os dados sociodemográficos e
+            de saúde dos pacientes, assim como o número de locais onde apresentavam dor e sua
+            intensidade. O WHODAS 2.0 foi novamente administrado por um segundo entrevistador, um a
+            três dias após a primeira entrevista, para avaliar a confiabilidade interavaliadores. A
+            validade de constructo foi avaliada quanto a: capacidade do WHODAS 2.0 para diferenciar
+            participantes com diferentes locais com dor e associação entre o WHODAS 2.0 e a
+            intensidade da dor. A consistência interna também foi avaliada.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>A versão portuguesa do WHODAS 2.0 teve fácil compreensão, apresentou boa consistência
+            interna (α = 0,84) e confiabilidade interavaliadores (CCI = 0,95). Mostrou ser capaz de
+            detectar diferenças estatisticamente significativas entre indivíduos com diferente
+            número de locais com dor (p &lt; 0,01) e indicar que maior incapacidade está associada à
+            maior intensidade da dor (r = 0,44, p &lt; 0,01), indicando validade de constructo.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSÕES</title>
+          <p>A versão portuguesa do WHODAS 2.0 mostrou-se confiável e válida quando utilizada em
+            pacientes com dor associada à patologia musculoesquelética.</p>
+        </sec>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Validar la versión en portugués del World Health Organisation Disability Assessment
+            Schedule (WHODAS 2.0).</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>La versión original con 36 ítems del WHODAS 2.0, administrada por entrevista, fue
+            traducida al portugués de acuerdo con orientaciones internacionales, y evaluada en nueve
+            participantes de la población en general. La versión en portugués fue aplicada en 204
+            pacientes con patología musculoesquelética. Se colectaron los datos sociodemográficos y
+            de salud de los pacientes, así como el número de lugares donde presentaban dolor y su
+            intensidad. El WHODAS 2.0 fue nuevamente aplicado por un segundo entrevistador, uno a
+            tres días posteriores a la primera entrevista para evaluar la confiabilidad
+            inter-evaluadores. La validez del constructo fue evaluado con relación a: capacidad del
+            WHODAS 2.0 para diferenciar participantes con diferentes lugares con dolor y asociación
+            entre el WHODAS 2.0 y la intensidad del dolor. La consistencia interna también fue
+            evaluada.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>La versión en portugués del WHODAS 2.0 fue de fácil comprensión, presentó buena
+            consistencia interna (α= 0,84) y confiabilidad inter evaluadores (CCI=0,95). Mostró ser
+            capaz de detectar diferencias estadísticamente significativas entre individuos con
+            diferente número de lugares con dolor (p˂0,01) e indicar que mayor incapacidad está
+            asociada con la mayor intensidad del dolor (r=0,44, p˂0,01), indicando validez del
+            constructo.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONES</title>
+          <p>la versión en portugués del WHODAS 2.0 se mostró confiable y valida al ser utilizada en
+            pacientes con dolor asociado a la patología musculo esquelética.</p>
+        </sec>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <kwd>Medição da Dor</kwd>
+        <kwd>Dor Musculoesquelética, classificação</kwd>
+        <kwd>Questionários, utilização</kwd>
+        <kwd>Traduções</kwd>
+        <kwd>Reprodutibilidade dos Testes</kwd>
+        <kwd>Estudos de Validação</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>Medición del Dolor</kwd>
+        <kwd>Dolor Musculoesquelético, clasificación</kwd>
+        <kwd>Cuestionarios, utilización</kwd>
+        <kwd>Traducciones</kwd>
+        <kwd>Reproducibilidad de Resultados</kwd>
+        <kwd>Estudios de Validación</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="8"/>
+        <ref-count count="15"/>
+        <page-count count="7"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUÇÃO</title>
+      <p>A avaliação de incapacidade permite um retrato detalhado das implicações que uma condição
+        de saúde tem no dia a dia de um indivíduo. Isso é particularmente relevante porque perfis de
+        incapacidade distintos podem estar associados a patologias e diagnósticos semelhantes. <xref
+          ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref> Dessa forma, é necessária uma avaliação que verifique de que forma as condições de
+        saúde afetam as atividades do indivíduo no dia a dia.</p>
+      <p>A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) <xref
+          ref-type="fn" rid="fn1">
+          <sup>a</sup>
+        </xref> define incapacidade como a dificuldade na função do corpo, da pessoa ou da
+        sociedade, num ou mais domínios de vida, tal como vivenciado pelo indivíduo com determinada
+        condição de saúde em interação com os fatores contextuais. Incapacidade pode ser avaliada
+        com vários instrumentos, específicos ou não para determinada condição de saúde, como a
+        Medida de Independência Funcional ou o Índice de Barthel, entre outros. A Organização
+        Mundial da Saúde (OMS) desenvolveu o <italic>World Health Organization Disability Assessment
+          Schedule</italic> (WHODAS 2.0), que avalia incapacidade percebida associada à condição de
+        saúde nos 30 dias que antecedem sua aplicação. Esse instrumento está dividido em seis
+        domínios: i) cognição; ii) mobilidade; iii) autocuidado; iv) relações interpessoais; v)
+        atividade da vida diária; e vi) participação. Permite a caracterização da percepção que o
+        indivíduo tem de sua própria incapacidade. <xref ref-type="bibr" rid="B14">
+          <sup>14</sup>
+        </xref> O WHODAS 2.0 é um instrumento genérico que não se destina a populações ou condições
+        de saúde específicas. Já foi traduzido e validado para ser utilizado em diferentes línguas e
+        culturas e em diferentes condições de saúde, apresentando robustez psicométrica na versão
+        original e nas adaptações. <xref ref-type="bibr" rid="B8">
+          <sup>8</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref> Foram desenvolvidas três versões do WHODAS 2.0, que diferem no tamanho e no modo de
+        administração: versão com 36 itens, com 12 itens e com 12+24 itens. As duas primeiras podem
+        ser autoadministradas, administradas em forma de entrevista ou administradas a um
+        respondente substituto. A versão de 12+24 itens possui uma versão para ser administrada em
+        forma de entrevista ou por computador. <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref>
+      </p>
+      <p>O objetivo deste estudo foi validar a versão em português do WHODAS 2.0.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>MÉTODOS</title>
+      <p>O processo de tradução da versão original do WHODAS 2.0 foi realizado de acordo com as
+        orientações estabelecidas internacionalmente <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> e envolveu os seguintes passos:</p>
+      <list list-type="bullet">
+        <list-item>
+          <p>Passo 1 (tradução): A versão original do WHODAS 2.0 em inglês foi traduzida para o
+            português europeu por dois tradutores independentes da área da saúde, cuja língua
+            materna é o português.</p>
+        </list-item>
+        <list-item>
+          <p>Passo 2 (versão de reconciliação): Três investigadores compararam as duas traduções
+            mencionadas e construíram uma versão de conciliação entre elas e a versão original do
+            WHODAS 2.0.</p>
+        </list-item>
+        <list-item>
+          <p>Passo 3 (retroversão): A versão de conciliação foi traduzida do português para o inglês
+            por um tradutor cuja língua materna é o inglês, sem formação na área da saúde e sem
+            conhecimento da versão original do WHODAS 2.0.</p>
+        </list-item>
+        <list-item>
+          <p>Passo 4 (versão pré-final): Uma comissão de três investigadores desenvolveu a versão
+            pré-final do WHODAS 2.0 com base na retrotradução e no instrumento original.</p>
+        </list-item>
+        <list-item>
+          <p>Passo 5 (teste piloto): A versão pré-final do instrumento foi submetida a um teste
+            piloto com nove indivíduos da população em geral para avaliar a facilidade/dificuldade
+            de compreensão das perguntas do instrumento, de acordo com a metodologia proposta por
+            Foddy. <xref ref-type="fn" rid="fn2">
+              <sup>b</sup>
+            </xref> A informação coletada foi utilizada para aperfeiçoar o instrumento e construir a
+            versão final. A versão em português foi considerada de fácil compreensão.</p>
+        </list-item>
+        <list-item>
+          <p>Passo 6: A retrotradução e a descrição da metodologia utilizada no processo de tradução
+            foram enviadas para apreciação dos autores da versão original do WHODAS 2.0.</p>
+        </list-item>
+      </list>
+      <p>A validação da versão em português foi realizada pela avaliação de sua confiabilidade
+        (consistência interna e confiabilidade interavaliadores) e validade de constructo.</p>
+      <p>Os participantes, admitidos consecutivamente em duas Clínicas de Reabilitação da Região de
+        Aveiro, entre janeiro e abril de 2011, devido a problemas associados a patologia
+        musculoesquelética, foram convidados para participar do estudo para validação do WHODAS 2.0.
+        Os critérios de inclusão foram: idade ≥ 50 anos e dor associada a patologia
+        musculoesquelética. Foram excluídos aqueles que apresentaram patologia neurológica do
+        sistema nervoso central (como acidente vascular cerebral e traumatismo cranioencefálico)
+        e/ou amputações, além de patologia musculoesquelética. Aceitaram participar 204
+        participantes, com uma média de idade de 65,9 anos (DP = 9,1); as idades variaram entre 50 e
+        90 anos. Dos 204 participantes, 44,6% tinham entre 50 e 64 anos e 55,4% tinham 65 anos ou
+        mais. Os indivíduos do sexo feminino representaram 71,6% da amostra (146 participantes) (
+          <xref ref-type="table" rid="t01">Tabela 1</xref> ). As patologias mais referidas foram
+        artrose (67,2%), hipertensão arterial (52,9%) e espondilartrose (46,6%). Grande parte dos
+        indivíduos apresentava excesso de peso (47,5%) ou obesidade (33,3%). Presença de dor
+        generalizada foi relatada por grande parte da amostra (29,9%) ( <xref ref-type="table"
+          rid="t01">Tabela 1</xref> ). Os domínios do WHODAS 2.0 em que os participantes referiram
+        maior incapacidade foram atividades da vida diária, mobilidade e participação ( <xref
+          ref-type="table" rid="t02">Tabela 2</xref> ).</p>
+      <p>
+        <table-wrap id="t01">
+          <label>Tabela 1</label>
+          <caption>
+            <title>Caracterização da amostra estudada para validação do WHODAS 2.0, 2011.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="25%">
+              <col width="50%"/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td align="center">Características</td>
+                <td align="center">n</td>
+                <td align="center">%</td>
+              </tr>
+              <tr>
+                <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Grupo etário</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 50 a 64 anos</td>
+                <td align="center">91</td>
+                <td align="center">44,6</td>
+              </tr>
+              <tr>
+                <td> ≥ 65 anos</td>
+                <td align="center">113</td>
+                <td align="center">55,4</td>
+              </tr>
+              <tr>
+                <td>Sexo</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Feminino</td>
+                <td align="center">146</td>
+                <td align="center">71,6</td>
+              </tr>
+              <tr>
+                <td> Masculino</td>
+                <td align="center">58</td>
+                <td align="center">28,4</td>
+              </tr>
+              <tr>
+                <td>Estado civil</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Solteiro</td>
+                <td align="center">7</td>
+                <td align="center">3,4</td>
+              </tr>
+              <tr>
+                <td> Casado</td>
+                <td align="center">146</td>
+                <td align="center">71,6</td>
+              </tr>
+              <tr>
+                <td> Separado</td>
+                <td align="center">2</td>
+                <td align="center">1,0</td>
+              </tr>
+              <tr>
+                <td> Divorciado</td>
+                <td align="center">13</td>
+                <td align="center">6,4</td>
+              </tr>
+              <tr>
+                <td> Viúvo</td>
+                <td align="center">36</td>
+                <td align="center">17,6</td>
+              </tr>
+              <tr>
+                <td>Educação</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Não sabe ler nem escrever</td>
+                <td align="center">3</td>
+                <td align="center">1,5</td>
+              </tr>
+              <tr>
+                <td> Sabe ler e escrever</td>
+                <td align="center">52</td>
+                <td align="center">25,5</td>
+              </tr>
+              <tr>
+                <td> 4º ano</td>
+                <td align="center">103</td>
+                <td align="center">50,5</td>
+              </tr>
+              <tr>
+                <td> 6º ano</td>
+                <td align="center">17</td>
+                <td align="center">8,3</td>
+              </tr>
+              <tr>
+                <td> 9º ano</td>
+                <td align="center">18</td>
+                <td align="center">8,8</td>
+              </tr>
+              <tr>
+                <td> 12º ano</td>
+                <td align="center">5</td>
+                <td align="center">2,5</td>
+              </tr>
+              <tr>
+                <td> Bacharelado ou Licenciatura</td>
+                <td align="center">6</td>
+                <td align="center">2,9</td>
+              </tr>
+              <tr>
+                <td>Ocupação</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Emprego assalariado</td>
+                <td align="center">29</td>
+                <td align="center">14,2</td>
+              </tr>
+              <tr>
+                <td> Trabalho por conta própria</td>
+                <td align="center">11</td>
+                <td align="center">5,4</td>
+              </tr>
+              <tr>
+                <td> Doméstica</td>
+                <td align="center">21</td>
+                <td align="center">10,3</td>
+              </tr>
+              <tr>
+                <td> Aposentado</td>
+                <td align="center">130</td>
+                <td align="center">63,7</td>
+              </tr>
+              <tr>
+                <td> Desempregado (devido a doença)</td>
+                <td align="center">1</td>
+                <td align="center">0,5</td>
+              </tr>
+              <tr>
+                <td> Desempregado (outra razão)</td>
+                <td align="center">11</td>
+                <td align="center">5,4</td>
+              </tr>
+              <tr>
+                <td> Outro</td>
+                <td align="center">1</td>
+                <td align="center">0,5</td>
+              </tr>
+              <tr>
+                <td>Patologias <sup>a</sup>
+                </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Hipertensão arterial</td>
+                <td align="center">108</td>
+                <td align="center">52,9</td>
+              </tr>
+              <tr>
+                <td> Diabetes</td>
+                <td align="center">41</td>
+                <td align="center">20,1</td>
+              </tr>
+              <tr>
+                <td> Artrose</td>
+                <td align="center">137</td>
+                <td align="center">67,2</td>
+              </tr>
+              <tr>
+                <td> Espondilartrose</td>
+                <td align="center">95</td>
+                <td align="center">46,6</td>
+              </tr>
+              <tr>
+                <td> Patologia cardiovascular</td>
+                <td align="center">34</td>
+                <td align="center">16,7</td>
+              </tr>
+              <tr>
+                <td> Patologia respiratória</td>
+                <td align="center">17</td>
+                <td align="center">8,3</td>
+              </tr>
+              <tr>
+                <td> Câncer</td>
+                <td align="center">2</td>
+                <td align="center">1,0</td>
+              </tr>
+              <tr>
+                <td> Depressão</td>
+                <td align="center">3</td>
+                <td align="center">1,5</td>
+              </tr>
+              <tr>
+                <td> Outra</td>
+                <td align="center">94</td>
+                <td align="center">46,1</td>
+              </tr>
+              <tr>
+                <td>IMC <sup>b</sup>
+                </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Baixo peso</td>
+                <td align="center">1</td>
+                <td align="center">0,5</td>
+              </tr>
+              <tr>
+                <td> Peso saudável</td>
+                <td align="center">38</td>
+                <td align="center">18,6</td>
+              </tr>
+              <tr>
+                <td> Excesso de peso</td>
+                <td align="center">97</td>
+                <td align="center">47,5</td>
+              </tr>
+              <tr>
+                <td> Obesidade</td>
+                <td align="center">68</td>
+                <td align="center">33,3</td>
+              </tr>
+              <tr>
+                <td>Número de locais com dor</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> 1 local</td>
+                <td align="center">37</td>
+                <td align="center">18,1</td>
+              </tr>
+              <tr>
+                <td> 2 a 3 locais</td>
+                <td align="center">54</td>
+                <td align="center">26,5</td>
+              </tr>
+              <tr>
+                <td> 4 ou mais locais</td>
+                <td align="center">52</td>
+                <td align="center">25,5</td>
+              </tr>
+              <tr>
+                <td> Dor generalizada</td>
+                <td align="center">61</td>
+                <td align="center">29,9</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>WHODAS 2.0: <italic>World Health Organization Disability Assessment Schedule</italic>
+              2.0; IMC: Índice de Massa Corporal</p>
+            <p>
+              <sup>a</sup> O somatório das porcentagens é superior a 100%, uma vez que os
+              participantes poderiam indicar mais do que uma patologia.</p>
+            <p>
+              <sup>b</sup> IMC &lt; 18,4 = baixo peso; 18,5 ≥ IMC ≤ 24,9 = peso saudável; 25 ≥ IMC ≤
+              29,9 = excesso de peso; IMC ≥ 30 = obesidade.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>
+        <table-wrap id="t02">
+          <label>Tabela 2</label>
+          <caption>
+            <title>Pontuação média e desvio padrão da amostra para cada um dos domínios do WHODAS
+              2.0 e escore médio total, 2011.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="23%">
+              <col width="30%"/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>Domínio (D)</td>
+                <td align="center">n</td>
+                <td align="center">Pontuação (média)</td>
+                <td align="center">Desvio padrão</td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>D1 – Cognição</td>
+                <td align="center">204</td>
+                <td align="center">11,7</td>
+                <td align="center">17,4</td>
+              </tr>
+              <tr>
+                <td>D2 – Mobilidade</td>
+                <td align="center">204</td>
+                <td align="center">41,6</td>
+                <td align="center">28,6</td>
+              </tr>
+              <tr>
+                <td>D3 – Autocuidado</td>
+                <td align="center">204</td>
+                <td align="center">17,5</td>
+                <td align="center">17,9</td>
+              </tr>
+              <tr>
+                <td>D4 – Relações interpessoais</td>
+                <td align="center">204</td>
+                <td align="center">6,6</td>
+                <td align="center">14,2</td>
+              </tr>
+              <tr>
+                <td>D5.1 – Atividades diárias (domésticas)</td>
+                <td align="center">179 <sup>a</sup>
+                </td>
+                <td align="center">52,0</td>
+                <td align="center">31,5</td>
+              </tr>
+              <tr>
+                <td>D5.2 – Atividades diárias (trabalho)</td>
+                <td align="center">75 <sup>a</sup>
+                </td>
+                <td align="center">42,0</td>
+                <td align="center">30,3</td>
+              </tr>
+              <tr>
+                <td>D6 – Participação</td>
+                <td align="center">204</td>
+                <td align="center">37,4</td>
+                <td align="center">16,2</td>
+              </tr>
+              <tr>
+                <td>Total <sup>b</sup>
+                </td>
+                <td align="center">204</td>
+                <td align="center">28,1</td>
+                <td align="center">19,9</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>WHODAS 2.0: <italic>World Health Organization Disability Assessment Schedule</italic>
+              2.0</p>
+            <p>
+              <sup>a</sup> Alguns participantes referiram não realizar atividades domésticas e/ou
+              trabalho.</p>
+            <p>
+              <sup>b</sup> A pontuação total foi calculada sem os valores do domínio 5,2, uma vez
+              que 63% dos participantes referiu não estar trabalhando.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>Os participantes foram entrevistados nas clínicas de reabilitação onde tinham sido
+        admitidos em dois momentos distintos. No primeiro momento, coletamos informação relativa aos
+        dados demográficos e de saúde, número de locais com dor, intensidade da dor e administramos
+        a versão de 36 itens do WHODAS 2.0 por meio de entrevista. Apenas o WHODAS 2.0 foi
+        administrado no segundo momento.</p>
+      <p>Foram coletadas informações demográficas (idade, sexo, estado civil, número de anos de
+        educação formal, ocupação, peso e altura). Os valores de peso e altura foram autorreferidos,
+        método válido para caracterizar a prevalência de excesso de peso e obesidade. <xref
+          ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref> Os participantes foram questionados sobre a presença de diagnóstico de alguma das
+        seguintes patologias: hipertensão arterial; diabetes; artrose; patologia cardiovascular;
+        patologia respiratória; câncer; depressão ou outro problema de saúde.</p>
+      <p>Foi solicitado aos participantes que indicassem num <italic>body chart,</italic>
+        representando todo o corpo, onde tinham sentido dor na semana anterior. O número de locais
+        com dor foi contabilizado e categorizado de acordo com Picavet et al <xref ref-type="bibr"
+          rid="B11">
+          <sup>11</sup>
+        </xref> em: dor em um local; dor em dois a três locais; dor em quatro ou mais locais; dor
+        generalizada (dor acima e abaixo da cintura, dor nos lados esquerdo e direito do corpo e dor
+        axial).</p>
+      <p>A intensidade da dor foi avaliada por meio de uma escala visual numérica de 10 cm
+        apresentada na vertical classificada de zero (“sem dor”) a dez (“pior dor imaginável”). Aos
+        participantes que apresentavam dor em mais do que um local, foi pedido que avaliassem a
+        intensidade média da dor para os vários locais na última semana (intensidade global). A
+        avaliação da dor foi realizada de acordo com as diretrizes internacionais para avaliação da
+        dor em idosos. <xref ref-type="fn" rid="fn3">
+          <sup>c</sup>
+        </xref>
+      </p>
+      <p>A versão de 36 itens do WHODAS 2.0 traduzida e adaptada para português europeu, seguindo a
+        metodologia anteriormente descrita, foi administrada em entrevista em dois momentos por duas
+        entrevistadoras diferentes, com intervalo mínimo de um e máximo de três dias. A repetição do
+        WHODAS 2.0 visou à avaliação da confiabilidade interavaliadores. A delimitação do intervalo
+        entre as duas aplicações pretendeu minimizar a probabilidade de modificações no perfil de
+        incapacidade entre as avaliações, o que comprometeria a avaliação da confiabilidade.</p>
+      <p>A análise de dados foi realizada por meio do <italic>Statistical Package for the Social
+          Sciences</italic> (SPSS). A caracterização da amostra foi realizada por estatística
+        descritiva (média, desvio padrão e frequências). A pontuação do WHODAS 2.0 foi calculada por
+        domínio pela soma da pontuação em cada um dos itens desse domínio e o escore total foi
+        transformado num valor entre 0 e 100, conforme indicado no manual do WHODAS 2.0. Quanto
+        maior a pontuação, maior a incapacidade. A pontuação total foi calculada considerando os 36
+        itens ou considerando todos os itens menos os referentes ao domínio 5.2 “atividades diárias”
+        – trabalho/escola (total = 32 itens), no caso de os participantes não trabalharem ou não
+        estudarem. <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+      </p>
+      <p>A consistência interna foi avaliada pelo alfa de Cronbach (α), que varia entre 0 e 1,
+        considerada: “inadmissível” (α &lt; 0,6); “fraca” (0,6 ≤ α &lt; 0,7); “razoável” (0,7 ≤ α
+        &lt; 0,8); “boa” (0,8 ≤ α &lt; 0,9); e “muito boa” (α ≥ 0,9). <xref ref-type="bibr"
+          rid="B10">
+          <sup>10</sup>
+        </xref> A confiabilidade interavaliadores foi avaliada pelo coeficiente de correlação
+        intraclasse (CCI), que varia entre 0 e 1, considerada: “fraca” (CCI &lt; 0,4);
+        “satisfatória” (0,4 ≤ CCI &lt; 0,75); e “muito boa” (CCI ≥ 0,75). <xref ref-type="bibr"
+          rid="B12">
+          <sup>12</sup>
+        </xref> Diferenças no escore do WHODAS 2.0 entre os grupos com diferentes números de locais
+        com dor foram avaliadas utilizando a ANOVA e o teste de Bonferroni. A correlação entre o
+        WHODAS 2.0 e a intensidade da dor foi avaliada pelo coeficiente de correlação de Pearson. O
+        nível de significância estabelecido foi p &lt; 0,05.</p>
+      <p>Este estudo foi aprovado pelo Serviço de Bioética e Ética Médica da Faculdade de Medicina
+        da Universidade do Porto, Portugal, 2011. Os participantes assinaram o Termo de
+        Consentimento Livre e Esclarecido.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTADOS</title>
+      <p>O valor global do alfa de Cronbach para a versão de 36 itens do WHODAS 2.0 foi 0,84,
+        indicando boa consistência interna. Sessenta e cinco participantes foram considerados nesta
+        análise devido a respostas não aplicáveis no domínio 5 “atividades diárias”, apresentadas
+        pelo restante dos participantes. O valor do alfa de Cronbach total diminuiria com a remoção
+        da maior parte dos itens, indicando a importância de todos os itens na avaliação da
+        incapacidade. A <xref ref-type="table" rid="t03">Tabela 3</xref> apresenta os resultados do
+        teste do alfa de Cronbach para todos os domínios do WHODAS 2.0 e o valor obtido caso cada um
+        dos domínios fossem retirados.</p>
+      <p>
+        <table-wrap id="t03">
+          <label>Tabela 3</label>
+          <caption>
+            <title>Resultados para o alfa de Cronbach por domínio WHODAS 2.0 e para o escore total,
+              2011.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="25%">
+              <col width="50%"/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>Domínios (D)</td>
+                <td align="center">n</td>
+                <td align="center">Alfa de Cronbach</td>
+              </tr>
+              <tr>
+                <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>D1 – Compreensão</td>
+                <td align="center">65</td>
+                <td align="center">0,83</td>
+              </tr>
+              <tr>
+                <td>D2 – Mobilidade</td>
+                <td align="center">65</td>
+                <td align="center">0,79</td>
+              </tr>
+              <tr>
+                <td>D3 – Autocuidado</td>
+                <td align="center">65</td>
+                <td align="center">0,84</td>
+              </tr>
+              <tr>
+                <td>D4 – Relações</td>
+                <td align="center">65</td>
+                <td align="center">0,85</td>
+              </tr>
+              <tr>
+                <td>D5.1 – Atividades domésticas</td>
+                <td align="center">65</td>
+                <td align="center">0,79</td>
+              </tr>
+              <tr>
+                <td>D5.2 – Trabalho ou escola</td>
+                <td align="center">65</td>
+                <td align="center">0,76</td>
+              </tr>
+              <tr>
+                <td>D6 – Participação</td>
+                <td align="center">65</td>
+                <td align="center">0,80</td>
+              </tr>
+              <tr>
+                <td>Total</td>
+                <td align="center">65</td>
+                <td align="center">0,84</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>WHODAS 2.0: <italic>World Health Organization Disability Assessment Schedule</italic>
+              2.0</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>O CCI foi &gt; 0,80 para todos os domínios do WHODAS 2.0, indicando boa confiabilidade
+        interavaliadores. O CCI foi 0,95, considerando a pontuação total do WHODAS 2.0, também
+        indicando boa confiabilidade interavaliadores (Tabela 4).</p>
+      <table-wrap id="t04">
+        <label>Tabela 4</label>
+        <caption>
+          <title>Resultados da confiabilidade interavaliadores e correlação entre o WHODAS 2.0 e a
+            intensidade da dor por domínio e para o escore total, 2011.</title>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <colgroup width="17%">
+            <col width="30%"/>
+            <col/>
+            <col/>
+            <col/>
+            <col/>
+          </colgroup>
+          <tbody>
+            <tr>
+              <td rowspan="3">Domínio</td>
+              <td rowspan="3" align="center">n</td>
+              <td colspan="2" align="center">Confiabilidade interavaliadores</td>
+              <td rowspan="3" align="center">WHODAS – Intensidade da dor</td>
+            </tr>
+            <tr>
+              <td colspan="2" style="border-bottom: thin solid; border-color: #000000"/>
+            </tr>
+            <tr>
+              <td align="center">CCI</td>
+              <td align="center">IC95%</td>
+            </tr>
+            <tr>
+              <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+            </tr>
+            <tr>
+              <td>1. Compreensão</td>
+              <td align="center">204</td>
+              <td align="center">0,88</td>
+              <td align="center">0,84;0,91</td>
+              <td align="center">0,29 <sup>b</sup>
+              </td>
+            </tr>
+            <tr>
+              <td>2. Mobilidade</td>
+              <td align="center">204</td>
+              <td align="center">0,93</td>
+              <td align="center">0,91;0,95</td>
+              <td align="center">0,46 <sup>b</sup>
+              </td>
+            </tr>
+            <tr>
+              <td>3. Autocuidado</td>
+              <td align="center">204</td>
+              <td align="center">0,90</td>
+              <td align="center">0,87;0,92</td>
+              <td align="center">0,37 <sup>b</sup>
+              </td>
+            </tr>
+            <tr>
+              <td>4. Relações</td>
+              <td align="center">204</td>
+              <td align="center">0,80</td>
+              <td align="center">0,73;0,85</td>
+              <td align="center">0,19 <sup>b</sup>
+              </td>
+            </tr>
+            <tr>
+              <td>5.1. Atividades domésticas</td>
+              <td align="center">179 <sup>a</sup>
+              </td>
+              <td align="center">0,89</td>
+              <td align="center">0,85;0,92</td>
+              <td align="center">0,45 <sup>b</sup>
+              </td>
+            </tr>
+            <tr>
+              <td>5.2. Trabalho ou escola</td>
+              <td align="center">75 <sup>a</sup>
+              </td>
+              <td align="center">0,94</td>
+              <td align="center">0,91;0,96</td>
+              <td align="center">0,59 <sup>b</sup>
+              </td>
+            </tr>
+            <tr>
+              <td>6. Participação</td>
+              <td align="center">204</td>
+              <td align="center">0,90</td>
+              <td align="center">0,87;0,93</td>
+              <td align="center">0,47 <sup>b</sup>
+              </td>
+            </tr>
+            <tr>
+              <td>Total</td>
+              <td align="center">204</td>
+              <td align="center">0,95</td>
+              <td align="center">0,94;0,96</td>
+              <td align="center">0,44 <sup>b</sup>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table-wrap-foot>
+          <p>WHODAS 2.0: <italic>World Health Organization Disability Assessment Schedule
+              2.0</italic>
+          </p>
+          <p>
+            <sup>a</sup> Alguns participantes referiram não realizar atividades domésticas e/ou
+            trabalho.</p>
+          <p>
+            <sup>b</sup> p &lt; 0,01</p>
+        </table-wrap-foot>
+      </table-wrap>
+      <p>A validade de constructo foi avaliada pela comparação do nível de incapacidade nos
+        participantes com diferente número de locais com dor e pela avaliação da associação entre a
+        incapacidade e a intensidade da dor, uma vez que a literatura indica que a incapacidade
+        cresce com o aumento do número de locais com dor e da intensidade da dor. <xref
+          ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B9">
+          <sup>9</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B14">
+          <sup>14</sup>
+        </xref> Foram encontradas diferenças estatisticamente significativas na pontuação total do
+        WHODAS 2.0 entre os participantes com dor generalizada (média = 35,7; DP = 13,3) e aqueles
+        com dor em apenas um local (média = 24,1; DP = 28,4, p = 0,009) e em dois ou três locais
+        (média = 29,0; DP = 14,1; p = 0,003), indicando maior incapacidade em participantes com dor
+        generalizada.</p>
+      <p>A intensidade média da dor na última semana foi 5,9 (DP = 2,0), tendo-se verificado uma
+        correlação estatisticamente significativa entre a intensidade da dor e o WHODAS 2.0 (escore
+        total e domínios) indicando maior incapacidade nos participantes com dor mais intensa
+        (Tabela 4).</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSÃO</title>
+      <p>A versão portuguesa de 36 itens do WHODAS 2.0, administrada por entrevista, foi considerada
+        equivalente à versão original e de fácil compreensão. Os resultados da avaliação das
+        propriedades psicométricas indicam boa consistência interna do instrumento (α = 0,84).
+        Contudo, nos estudos de Baron et al, <xref ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref> Garin et al <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref> e Ustun et al, <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref> o valor de alfa foi superior a 0,95. Essa diferença pode ser explicada pelo reduzido
+        número de participantes considerado nesta análise (n = 65), devido à não aplicabilidade de
+        respostas no domínio 5 “atividades diárias: domésticas e trabalho ou escola” para o restante
+        dos participantes. Elevado número de participantes referiu não estar trabalhando ou
+        frequentando escola e elevado número de participantes do sexo masculino referiu não realizar
+        atividades domésticas. O CCI para a confiabilidade interavaliadores foi de 0,95, o que
+        indica boa confiabilidade interavaliadores. Esse valor é mais elevado do que o obtido por
+        Schlote et al, <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref> que referiu CCI de 0,67. Contudo, os resultados de Schlote et al <xref
+          ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref> podem ser explicados pelo longo período de tempo entre as duas aplicações do WHODAS
+        2.0, que foi de seis meses. O WHODAS 2.0 mostrou ser capaz de encontrar relações lógicas
+        apoiadas pela literatura. Neste estudo, indivíduos com dor generalizada mostraram menor
+        funcionalidade do que aqueles com dor em apenas um local e com dor em dois ou três locais.
+        Dor mais intensa também parece estar associada a menor funcionalidade. Ambos os achados
+        estão de acordo com os resultados de estudos anteriores <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B9">
+          <sup>9</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B14">
+          <sup>14</sup>
+        </xref> e sugerem que o instrumento apresenta validade de constructo. Os resultados indicam
+        que a versão em português de 36 itens do WHODAS 2.0, administrada por entrevista, é válida e
+        confiável. Esses resultados concordam com os apresentados por diversos estudos realizados
+        com a versão original em pacientes com artrite inflamatória, osteoartrose do joelho, doença
+        crónica, osteoartrose e acidente vascular cerebra l. <xref ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B8">
+          <sup>8</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref>
+      </p>
+      <p>A não utilização de uma medida de incapacidade já validada para a língua portuguesa, que
+        permitisse comparar os resultados desta com os obtidos pela aplicação do WHODAS 2.0, é uma
+        das limitações deste estudo. Um dos instrumentos utilizados no processo de validação do
+        WHODAS 2.0 em outros países é o questionário de estado de saúde (SF 36). Embora o SF 36 e o
+        WHODAS 2.0 avaliem diferentes aspectos de conceitos relacionados, uma vez que o primeiro
+        avalia qualidade de vida relacionada a saúde e o segundo avalia limitações nas atividades da
+        vida diária e restrições na participação, estudos mostram que existe uma associação moderada
+        entre as pontuações dos dois instrumentos. Assim, a utilização desse instrumento teria
+        permitido avaliar a validade de critério, conferindo maior robustez à validação desse
+        instrumento. A não utilização de pacientes com diversas patologias limita a possibilidade de
+        generalizar resultados. Assim, é necessário avaliar, no futuro, a validade de critério da
+        versão portuguesa do WHODAS 2.0, assim como validar esse instrumento para ser utilizado em
+        pacientes com outro tipo de condições de saúde.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERÊNCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Alves LC, Leimann BCQ, Vasconcelos MEL, Carvalho MS, Vasconcelos AGG,
+          Fonseca T, et al. A inﬂuência das doenças crônicas na capacidade funcional dos idosos do
+          Município de São Paulo, Brasil. <italic>Cad Saude Publica</italic> . 2007;23(8):1924-30.
+          DOI:10.1590/S0102-311X2007000800019</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Alves</surname>
+              <given-names>LC</given-names>
+            </name>
+            <name>
+              <surname>Leimann</surname>
+              <given-names>BCQ</given-names>
+            </name>
+            <name>
+              <surname>Vasconcelos</surname>
+              <given-names>MEL</given-names>
+            </name>
+            <name>
+              <surname>Carvalho</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Vasconcelos</surname>
+              <given-names>AGG</given-names>
+            </name>
+            <name>
+              <surname>Fonseca</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="pt">A inﬂuência das doenças crônicas na capacidade funcional dos
+            idosos do Município de São Paulo, Brasil</article-title>
+          <source>Cad Saude Publica</source>
+          <year>2007</year>
+          <volume>23</volume>
+          <issue>8</issue>
+          <fpage>1924</fpage>
+          <lpage>1930</lpage>
+          <pub-id>10.1590/S0102-311X2007000800019</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Baron M, Schieir O, Hudson M, Steele R, Kolahi S, Berkson L, et al. The
+          clinimetric properties of the World Health Organization Disability Assessment Schedule II
+          in early inflammatory arthritis. <italic>Arthritis Care Res</italic> . 2008;59(3):382-90.
+          DOI:10.1002/art.23314</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Baron</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Schieir</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Hudson</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Steele</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kolahi</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Berkson</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">The clinimetric properties of the World Health Organization
+            Disability Assessment Schedule II in early inflammatory arthritis</article-title>
+          <source>Arthritis Care Res</source>
+          <year>2008</year>
+          <volume>59</volume>
+          <issue>3</issue>
+          <fpage>382</fpage>
+          <lpage>390</lpage>
+          <pub-id>10.1002/art.23314</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Beaton DE, Bombardier C, Guillemin F, Ferraz MB. Guidelines for the
+          process of cross-cultural adaptation of self-report measures. <italic>Spine</italic> .
+          2000;25(24):3186-91.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Beaton</surname>
+              <given-names>DE</given-names>
+            </name>
+            <name>
+              <surname>Bombardier</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Guillemin</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Ferraz</surname>
+              <given-names>MB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Guidelines for the process of cross-cultural adaptation of
+            self-report measures</article-title>
+          <source>Spine</source>
+          <year>2000</year>
+          <volume>25</volume>
+          <issue>24</issue>
+          <fpage>3186</fpage>
+          <lpage>3191</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Dekkers JC, Wier MF, Hendriksen IJ, Twisk JW, Mechelen W. Accuracy of
+          self-reported body weight, height and waist circumference in a Dutch overweight working
+          population. <italic>BMC Med Res Methodol.</italic> 2008;8:69.
+          DOI:10.1186/1471-2288-8-69</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Dekkers</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Wier</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Hendriksen</surname>
+              <given-names>IJ</given-names>
+            </name>
+            <name>
+              <surname>Twisk</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Mechelen</surname>
+              <given-names>W</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Accuracy of self-reported body weight, height and waist
+            circumference in a Dutch overweight working population</article-title>
+          <source>BMC Med Res Methodol</source>
+          <year>2008</year>
+          <volume>8</volume>
+          <elocation-id>69</elocation-id>
+          <pub-id pub-id-type="doi">10.1186/1471-2288-8-69</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Eggermont LH, Bean JF, Guralnik JM, Leveille SG. Comparing pain severity
+          versus pain location in the MOBILIZE Boston study: chronic pain and lower extremity
+          function. <italic>J Gerontol A Biol Sci Med Sci</italic> . 2009;64(7):763-70.
+          DOI:10.1093/gerona/glp016</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Eggermont</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Bean</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Guralnik</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Leveille</surname>
+              <given-names>SG</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Comparing pain severity versus pain location in the MOBILIZE
+            Boston study: chronic pain and lower extremity function</article-title>
+          <source>J Gerontol A Biol Sci Med Sci</source>
+          <year>2009</year>
+          <volume>64</volume>
+          <issue>7</issue>
+          <fpage>763</fpage>
+          <lpage>770</lpage>
+          <pub-id pub-id-type="doi">10.1093/gerona/glp016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation>. Eggermont LH, Shmerling RH, Leveille SG. Tender point count, pain, and
+          mobility in the older population: the mobilize Boston study. <italic>J Pain.</italic>
+          2010;11(1):62-70. DOI:10.1016/j.jpain.2009.06.005</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Eggermont</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Shmerling</surname>
+              <given-names>RH</given-names>
+            </name>
+            <name>
+              <surname>Leveille</surname>
+              <given-names>SG</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Tender point count, pain, and mobility in the older
+            population: the mobilize Boston study</article-title>
+          <source>J Pain</source>
+          <year>2010</year>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>62</fpage>
+          <lpage>70</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jpain.2009.06.005</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation>. Garin O, Ayuso-Mateos J, Almansa J, Nieto M, Chatterji S, Vilagut G, et
+          al. Validation of the World Health Organization Disability Assessment Schedule, WHODAS-2
+          in patients with chronic diseases. <italic>Health Qual Life Outcomes.</italic> 2010;8:51.
+          DOI:10.1186/1477-7525-8-51</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Garin</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Ayuso-Mateos</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Almansa</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Nieto</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Chatterji</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Vilagut</surname>
+              <given-names>G</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Validation of the World Health Organization Disability
+            Assessment Schedule, WHODAS-2 in patients with chronic diseases</article-title>
+          <source>Health Qual Life Outcomes</source>
+          <year>2010</year>
+          <volume>8</volume>
+          <elocation-id>51</elocation-id>
+          <pub-id pub-id-type="doi">10.1186/1477-7525-8-51</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation>. Kutlay S, Küçükdeveci AA, Elhan AH, Oztuna D, Koç N, Tennant A. Validation
+          of the World Health Organization Disability Assessment Schedule II (WHODAS-II) in patients
+          with osteoarthritis. <italic>Rheumatol Int.</italic> 2011;31(3):339-46.
+          DOI:10.1007/s00296-009-1306-8</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Kutlay</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Küçükdeveci</surname>
+              <given-names>AA</given-names>
+            </name>
+            <name>
+              <surname>Elhan</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Oztuna</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Koç</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Tennant</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Validation of the World Health Organization Disability
+            Assessment Schedule II (WHODAS-II) in patients with osteoarthritis</article-title>
+          <source>Rheumatol Int</source>
+          <year>2011</year>
+          <volume>31</volume>
+          <issue>3</issue>
+          <fpage>339</fpage>
+          <lpage>346</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00296-009-1306-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation>. Leveille SG, Ling S, Hochberg MC, Resnick HE, Bandeen-Roche KJ, Won A, et
+          al. Widespread musculoskeletal pain and the progression of disability in older disabled
+          women. <italic>Ann Intern Med.</italic> 2001;135(12):1038-46.
+          DOI:10.7326/0003-4819-135-12-200112180-00007</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Leveille</surname>
+              <given-names>SG</given-names>
+            </name>
+            <name>
+              <surname>Ling</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hochberg</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>Resnick</surname>
+              <given-names>HE</given-names>
+            </name>
+            <name>
+              <surname>Bandeen-Roche</surname>
+              <given-names>KJ</given-names>
+            </name>
+            <name>
+              <surname>Won</surname>
+              <given-names>A</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Widespread musculoskeletal pain and the progression of
+            disability in older disabled women</article-title>
+          <source>Ann Intern Med</source>
+          <year>2001</year>
+          <volume>135</volume>
+          <issue>12</issue>
+          <fpage>1038</fpage>
+          <lpage>1046</lpage>
+          <pub-id pub-id-type="doi">10.7326/0003-4819-135-12-200112180-00007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation>. Pestana MH, Gageiro JN. Análise de dados para ciências sociais: a
+          complementaridade do SPSS. 4.ed. Lisboa: Edições Sílabo; 2005.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Pestana</surname>
+              <given-names>MH</given-names>
+            </name>
+            <name>
+              <surname>Gageiro</surname>
+              <given-names>JN</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">Análise de dados para ciências sociais: a complementaridade do
+            SPSS</source>
+          <edition>4.ed</edition>
+          <publisher-loc>Lisboa</publisher-loc>
+          <publisher-name>Edições Sílabo</publisher-name>
+          <year>2005</year>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation>. Picavet HS, Schouten JS. Musculoskeletal pain in the Netherlands:
+          prevalences, consequences and risk groups, the DMC(3)-study. <italic>Pain.</italic>
+          2003;102(1-2):167-78. DOI:10.1016/s0304-3959(02)00372-x</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Picavet</surname>
+              <given-names>HS</given-names>
+            </name>
+            <name>
+              <surname>Schouten</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Musculoskeletal pain in the Netherlands: prevalences,
+            consequences and risk groups, the DMC(3)-study</article-title>
+          <source>Pain</source>
+          <year>2003</year>
+          <volume>102</volume>
+          <issue>1-2</issue>
+          <fpage>167</fpage>
+          <lpage>178</lpage>
+          <pub-id pub-id-type="doi">10.1016/s0304-3959(02)00372-x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation>. Schlote A, Richter M, Wunderlich M, Poppendick U, Möller C, Schwelm K, et
+          al. WHODAS II with people after stroke and their relatives. <italic>Disabil
+            Rehabil.</italic> 2009;31(11):855-64. DOI:10.1080/09638280802355262</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Schlote</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Richter</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wunderlich</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Poppendick</surname>
+              <given-names>U</given-names>
+            </name>
+            <name>
+              <surname>Möller</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Schwelm</surname>
+              <given-names>K</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">WHODAS II with people after stroke and their
+            relatives</article-title>
+          <source>Disabil Rehabil</source>
+          <year>2009</year>
+          <volume>31</volume>
+          <issue>11</issue>
+          <fpage>855</fpage>
+          <lpage>864</lpage>
+          <pub-id pub-id-type="doi">10.1080/09638280802355262</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation>. Scudds RJ, Robertson JM. Pain factors associated with physical disability
+          in a sample of community-dwelling senior citizens. <italic>J Gerontol A Biol Sci Med
+            Sci.</italic> 2000;55(7):M393-9. DOI:10.1093/gerona/55.7.M393</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Scudds</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Robertson</surname>
+              <given-names>JM</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Pain factors associated with physical disability in a sample
+            of community-dwelling senior citizens</article-title>
+          <source>J Gerontol A Biol Sci Med Sci</source>
+          <year>2000</year>
+          <volume>55</volume>
+          <issue>7</issue>
+          <fpage>M393</fpage>
+          <lpage>M399</lpage>
+          <pub-id pub-id-type="doi">10.1093/gerona/55.7.M393</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation>. Szklo M, Javier Nieto F. Epidemiology: beyond the basis. Gaithersburg:
+          Aspen Publishers; 2000.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Szklo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Javier Nieto</surname>
+              <given-names>F</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Epidemiology: beyond the basis</source>
+          <publisher-name>Gaithersburg</publisher-name>
+          <publisher-loc>Aspen Publishers</publisher-loc>
+          <year>2000</year>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation>. Ustün TB, Kostanjsek N, Chatterji S, Rehm J, editors. Measuring health and
+          disability: manual for WHO Disability Assessment Schedule (WHODAS 2.0). Geneva: World
+          Health Organization; 2010.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Ustün</surname>
+              <given-names>TB</given-names>
+            </name>
+            <name>
+              <surname>Kostanjsek</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Chatterji</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Rehm</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Measuring health and disability: manual for WHO Disability
+            Assessment Schedule (WHODAS 2.0)</source>
+          <publisher-loc>Geneva</publisher-loc>
+          <publisher-name>World Health Organization</publisher-name>
+          <year>2010</year>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="fn1" fn-type="supplementary-material">
+        <label>a</label>
+        <p>World Health Organization. International Classification of Functioning, Disability and
+          Health. Geneva; 2001.</p>
+      </fn>
+      <fn id="fn2" fn-type="supplementary-material">
+        <label>b</label>
+        <p>Foddy WH. Constructing questions for interviews and questionnaires: theory and practice
+          in social research. Cambridge: Cambridge University Press; 1993.</p>
+      </fn>
+      <fn id="fn3" fn-type="supplementary-material">
+        <label>c</label>
+        <p>Royal College of Physicians; British Geriatrics Society; British Pain Society. The
+          assessment of pain in older people: national guidelines. London: RCP; 2007. (Concise
+          Guidance to Good Practice Series, 8).</p>
+      </fn>
+    </fn-group>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Adaptation and validation of WHODAS 2.0 in patients with
+          musculoskeletal pain</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Silva</surname>
+            <given-names>Carla</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Coleta</surname>
+            <given-names>Inês</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Silva</surname>
+            <given-names>Anabela G</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Amaro</surname>
+            <given-names>António</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Alvarelhão</surname>
+            <given-names>Joaquim</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Queirós</surname>
+            <given-names>Alexandra</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rocha</surname>
+            <given-names>Nelson</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">II</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff3">
+        <label>I</label> Escola Superior de Saúde. Universidade de Aveiro. Aveiro, Portugal</aff>
+      <aff id="aff4">
+        <label>II</label> Secção Autónoma de Ciências da Saúde. Universidade de Aveiro. Aveiro,
+        Portugal</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondence</bold> : Anabela G. Silva Escola Superior de Saúde, Universidade de
+          Aveiro - Edifício 30 Agras do Crasto Campus Universitário de Santiago 3810-193 Aveiro,
+          Portugall E-mail: asilva@ua.pt</corresp>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <sec>
+          <title>OBJECTIVE</title>
+          <p>To validate the Portuguese version of the World Health Organization Disability
+            Assessment Schedule (WHODAS 2.0).</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p>The original, 36 item version of the WHODAS 2.0, administered through an interview, was
+            translated into Portuguese following international guidelines and tested on 9
+            participants from the general population. The Portuguese version was then administered
+            to 204 patients with musculoskeletal pain. The patients’ socio-demographic and health
+            data were collected, as were the number of sites where they were experiencing pain and
+            the intensity of that pain. The WHODAS 2.0 was administered again by a second
+            interviewer within three days to determine its inter-rater reliability. Construct
+            validity was assessed according to the ability of WHODAS 2.0 to discriminate between
+            patients with different numbers of pain sites and the correlation between WHODAS 2.0
+            scores and pain intensity. Internal consistency was also assessed.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p>The Portuguese version of the WHODAS 2.0 is easily understood and has good internal
+            consistency (α = 0.84), as well as, very good inter-rater reliability (ICC = 0.95). In
+            addition, it was able to detect statistically significant differences between patients
+            with different numbers of pain sites (p &lt; 0.01) and showed that higher levels of
+            disability are associated with more intense pain (r = 0.44, p &lt; 0.01), indicating
+            that it has construct validity.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONS</title>
+          <p>The Portuguese version of the WHODAS 2.0 has shown to be reliable and valid when
+            administered to patients with musculoskeletal pain.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Pain Measurement</kwd>
+        <kwd>Musculoskeletal Pain, classification</kwd>
+        <kwd>Questionnaires, utilization</kwd>
+        <kwd>Translations</kwd>
+        <kwd>Reproducibility of Results</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>Assessing disability provides a detailed picture of the implications a health condition
+          has on the day to day life of an individual. This is especially relevant as different
+          profiles of disability can be associated with similar pathologies and diagnoses. <xref
+            ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref> Thus, an assessment which verifies in what ways health conditions affect the
+          individual’s daily activities is necessary.</p>
+        <p>The International Classification of Functioning, Disability and Health (ICF) <xref
+            ref-type="fn" rid="fn4">
+            <sup>a</sup>
+          </xref> defines disability as difficulties in functioning in one or more areas of life
+          from the perspective of the body, the individual and society, as experienced by an
+          individual with a specific health condition in interaction with contextual factors. There
+          are a variety of instruments for assessing disability, some specific to a certain health
+          condition, some not, such as the Functional Independence Measure or the Barthel Index,
+          among others. The World Health organization (WHO) developed the World Health Organisation
+          Disability Assessment Schedule (WHODAS 2.0), which assesses perceived disability
+          associated with the health condition in the 30 days preceding its application. This
+          instrument is divided into six domains: i) cognition; ii) mobility; iii) self-care; iv)
+          interpersonal relationships; v) activities of daily living; and vi) participation. This
+          instrument enables the individual’s perception of their own disability to be evaluated.
+            <xref ref-type="bibr" rid="B14">
+            <sup>14</sup>
+          </xref> The WHODAS 2.0 is a generic instrument, not aimed at specific populations or
+          specific health conditions. It has been translated and evaluated for use in various
+          languages and cultures, both the original and the adapted versions proving to be
+          psychometrically robust. <xref ref-type="bibr" rid="B8">
+            <sup>8</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref> Three versions of the WHODAS 2.0 have been developed, differing in length and
+          method of administration: there is a version with 36 items, one with 12 items and one with
+          12+24 items. The first two can be self-administered, administered in an interview and to a
+          substitute respondent. The 12+24 item version has a version that can be administered in an
+          interview or by computer. <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref>
+        </p>
+        <p>The aim of this study was to validate the Portuguese version of the WHODAS 2.0.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>METHODS</title>
+        <p>The process of translating the original WHODAS 2.0 was carried out according to
+          internationally established guidelines <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> involving the following steps:</p>
+        <p>• Step 1 (translation): the original English version of the WHODAS 2.0 was translated
+          into European Portuguese by two independent translators, working in the area of health,
+          whose mother tongue is Portuguese.</p>
+        <p>• Step 2 (synthesized version): Three researchers compared the abovementioned
+          translations and produced a synthesized version using the translations and the original
+          WHODAS 2.0.</p>
+        <p>• Step 3 (back-translation): The synthesized version was translated from Portuguese into
+          English by another translator, whose mother tongue is English, with no training in the
+          area of health and unfamiliar with the original WHODAS 2.0.</p>
+        <p>• Step 4 (pre-final version): A committee of three researchers developed the pre-final
+          version of the WHODAS 2.0 based on the back-translation and the original instrument.</p>
+        <p>• Step 5 (pilot test): The pre-final version of the instrument underwent a pilot test
+          with nine individuals from the general population in order to assess facility/difficulty
+          of understanding it, following the methodology proposed by Foddy. <xref ref-type="fn"
+            rid="fn5">
+            <sup>b</sup>
+          </xref> The data collected were used to improve the instrument and produce the final
+          version. The Portuguese version was deemed easy to understand.</p>
+        <p>• Step 6: The back-translation and a description of the methodology used in the
+          translation process were sent to the authors of the original WHODAS 2.0 for their
+          approval.</p>
+        <p>The Portuguese version was validated by assessing its reliability, (internal consistency
+          and inter-evaluator reliability) and construct validity.</p>
+        <p>The participants, patients being treated for problems connected to musculoskeletal
+          pathologies at two rehabilitation clinics in the Aveiro region between January and April
+          2011, were invited to take part in the study evaluating the WHODAS 2.0. Inclusion criteria
+          were: being aged ≥ 50 and experiencing pain linked to musculoskeletal pathologies. Those
+          who had neurological disorders of the central nervous system (such as stroke and traumatic
+          brain injury) and/or amputations in addition to the musculoskeletal pathology were
+          excluded. There were 204 patients who agreed to participate, with a mean age of 65.9 (SD =
+          9.1); ages varied between 50 and 90 years old. Of the 204 participants, 44.6% were aged
+          between 50 and 64 and 55.4% were aged over 60. Females constituted 71.6% of the sample
+          (146 participants) ( <xref ref-type="table" rid="t05">Table 1</xref> ). The most commonly
+          reported pathologies were osteoarthritis (67.2%), hypertension (52.9%) and
+          spondylarthrosis (46.6%). A large proportion of the individuals were overweight (47.5%) or
+          obese (33.3%). Many of the participants reported general pain (29.9%) ( <xref
+            ref-type="table" rid="t05">Table 1</xref> ). The WHODAS 2.0 areas in which the
+          participant reported the most disability were in activities of daily living, mobility and
+          participation ( <xref ref-type="table" rid="t06">Table 2</xref> ).</p>
+        <p>
+          <table-wrap id="t05">
+            <label>Table 1</label>
+            <caption>
+              <title>. Characterization of the sample used to validate the WHODAS 2.0, 2011.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="25%">
+                <col width="50%"/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Characteristics</td>
+                  <td align="center">n</td>
+                  <td align="center">%</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Age group</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 50 to 64 years old</td>
+                  <td align="center">91</td>
+                  <td align="center">44.6</td>
+                </tr>
+                <tr>
+                  <td> ≥ 65</td>
+                  <td align="center">113</td>
+                  <td align="center">55.4</td>
+                </tr>
+                <tr>
+                  <td>Sex</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Female</td>
+                  <td align="center">146</td>
+                  <td align="center">71.6</td>
+                </tr>
+                <tr>
+                  <td> Male</td>
+                  <td align="center">58</td>
+                  <td align="center">28.4</td>
+                </tr>
+                <tr>
+                  <td>Marital status</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Single</td>
+                  <td align="center">7</td>
+                  <td align="center">3.4</td>
+                </tr>
+                <tr>
+                  <td> Married</td>
+                  <td align="center">146</td>
+                  <td align="center">71.6</td>
+                </tr>
+                <tr>
+                  <td> Separated</td>
+                  <td align="center">2</td>
+                  <td align="center">1.0</td>
+                </tr>
+                <tr>
+                  <td> Divorced</td>
+                  <td align="center">13</td>
+                  <td align="center">6.4</td>
+                </tr>
+                <tr>
+                  <td> Widowed</td>
+                  <td align="center">36</td>
+                  <td align="center">17.6</td>
+                </tr>
+                <tr>
+                  <td>Schooling</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Cannot read and write</td>
+                  <td align="center">3</td>
+                  <td align="center">1.5</td>
+                </tr>
+                <tr>
+                  <td> Can read and write</td>
+                  <td align="center">52</td>
+                  <td align="center">25.5</td>
+                </tr>
+                <tr>
+                  <td> 4 years</td>
+                  <td align="center">103</td>
+                  <td align="center">50.5</td>
+                </tr>
+                <tr>
+                  <td> 6 years</td>
+                  <td align="center">17</td>
+                  <td align="center">8.3</td>
+                </tr>
+                <tr>
+                  <td> 9 years</td>
+                  <td align="center">18</td>
+                  <td align="center">8.8</td>
+                </tr>
+                <tr>
+                  <td> 12 years</td>
+                  <td align="center">5</td>
+                  <td align="center">2.5</td>
+                </tr>
+                <tr>
+                  <td> University degree</td>
+                  <td align="center">6</td>
+                  <td align="center">2.9</td>
+                </tr>
+                <tr>
+                  <td>Occupation</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Paid work</td>
+                  <td align="center">29</td>
+                  <td align="center">14.2</td>
+                </tr>
+                <tr>
+                  <td> Self-employed</td>
+                  <td align="center">11</td>
+                  <td align="center">5.4</td>
+                </tr>
+                <tr>
+                  <td> Housewife</td>
+                  <td align="center">21</td>
+                  <td align="center">10.3</td>
+                </tr>
+                <tr>
+                  <td> Retired</td>
+                  <td align="center">130</td>
+                  <td align="center">63.7</td>
+                </tr>
+                <tr>
+                  <td> Unemployed (health reasons)</td>
+                  <td align="center">1</td>
+                  <td align="center">0.5</td>
+                </tr>
+                <tr>
+                  <td> Unemployed (other reasons)</td>
+                  <td align="center">11</td>
+                  <td align="center">5.4</td>
+                </tr>
+                <tr>
+                  <td> Other</td>
+                  <td align="center">1</td>
+                  <td align="center">0.5</td>
+                </tr>
+                <tr>
+                  <td>Pathologies <sup>a</sup>
+                  </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> High blood pressure</td>
+                  <td align="center">108</td>
+                  <td align="center">52.9</td>
+                </tr>
+                <tr>
+                  <td> Diabetes</td>
+                  <td align="center">41</td>
+                  <td align="center">20.1</td>
+                </tr>
+                <tr>
+                  <td> Arthritis</td>
+                  <td align="center">137</td>
+                  <td align="center">67.2</td>
+                </tr>
+                <tr>
+                  <td> Spondylarthrosis</td>
+                  <td align="center">95</td>
+                  <td align="center">46.6</td>
+                </tr>
+                <tr>
+                  <td> Cardiovascular disease</td>
+                  <td align="center">34</td>
+                  <td align="center">16.7</td>
+                </tr>
+                <tr>
+                  <td> Respiratory disease</td>
+                  <td align="center">17</td>
+                  <td align="center">8.3</td>
+                </tr>
+                <tr>
+                  <td> Cancer</td>
+                  <td align="center">2</td>
+                  <td align="center">1.0</td>
+                </tr>
+                <tr>
+                  <td> Depression</td>
+                  <td align="center">3</td>
+                  <td align="center">1.5</td>
+                </tr>
+                <tr>
+                  <td> Other</td>
+                  <td align="center">94</td>
+                  <td align="center">46.1</td>
+                </tr>
+                <tr>
+                  <td>BMI <sup>b</sup>
+                  </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Underweight</td>
+                  <td align="center">1</td>
+                  <td align="center">0.5</td>
+                </tr>
+                <tr>
+                  <td> Healthy weight</td>
+                  <td align="center">38</td>
+                  <td align="center">18.6</td>
+                </tr>
+                <tr>
+                  <td> Overweight</td>
+                  <td align="center">97</td>
+                  <td align="center">47.5</td>
+                </tr>
+                <tr>
+                  <td> Obese</td>
+                  <td align="center">68</td>
+                  <td align="center">33.3</td>
+                </tr>
+                <tr>
+                  <td>Number of sites where pain is felt</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> 1 sites</td>
+                  <td align="center">37</td>
+                  <td align="center">18.1</td>
+                </tr>
+                <tr>
+                  <td> 2 to 3 sites</td>
+                  <td align="center">54</td>
+                  <td align="center">26.5</td>
+                </tr>
+                <tr>
+                  <td> 4 or more sites</td>
+                  <td align="center">52</td>
+                  <td align="center">25.5</td>
+                </tr>
+                <tr>
+                  <td> Widespreadpain</td>
+                  <td align="center">61</td>
+                  <td align="center">29.9</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>WHODAS 2.0: World Health Organization Disability Assessment Schedule 2.0; BMI: Body
+                Mass Index</p>
+              <p>
+                <sup>
+                  <bold>a</bold>
+                </sup> The sum of the percentages is above 100%, as participants may have indicated
+                more than one pathology.</p>
+              <p>
+                <sup>
+                  <bold>b</bold>
+                </sup> BMI &lt; 18.4 = underweight; 18.5 ≥ BMI ≤ 24.9 = healthy weight, 25 ≥ BMI ≤
+                29.9 = overweight; BMI ≥ 30 = obese.</p>
+              <p>
+                <sup>c</sup> Royal College of Physicians; British Geriatrics Society; British Pain
+                Society. The assessment of pain in older people: national guidelines. London: RCP;
+                2007. (Concise Guidance to Good Practice Series, 8).</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>
+          <table-wrap id="t06">
+            <label>Table 2</label>
+            <caption>
+              <title>. Mean score and standard deviation for the sample for each of the WHODAS 2.0
+                domains and the total mean score, 2011.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="23%">
+                <col width="30%"/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Domain (D)</td>
+                  <td align="center">n</td>
+                  <td align="center">Score (mean)</td>
+                  <td align="center">Standard deviation</td>
+                </tr>
+                <tr>
+                  <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>D1 – Cognition</td>
+                  <td align="center">204</td>
+                  <td align="center">11.7</td>
+                  <td align="center">17.4</td>
+                </tr>
+                <tr>
+                  <td>D2 – Mobility</td>
+                  <td align="center">204</td>
+                  <td align="center">41.6</td>
+                  <td align="center">28.6</td>
+                </tr>
+                <tr>
+                  <td>D3 – Self-care</td>
+                  <td align="center">204</td>
+                  <td align="center">17.5</td>
+                  <td align="center">17.9</td>
+                </tr>
+                <tr>
+                  <td>D4 – Interpersonal relationships</td>
+                  <td align="center">204</td>
+                  <td align="center">6.6</td>
+                  <td align="center">14.2</td>
+                </tr>
+                <tr>
+                  <td>D5.1 – Day to day activities (home)</td>
+                  <td align="center">179 <sup>a</sup>
+                  </td>
+                  <td align="center">52.0</td>
+                  <td align="center">31.5</td>
+                </tr>
+                <tr>
+                  <td>D5.2 – Day to day activities (work)</td>
+                  <td align="center">75 <sup>a</sup>
+                  </td>
+                  <td align="center">42.0</td>
+                  <td align="center">30.3</td>
+                </tr>
+                <tr>
+                  <td>D6 – Participation</td>
+                  <td align="center">204</td>
+                  <td align="center">37.4</td>
+                  <td align="center">16.2</td>
+                </tr>
+                <tr>
+                  <td>Total <sup>b</sup>
+                  </td>
+                  <td align="center">204</td>
+                  <td align="center">28.1</td>
+                  <td align="center">19.9</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>WHODAS 2.0: World Health Organization Disability Assessment Schedule 2.0</p>
+              <p>
+                <sup>a</sup> Some participants reported not doing housework and/or working.</p>
+              <p>
+                <sup>b</sup> The total score was calculated without the values for area 5.2, as 63%
+                of the participants reported they were not working.</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>Participants were interviewed twice at the rehabilitation clinics where they had been
+          admitted. In the first interview, demographic and health data were collected and
+          information on the number of sites where pain was felt and the intensity of that pain, and
+          the 36 item WHODAS 2.0 was administered. In the second interview, the WHODAS 2.0 was
+          administered.</p>
+        <p>Demographic data were collected (age, sex, marital status, years of schooling,
+          occupation, height and weight). The values for height and weight were self-reported, wich
+          is a valid method of characterizing the prevalence of being overweight and obesity. <xref
+            ref-type="bibr" rid="B4">
+            <sup>4</sup>
+          </xref> The participants were asked whether they had been diagnosed with any of the
+          following pathologies: high blood pressure, diabetes, arthritis, cardiovascular disease,
+          respiratory disease, cancer, depression or other health problem.</p>
+        <p>The participants were asked to indicate on a body chart showing the whole body, where
+          they had felt any pain in the preceding week. The number of sites with pain were counted
+          and categorized according to Picavet et al <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref> into: pain in one site; pain in two or three sites; pain in four or more sites;
+          widespread pain (pain above and below the waist, pain on the left or right side of the
+          body, and axial pain).</p>
+        <p>The intensity of the pain was assessed using a 10 cm visual numerical scale, showing a
+          vertical classification from zero (no pain) to ten (the worst pain imaginable). Those
+          participants who experienced pain in more than one site were asked to evaluate the mean
+          intensity of the pain for the various sites over the preceding week (overall intensity).
+          Pain assessment was carried out following international guidelines for assessing pain in
+          the elderly. <xref ref-type="fn" rid="fn6">
+            <sup>c</sup>
+          </xref>
+        </p>
+        <p>The 36 item version of the WHODAS 2.0, translated and adapted into European Portuguese
+          using the methodology described above, was administered in two interviews by two different
+          interviewers, with minimum and maximum intervals of one and three days, respectively. The
+          repetition of the WHODAS 2.0 aimed to assess the inter-evaluator reliability. Limiting the
+          interval between the two applications aimed to minimize the possibility of changes in the
+          profile of the patient’s disability, which would have compromised the assessment of
+          reliability.</p>
+        <p>The data analysis was carried out using the Statistical Package for the Social Sciences
+          (SPSS). The sample was characterized using descriptive statistics (mean, standard
+          deviation and frequencies). The WHODAS 2.0 scores were calculated per domain by adding the
+          scores in each item in the domain and the total score was turned into a value between 0
+          and 100, as described in the WHODAS 2.0 manual. The higher the score, the greater the
+          disability. Total scores were calculated taking into account the 36 items or taking into
+          account all items except those referring to domain 5.2 “daily living activities” –
+          work/school (total 32 items), when participants neither worked nor studied. <xref
+            ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref>
+        </p>
+        <p>Internal consistency was assessed using Cronbach’s alpha (α), which varied between 0 and
+          1, with: (α &lt; 0.6) “unacceptable”; (0.6 ≤ α &lt; 0.7) “weak”; (0.7 ≤ α &lt; 0.8)
+          “reasonable”; (0.8 ≤ α &lt; 0.9) “good”; and (α ≥ 0.9) “very good”. <xref ref-type="bibr"
+            rid="B10">
+            <sup>10</sup>
+          </xref> Inter-evaluator reliability was assessed using the intra-class coefficient of
+          correlation (ICC), which ranged between 0 and 1, considering “weak” (ICC &lt; 0.4);
+          “satisfactory” (0.4 ≤ ICC &lt; 0.75); and “very good” (ICC ≥ 0.75). <xref ref-type="bibr"
+            rid="B12">
+            <sup>12</sup>
+          </xref> Differences in the WHODAS 2.0 score between groups with different number of pain
+          sites were assessed using ANOVA and the Bonferroni test. Correlation between WHODAS 2.0
+          and the intensity of pain was assessed using Pearson’s coefficient of correlation. The
+          level of significance was p &lt; 0.05.</p>
+        <p>This study was approved by the Bioethics and Medical Ethics Service of the Faculty of
+          Medicine of the <italic>Universidade do Porto</italic> , Portugal, 2011. Participants
+          signed a consent form.</p>
+      </sec>
+      <sec sec-type="results">
+        <title>RESULTS</title>
+        <p>The overall Cronbach’s alpha value for the 36 item version of the WHODAS 2.0 was 0.84,
+          indicating good internal consistency. Due to non-applicable responses in domain 5
+          “activities of daily living” by the rest of the participants, 65 participants were
+          considered in this analysis. The Cronbach’s alpha value decreased with the removal of most
+          of the items, indicating their importance in evaluating disability. <xref ref-type="table"
+            rid="t07">Table 3</xref> shows the results of the Cronbach’s alpha test for all WHODAS
+          2.0 domains and the value obtained when each of these domains was removed.</p>
+        <p>
+          <table-wrap id="t07">
+            <label>Table 3</label>
+            <caption>
+              <title>Cronbach’s alpha results by WHODAS 2.0 domain and for the total score,
+                2011.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="25%">
+                <col width="50%"/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Domain (D)</td>
+                  <td align="center">n</td>
+                  <td align="center">Cronbach’s Alpha</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>D1 – Understanding</td>
+                  <td align="center">65</td>
+                  <td align="center">0.83</td>
+                </tr>
+                <tr>
+                  <td>D2 – Mobility</td>
+                  <td align="center">65</td>
+                  <td align="center">0.79</td>
+                </tr>
+                <tr>
+                  <td>D3 – Self-care</td>
+                  <td align="center">65</td>
+                  <td align="center">0.84</td>
+                </tr>
+                <tr>
+                  <td>D4 – Relationships</td>
+                  <td align="center">65</td>
+                  <td align="center">0.85</td>
+                </tr>
+                <tr>
+                  <td>D5.1 – Housework</td>
+                  <td align="center">65</td>
+                  <td align="center">0.79</td>
+                </tr>
+                <tr>
+                  <td>D5.2 – Work or school</td>
+                  <td align="center">65</td>
+                  <td align="center">0.76</td>
+                </tr>
+                <tr>
+                  <td>D6 – Participation</td>
+                  <td align="center">65</td>
+                  <td align="center">0.80</td>
+                </tr>
+                <tr>
+                  <td>Total</td>
+                  <td align="center">65</td>
+                  <td align="center">0.84</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>WHODAS 2.0: World Health Organization Disability Assessment Schedule 2.0</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>The ICC was &gt; 0.80 for all areas of the WHODAS 2.0, indicating good inter-evaluator
+          reliability. The ICC was 0.95, taking into account the total WHODAS 2.0 score, which also
+          indicates good inter-evaluator reliability ( <xref ref-type="table" rid="t08">Table
+            4</xref> ).</p>
+        <p>
+          <table-wrap id="t08">
+            <label>Table 4</label>
+            <caption>
+              <title>Results for inter-evaluator reliability and correlation between WHODAS 2.0 and
+                the intensity of pain experienced per domain and for the total score, 2011.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="21%">
+                <col width="15%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td rowspan="2">Domain</td>
+                  <td rowspan="2" align="center">n</td>
+                  <td colspan="2" style="border-bottom: thin solid; border-color: #000000"
+                    align="center">Inter-evaluator reliability</td>
+                  <td rowspan="2" align="center">WHODAS – Intensity of pain</td>
+                </tr>
+                <tr>
+                  <td align="center">ICC</td>
+                  <td align="center">95%CI</td>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>1. Understanding</td>
+                  <td align="center">204</td>
+                  <td align="center">0.88</td>
+                  <td align="center">0.84;0.91</td>
+                  <td align="center">0,29 <sup>b</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td>2. Mobility</td>
+                  <td align="center">204</td>
+                  <td align="center">0.93</td>
+                  <td align="center">0.91;0.95</td>
+                  <td align="center">0,46 <sup>b</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td>3. Self-care</td>
+                  <td align="center">204</td>
+                  <td align="center">0.90</td>
+                  <td align="center">0.87;0.92</td>
+                  <td align="center">0,37 <sup>b</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td>4. Relationships</td>
+                  <td align="center">204</td>
+                  <td align="center">0.80</td>
+                  <td align="center">0.73;0.85</td>
+                  <td align="center">0,19 <sup>b</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td>5.1. Housework</td>
+                  <td align="center">179 <sup>a</sup>
+                  </td>
+                  <td align="center">0.89</td>
+                  <td align="center">0.85;0.92</td>
+                  <td align="center">0,45 <sup>b</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td>5.2. Work or school</td>
+                  <td align="center">75 <sup>a</sup>
+                  </td>
+                  <td align="center">0.94</td>
+                  <td align="center">0.91;0.96</td>
+                  <td align="center">0,59 <sup>b</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td>6. Participation</td>
+                  <td align="center">204</td>
+                  <td align="center">0.90</td>
+                  <td align="center">0.87;0.93</td>
+                  <td align="center">0,47 <sup>b</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Total</td>
+                  <td align="center">204</td>
+                  <td align="center">0.95</td>
+                  <td align="center">0.94;0.96</td>
+                  <td align="center">0,44 <sup>b</sup>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>WHODAS 2.0: World Health Organization Disability Assessment Schedule 2.0</p>
+              <p>
+                <sup>
+                  <bold>a</bold>
+                </sup> Some participants reported not doing housework and/or working</p>
+              <p>
+                <sup>b</sup> p &lt; 0.01</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>Construct validity was assessed by comparing the participants’ level of disability with
+          the different number of pain points and by assessing the link between disability and
+          intensity of the pain, as the literature indicates that disability increases with the
+          number of points at which pain is felt and with the intensity of that pain. <xref
+            ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B9">
+            <sup>9</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B14">
+            <sup>14</sup>
+          </xref> Statistically significant differences were found in the total WHODAS 2.0 scores
+          between participants with widespread pain (mean = 35.7; SD = 13.3) and those with pain in
+          only one spot (mean = 24.1; SD = 28.4, p = 0.009) and in two or three sites (mean = 29.0;
+          SD = 14.1; p = 0.003), indicating greater incapacity in participants with widespread
+          pain.</p>
+        <p>The intensity of pain in the preceding week was 5.9 (SD = 2.0), verifying a statistically
+          significant correlation between pain intensity and the WHODAS 2.0 (total and domain
+          scores) indicating greater disability in participants with more intense pain ( <xref
+            ref-type="table" rid="t08">Table 4</xref> ).</p>
+      </sec>
+      <sec sec-type="discussion">
+        <title>DISCUSSION</title>
+        <p>The 36 item Portuguese version of the WHODAS 2.0, administered in interview form, was
+          deemed to be equivalent to the original version and easy to understand. The results of the
+          psychometric properties evaluation showed the instrument has good internal consistency (α
+          = 0.84). However, in studies by Baron et al, <xref ref-type="bibr" rid="B2">
+            <sup>2</sup>
+          </xref> Garin et al <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref> and Ustun et al, <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref> the alpha value was above 0.95. This difference may be explained by the small
+          number of participants considered in this analysis (n = 65), due to non-applicable
+          responses in domain 5 “activities of daily living: home and work or school” by the rest of
+          the participants. A large number of participants reported not working or going to school
+          and a large number of male participants reported not doing housework. The ICC for
+          inter-evaluator reliability was 0.95, indicating good inter-evaluator reliability. This
+          figure was higher than that obtained by Schlote et al, <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref> who reported ICC of 0.67. However, the results of Schlote et al <xref
+            ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref> may be explained by the long interval (six months) between the two WHODAS 2.0. The
+          WHODAS 2.0 has been shown capable of finding logical relationships supported in the
+          literature. In this study, individuals with widespread pain had lower functionality than
+          those with pain in one spot or in two or three spots. More intense pain also seemed to be
+          associated with lower functionality. Both findings are in concordance with the results of
+          previous studies <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B6">
+            <sup>6</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B9">
+            <sup>9</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B14">
+            <sup>14</sup>
+          </xref> and suggest that the instrument has construct validity. The results indicate that
+          the 36 item Portuguese version of the WHODAS 2, administered in interview form, is valid
+          and reliable. These results are in agreement with those presented by a variety of studies
+          carried out using the original version on patients with inflammatory arthritis, knee
+          osteoarthritis, chronic disease, osteoarthritis and strokes. <xref ref-type="bibr"
+            rid="B2">
+            <sup>2</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B8">
+            <sup>8</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+        </p>
+        <p>One of the limitations of this study is that an disability measure validated in
+          Portuguese, which would have allowed these results to be compared with those obtained by
+          applying the WHODAS 2.0, was not used. One of the instruments used in the process of
+          validating the WHODAS 2.0 in other countries is the health status questionnaire (SF 36).
+          Although the SF36 and the WHODAS 2.0 assess different aspects of related concepts, as the
+          former assesses quality of life related to health and the latter limitations to day to day
+          activities and restrictions to participation, studies show that a moderate association
+          exists between the scores from the two instruments. Therefore, using this instrument would
+          have enabled criterion validity to be assessed, making the validation of this instrument
+          more robust. Not using patients with diverse pathologies limits the possibilities of
+          generalizing the results. Thus, in the future, it is necessary to assess this instrument
+          for use in patients with other types of health conditions.</p>
+      </sec>
+    </body>
+    <back>
+      <fn-group>
+        <fn id="fn4" fn-type="supplementary-material">
+          <label>a</label>
+          <p>World Health Organization. International Classification of Functioning, Disability and
+            Health. Geneva; 2001.</p>
+        </fn>
+        <fn id="fn5" fn-type="supplementary-material">
+          <label>b</label>
+          <p>Foddy WH. Constructing questions for interviews and questionnaires: theory and practice
+            in social research. Cambridge: Cambridge University Press; 1993.</p>
+        </fn>
+        <fn id="fn6" fn-type="supplementary-material">
+          <label>c</label>
+          <p>Royal College of Physicians; British Geriatrics Society; British Pain Society. The
+            assessment of pain in older people: national guidelines. London: RCP; 2007. (Concise
+            Guidance to Good Practice Series, 8).</p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+</article>

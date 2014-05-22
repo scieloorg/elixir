@@ -1,0 +1,2199 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="research-article" xml:lang="es">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047004574</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047004574</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artigos Originais</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="es">Tele-asistencia y tele-alarma para adultos mayores:
+          experiencias preliminares en México</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Giraldo-Rodríguez</surname>
+            <given-names>Liliana</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Torres-Castro</surname>
+            <given-names>Sara</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Martínez-Ramírez</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gutiérrez-Robledo</surname>
+            <given-names>Luis Miguel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pérez-Cuevas</surname>
+            <given-names>Ricardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">III</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>I</label>
+        <institution content-type="orgdiv1">Instituto Nacional de Geriatría</institution>
+        <institution content-type="orgname">Secretaría de Salud México</institution>
+        <addr-line>
+          <named-content content-type="state">Distrito Federal</named-content>
+        </addr-line>
+        <country>México</country> Instituto Nacional de Geriatría, Secretaría de Salud México.
+        Distrito Federal, México</aff>
+      <aff id="aff2">
+        <label>II</label>
+        <institution content-type="orgname">IKUSI Micronet México</institution>
+        <addr-line>
+          <named-content content-type="state">Distrito Federal</named-content>
+        </addr-line>
+        <country>México</country> IKUSI Micronet México. Distrito Federal, México</aff>
+      <aff id="aff3">
+        <label>III</label>
+        <institution content-type="orgdiv1">División de Protección Social y Salud</institution>
+        <institution content-type="orgname">Banco Interamericano de Desarrollo</institution>
+        <addr-line>
+          <named-content content-type="state">Distrito Federal</named-content>
+        </addr-line>
+        <country>México</country> División de Protección Social y Salud Banco Interamericano de
+        Desarrollo. Distrito Federal, México</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondencia | Correspondence : </bold> Ricardo Pérez-Cuevas. Banco Inter
+          Americano de Desarrollo. Paseo de la Reforma 222 piso 11 Colonia Juárez. México Distrito.
+          Federal 06600 México. E-mail: rperez@iadb.org</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>Trabajo financiado por el Consejo Nacional de Ciencia y Tecnología de México (Proceso
+            nº FONSEC 2005/2/1).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>Los autores declaran no tener conflicto de intereses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>04</issue>
+      <fpage>711</fpage>
+      <lpage>717</lpage>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>9</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>4</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="es">
+        <sec>
+          <title>OBJETIVO</title>
+          <p> Analizar el efecto de un programa piloto de tele-asistencia y tele-alarma en la
+            autopercepción del estado de salud de los adultos mayores y conocer la satisfacción y
+            aceptación del programa.</p>
+        </sec>
+        <sec>
+          <title>METODOS</title>
+          <p> Estudio transversal que incluyó entrevistas a 378 adultos mayores, 294
+            cuidadores/familiares y 53 profesionales de la salud, realizado en la Ciudad de México
+            en 2010. Variables sociodemográficas, de autopercepción del estado de salud,
+            satisfacción y aceptación del programa se obtuvieron por medio de cuestionario
+            estandarizado. Se realizó análisis descriptivo y se utilizaron pruebas no
+            paramétricas.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p> Se observaron efectos significativos en la autopercepción del estado de salud, 6,17
+            (DE 17,9 p &lt; 0,05) puntos por encima de la media. El programa tuvo una buena
+            aceptación por parte de los adultos mayores, de sus cuidadores familiares y de los
+            profesionales de la salud.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONES</title>
+          <p> El programa contribuye a mantener o mejorar la calidad de vida, permite la atención
+            preventiva y es un medio ideal para dar apoyo psicosocial a los adultos mayores.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="es">
+        <kwd>Anciano</kwd>
+        <kwd>Consulta Remota, utilización</kwd>
+        <kwd>Aceptación de la Atención de Salud</kwd>
+        <kwd>Continuidad de la Atención al Paciente</kwd>
+        <kwd>Atención Domiciliaria de Salud</kwd>
+        <kwd>Investigación sobre Servicios de Salud</kwd>
+      </kwd-group>
+      <counts>
+        <table-count count="2"/>
+        <ref-count count="5"/>
+        <page-count count="7"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUCCIÓN</title>
+      <p>Los cambios demográficos, epidemiológicos sociales y económicos han generado grandes
+        transformaciones en el estilo de vida, tipo de hogares y dinámicas familiares, llevando a
+        sus miembros a estar cada vez más involucrados en el cuidado de los adultos mayores. Los
+        sistemas de salud enfrentan importantes retos en la mayoría de los países debido al aumento
+        en la demanda de atención médica derivada del creciente número de personas mayores, a una
+        mayor demanda de atención en el hogar; a la necesidad de mayor eficiencia, calidad y equidad
+        de los servicios de salud; y a la dificultad de contratación de personal para brindar
+        servicios de salud y cuidado en el hogar. <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>
+      </p>
+      <p>El desarrollo de las tecnologías de la información y de la comunicación se ha dado
+        paralelamente a estos cambios, lo que posibilita afrontar los desafíos antes mencionados.
+        Los servicios de salud, en especial el área de asistencia sanitaria, desarrollan enfoques
+        innovadores para atender a los pacientes que necesitan ayuda en su hogar. Tal es el caso de
+        la tele-asistencia y la tele-alarma, las cuales constituyen un servicio de atención social y
+        de salud en el hogar.</p>
+      <p>Han comenzado a surgir iniciativas para brindar servicios de atención domiciliaria en
+        México. El Instituto Mexicano del Seguro Social (IMSS) puso en marcha el Programa de
+        Envejecimiento en 2009, y dentro de éste, el desarrollo de un programa piloto de
+        tele-asistencia y tele-alarma, que consiste en dar atención domiciliaria a distancia
+        (atención telefónica las 24 horas del día). Es una intervención de atención social a la
+        salud que asegura una respuesta rápida ante situaciones de crisis o emergencia mediante
+        acciones de información, orientación y referencia. Los usuarios son personas con 60 años y
+        más, que viven o permanecen solas la mayor parte del día, o que viven con otra persona en
+        condiciones similares; sin deficiencias auditivas severas y sin trastornos mentales que
+        limite su expresión verbal u orientación.</p>
+      <p>El objetivo del presente estudio fue analizar el efecto del programa piloto en la
+        autopercepción del estado de salud de las personas mayores y, conocer la satisfacción y la
+        aceptación del programa que tienen las personas mayores, sus cuidadores/familiares y los
+        profesionales de salud.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>METODOS</title>
+      <p>Estudio transversal que consistió en una encuesta domiciliaria a usuarios del programa y
+        entrevistas a los profesionales de la salud de tres unidades de medicina familiar del IMSS
+        ubicadas en la Ciudad de México. Se utilizaron tres cuestionarios estandarizados, uno para
+        cada grupo de población objetivo: 378 personas mayores inscritas en el mes de junio de 2010,
+        con más de seis meses en el programa; 294 cuidadores/familiares y 53 profesionales de la
+        salud (jefes de departamento clínico, médicos familiares y trabajadoras sociales).</p>
+      <p>Se utilizaron dos escalas: <italic>European Quality of Life-5 Dimensions</italic>
+        (EuroQol-5) y la escala breve de depresión geriátrica (GDS). Estas escalas han sido
+        validadas en población hispana. La recolección de la información se llevó a cabo en julio de
+        2010. La escala visual analógica y la escala GDS se aplicaron a las personas mayores al
+        ingresar al programa, tiempo cero (t0), y a los seis meses, tiempo uno (t1).</p>
+      <p>El padrón de beneficiarios para junio de 2010 era de 404 adultos mayores, alcanzando una
+        tasa de respuesta del 94%, debido a: enfermedad, fallecimiento del cónyuge, no quiso
+        contestar y ausencia por vacaciones.</p>
+      <p>La edad media de las personas mayores fue 78,4 años (DE 6,5 años); 65,9% eran mujeres, la
+        mitad se encontraba sin pareja, principalmente por viudez (42,3%), 14,2% no tenía
+        cuidador/familiar y en 8,0% de los casos dos usuarios tenían el mismo cuidador/familia;
+        66,7% de los cuidadores/familiares eran mujeres, la mayoría tenía entre 40 y 59 años
+        (46,9%), generalmente, eran los hijos (56,5%), seguido del cónyuge/compañero/a (20,7%) u
+        otro familiar (11,6%).</p>
+      <p>El análisis de la información comprendió frecuencias simples, tablas de contingencia y
+        análisis intragrupos para muestras dependientes a partir de la prueba de Wilcoxon. Se
+        utilizó el <italic>software</italic> Stata 11.</p>
+      <p>El protocolo fue aprobado por el Comité de Investigación y de Ética del Instituto Mexicano
+        del Seguro Social (IMSS) Proyecto nº FIS/IMSS/PROT/257; todos los participantes firmaron el
+        consentimiento informado.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTADOS</title>
+      <p>Fueran observadas diferencias entre el tiempo cero y el tiempo uno a favor de una mejor
+        percepción del nivel de salud por parte de las personas mayores, con media de -6,17 (DE
+        17,90; p &lt; 0,000).</p>
+      <p>De la diversidad de servicios que ofrece el programa, la ambulancia fue el más valorado
+        (48,9% de las personas mayores y 51,0% de los cuidadores/familiares); seguido por la
+        atención inmediata (22,5% y 20,4%, en personas mayores y cuidadores/familiares,
+        respectivamente); 48,4% de las personas mayores y 26,2% de los cuidadores/familiares
+        presionaron el botón de alarma por diversos motivos, entre los que sobresalió para el primer
+        grupo: el haberlo hecho por error (29,0%), por una emergencia (16,9%, de las cuales 38,2%
+        fue por caídas), para platicar (14,2%) o para comprobar su funcionamiento (13,7%). Los
+        cuidadores/familiares oprimieron el botón por una emergencia (40,3%, de las cuales 32,3% fue
+        por caídas), para comprobar su funcionamiento (14,3%), por error (13,0%) o para solicitar
+        información (7,8%). Entre las personas mayores que no pulsaron el botón de alarma (51,6%),
+        89,2% no lo necesitaron. Lo que contrarrestó dicha necesidad tuvo relación con las llamadas
+        realizadas por los operadores del servicio: 96,5% mencionó que recibe constantemente
+        llamadas por parte de los operadores para verificar que el botón estuviese funcionando
+        (30,7%) o para dar seguimiento a una enfermedad o tratamiento (26,8%) ( <xref
+          ref-type="table" rid="t01">Tabla</xref> ).</p>
+      <p>
+        <table-wrap id="t01">
+          <label>Tabla</label>
+          <caption>
+            <title>Satisfacción y aceptación del programa piloto-TATA por parte de las personas
+              mayores (n = 378), de sus cuidadores/familiares (n = 294), y de los profesionales de
+              la salud (n = 53). Ciudad de México, México, 2010.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="15%">
+              <col width="40%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="3">Variables</td>
+                <td colspan="2" align="center">Personas mayores</td>
+                <td colspan="2" align="center">Cuidadores/familiares</td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td align="center">Total</td>
+                <td align="center">%</td>
+                <td align="center">Total</td>
+                <td align="center">%</td>
+              </tr>
+              <tr>
+                <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="5" align="center">Conocimiento y utilización del programa</td>
+              </tr>
+              <tr>
+                <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="5">Sabe cuáles son los servicios que brinda el programa</td>
+              </tr>
+              <tr>
+                <td>  Ambulancia</td>
+                <td align="center">185</td>
+                <td align="center">48,9</td>
+                <td align="center">150</td>
+                <td align="center">51,0</td>
+              </tr>
+              <tr>
+                <td>  Asesoría y orientación</td>
+                <td align="center">35</td>
+                <td align="center">9,3</td>
+                <td align="center">42</td>
+                <td align="center">14,3</td>
+              </tr>
+              <tr>
+                <td>  Atención inmediata</td>
+                <td align="center">85</td>
+                <td align="center">22,5</td>
+                <td align="center">60</td>
+                <td align="center">20,4</td>
+              </tr>
+              <tr>
+                <td>  Atención Psicológica</td>
+                <td align="center">4</td>
+                <td align="center">1,1</td>
+                <td align="center">8</td>
+                <td align="center">2,7</td>
+              </tr>
+              <tr>
+                <td>  Otros (llamadas a familiares)</td>
+                <td align="center">18</td>
+                <td align="center">4,8</td>
+                <td align="center">14</td>
+                <td align="center">4,8</td>
+              </tr>
+              <tr>
+                <td>  No sabe</td>
+                <td align="center">51</td>
+                <td align="center">13,5</td>
+                <td align="center">20</td>
+                <td align="center">6,8</td>
+              </tr>
+              <tr>
+                <td>Utilizó el botón de alarma</td>
+                <td align="center">183</td>
+                <td align="center">48,4</td>
+                <td align="center">77</td>
+                <td align="center">26,2</td>
+              </tr>
+              <tr>
+                <td>Motivos por los que presionó el botón de alarma (n = 183) <sup>a</sup> (n = 77)
+                    <sup>b</sup>
+                </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Emergencia</td>
+                <td align="center">31</td>
+                <td align="center">16,9</td>
+                <td align="center">31</td>
+                <td align="center">40,3</td>
+              </tr>
+              <tr>
+                <td>  Enfermedad</td>
+                <td align="center">15</td>
+                <td align="center">8,2</td>
+                <td align="center">5</td>
+                <td align="center">6,5</td>
+              </tr>
+              <tr>
+                <td>  Solicitar información</td>
+                <td align="center">12</td>
+                <td align="center">6,6</td>
+                <td align="center">6</td>
+                <td align="center">7,8</td>
+              </tr>
+              <tr>
+                <td>  Comprobar si funciona</td>
+                <td align="center">25</td>
+                <td align="center">13,7</td>
+                <td align="center">11</td>
+                <td align="center">14,3</td>
+              </tr>
+              <tr>
+                <td>  Por error</td>
+                <td align="center">53</td>
+                <td align="center">29,0</td>
+                <td align="center">10</td>
+                <td align="center">13,0</td>
+              </tr>
+              <tr>
+                <td>  Para platicar</td>
+                <td align="center">26</td>
+                <td align="center">14,2</td>
+                <td align="center">6</td>
+                <td align="center">7,8</td>
+              </tr>
+              <tr>
+                <td>  Otro</td>
+                <td align="center">17</td>
+                <td align="center">9,3</td>
+                <td align="center">7</td>
+                <td align="center">9,1</td>
+              </tr>
+              <tr>
+                <td>  No responde</td>
+                <td align="center">4</td>
+                <td align="center">2,2</td>
+                <td align="center">1</td>
+                <td align="center">1,3</td>
+              </tr>
+              <tr>
+                <td>Recibió llamadas de los operadores</td>
+                <td align="center">365</td>
+                <td align="center">96,5</td>
+                <td align="center">NE</td>
+                <td align="center">NE</td>
+              </tr>
+              <tr>
+                <td>Motivos por los que recibió las llamadas (n = 365) <sup>a</sup>
+                </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Seguimiento a enfermedad o tratamiento</td>
+                <td align="center">98</td>
+                <td align="center">26,8</td>
+                <td align="center">NE</td>
+                <td align="center">NE</td>
+              </tr>
+              <tr>
+                <td>  Recordar citas</td>
+                <td align="center">15</td>
+                <td align="center">4,1</td>
+                <td align="center">NE</td>
+                <td align="center">NE</td>
+              </tr>
+              <tr>
+                <td>  Recordar toma de medicamento</td>
+                <td align="center">15</td>
+                <td align="center">4,1</td>
+                <td align="center">NE</td>
+                <td align="center">NE</td>
+              </tr>
+              <tr>
+                <td>  Verificar funcionamiento del botón</td>
+                <td align="center">112</td>
+                <td align="center">30,7</td>
+                <td align="center">NE</td>
+                <td align="center">NE</td>
+              </tr>
+              <tr>
+                <td>  Dar información sobre el servicio</td>
+                <td align="center">14</td>
+                <td align="center">3,8</td>
+                <td align="center">NE</td>
+                <td align="center">NE</td>
+              </tr>
+              <tr>
+                <td>  Felicitaciones por alguna celebración</td>
+                <td align="center">54</td>
+                <td align="center">14,8</td>
+                <td align="center">NE</td>
+                <td align="center">NE</td>
+              </tr>
+              <tr>
+                <td>  Otros</td>
+                <td align="center">57</td>
+                <td align="center">15,6</td>
+                <td align="center">NE</td>
+                <td align="center">NE</td>
+              </tr>
+              <tr>
+                <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="5" align="center">Satisfacción y aceptación</td>
+              </tr>
+              <tr>
+                <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="5">Las respuestas de los operadores le ha ayudado a resolver el
+                  problema</td>
+              </tr>
+              <tr>
+                <td>  Si</td>
+                <td align="center">309</td>
+                <td align="center">81,7</td>
+                <td align="center">253</td>
+                <td align="center">86,1</td>
+              </tr>
+              <tr>
+                <td>  No</td>
+                <td align="center">23</td>
+                <td align="center">6,1</td>
+                <td align="center">12</td>
+                <td align="center">4,1</td>
+              </tr>
+              <tr>
+                <td>  No responde</td>
+                <td align="center">46</td>
+                <td align="center">12,2</td>
+                <td align="center">29</td>
+                <td align="center">9,9</td>
+              </tr>
+              <tr>
+                <td colspan="5">El trato que recibe de las personas que contestan su llamada ha
+                  sido</td>
+              </tr>
+              <tr>
+                <td>  Bueno</td>
+                <td align="center">361</td>
+                <td align="center">95,5</td>
+                <td align="center">282</td>
+                <td align="center">95,9</td>
+              </tr>
+              <tr>
+                <td>  Regular</td>
+                <td align="center">6</td>
+                <td align="center">1,6</td>
+                <td align="center">2</td>
+                <td align="center">0,7</td>
+              </tr>
+              <tr>
+                <td>  Malo</td>
+                <td align="center">4</td>
+                <td align="center">1,1</td>
+                <td align="center">1</td>
+                <td align="center">0,3</td>
+              </tr>
+              <tr>
+                <td>  No responde</td>
+                <td align="center">7</td>
+                <td align="center">1,9</td>
+                <td align="center">9</td>
+                <td align="center">3,1</td>
+              </tr>
+              <tr>
+                <td colspan="5">Considera que el servicio de tele-asistencia ha mejorado su calidad
+                  de vida <sup>c</sup>
+                </td>
+              </tr>
+              <tr>
+                <td>  Si</td>
+                <td align="center">298</td>
+                <td align="center">78,8</td>
+                <td align="center">274</td>
+                <td align="center">93,2</td>
+              </tr>
+              <tr>
+                <td>  No</td>
+                <td align="center">70</td>
+                <td align="center">18,5</td>
+                <td align="center">11</td>
+                <td align="center">3,7</td>
+              </tr>
+              <tr>
+                <td>  No responde</td>
+                <td align="center">10</td>
+                <td align="center">2,6</td>
+                <td align="center">9</td>
+                <td align="center">3,1</td>
+              </tr>
+              <tr>
+                <td colspan="5">El programa de tele-asistencia le ayuda a sentirse menos, igual o
+                  más dependiente de sus familiares <sup>d</sup>
+                </td>
+              </tr>
+              <tr>
+                <td>  Menos</td>
+                <td align="center">121</td>
+                <td align="center">32,0</td>
+                <td align="center">62</td>
+                <td align="center">21,1</td>
+              </tr>
+              <tr>
+                <td>  Igual</td>
+                <td align="center">208</td>
+                <td align="center">55,0</td>
+                <td align="center">208</td>
+                <td align="center">70,7</td>
+              </tr>
+              <tr>
+                <td>  Más</td>
+                <td align="center">46</td>
+                <td align="center">12,2</td>
+                <td align="center">20</td>
+                <td align="center">6,8</td>
+              </tr>
+              <tr>
+                <td>  No responde</td>
+                <td align="center">3</td>
+                <td align="center">0,8</td>
+                <td align="center">4</td>
+                <td align="center">1,4</td>
+              </tr>
+              <tr>
+                <td colspan="5">El programa de tele-asistencia le ayuda a sentirse menos, igual o
+                  más tranquilo</td>
+              </tr>
+              <tr>
+                <td>  Menos</td>
+                <td align="center">2</td>
+                <td align="center">0,5</td>
+                <td align="center">12</td>
+                <td align="center">4,1</td>
+              </tr>
+              <tr>
+                <td>  Igual</td>
+                <td align="center">113</td>
+                <td align="center">29,9</td>
+                <td align="center">29</td>
+                <td align="center">9,9</td>
+              </tr>
+              <tr>
+                <td>  Más</td>
+                <td align="center">260</td>
+                <td align="center">68,8</td>
+                <td align="center">249</td>
+                <td align="center">84,7</td>
+              </tr>
+              <tr>
+                <td>  No responde</td>
+                <td align="center">3</td>
+                <td align="center">0,8</td>
+                <td align="center">4</td>
+                <td align="center">1,4</td>
+              </tr>
+              <tr>
+                <td colspan="5">Califica la atención que le han dado cuando utiliza el servicio de
+                  tele-asistencia como</td>
+              </tr>
+              <tr>
+                <td>  Buena</td>
+                <td align="center">341</td>
+                <td align="center">90,2</td>
+                <td align="center">271</td>
+                <td align="center">92,2</td>
+              </tr>
+              <tr>
+                <td>  Regular</td>
+                <td align="center">13</td>
+                <td align="center">3,4</td>
+                <td align="center">7</td>
+                <td align="center">2,4</td>
+              </tr>
+              <tr>
+                <td>  Mala</td>
+                <td align="center">9</td>
+                <td align="center">2,4</td>
+                <td align="center">6</td>
+                <td align="center">2,0</td>
+              </tr>
+              <tr>
+                <td>  No responde</td>
+                <td align="center">15</td>
+                <td align="center">4,0</td>
+                <td align="center">10</td>
+                <td align="center">3,4</td>
+              </tr>
+              <tr>
+                <td>En general cómo califica los servicios de Tele-asistencia</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Buenos</td>
+                <td align="center">353</td>
+                <td align="center">93,4</td>
+                <td align="center">284</td>
+                <td align="center">96,6</td>
+              </tr>
+              <tr>
+                <td>  Regulares</td>
+                <td align="center">11</td>
+                <td align="center">2,9</td>
+                <td align="center">4</td>
+                <td align="center">1,4</td>
+              </tr>
+              <tr>
+                <td>  Malos</td>
+                <td align="center">7</td>
+                <td align="center">1,9</td>
+                <td align="center">3</td>
+                <td align="center">1,0</td>
+              </tr>
+              <tr>
+                <td>  No responde</td>
+                <td align="center">7</td>
+                <td align="center">1,9</td>
+                <td align="center">3</td>
+                <td align="center">1,0</td>
+              </tr>
+              <tr>
+                <td colspan="5">Recomendaría este programa y considera que todos los adultos mayores
+                  deberían tenerlo</td>
+              </tr>
+              <tr>
+                <td>  Si</td>
+                <td align="center">363</td>
+                <td align="center">96,0</td>
+                <td align="center">287</td>
+                <td align="center">97,6</td>
+              </tr>
+              <tr>
+                <td>  No</td>
+                <td align="center">6</td>
+                <td align="center">1,6</td>
+                <td align="center">3</td>
+                <td align="center">1,0</td>
+              </tr>
+              <tr>
+                <td>  No responde</td>
+                <td align="center">9</td>
+                <td align="center">2,4</td>
+                <td align="center">4</td>
+                <td align="center">1,4</td>
+              </tr>
+              <tr>
+                <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="5" align="center">Percepción de los profesionales de la salud (n = 53)
+                  sobre el programa piloto-TATA</td>
+              </tr>
+              <tr>
+                <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td> </td>
+                <td align="center">Total</td>
+                <td align="center">%</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="3">Conoce el programa piloto de tele-asistencia y los servicios que
+                  éste ofrece</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Si</td>
+                <td align="center">48</td>
+                <td align="center">90,6</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  No</td>
+                <td align="center">5</td>
+                <td align="center">9,4</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="5">Ha observado cambios en la salud de los pacientes integrados al
+                  programa de tele-asistencia</td>
+              </tr>
+              <tr>
+                <td>  Si</td>
+                <td align="center">22</td>
+                <td align="center">41,5</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+
+              <tr>
+                <td>  No</td>
+                <td align="center">24</td>
+                <td align="center">45,3</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  No sabe/no responde</td>
+                <td align="center">7</td>
+                <td align="center">13,2</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="5">Ha observado cambios en la salud de los pacientes integrados al
+                  programa de tele-asistencia</td>
+              </tr>
+              <tr>
+                <td>  Si</td>
+                <td align="center">22</td>
+                <td align="center">41,5</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  No</td>
+                <td align="center">24</td>
+                <td align="center">45,3</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  No sabe/no responde</td>
+                <td align="center">7</td>
+                <td align="center">13,2</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="5">Percibe el estado de salud de los pacientes integrados al programa
+                  de tele-asistencia</td>
+              </tr>
+              <tr>
+                <td>  Malo</td>
+                <td align="center">6</td>
+                <td align="center">11,3</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Regular</td>
+                <td align="center">8</td>
+                <td align="center">15,1</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Bueno</td>
+                <td align="center">33</td>
+                <td align="center">62,3</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  No sabe/no responde</td>
+                <td align="center">6</td>
+                <td align="center">11,3</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="5">La prescripción de medicamentos a los pacientes integrados al
+                  programa de tele-asistencia</td>
+              </tr>
+              <tr>
+                <td>  Ha ido en aumento</td>
+                <td align="center">2</td>
+                <td align="center">3,8</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Ha disminuido</td>
+                <td align="center">10</td>
+                <td align="center">18,9</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Continúa igual</td>
+                <td align="center">41</td>
+                <td align="center">77,4</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="5">La demanda de los servicios por parte de los pacientes integrados al
+                  programa</td>
+              </tr>
+              <tr>
+                <td>  Ha ido en aumento</td>
+                <td align="center">10</td>
+                <td align="center">18,9</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Ha disminuido</td>
+                <td align="center">13</td>
+                <td align="center">24,5</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Continúa igual</td>
+                <td align="center">20</td>
+                <td align="center">37,7</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  No sabe/no responde</td>
+                <td align="center">10</td>
+                <td align="center">18,9</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="5">Considera que el programa es valioso para el seguimiento y cuidado
+                  de los pacientes adultos mayores</td>
+              </tr>
+              <tr>
+                <td>  Si</td>
+                <td align="center">50</td>
+                <td align="center">94,3</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  No </td>
+                <td align="center">3</td>
+                <td align="center">5,7</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="5">Considera que el programa debe extenderse a todos los pacientes
+                  adultos mayores del IMSS </td>
+              </tr>
+              <tr>
+                <td>  Si </td>
+                <td align="center">49</td>
+                <td align="center">92,5</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  No </td>
+                <td align="center">4</td>
+                <td align="center">7,5</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="5">Cómo calificaría los servicios del programa de tele-asistencia:</td>
+              </tr>
+              <tr>
+                <td>  Malos</td>
+                <td align="center">5</td>
+                <td align="center">9,4</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Regular</td>
+                <td align="center">7</td>
+                <td align="center">13,2</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>  Buenos</td>
+                <td align="center">41</td>
+                <td align="center">77,4</td>
+                <td> </td>
+                <td> </td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>NE: Indica que no se evaluó</p>
+            <p>
+              <sup>a</sup> Numero de observaciones de los adultos mayores</p>
+            <p>
+              <sup>b</sup> Numero de observaciones de los cuidadores/familiares</p>
+            <p>
+              <sup>c</sup> Para la columna del cuidador/familiar, indica si ha mejorado la calidad
+              de vida del adulto mayor desde que ingreso al programa</p>
+            <p>
+              <sup>d</sup> Para la columna del cuidador/familiar, indica si le ayuda a que el adulto
+              mayor dependa menos, igual o más</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>Las personas mayores (81,7%) y los cuidadores/familiares (86,1%) consideraron que las
+        respuestas que recibieron de los operadores les ayudó a solucionar el problema. La mayoría
+        consideró que recibió buen trato por parte de los operadores. El programa se ha convertido
+        en un servicio importante en la vida; 78,8% de las personas mayores y 93,2% de los
+        cuidadores/familiares percibieron mejorías en la calidad de vida de la persona mayor,
+        atribuibles al programa. Las personas mayores se sintieron menos dependientes (32,0%),
+        percepción que compartieron los cuidadores/familiares (21,1%). La tranquilidad con relación
+        al cuidado aumentó desde que la persona mayor está en el programa: 68,8% de los usuarios y
+        84,7% de los cuidadores/familiares mencionaron sentirse más tranquilos; 22,8% de los
+        cuidadores/familiares consideró que desde que la persona mayor estaba en el programa la
+        familia se involucraba y apoyaba más en el cuidado y 89,8% que el programa le había brindado
+        seguridad en su vida diaria y a su familia respecto al cuidado de la persona mayor. De los
+        que se dedican a la tarea del cuidado, 52,0% percibió mejoras en su salud.</p>
+      <p>Los profesionales de la salud observaron cambios favorables en la salud de los pacientes
+        (41,5%), disminución en la prescripción de medicamentos (18,9%) y en la demanda de servicios
+        (24,5%), atribuyéndolo principalmente a la adherencia a la medicación y al seguimiento de
+        las recomendaciones médicas. Estas recomendaciones eran supervisadas por los operadores del
+        servicio. En suma, 94,3% consideró el programa valioso para dar seguimiento y cuidado a los
+        pacientes.</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSIÓN</title>
+      <p>Por primera vez en México se analizan los efectos en la salud, la satisfacción y la
+        aceptabilidad que puede tener un programa de atención social a la salud en el hogar, a
+        través del uso de tecnologías de bajo costo. Este estudio tiene varios hallazgos
+        importantes: a) el programa piloto logró mejoras significativas en la percepción que tienen
+        los usuarios en cuanto a su estado de salud; b) la tele-asistencia contribuye a mejorar la
+        calidad de vida, la menor dependencia de la persona mayor y brinda tranquilidad para ella y
+        su familia; y c) que es factible desarrollar servicios de atención social a la salud en el
+        hogar para las personas mayores a partir del uso de las tecnologías, ya que tienen buena
+        aceptación por parte de las personas mayores, de sus cuidadores/familiares y de los
+        profesionales de la salud.</p>
+      <p>La tele-asistencia presenta influencia en las mejoras en los niveles de depresión, <xref
+          ref-type="bibr" rid="B4"><sup>4</sup></xref> en la calidad de vida, <xref ref-type="bibr"
+          rid="B5"><sup>5</sup></xref> disminución de las visitas a urgencias y una mayor adherencia
+        a las recomendaciones médicas, <xref ref-type="bibr" rid="B1"><sup>1</sup></xref> apoyo en
+        los casos de caídas generando sensación de seguridad y reducción de la anciedad, <xref
+          ref-type="bibr" rid="B2"><sup>2</sup></xref> la percepción de una vida más independiente
+        y, con relación al cuidador/familiar, el tener más tiempo, sentirse más tranquilo y seguro.
+          <xref ref-type="bibr" rid="B5"><sup>5</sup></xref> Derivado de los efectos que tiene un
+        programa de tele-asistencia, la mayoría recomienda el uso de estos servicios. <xref
+          ref-type="bibr" rid="B5"><sup>5</sup></xref>
+      </p>
+      <p>El programa responde a la demanda de las personas en cuanto a la posibilidad de envejecer
+        en casa. El uso de la tecnología en los servicios de salud representa un recurso viable para
+        desarrollar programas de servicios sociales y de salud a distancia para las personas
+        mayores. A pesar de que tienen una buena aceptación por parte de todos los usuarios y del
+        personal de salud, requieren de mayor adaptabilidad a los sistemas existentes y a las
+        necesidades individuales de sus propios usuarios. Sólo así, el programa contribuirá a
+        mejorar la atención que brindan las instituciones de salud ante una población que
+        envejece.</p>
+      <p>Los servicios de atención domiciliaria, a través del uso de las tecnologías, son
+        incipientes en México, por lo que en este campo de investigación no existen antecedentes
+        sobre los efectos que pueden tener en la salud física, psicológica y social de las personas
+        mayores y de sus cuidadores/familiares. El presente estudio tuvo como limitaciones el no
+        contar con una base completa que permitiera medir los impactos en la salud y en la calidad
+        de vida de las personas mayores y de sus cuidadores/familiares, así como, la ausencia de un
+        análisis económico que hubiese fortalecido el estudio proporcionando mayor información sobre
+        el impacto de un programa de este tipo en los costos de los servicios de salud.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERENCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Chaudhry SI, Phillips CO, Stewart SS, Riegel B, Mattera JA, Jerant AF, et
+          al. Telemonitoring for patients with chronic heart failure: a systematic review. <italic>J
+            Card Fail</italic> . 2007;13(1):56-62.
+          DOI:10.1016/j.cardfail.2006.09.001</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Chaudhry</surname>
+              <given-names>SI</given-names>
+            </name>
+            <name>
+              <surname>Phillips</surname>
+              <given-names>CO</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Riegel</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Mattera</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Jerant</surname>
+              <given-names>AF</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Telemonitoring for patients with chronic heart failure: a
+            systematic review</article-title>
+          <source>J Card Fail</source>
+          <year>2007</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>56</fpage>
+          <lpage>62</lpage>
+          <pub-id>10.1016/j.cardfail.2006.09.001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. De San Miguel K, Lewin G. Personal emergency alarms: what impact do they
+          have on older people’s lives? <italic>Australas J Ageing</italic> . 2008;27(2):103-5.
+          DOI:10.1111/j.1741-6612.2008.00286.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>San Miguel</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Lewin</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Personal emergency alarms: what impact do they have on older
+            people’s lives?</article-title>
+          <source>Australas J Ageing</source>
+          <year>2008</year>
+          <volume>27</volume>
+          <issue>2</issue>
+          <fpage>103</fpage>
+          <lpage>105</lpage>
+          <pub-id>10.1111/j.1741-6612.2008.00286</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Koch S. Home telehealth: current state and future trends. <italic>Int J
+            Med Inform</italic> . 2006;75(8):565-76.
+          DOI:10.1016/j.ijmedinf.2005.09.002</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Koch</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Home telehealth: current state and future
+            trends</article-title>
+          <source>Int J Med Inform</source>
+          <year>2006</year>
+          <volume>75</volume>
+          <issue>8</issue>
+          <fpage>565</fpage>
+          <lpage>576</lpage>
+          <pub-id>10.1016/j.ijmedinf.2005.09.002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Kroenke K, Theobald D, Wu J, Norton K, Morrison G, Carpenter J, et al.
+          Effect of telecare management on pain and depression in patients with cancer: a randomized
+          trial. <italic>JAMA</italic> . 2010;304(2):163-71.
+          DOI:10.1001/jama.2010.944</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Kroenke</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Theobald</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Norton</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Morrison</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Carpenter</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Effect of telecare management on pain and depression in
+            patients with cancer: a randomized trial</article-title>
+          <source>JAMA</source>
+          <year>2010</year>
+          <volume>304</volume>
+          <issue>2</issue>
+          <fpage>163</fpage>
+          <lpage>171</lpage>
+          <pub-id>DOI:10.1001/jama.2010.944</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. 5. Mitseva A, Peterson CB, Karamberi C, Oikonomou LCh, Ballis AV,
+          Giannakakos C, et al. Gerontechnology: providing a helping hand when caring for
+          cognitively impaired older adults-intermediate results from a controlled study on the
+          satisfaction and acceptance of informal caregivers. <italic>Curr Gerontol Geriatr
+            Res</italic> . 2012;2012:ID401705. DOI:10.1155/2012/401705</mixed-citation>
+        <element-citation publication-type="journal">
+          <label>5</label>
+          <person-group>
+            <name>
+              <surname>Mitseva</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Peterson</surname>
+              <given-names>CB</given-names>
+            </name>
+            <name>
+              <surname>Karamberi</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>LCh</surname>
+              <given-names>Oikonomou</given-names>
+            </name>
+            <name>
+              <surname>Ballis</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Giannakakos</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Gerontechnology: providing a helping hand when caring for
+            cognitively impaired older adults-intermediate results from a controlled study on the
+            satisfaction and acceptance of informal caregivers</article-title>
+          <source>Curr Gerontol Geriatr Res</source>
+          <year>2012</year>
+          <pub-id>2012:ID401705. DOI:10.1155/2012/401705</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Tele-care and tele-alarms for the elderly: preliminary
+          experiences in Mexico</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Giraldo-Rodríguez</surname>
+            <given-names>Liliana</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Torres-Castro</surname>
+            <given-names>Sara</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Martínez-Ramírez</surname>
+            <given-names>David</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Gutiérrez-Robledo</surname>
+            <given-names>Luis Miguel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pérez-Cuevas</surname>
+            <given-names>Ricardo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6">III</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff4">
+        <label>I</label> Instituto Nacional de Geriatría, Secretaría de Salud México. Distrito
+        Federal, México</aff>
+      <aff id="aff5">
+        <label>II</label> IKUSI Micronet México. Distrito Federal, México</aff>
+      <aff id="aff6">
+        <label>III</label> División de Protección Social y Salud Banco Interamericano de Desarrollo
+        (BID). Distrito Federal, México</aff>
+      <author-notes>
+        <corresp>
+          <label>Correspondence</label> : Ricardo Pérez-Cuevas Banco Inter Americano de Desarrollo
+          Paseo de la Reforma 222 piso 11 Colonia Juárez México Distrito Federal 06600 México
+          E-mail: rperez@iadb.org</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>This study was supported by the <italic>Consejo Nacional de Ciencia y Tecnología de
+              México</italic> (Process No. FONSEC 2005/2/1).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <sec>
+          <title>OBJECTIVE</title>
+          <p>: To analyze the effect of a pilot program of tele-assistance and tele-alarms on the
+            elderly’s self-perception of health status and to identify the satisfaction with and
+            acceptance of the program.</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p>: Cross-sectional study that included interviews with 378 elderly individuals, 294
+            caretakers/relatives and 53 health care professionals. The program was run in Mexico
+            City in 2010. The variables were socio-demographic characteristics, self-rated health,
+            satisfaction and acceptance of the program. The information was gathered through a
+            standardized questionnaire. The statistical analysis included descriptive analysis and
+            nonparametric tests.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p>: Significant effects on self-perception of health were observed, 6.17 (SD 17.9 p &lt;
+            0.05) points above the average. The program was well received and accepted by the
+            elderly, family caregivers and health professionals.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONS</title>
+          <p>: The program helps to maintain or improve quality of life, allows preventive care and
+            is an ideal means of providing psychosocial support to the elderly.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Aged</kwd>
+        <kwd>Remote Consultation, utilization</kwd>
+        <kwd>Patient Acceptance of Health Care</kwd>
+        <kwd>Continuity of Patient Care</kwd>
+        <kwd>Home Nursing</kwd>
+        <kwd>Health Services Research</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>Demographic, epidemiological, social and economic changes have led to huge
+          transformations in lifestyle, housing and family dynamics, leading to family members
+          becoming increasingly involved in caring for the elderly. Health care systems in the
+          majority of countries face significant challenges due to increased demand for medical care
+          from the growing number of elderly individuals, increased demand for care within the home,
+          the need for more efficient, higher quality and more equal health care services and the
+          difficulty contracting personnel to provide health care and home care services. <xref
+            ref-type="bibr" rid="B3"><sup>3</sup></xref>
+        </p>
+        <p>The information and communication technology has developed in parallel with these
+          changes, which makes it possible to face the abovementioned challenges. Health care
+          services, especially medical care, are developing innovative foci to deal with patients
+          who need home care. This is the case with tele-care and tele-alarms, which constitute
+          health and social care within the home.</p>
+        <p>Initiatives to provide home care services have started in Mexico. The <italic>Instituto
+            Mexicano del Seguro Social</italic> (IMSS - Mexican Social Security Institute) initiated
+          an Ageing Program in 2009, including the development of a pilot program of tele-care and
+          tele-alarms consisting of providing health care within the home (via telephone, 24 hours a
+          day). It is a social and health care intervention which ensures a rapid response to crisis
+          or emergency situations through information, guidance and referral activities. The service
+          users are individuals aged 60 and over, living alone or being alone most of the time, or
+          those living with another individual in similar conditions; without serious hearing
+          problems or mental disorders that limit ability to communicate.</p>
+        <p>The aim of this study was to analyze the effect of the pilot program on self-perceived
+          health in the elderly and to identify satisfaction and acceptance of the program from
+          these individuals, their caregivers/relatives and health care professionals.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>METHODS</title>
+        <p>This was a cross-sectional study consisting of a household survey of users of the program
+          and interviews with health care professionals in three family health care units belonging
+          to the IMSS, located in Mexico City. Three standardized questionnaires were used, one for
+          each target population: 378 elderly individuals who had been registered with the program
+          for over six months in June 2010; 294 caregivers/family members and 53 health care
+          professionals (heads of clinical departments, family doctors and social workers).</p>
+        <p>Two scales were used: The European Quality of Life-5 Dimensions (EuroQol-5) and the short
+          geriatric depression scale (GDS). These scales had been validated for the Hispanic
+          population. Data were collected during July 2010. The visual analogical scale and the GDS
+          scale were applied to the elderly individuals on entering the program, time zero (t0), and
+          after six months, time one (t1).</p>
+        <p>The list of service users for June 2010 was 404 elderly individuals, and a response rate
+          of 94% was reached, due to: illness, death of spouse, refusal to respond and being away on
+          holiday.</p>
+        <p>Mean age was 78.4 years (SD 6.5 years); 65.9% were women, half of whom had no partner,
+          mainly due to being widowed (42.3%), 14.2% had no caregiver/relative and in 8.0% of cases
+          two service users had the same caregiver/relative; 66.7% of caregivers/relatives were
+          women, the majority aged between 40 and 59 (46.9%), usually children (56.5%), followed by
+          spouses/partners (20.7%) or other family members (11.6%).</p>
+        <p>Data analysis included simple frequencies, contingency tables and intragroup analysis for
+          dependent samples using the Wilcoxon test. Stata 11 software was used.</p>
+        <p>The protocol was approved by the Research and Ethics Committee of the <italic>Instituto
+            Mexicano del Seguro Social</italic> (IMSS) Project No. FIS/IMSS/PROT/257; all
+          participants signed a consent form.</p>
+      </sec>
+      <sec sec-type="results">
+        <title>RESULTS</title>
+        <p>Differences were observed between time zero and time one with regards a better perceived
+          level of health on the part of the elderly individuals, with a mean of -6.17 (SD 17.90; p
+          &lt; 0.000).</p>
+        <p>Among the various services the program offers, the ambulance scored most highly (48.9%
+          from the elderly individuals and 51.0% from caregivers/relatives); followed by immediate
+          care 22.5% and 20.4% from the elderly individuals and caregivers/relatives respectively);
+          48.4% of the elderly individuals and 26.2% of caregivers/relatives had used the alarm
+          button for various reasons, with the following reasons standing out among the former:
+          pressing it by mistake (29.0%), in an emergency (16.9%, of which 38.2% was for falls), to
+          chat (14.2%) or to check it was working (13.7%). Caregivers and family members used the
+          button in emergencies (40.3%, of which 32.3% was for falls), to check it was working
+          (14.3%), by mistake (13.0%) or to ask for information (7.8%). Among the elderly
+          individuals who did not use the alarm button (51.6%), 89.2% had no need of it. The
+          reported need was offset by the calls from the service operators: 96.5% reported
+          constantly receiving calls from the operators to check that the button was working (30.7%)
+          or to monitor an illness of treatment (26.8%) (<xref ref-type="table" rid="t02"
+            >Table</xref>).</p>
+        <p>
+          <table-wrap id="t02">
+            <label>Table</label>
+            <caption>
+              <title>Satisfaction and acceptance of the TATA pilot program on the part of the
+                elderly individuals (n = 378), of their caregivers/relatives (n = 294) and of the
+                health care professionals (n = 53). Mexico City, Mexico, 2010.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="10%">
+                <col width="60%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td rowspan="3">Variables</td>
+                  <td colspan="2" align="center">Elderly individual</td>
+                  <td colspan="2" align="center">Caregiver/relative</td>
+                </tr>
+                <tr>
+                  <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td align="center">Total</td>
+                  <td align="center">%</td>
+                  <td align="center">Total</td>
+                  <td align="center">%</td>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"
+                    align="center">Knowledge of and use of the program</td>
+                </tr>
+                <tr>
+                  <td colspan="5">Awareness of the services provided by the program</td>
+                </tr>
+                <tr>
+                  <td> Ambulance</td>
+                  <td align="center">185</td>
+                  <td align="center">48.9</td>
+                  <td align="center">150</td>
+                  <td align="center">51.0</td>
+                </tr>
+                <tr>
+                  <td> Guidance</td>
+                  <td align="center">35</td>
+                  <td align="center">9.3</td>
+                  <td align="center">42</td>
+                  <td align="center">14.3</td>
+                </tr>
+                <tr>
+                  <td> Emergency care</td>
+                  <td align="center">85</td>
+                  <td align="center">22.5</td>
+                  <td align="center">60</td>
+                  <td align="center">20.4</td>
+                </tr>
+                <tr>
+                  <td> Psychological care</td>
+                  <td align="center">4</td>
+                  <td align="center">1.1</td>
+                  <td align="center">8</td>
+                  <td align="center">2.7</td>
+                </tr>
+                <tr>
+                  <td> Other (calls to relatives)</td>
+                  <td align="center">18</td>
+                  <td align="center">4.8</td>
+                  <td align="center">14</td>
+                  <td align="center">4.8</td>
+                </tr>
+                <tr>
+                  <td> Don’t know</td>
+                  <td align="center">51</td>
+                  <td align="center">13.5</td>
+                  <td align="center">20</td>
+                  <td align="center">6.8</td>
+                </tr>
+                <tr>
+                  <td>Use of the alarm button</td>
+                  <td align="center">183</td>
+                  <td align="center">48.4</td>
+                  <td align="center">77</td>
+                  <td align="center">26.2</td>
+                </tr>
+                <tr>
+                  <td colspan="5">Reasons for pressing the alarm button (n = 183) <sup>a</sup> (n =
+                    77) <sup>b</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td> Emergency</td>
+                  <td align="center">31</td>
+                  <td align="center">16.9</td>
+                  <td align="center">31</td>
+                  <td align="center">40.3</td>
+                </tr>
+                <tr>
+                  <td> Illness</td>
+                  <td align="center">15</td>
+                  <td align="center">8.2</td>
+                  <td align="center">5</td>
+                  <td align="center">6.5</td>
+                </tr>
+                <tr>
+                  <td> Request information</td>
+                  <td align="center">12</td>
+                  <td align="center">6.6</td>
+                  <td align="center">6</td>
+                  <td align="center">7.8</td>
+                </tr>
+                <tr>
+                  <td> Check it works</td>
+                  <td align="center">25</td>
+                  <td align="center">13.7</td>
+                  <td align="center">11</td>
+                  <td align="center">14.3</td>
+                </tr>
+                <tr>
+                  <td> By mistake</td>
+                  <td align="center">53</td>
+                  <td align="center">29.0</td>
+                  <td align="center">10</td>
+                  <td align="center">13.0</td>
+                </tr>
+                <tr>
+                  <td> To talk</td>
+                  <td align="center">26</td>
+                  <td align="center">14.2</td>
+                  <td align="center">6</td>
+                  <td align="center">7.8</td>
+                </tr>
+                <tr>
+                  <td> Other</td>
+                  <td align="center">17</td>
+                  <td align="center">9.3</td>
+                  <td align="center">7</td>
+                  <td align="center">9.1</td>
+                </tr>
+                <tr>
+                  <td> No answer</td>
+                  <td align="center">4</td>
+                  <td align="center">2.2</td>
+                  <td align="center">1</td>
+                  <td align="center">1.3</td>
+                </tr>
+                <tr>
+                  <td>Received calls from the operator</td>
+                  <td align="center">365</td>
+                  <td align="center">96.5</td>
+                  <td align="center">NE</td>
+                  <td align="center">NE</td>
+                </tr>
+                <tr>
+                  <td>Reasons for receiving the call (n = 365) <sup>a</sup>
+                  </td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Monitoring illness or treatment</td>
+                  <td align="center">98</td>
+                  <td align="center">26.8</td>
+                  <td align="center">NE</td>
+                  <td align="center">NE</td>
+                </tr>
+                <tr>
+                  <td> Reminder of appointments</td>
+                  <td align="center">15</td>
+                  <td align="center">4.1</td>
+                  <td align="center">NE</td>
+                  <td align="center">NE</td>
+                </tr>
+                <tr>
+                  <td> Reminder to take medication</td>
+                  <td align="center">15</td>
+                  <td align="center">4.1</td>
+                  <td align="center">NE</td>
+                  <td align="center">NE</td>
+                </tr>
+                <tr>
+                  <td> Check button is working</td>
+                  <td align="center">112</td>
+                  <td align="center">30.7</td>
+                  <td align="center">NE</td>
+                  <td align="center">NE</td>
+                </tr>
+                <tr>
+                  <td> To provide information about the service</td>
+                  <td align="center">14</td>
+                  <td align="center">3.8</td>
+                  <td align="center">NE</td>
+                  <td align="center">NE</td>
+                </tr>
+                <tr>
+                  <td> Congratulations for some special occasion</td>
+                  <td align="center">54</td>
+                  <td align="center">14.8</td>
+                  <td align="center">NE</td>
+                  <td align="center">NE</td>
+                </tr>
+                <tr>
+                  <td> Other</td>
+                  <td align="center">57</td>
+                  <td align="center">15.6</td>
+                  <td align="center">NE</td>
+                  <td align="center">NE</td>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td colspan="5" align="center">Satisfaction and acceptance</td>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Operators response helped solve the problem</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">309</td>
+                  <td align="center">81.7</td>
+                  <td align="center">253</td>
+                  <td align="center">86.1</td>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">23</td>
+                  <td align="center">6.1</td>
+                  <td align="center">12</td>
+                  <td align="center">4.1</td>
+                </tr>
+                <tr>
+                  <td> No answer</td>
+                  <td align="center">46</td>
+                  <td align="center">12.2</td>
+                  <td align="center">29</td>
+                  <td align="center">9.9</td>
+                </tr>
+                <tr>
+                  <td>Treatment received from the operator was</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Good</td>
+                  <td align="center">361</td>
+                  <td align="center">95.5</td>
+                  <td align="center">282</td>
+                  <td align="center">95.9</td>
+                </tr>
+                <tr>
+                  <td> Regular</td>
+                  <td align="center">6</td>
+                  <td align="center">1.6</td>
+                  <td align="center">2</td>
+                  <td align="center">0.7</td>
+                </tr>
+                <tr>
+                  <td> Bad</td>
+                  <td align="center">4</td>
+                  <td align="center">1.1</td>
+                  <td align="center">1</td>
+                  <td align="center">0.3</td>
+                </tr>
+                <tr>
+                  <td> No answer</td>
+                  <td align="center">7</td>
+                  <td align="center">1.9</td>
+                  <td align="center">9</td>
+                  <td align="center">3.1</td>
+                </tr>
+                <tr>
+                  <td colspan="5">Do you consider the tele-care service to have improved your
+                    quality of life <sup>c</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">298</td>
+                  <td align="center">78.8</td>
+                  <td align="center">274</td>
+                  <td align="center">93.2</td>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">70</td>
+                  <td align="center">18.5</td>
+                  <td align="center">11</td>
+                  <td align="center">3.7</td>
+                </tr>
+                <tr>
+                  <td> No answer</td>
+                  <td align="center">10</td>
+                  <td align="center">2.6</td>
+                  <td align="center">9</td>
+                  <td align="center">3.1</td>
+                </tr>
+                <tr>
+                  <td colspan="5">The tele-care program helped you to feel less dependent or more
+                    dependent on your relatives <sup>d</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td> Less</td>
+                  <td align="center">121</td>
+                  <td align="center">32.0</td>
+                  <td align="center">62</td>
+                  <td align="center">21.1</td>
+                </tr>
+                <tr>
+                  <td> The same</td>
+                  <td align="center">208</td>
+                  <td align="center">55.0</td>
+                  <td align="center">208</td>
+                  <td align="center">70.7</td>
+                </tr>
+                <tr>
+                  <td> More</td>
+                  <td align="center">46</td>
+                  <td align="center">12.2</td>
+                  <td align="center">20</td>
+                  <td align="center">6.8</td>
+                </tr>
+                <tr>
+                  <td> No response</td>
+                  <td align="center">3</td>
+                  <td align="center">0.8</td>
+                  <td align="center">4</td>
+                  <td align="center">1.4</td>
+                </tr>
+                <tr>
+                  <td colspan="5">The tele-care program helped you to have more or less peace of
+                    mind</td>
+                </tr>
+                <tr>
+                  <td> Less</td>
+                  <td align="center">2</td>
+                  <td align="center">0.5</td>
+                  <td align="center">12</td>
+                  <td align="center">4.1</td>
+                </tr>
+                <tr>
+                  <td> The same</td>
+                  <td align="center">113</td>
+                  <td align="center">29.9</td>
+                  <td align="center">29</td>
+                  <td align="center">9.9</td>
+                </tr>
+                <tr>
+                  <td> More</td>
+                  <td align="center">260</td>
+                  <td align="center">68.8</td>
+                  <td align="center">249</td>
+                  <td align="center">84.7</td>
+                </tr>
+                <tr>
+                  <td> No response</td>
+                  <td align="center">3</td>
+                  <td align="center">0.8</td>
+                  <td align="center">4</td>
+                  <td align="center">1.4</td>
+                </tr>
+                <tr>
+                  <td colspan="5">Would you rate the care received from the tele-care service
+                    as</td>
+                </tr>
+                <tr>
+                  <td> Good</td>
+                  <td align="center">341</td>
+                  <td align="center">90.2</td>
+                  <td align="center">271</td>
+                  <td align="center">92.2</td>
+                </tr>
+                <tr>
+                  <td> Regular</td>
+                  <td align="center">13</td>
+                  <td align="center">3.4</td>
+                  <td align="center">7</td>
+                  <td align="center">2.4</td>
+                </tr>
+                <tr>
+                  <td> Bad</td>
+                  <td align="center">9</td>
+                  <td align="center">2.4</td>
+                  <td align="center">6</td>
+                  <td align="center">2,0</td>
+                </tr>
+                <tr>
+                  <td> No answer</td>
+                  <td align="center">15</td>
+                  <td align="center">4.0</td>
+                  <td align="center">10</td>
+                  <td align="center">3,4</td>
+                </tr>
+                <tr>
+                  <td>In general, how would you rate the tele-care services</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Good</td>
+                  <td>353</td>
+                  <td>93.4</td>
+                  <td>284</td>
+                  <td>96,6</td>
+                </tr>
+                <tr>
+                  <td> Regular</td>
+                  <td>11</td>
+                  <td>2.9</td>
+                  <td>4</td>
+                  <td>1,4</td>
+                </tr>
+                <tr>
+                  <td> Bad</td>
+                  <td align="center">7</td>
+                  <td align="center">1.9</td>
+                  <td align="center">3</td>
+                  <td align="center">1,0</td>
+                </tr>
+                <tr>
+                  <td> No answer</td>
+                  <td align="center">7</td>
+                  <td align="center">1.9</td>
+                  <td align="center">3</td>
+                  <td align="center">1,0</td>
+                </tr>
+                <tr>
+                  <td colspan="4">Would you recommend this program and do you think all elderly
+                    individuals should have access to it?</td>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">363</td>
+                  <td align="center">96,0</td>
+                  <td align="center">287</td>
+                  <td align="center">97,6</td>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">6</td>
+                  <td align="center">1,6</td>
+                  <td align="center">3</td>
+                  <td align="center">1,0</td>
+                </tr>
+                <tr>
+                  <td> No answer</td>
+                  <td align="center">9</td>
+                  <td align="center">2,4</td>
+                  <td align="center">4</td>
+                  <td align="center">1,4</td>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td colspan="5" align="center">Perception of the health care professionals (n =
+                    53) of the TATA pilot program</td>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td/>
+                  <td align="center">Total</td>
+                  <td align="center">%</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Are you aware of the tele-care pilot program and the services</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">48</td>
+                  <td align="center">90.6</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">5</td>
+                  <td align="center">9.4</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td colspan="5">Have you observed changes in the health of those patients taking
+                    part in the tele-care program</td>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">22</td>
+                  <td align="center">41.5</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">24</td>
+                  <td align="center">45.3</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Don’t know/No answer</td>
+                  <td align="center">7</td>
+                  <td align="center">13.2</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td colspan="5">Have you observed changes in the health of those patients taking
+                    part in the tele-care program</td>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">22</td>
+                  <td align="center">41.5</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">24</td>
+                  <td align="center">45.3</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Don’t know/No answer</td>
+                  <td align="center">7</td>
+                  <td align="center">13.2</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td colspan="5">Do you perceive the health of the patients taking part in the
+                    tele-care program to be</td>
+                </tr>
+                <tr>
+                  <td> Bad</td>
+                  <td align="center">6</td>
+                  <td align="center">11.3</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Regular</td>
+                  <td align="center">8</td>
+                  <td align="center">15.1</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Good</td>
+                  <td align="center">33</td>
+                  <td align="center">62.3</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Don’t know/No answer</td>
+                  <td align="center">6</td>
+                  <td align="center">11.3</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td colspan="5">Medical prescriptions for patients taking part in the tele-care
+                    program have</td>
+                </tr>
+                <tr>
+                  <td> Increased</td>
+                  <td align="center">2</td>
+                  <td align="center">3.8</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Decreased</td>
+                  <td align="center">10</td>
+                  <td align="center">18.9</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Remained the same</td>
+                  <td align="center">41</td>
+                  <td align="center">77.4</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td colspan="5">Demand for health care services by patients taking part in the
+                    tele-care program has</td>
+                </tr>
+                <tr>
+                  <td> Increased</td>
+                  <td align="center">10</td>
+                  <td align="center">18.9</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Decreased</td>
+                  <td align="center">13</td>
+                  <td align="center">24.5</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Remained the same</td>
+                  <td align="center">20</td>
+                  <td align="center">37.7</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Don’t know/No answer</td>
+                  <td align="center">10</td>
+                  <td align="center">18.9</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td colspan="5">Do you consider this program to be valuable in monitoring and
+                    caring for elderly patients?</td>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">50</td>
+                  <td align="center">94.3</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">3</td>
+                  <td align="center">5.7</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td colspan="5">Do you think this program should be extended to all elderly
+                    patients in the IMSS?</td>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td align="center">49</td>
+                  <td align="center">92.5</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td align="center">4</td>
+                  <td align="center">7.5</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td colspan="5">How would you rate the services provided by the tele-care
+                    program?</td>
+                </tr>
+                <tr>
+                  <td> Bad</td>
+                  <td align="center">5</td>
+                  <td align="center">9.4</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Regular</td>
+                  <td align="center">7</td>
+                  <td align="center">13.2</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td> Good</td>
+                  <td align="center">41</td>
+                  <td align="center">77.4</td>
+                  <td/>
+                  <td/>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>TATA pilot program: Tele-care and tele-alarms pilot program</p>
+              <p>NE: Not evaluated</p>
+              <p>
+                <sup>a</sup> Number of observations by elderly individuals</p>
+              <p>
+                <sup>b</sup> Number of observations by caregivers/relatives</p>
+              <p>
+                <sup>c</sup> For the caregivers/relatives column, indicate whether the elderly
+                individual’s quality of life has improved since entering the program</p>
+              <p>
+                <sup>d</sup> For the caregivers/relatives column, indicate whether the program
+                helped the elderly individual be more, the same or less dependent</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>The elderly individuals (81.7%) and the caregivers/relatives (86.1%) considered that the
+          responses they received from the operators helped them resolve the problem. The majority
+          considered that the operators had provided a good service. The program became an important
+          service in day-to-day life; 78.8% of the elderly individuals and 93.2% of the
+          caregivers/relatives noticed improvements in the elderly individual’s quality of life
+          attributable to the program. They felt less dependent (32.0%), a perception that was
+          shared by the caregivers/relatives (21.2%). Peace of mind regarding the increase in care
+          after the elderly individual entered the program: 68.8% of the service users and 84.7% of
+          the caregivers/relatives considered that since the elderly individual had entered the
+          program the family had become more involved and supportive in care and 89.8% that the
+          program provided a daily security for the elderly and their family with regards the care.
+          Among the carers, 52.0% perceived improvements in health.</p>
+        <p>The health care professionals observed positive changes in the health of the patients
+          (41.5%), decreased in prescribed medication (18.9%) and in demand for health care services
+          (24.5%), attributing this mainly to adherence to treatment and following medical
+          recommendations. These recommendations were supervised by the operators of the service. In
+          total, 94.3% deemed the program to be valuable in monitoring and caring for patients.</p>
+      </sec>
+      <sec sec-type="discussion">
+        <title>DISCUSSION</title>
+        <p>For the first time in Mexico the effects on health and the satisfaction with and
+          acceptance of a social and health care program within the home, using low cost technology,
+          have been analyzed. This study made various important findings: a) the pilot program
+          achieved significant improvements in the service users’ perception of their own health; b)
+          tele-care contributed to improvements in quality of life, the elderly individuals becoming
+          less dependent and to the peace of mind of themselves and their families; and c) that it
+          is feasible to develop social and health care services for the elderly within the home
+          using technology, as there is good acceptance on the part of the elderly, their
+          caregivers/relatives and of the health care professionals.</p>
+        <p>Tele-care was shown to influence improvements in levels of depression, <xref
+            ref-type="bibr" rid="B4"><sup>4</sup></xref> in quality of life, <xref ref-type="bibr"
+            rid="B5"><sup>5</sup></xref> decreasing visits to the emergency room and greater
+          adherence to medical recommendations, <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>
+          support in the case of falls, giving a feeling of security and reduction in anxiety, <xref
+            ref-type="bibr" rid="B2"><sup>2</sup></xref> the perception of more independent life
+          and, with relation to the caregiver/relative, more free time, peace of mind and security.
+            <xref ref-type="bibr" rid="B5"><sup>5</sup></xref> Give the effects that the tele-care
+          program had, the majority recommended the use of these services. <xref ref-type="bibr"
+            rid="B5"><sup>5</sup></xref>
+        </p>
+        <p>The program meets the needs of individuals with concerning growing old within their own
+          homes. Using technology in health care services is a viable resource for developing
+          long-distance social and health care service programs for the elderly. Although there was
+          good acceptance from all of the service users and from the health care professionals,
+          greater adaptability to existing systems and the individual needs of the service users
+          themselves is required. Only then will the program contribute to improving the health care
+          provided by health care institutions to the ageing population.</p>
+        <p>Health care services within the home using such technologies are emerging in Mexico, thus
+          in this field of research no previous data exists on the effects it may have on the
+          physical, psychological and social health of the elderly and their caregivers/relatives. A
+          limitation of this study was the lack of a complete foundation which would have enabled
+          the impact on the elderly individuals’ health and quality of life to be measured. Another
+          was the lack of economic analysis that would have enhanced the study, providing better
+          information on the impact of programs of this type on health care service costs.</p>
+      </sec>
+    </body>
+  </sub-article>
+</article>

@@ -1,0 +1,2259 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="research-article" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047004585</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047004585</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Prática de Saúde Pública</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="pt">Determinantes sociais da saúde e o Programa Saúde da Família no
+          município de São Paulo</article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>Determinantes sociales de la Salud y el Programa de Salud de la Familia en el
+            municipio de Sao Paulo, SP</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dowbor</surname>
+            <given-names>Tatiana Pluciennik</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Westphal</surname>
+            <given-names>Márcia Faria</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>I</label>
+        <institution content-type="orgdiv2">Survey Research Unit</institution>
+        <institution content-type="orgdiv1">Centre for Research on Inner City Health</institution>
+        <institution content-type="orgname">St. Michael’s Hospital</institution>
+        <addr-line>
+          <named-content content-type="city">Toronto</named-content>
+        </addr-line>
+        <country>Canadá</country> Survey Research Unit. Centre for Research on Inner City Health.
+        St. Michael’s Hospital. Toronto, Canadá</aff>
+      <aff id="aff2">
+        <label>II</label>
+        <institution content-type="orgdiv1">Faculdade de Saúde Pública</institution>
+        <institution content-type="orgname">Universidade de São Paulo</institution>
+        <addr-line>
+          <named-content content-type="city">São Paulo</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Faculdade de Saúde Pública. Universidade de São Paulo. São Paulo,
+        SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondência | Correspondence</bold> : Tatiana Pluciennik Dowbor. 30 Bond Street.
+          Toronto ON. M5B 1W8 Canada. E-mail: dowbort@smh.cal</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>Pesquisa subvencionada pela Fundação de Amparo à Pesquisa do Estado de São Paulo
+            (Processo nº 05/56470-9) e pelo Conselho Nacional de Desenvolvimento Científico e
+            Tecnológico (Processo no 401973/2005-0).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>Os autores declaram não haver conflito de interesses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>4</issue>
+      <fpage>781</fpage>
+      <lpage>790</lpage>
+      <history>
+        <date date-type="received">
+          <day>8</day>
+          <month>10</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>3</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="pt">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Analisar a situação do trabalho com determinantes sociais da saúde no âmbito do
+            Programa Saúde da Família.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>Estudo de caso com métodos mistos de pesquisa, ancorados em estratégia sequencial
+            explanatória, com 171 gerentes das unidades do Programa Saúde da Família em São Paulo,
+            SP, em 2005/2006. Questionários autopreenchíveis foram aplicados. Entrevistas
+            semiestruturadas e grupos focais foram realizados com amostra intencional de
+            profissionais envolvidos no trabalho com determinantes sociais da saúde. Os dados
+            quantitativos foram analisados por análise descritiva, análise de correspondência
+            múltipla, análise de agrupamento e testes de correlação entre variáveis. Os dados
+            qualitativos foram apurados por análise de conteúdo e a criação de categorias
+            temáticas.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>Apesar da concentração de atividades direcionadas ao cuidado com a doença, o Programa
+            Saúde da Família realizou atividades relacionadas à determinação social da saúde,
+            contemplando todas as formas de abordagem da promoção da saúde (biológico,
+            comportamental, psicológico, social e estrutural) e os principais determinantes sociais
+            da saúde descritos na literatura. Houve diferença significativa quanto à abrangência dos
+            determinantes trabalhados nas unidades em relação às diferentes regiões do município.
+            Constatou-se fragilidade das iniciativas e a sua desconexão com a estrutura programática
+            do Programa Saúde da Família.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSÕES</title>
+          <p>A quantidade e variedade de atividades com determinantes sociais da saúde realizadas no
+            Programa Saúde da Família mostram potencial para trabalhar a determinação social da
+            saúde. Mas a fluidez de objetivo e o caráter extraordinário das atividades descritas
+            questionam sua sustentabilidade como parte integral da atual estrutura organizacional do
+            programa.</p>
+        </sec>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Analizar la situación del trabajo con determinantes sociales de la salud en el ámbito
+            del Programa Salud de la Familia.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>Estudio de caso con métodos mixtos de investigación, anclados en estrategia secuencial
+            explicativa, con 171 gerentes de las unidades del Programa Salud de la Familia en Sao
+            Paulo, SP, en 2005/2006. Cuestionarios auto-llenables fueron aplicados. Entrevistas
+            semi-estructuradas y grupos focales fueron realizados con muestra intencional de
+            profesionales involucrados en el trabajo con determinantes sociales de la salud. Los
+            datos cuantitativos fueron analizados a través de análisis descriptivo, análisis de
+            correspondencia múltiple, análisis de agrupamiento y pruebas de correlación entre
+            variables. Los datos cualitativos fueron analizados a través de análisis de contenido y
+            con la creación de categorías temáticas.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>A pesar de la concentración de actividades dirigidas al cuidado de la enfermedad, el
+            Programa de Salud de la Familia realizó actividades relacionadas con la determinación de
+            la salud, contemplando todas las formas de abordaje de la promoción de la salud
+            (biológico, conductual, psicológico, social y estructural) y los principales
+            determinantes sociales de la salud descritos en la literatura. Hubo diferencia
+            significativa con relación a la amplitud de los determinantes trabajados en las unidades
+            con respecto a las diferentes regiones del municipio. Se verificó fragilidad de las
+            iniciativas y su desconexión con la estructura programática del Programa Salud de la
+            Familia.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONES</title>
+          <p>La cantidad y variedad de actividades con determinantes sociales de la salud realizadas
+            en el Programa Salud de la Familia muestran potencial para trabajar la determinación
+            social de la salud. Sin embargo, la fluidez del objetivo y el carácter extraordinario de
+            las actividades descritas cuestionan su sustentabilidad como parte integral de la actual
+            estructura organizativa del programa.</p>
+        </sec>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <kwd>Condições Sociais</kwd>
+        <kwd>Iniquidade Social</kwd>
+        <kwd>Desigualdades em Saúde</kwd>
+        <kwd>Programa Saúde da Família</kwd>
+        <kwd>Atenção Primária à Saúde</kwd>
+        <kwd>Promoção da Saúde</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>Condiciones Sociales</kwd>
+        <kwd>Inequidad Social</kwd>
+        <kwd>Desigualdades en la Salud</kwd>
+        <kwd>Programa de Salud Familiar</kwd>
+        <kwd>Atención Primaria de Salud</kwd>
+        <kwd>Promoción de la Salud</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>Fundação de Amparo à Pesquisa do Estado de São Paulo</funding-source>
+          <award-id>05/56470-9</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Conselho Nacional de Desenvolvimento Científico e
+            Tecnológico</funding-source>
+          <award-id>401973/2005-0</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="4"/>
+        <table-count count="4"/>
+        <ref-count count="20"/>
+        <page-count count="10"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUÇÃO</title>
+      <p>É função dos governos buscar maneiras de reestruturar seus sistemas de saúde para superar
+        as iniquidades, aumentar sua eficiência e a satisfação dos cidadãos em relação aos serviços
+        oferecidos. <xref ref-type="bibr" rid="B7"><sup>7</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B20"><sup>20</sup></xref> Nesse processo de reorganização das
+        políticas de saúde vigentes, alguns países buscaram instrumentos e diretrizes na perspectiva
+        da promoção da saúde para a superação dos problemas identificados. Objetivaram implementar
+        modelos de atenção à saúde que favorecessem, ao mesmo tempo, a equidade, a integralidade, a
+        participação social, a intersetorialidade e a orientação das necessidades de saúde das
+        pessoas. <xref ref-type="fn" rid="fn1"><sup>a</sup></xref> Um exemplo desses modelos é o
+        Programa Saúde da Família (PSF) brasileiro. <xref ref-type="fn" rid="fn2"
+          ><sup>b</sup></xref>
+      </p>
+      <p>O PSF, como uma estratégia de atenção primária à saúde, é centrado no território e nas
+        necessidades de saúde das famílias e comunidades. Propõe-se uma prática transformadora em
+        que a saúde seja o foco do trabalho e não somente a doença. Trabalha-se para a articulação
+        de uma prática intersetorial, que ultrapassa o setor saúde e lida com a determinação social
+        da saúde.</p>
+      <p>A determinação social da saúde é grande preocupação dos organismos internacionais,
+        especialmente da Organização Mundial da Saúde (OMS). <xref ref-type="bibr" rid="B11"
+            ><sup>11</sup></xref> A equidade em saúde está longe de ser alcançada em muitas partes
+        do mundo, especialmente em países em desenvolvimento. A OMS inaugurou a Comissão dos
+        Determinantes Sociais de Saúde (DSS) em 2005 como parte de um redirecionamento da
+        organização para focar o trabalho nas condições sociais para a saúde. A reestruturação dos
+        sistemas de saúde para que possam contribuir positivamente para a promoção de condições
+        favoráveis para a saúde das pessoas está entre os principais desafios colocados pela
+        Comissão. <xref ref-type="bibr" rid="B13"><sup>13</sup></xref> A OMS realizou no Brasil a
+        Conferência Internacional dos DSS em 2011, em virtude do contínuo interesse nacional e
+        internacional pelo tema dos DSS, <xref ref-type="bibr" rid="B2"><sup>2</sup></xref> e
+        ressaltou a importância de um sistema de atenção primária à saúde integral e abrangente.
+          <sup>c</sup>
+      </p>
+      <p>O PSF se apresenta no nível internacional como importante estudo de caso quanto ao DSS nos
+        sistemas de saúde e, no nível nacional, como estratégia em curso que precisa ser
+        constantemente avaliada e redirecionada.</p>
+      <p>O objetivo deste estudo é analisar a situação do trabalho com determinantes sociais da
+        saúde no âmbito do Programa Saúde da Família.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>MÉTODOS</title>
+      <p>Estudo de caso <xref ref-type="bibr" rid="B19"><sup>19</sup></xref> sobre o trabalho com
+        DSS no PSF de São Paulo, SP, em 2008. O município foi escolhido por sua importância para o
+        PSF como um todo e pela viabilidade do processo de coleta de dados. O estudo foi dividido em
+        duas fases sequenciais de coleta e análise de dados essencialmente ancoradas em uma
+        estratégia sequencial explanatória. <xref ref-type="bibr" rid="B6"><sup>6</sup></xref> A
+        primeira fase, majoritariamente quantitativa, contemplou a coleta de dados quantitativos e
+        qualitativos obtidos de questionários autopreenchidos pelos gerentes das unidades de saúde
+        da família do município. O inquérito populacional proporcionou visão abrangente do tema
+        estudado no município de São Paulo como um todo, porém essa visão se restringiu à opinião
+        exclusiva de uma categoria profissional. Na segunda fase de coleta de dados, unicamente de
+        caráter qualitativo, entrevistas semi estruturadas e grupos focais nos permitiram aprofundar
+        o tema do estudo, incorporando a visão de diferentes profissionais do programa. Neste artigo
+        apresentamos dados selecionados da primeira fase do estudo.</p>
+      <p>O inquérito populacional baseou-se em informações dos gerentes de unidades de saúde que
+        preencheram um questionário semiestruturado em datas específicas em que compareciam a
+        reuniões de supervisão. Existiam 201 unidades de saúde vinculadas ao PSF ou ao Programa de
+        Agente Comunitário de Saúde (PACS). O questionário foi respondido por 171 gerentes (85% da
+        população). Os gerentes das unidades do PSF eram majoritariamente do sexo feminino (83%);
+        67% deles tinham entre 40 e 60 anos; 51% eram enfermeiros ou médicos; 57% estavam na unidade
+        de dois a seis anos; e 59% estavam no cargo de dois a seis anos.</p>
+      <p>A maioria dos questionários (82%) foi preenchida na presença da pesquisadora. Houve somente
+        uma recusa para o preenchimento do questionário. A principal razão para o não preenchimento
+        do questionário foi a falta do gerente na reunião de supervisão. Todas as coordenadorias,
+        supervisões de saúde, instituições parceiras e modalidades de assistência estiveram
+        significativamente representadas nos dados obtidos. Afim de proteger os respondentes e
+        minimizar a possível propensão do gerente em assinalar aquilo que a coordenação do programa
+        espera dele a confidencialidade dos respondentes foi garantida e para minimizar “erros de
+        interpretação” o questionário foi pré-testado.</p>
+      <p>A técnica de Análise de Correspondência Múltipla (ACM) foi utilizada para analisar
+        simultaneamente a relação das diversas categorias de DSS trabalhados nas unidades. Uma lista
+        de 22 DSS foi apresentada para os gerentes das unidades por meio de questão de múltipla
+        escolha. Os DSS foram selecionados com base em revisão da literatura. <xref ref-type="fn"
+          rid="fn4"><sup>d</sup></xref> Usamos a análise de agrupamento hierárquico para fazer a
+        caracterização resumida dos indivíduos (gerentes), reunindo na mesma categoria os que
+        responderam de forma semelhante. Para caracterização desses grupos, usamos análise de
+        resíduos, que indicam quais foram as respostas que realmente predominaram em cada grupo.
+        Assim, resumimos o padrão de resposta de cada grupo e o classificamos segundo seu padrão.
+          <xref ref-type="bibr" rid="B16"><sup>16</sup></xref> A associação entre grupos de
+        respondentes e coordenadorias de saúde, responsáveis por diferentes regiões da cidade, foi
+        avaliada pelo teste Exato de Fisher, não tendo sido constatada a homogeneidade entre os
+        grupos (p = 0,003).</p>
+      <p>O estudo foi aprovado pelo Comitê de Ética em Pesquisa da Secretaria Municipal de Saúde de
+        São Paulo (Processo 064/2005 – ano 2005) e pelo Comitê de Ética em Pesquisa da Faculdade de
+        Saúde Pública da Universidade de São Paulo (Processo 1304 – ano 2005).</p>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTADOS</title>
+      <p>Os esforços do programa quanto ao trabalho com DSS estiveram dirigidos para um grupo de 11
+        determinantes, o qual nomeamos DSS clássicos (ambiente de trabalho, drogadição, estresse,
+        modelos de atenção à saúde, educação, inclusão social, autoestima, primeiros anos de vida,
+        saneamento, lazer e alimentação). Um grupo minoritário de unidades, além de trabalhar com os
+        DSS clássicos, trabalhava também com os determinantes nomeados amplos (recursos
+        sustentáveis, distribuição de renda, emprego, paz, rede de suporte social, justiça
+        social/equidade, renda, habitação, segurança, transporte e ecossistema saudável) ( <xref
+          ref-type="table" rid="t01">Tabela 1</xref> ).</p>
+      <p>
+        <table-wrap id="t01">
+          <label>Tabela 1</label>
+          <caption>
+            <title>Determinantes Sociais de Saúde trabalhados no Programa de Saúde da Família
+              segundo os gerentes das unidades. São Paulo, SP, 2005 a 2006. (Número de respondentes,
+              N = 162)</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="25%">
+              <col width="50%"/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>DSS</td>
+                <td align="center">#</td>
+                <td align="center">%</td>
+              </tr>
+              <tr>
+                <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Alimentação</td>
+                <td align="center">112</td>
+                <td align="center">69,0</td>
+              </tr>
+              <tr>
+                <td>Lazer</td>
+                <td align="center">104</td>
+                <td align="center">64,0</td>
+              </tr>
+              <tr>
+                <td>Saneamento</td>
+                <td align="center">103</td>
+                <td align="center">64,0</td>
+              </tr>
+              <tr>
+                <td>Primeiros anos de vida</td>
+                <td align="center">92</td>
+                <td align="center">57,0</td>
+              </tr>
+              <tr>
+                <td>Autoestima</td>
+                <td align="center">89</td>
+                <td align="center">55,0</td>
+              </tr>
+              <tr>
+                <td>Inclusão social</td>
+                <td align="center">78</td>
+                <td align="center">48,0</td>
+              </tr>
+              <tr>
+                <td>Educação</td>
+                <td align="center">66</td>
+                <td align="center">41,0</td>
+              </tr>
+              <tr>
+                <td>Modelos de atenção à saúde</td>
+                <td align="center">65</td>
+                <td align="center">40,0</td>
+              </tr>
+              <tr>
+                <td>Estresse</td>
+                <td align="center">61</td>
+                <td align="center">38,0</td>
+              </tr>
+              <tr>
+                <td>Drogadição</td>
+                <td align="center">55</td>
+                <td align="center">34,0</td>
+              </tr>
+              <tr>
+                <td>Ambiente de trabalho</td>
+                <td align="center">46</td>
+                <td align="center">28,0</td>
+              </tr>
+              <tr>
+                <td>Ecossistema saudável</td>
+                <td align="center">36</td>
+                <td align="center">22,0</td>
+              </tr>
+              <tr>
+                <td>Transporte</td>
+                <td align="center">34</td>
+                <td align="center">21,0</td>
+              </tr>
+              <tr>
+                <td>Segurança </td>
+                <td align="center">33</td>
+                <td align="center">20,0</td>
+              </tr>
+              <tr>
+                <td>Habitação</td>
+                <td align="center">32</td>
+                <td align="center">20,0</td>
+              </tr>
+              <tr>
+                <td>Renda</td>
+                <td align="center">31</td>
+                <td align="center">19,0</td>
+              </tr>
+              <tr>
+                <td>Justiça social/equidade</td>
+                <td align="center">30</td>
+                <td align="center">19,0</td>
+              </tr>
+              <tr>
+                <td>Paz</td>
+                <td align="center">29</td>
+                <td align="center">18,0</td>
+              </tr>
+              <tr>
+                <td>Rede de suporte social</td>
+                <td align="center">29</td>
+                <td align="center">18,0</td>
+              </tr>
+              <tr>
+                <td>Emprego</td>
+                <td align="center">27</td>
+                <td align="center">17,0</td>
+              </tr>
+              <tr>
+                <td>Distribuição de renda</td>
+                <td align="center">15</td>
+                <td align="center">9,0</td>
+              </tr>
+              <tr>
+                <td>Recursos sustentáveis</td>
+                <td align="center">12</td>
+                <td align="center">7,0</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </p>
+      <p>A partir da análise de correspondência múltipla ( <xref ref-type="fig" rid="f01">Figura
+          1</xref> ) e agrupamento, foi observada diferença significativa quanto à abrangência dos
+        determinantes trabalhados nas unidades em relação às diferentes regiões do município
+        (Coordenadorias Norte, Sul, Sudeste, Centro-Oeste e Leste). Três grupos de unidades foram
+        identificados: o <italic>Negativista</italic> , que se diferenciou estatisticamente do total
+        por não trabalhar com DSS (predomínio da Coordenadoria de Saúde Sul); o
+          <italic>Essencialista</italic> , que trabalhava mais do que o geral com os DSS clássicos
+        (predomínio da Coordenadoria de Saúde Leste); e o <italic>Inclusivo</italic> , que
+        trabalhava mais do que o geral com a totalidade de DSS, clássicos e amplos (predomínio da
+        Coordenadoria de Saúde Sudeste) ( <xref ref-type="fig" rid="f02">Figura 2</xref> ).</p>
+      <p>
+        <fig id="f01">
+          <label>Figura 1</label>
+          <caption>
+            <title>Quadrantes da ACM-DSS trabalhados no PSF, segundo gerentes das unidades. São
+              Paulo, SP, 2005 a 2006.</title>
+          </caption>
+          <graphic xlink:href="0034-8910-rsp-47-04-0781-gf01"/>
+        </fig>
+      </p>
+      <p>
+        <fig id="f02">
+          <label>Figura 2</label>
+          <caption>
+            <title>Grupos de respondentes segundo categoria de resposta quanto aos Determinantes
+              Sociais de Saúde trabalhados no Programa de Saúde da Família. São Paulo, SP, 2005 a
+              2006.</title>
+          </caption>
+          <graphic xlink:href="0034-8910-rsp-47-04-0781-gf02"/>
+        </fig>
+      </p>
+      <p>As atividades que objetivavam prevenir, tratar, detectar precocemente e/ou curar doenças
+        por meio de intervenções biomédicas eram realizadas nas unidades de saúde da família
+        diariamente e possuíam alto padrão de regularidade. Entre essas atividades, tivemos consulta
+        médica, aplicação de medicamentos, pronto atendimento, grupos variados, entre outros.</p>
+      <p>As atividades que visavam à mudança de comportamento de membros da comunidade para o
+        desenvolvimento de estilos de vida mais saudáveis apresentaram variado padrão de
+        regularidade e frequência. O aconselhamento individual apresentou maior frequência do que as
+        demais atividades desse grupo e foi realizado diariamente por mais de 60% das unidades. As
+        atividades de condução de palestras e realização e/ou vinculação às campanhas de saúde em
+        ação no momento apresentaram baixo padrão de regularidade e ocorreram, sobretudo,
+        mensalmente e sem padrão de regularidade.</p>
+      <p>As atividades para estimular membros da comunidade a se ajudarem mutuamente no
+        enfrentamento de problemas individuais apresentaram variado padrão de regularidade,
+        concentrando-se nas frequências semanal e mensal. As atividades envolveram variedade de
+        grupos de autoajuda e outras formas de suporte psicossociais.</p>
+      <p>As atividades em conjunto com a comunidade que tinham por objetivo a melhoria da qualidade
+        de vida dos membros da comunidade e/ou a resolução de problemas locais concentraram-se nas
+        frequências semanal, mensal e nunca ( <xref ref-type="table" rid="t02">Tabela 2</xref> ).
+        Mais de 200 atividades desse grupo foram mencionadas pelos entrevistados.</p>
+      <p>
+        <table-wrap id="t02">
+          <label>Tabela 2</label>
+          <caption>
+            <title>Frequência de atividades em conjunto com a comunidade que objetivam a melhoria da
+              qualidade de vida dos membros da comunidade e/ou a resolução de problemas locais no
+              Programa de Saúde da Família. São Paulo, SP, 2005 a 2006.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="8%">
+              <col width="15%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="5"> Frequência </td>
+                <td colspan="10" align="center">Atividade</td>
+              </tr>
+              <tr>
+                <td colspan="10" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="2" align="center">Terapia comunitária</td>
+                <td colspan="2" align="center">Identificação de problemas e/ou vulnerabilidades
+                  locais</td>
+                <td colspan="2" align="center">Educação</td>
+                <td colspan="2" align="center">Lazer</td>
+                <td colspan="2" align="center">Geração de renda</td>
+              </tr>
+              <tr>
+                <td colspan="10" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td align="center">#</td>
+                <td align="center">%</td>
+                <td align="center">#</td>
+                <td align="center">%</td>
+                <td align="center">#</td>
+                <td align="center">%</td>
+                <td align="center">#</td>
+                <td align="center">%</td>
+                <td align="center">#</td>
+                <td align="center">%</td>
+              </tr>
+              <tr>
+                <td>Diariamente</td>
+                <td align="center">9</td>
+                <td align="center">6,0</td>
+                <td align="center">19</td>
+                <td align="center">13,0</td>
+                <td align="center">24</td>
+                <td align="center">17,0</td>
+                <td align="center">15</td>
+                <td align="center">10,0</td>
+                <td align="center">9</td>
+                <td align="center">7,0</td>
+              </tr>
+              <tr>
+                <td>Semanalmente</td>
+                <td align="center">54</td>
+                <td align="center">36,0</td>
+                <td align="center">17</td>
+                <td align="center">12,0</td>
+                <td align="center">32</td>
+                <td align="center">22,0</td>
+                <td align="center">35</td>
+                <td align="center">23,0</td>
+                <td align="center">32</td>
+                <td align="center">24,0</td>
+              </tr>
+              <tr>
+                <td>Mensalmente</td>
+                <td align="center">13</td>
+                <td align="center">9,0</td>
+                <td align="center">48</td>
+                <td align="center">33,0</td>
+                <td align="center">36</td>
+                <td align="center">25,0</td>
+                <td align="center">25</td>
+                <td align="center">16,0</td>
+                <td align="center">7</td>
+                <td align="center">5,0</td>
+              </tr>
+              <tr>
+                <td>Trimestralmente</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">6</td>
+                <td align="center">4,0</td>
+                <td align="center">10</td>
+                <td align="center">7,0</td>
+                <td align="center">10</td>
+                <td align="center">7,0</td>
+                <td align="center">4</td>
+                <td align="center">3,0</td>
+              </tr>
+              <tr>
+                <td>Semestralmente</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">3</td>
+                <td align="center">2,0</td>
+                <td align="center">6</td>
+                <td align="center">4,0</td>
+                <td align="center">11</td>
+                <td align="center">7,0</td>
+                <td align="center">3</td>
+                <td align="center">2,0</td>
+              </tr>
+              <tr>
+                <td>Anualmente</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">4</td>
+                <td align="center">3,0</td>
+                <td align="center">0</td>
+                <td align="center">0</td>
+                <td align="center">11</td>
+                <td align="center">7,0</td>
+                <td align="center">5</td>
+                <td align="center">4,0</td>
+              </tr>
+              <tr>
+                <td>Sem padrão de regularidade</td>
+                <td align="center">13</td>
+                <td align="center">9,0</td>
+                <td align="center">23</td>
+                <td align="center">16,0</td>
+                <td align="center">18</td>
+                <td align="center">13,0</td>
+                <td align="center">26</td>
+                <td align="center">17,0</td>
+                <td align="center">18</td>
+                <td align="center">13,0</td>
+              </tr>
+              <tr>
+                <td>Não sabe</td>
+                <td align="center">8</td>
+                <td align="center">5,0</td>
+                <td align="center">12</td>
+                <td align="center">8,0</td>
+                <td align="center">6</td>
+                <td align="center">4,0</td>
+                <td align="center">6</td>
+                <td align="center">4,0</td>
+                <td align="center">8</td>
+                <td align="center">6,0</td>
+              </tr>
+              <tr>
+                <td>Nunca</td>
+                <td align="center">54</td>
+                <td align="center">36,0</td>
+                <td align="center">13</td>
+                <td align="center">9,0</td>
+                <td align="center">12</td>
+                <td align="center">8,0</td>
+                <td align="center">13</td>
+                <td align="center">9,0</td>
+                <td align="center">50</td>
+                <td align="center">37,0</td>
+              </tr>
+              <tr>
+                <td>Total parcial</td>
+                <td align="center">151</td>
+                <td> </td>
+                <td align="center">145</td>
+                <td> </td>
+                <td align="center">144</td>
+                <td> </td>
+                <td align="center">152</td>
+                <td> </td>
+                <td align="center">136</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Sem resposta</td>
+                <td align="center">20</td>
+                <td> </td>
+                <td align="center">26</td>
+                <td> </td>
+                <td align="center">27</td>
+                <td> </td>
+                <td align="center">19</td>
+                <td> </td>
+                <td align="center">35</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Total</td>
+                <td align="center">171</td>
+                <td> </td>
+                <td align="center">171</td>
+                <td> </td>
+                <td align="center">171</td>
+                <td> </td>
+                <td align="center">171</td>
+                <td> </td>
+                <td align="center">171</td>
+                <td> </td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </p>
+      <p>As atividades para elaboração e/ou mobilização por políticas públicas que interfiram na
+        saúde e/ou qualidade de vida da população apresentaram baixo padrão de regularidade e
+        variado padrão de frequência. As realizadas mensalmente ou sem padrão de regularidade foram
+        as mais assinaladas nesse grupo. Aquelas relacionadas à participação em conselhos locais ou
+        de saúde foram apontadas como mensais pela maioria dos gerentes. Atividades de organização
+        de grupos de trabalho (pesquisa, prevenção de acidentes, acolhimento, humanização, combate à
+        violência, meio ambiente) ocorreram mensalmente e nunca . </p>
+      <p>As principais barreiras apontadas para o trabalho com DSS no PSF do município foram:
+        condições socioeconômicas desfavoráveis, falta de recursos, falta de adesão da população e o
+        desequilíbrio entre a baixa oferta e a alta demanda por serviços. Os principais
+        facilitadores foram: existência do Agente Comunitário de Saúde (ACS) nas equipes,
+        mobilização da população local, empenho dos profissionais, parcerias e conhecimento do
+        território.</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSÃO</title>
+      <p>A despeito da esperada concentração de atividades direcionadas ao cuidado com a doença, o
+        PSF do município de São Paulo realiza diversas atividades relacionadas à determinação social
+        da saúde, contemplando todas as fundamentais formas de abordagem da promoção da saúde
+        (biológica, comportamental, psicológica, social e estrutural) <xref ref-type="bibr" rid="B4"
+            ><sup>4</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B17"><sup>17</sup></xref> e todos os principais DSS descritos na
+        literatura. <xref ref-type="bibr" rid="B12"><sup>12</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="fn" rid="fn5"><sup>e</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="fn" rid="fn6"><sup>f</sup></xref>
+      </p>
+      <p>A existência dos grupos negativista, essencialista e inclusivo e sua associação com
+        distintas coordenadorias de saúde aponta para influências regionais no trabalho com DSS no
+        município. A Coordenadoria Sudeste foi associada com o Grupo Inclusivo. O trabalho
+        desenvolvido por uma instituição parceira do PSF na região (de programação baseada em
+        vulnerabilidades biopsicossociais) é um ponto a ser explorado. <xref ref-type="fn" rid="fn4"
+            ><sup>d</sup></xref>
+      </p>
+      <p>Não encontramos estudos quantitativos para comparar o tipo e frequência dos DSS
+        trabalhados. A classificação dos DSS amplos e clássicos utilizada para a formação dos grupos
+        negativista, essencialista e inclusivo cria um precedente quanto à classificação dos
+        trabalhos com DSS no âmbito do PSF, podendo ser utilizada em outros estudos comparativos que
+        se produza no País.</p>
+      <p>Apesar de pouco sabermos sobre a caracterização desses grupos para além dos DSS trabalhados
+        em cada unidade PSF, é possível comparar esses grupos com as categorias de resposta
+        emergentes da segunda fase do estudo quanto à pertinência do trabalho com DSS no âmbito do
+        PSF. Membros da coordenação do programa, das instituições parceiras e profissionais
+        envolvidos no trabalho com DSS no âmbito do PSF expressaram cinco opções de resposta quanto
+        à pertinência do trabalho com DSS no âmbito do programa. Duas categorias de argumentação
+        sustentaram a inclusão do trabalho com DSS na dinâmica dos serviços do PSF: o imperativo
+        ético da equidade e o determinismo do vínculo profissional-comunidade (ancorado na
+        existência do ACS) como propulsor do trabalho com DSS. Outras duas categorias de respostas
+        argumentaram pela não pertinência do trabalho com DSS no âmbito do PSF: a prioridade do
+        lidar com a doença como papel singular do setor saúde e a impossibilidade de afetar a
+        estrutura social por meio de intervenções locais. Uma última categoria de resposta compõe o
+        duplo dilema sobre a pertinência do trabalho com DSS no âmbito do PSF quanto a dúvida
+        filosófica e técnica sobre sua pertinência e viabilidade, e falta de entendimento sobre a
+        intencionalidade do programa. Apesar de não podermos associar as argumentações descritas
+        diretamente aos grupos inclusivo, negativista e essencilista, encontramos nessas
+        argumentações fundamentos teóricos e práticas para a existência dos três grupos.</p>
+      <p>É possível categorizar melhor o grupo inclusivo a partir das atividades com DSS relatadas
+        na segunda fase pelo próprio grupo. De acordo com membros do grupo inclusivo, as atividades
+        com DSS mostram baixo grau de institucionalização e elevada dedicação e força de vontade de
+        alguns profissionais, em especial o ACS, considerado o grande facilitador para o trabalho
+        com DSS. Atividades com DSS tipicamente não são avaliadas. Avaliações informais são feitas
+        sem o estabelecimento de metas ou referencial, narrando histórias de frustração, mas também
+        de superação e melhoria da qualidade de vida da população atendida. Os gastos com as
+        iniciativas são de pequeno porte e seu financiamento é advindo do pequeno orçamento da
+        gerência da unidade e de doações dos funcionários, da própria comunidade e de parceiros
+        locais.</p>
+      <p>Ainda segundo o relato das atvidades do grupo inclusivo, por falta de apoio programático,
+        tipicamente, as atividades com DSS assumem no contexto do PSF “forma fluida” e “caráter
+        extraordinário”: sua fluidez abarca de forma oportunista diferentes conceitos de saúde e
+        diferentes objetivos em uma mesma iniciativa. Ao invés de estabelecer objetivos
+        verdadeiramente abrangentes, no sentido da integralidade, estabelecem objetivos que
+        fluidamente assumem a forma necessária para a sobrevivência da iniciativa no contexto do
+        programa. Seu caráter extraordinário é constituído pelo duplo entendimento das iniciativas
+        como trabalho extra, realizado em detrimento do planejamento do programa e, ao mesmo tempo,
+        como trabalho melhor do que o ordinário, realizado como forma de exaltação do potencial do
+        programa para lidar com a ampla determinação do processo saúde-doença.</p>
+      <p>Esse estágio de erupção de atividades desconexas e desinstitucionalizadas concorda com o
+        descrito por Campos &amp; Teixeira <xref ref-type="fn" rid="fn7"><sup>g</sup></xref> (2005),
+        que realizaram uma pesquisa qualitativa nacional com 12 iniciativas de trabalho de promoção
+        da saúde no PSF. Concluíram que a prática da promoção da saúde possui alto grau de
+        fragilidade e não está institucionalizada no programa. Por consequência, é necessário o
+        acionamento de fatores externos ao programa para a implantação desse tipo de ações no
+        PSF.</p>
+      <p>Gonçalves et al <xref ref-type="bibr" rid="B9"><sup>9</sup></xref> (2011) realizaram estudo
+        de caso qualitativo em Belo Horizonte e Contagem, MG, para analisar as ações intersetoriais
+        no PSF. As ações intersetoriais identificadas eram baseadas em parcerias pontuais, distantes
+        das práticas de gestão do programa.</p>
+      <p>Carvalho et al <xref ref-type="bibr" rid="B5"><sup>5</sup></xref> (2009) realizaram estudo
+        descritivo transversal misto (quantitativo/qualitativo) sobre as ações intersetoriais de um
+        distrito sanitário de Goiânia, GO. Segundo esses autores, 71% dos profissionais indicaram
+        participar em “ações para a resolução de problemas de uma pessoa ou grupo da comunidade
+        assistida”, percentual próximo ao de realização de atividades em conjunto com a comunidade
+        que objetivam a melhoria da qualidade de vida dos membros da comunidade e/ou a resolução de
+        problemas locais, descrita neste artigo. Apontam também para a falta de compreensão de
+        muitos profissionais em relação ao trabalho intersetorial e falta de uma política de
+        avaliação para esse tipo de iniciativa.</p>
+      <p>Gil <xref ref-type="bibr" rid="B8"><sup>8</sup></xref> (2006) reviu a literatura sobre o
+        PSF de 1990 a 2005 e afirma que o PSF não conseguiu incorporar em sua gestão a visão
+        ampliada de saúde. No entanto, lembra que a fragilidade é parte inerente ao paradoxo de
+        crescimento do programa e serve de base para sua reestruturação.</p>
+      <p>Sousa &amp; Hamann <xref ref-type="bibr" rid="B18"><sup>18</sup></xref> apontam para
+        importância da produção de tecnologias gerenciais que contemplem a complexidade das ações
+        voltadas para a ampla determinação do processo saúde-doença. Para Campos &amp; Guerreiro,
+          <xref ref-type="bibr" rid="B3"><sup>3</sup></xref> as estratégias de fortalecimento da
+        gestão e os polos de capacitação da atenção básica são constantes instrumentos de superação
+        das barreiras que o PSF encontra para qualificar o trabalho na direção da “saúde
+        ampliada”.</p>
+      <p>Foram identificados esforços significativos dos profissionais do PSF para trabalhar com a
+        determinação social da saúde. Porém, para que esses esforços sirvam de alavanca para a
+        mudança do modelo de assistência a saúde, é necessário que estejam coordenados com os
+        esforços da gerência e da coordenação do programa. Esse alinhamento não foi observado nesta
+        pesquisa e não está presente nas demais regiões do País, segundo a literatura. <xref
+          ref-type="bibr" rid="B5"><sup>5</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B8"><sup>8</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B9"><sup>9</sup></xref>
+        <sup>,</sup>
+        <xref ref-type="fn" rid="fn7"><sup>g</sup></xref> A lógica de organização dos serviços e a
+        forma atual de se trabalhar a determinação social da saúde precisam ser repensadas. Esse
+        processo de negociação e repactuação entre a coordenação do programa e os profissionais na
+        ponta dos serviços é fundamental para que as atividades com DSS no PSF deixem de ocupar um
+        espaço concorrente com o da assistência e tornem possível uma prática de trabalho integral e
+        intersetorial <xref ref-type="bibr" rid="B14"><sup>14</sup></xref> (em contraponto ao seu
+        atual estado fluido) e sustentável (em contraponto com seu atual caráter
+        extraordinário).</p>
+      <p>Há grande potencial do PSF para trabalhar a determinação social da saúde. No entanto, para
+        que esse potencial possa se concretizar de forma sustentável e abrangente, é necessária a
+        organização de uma estrutura de trabalho que ultrapasse os facilitadores individualizados
+        presentes na prática atual e contemple aspectos de gestão do programa. O trabalho com DSS
+        precisa ser assumido no contexto do PSF como uma política de Estado, para a qual há
+        financiamento, sensibilização e capacitação dos profissionais para desenvolver atividades,
+        avaliação dos processos e integração com atividades realizadas por outros setores de governo
+        e pela sociedade civil. Para tanto, deve-se investigar a associação entre as Coordenadorias
+        de Saúde e a abrangência dos DSS trabalhados nas unidades de PSF de São Paulo. Sugerimos
+        estudos comparativos por coordenadorias e aspectos relacionados aos problemas e
+        oportunidades de cada território, incluindo a capacitação dos profissionais e a organização
+        do PSF nas regiões. Recomendamos a realização de estudos de caso sobre as práticas de gestão
+        do PSF e suas implicações para o trabalho com a determinação social da saúde. Esses estudos
+        poderiam concentrar-se em processos de trabalho concretos, em especial documentos textuais
+        incorporados no dia a dia dos serviços (formulários, atas de reuniões, avaliações,
+        relatórios, cartas) e documentos norteadores, políticas de recursos humanos, financiamento,
+        documentos de contrato intersetorias, entre outros. Segundo Andrade, <xref ref-type="bibr"
+          rid="B1"><sup>1</sup></xref> a análise dos processos de relação intersetorial é
+        necessária, uma vez que a sustentabilidade do trabalho com DSS no âmbito do setor saúde
+        passa obrigatoriamente pela parceria sólida com outros setores. <xref ref-type="bibr"
+          rid="B1"><sup>1</sup></xref>
+      </p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <p>DESTAQUES</p>
+      <p>O artigo trata do maior programa de base comunitária do Sistema Único de Saúde (Programa
+        Saúde da Família) e sua pertinência e capacidade em trabalhar com determinantes sociais da
+        saúde.</p>
+      <p>A classificação dos grupos de determinantes sociais da saúde (amplos e clássicos) e grupos
+        de unidades de saúde (negativista, essencialista e inclusivo), desenvolvidos no artigo,
+        apresenta-se como potenciais instrumentos para que gestores do Sistema Único de Saúde possam
+        mapear quantitativamente o trabalho com determinantes sociais de saúde, no contexto do
+        Programa Saúde da Família.</p>
+      <p>As diferenças regionais, apontadas no município de São Paulo, constituem ponto a ser
+        explorado por gestores para compreender o impacto de suas variadas políticas de capacitação
+        no contexto do trabalho com determinantes sociais de saúde. Maior entendimento do trabalho
+        do “grupo inclusivo” (identificado no artigo), em particular do grau de institucionalização
+        das atividades com determinantes sociais de saúde, quanto às políticas de financiamento,
+        avaliação e organização do programa, é necessário para que gestores possam ajustar o
+        discurso e prática do Programa Saúde da Família.</p>
+      <p>Profa. Rita de Cássia Barradas Barata</p>
+      <p>Editora Científica</p>
+    </app-group>
+    <ref-list>
+      <title>REFERÊNCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Andrade LOM. A saúde e o dilema da intersetorialidade. São Paulo: Hucitec;
+          2006.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Andrade</surname>
+              <given-names>LOM</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">A saúde e o dilema da intersetorialidade</source>
+          <publisher-loc>São Paulo</publisher-loc>
+          <publisher-name>Hucitec</publisher-name>
+          <year>2006</year>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Buss PM, Pellegrini Filho A. A saúde e seus determinantes sociais.
+            <italic>Physis (Rio J).</italic> 2007;17(1):77-93.
+          DOI:10.1590/S0103-73312007000100006</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Buss</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Pellegrini</surname>
+              <given-names>A</given-names>
+              <suffix>Filho</suffix>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">A saúde e seus determinantes sociais</article-title>
+          <source>Physis (Rio J)</source>
+          <year>2007</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>77</fpage>
+          <lpage>93</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0103-73312007000100006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Campos GWS, Guerreiro AVP, organizadores. Manual de práticas em atenção
+          básica: saúde ampliada e compartilhada. São Paulo: Hucitec; 2008.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Campos</surname>
+              <given-names>GWS</given-names>
+            </name>
+            <name>
+              <surname>Guerreiro</surname>
+              <given-names>AVP</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">Manual de práticas em atenção básica: saúde ampliada e
+            compartilhada</source>
+          <publisher-loc>São Paulo</publisher-loc>
+          <publisher-name>Hucitec</publisher-name>
+          <year>2008</year>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Caplan R. The importance of social theory for health promotion: from
+          description to reflexivity. <italic>Health Promot Int.</italic> 1993;8(2):147-57.
+          DOI:10.1093/heapro/8.2.147</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Caplan</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">The importance of social theory for health promotion: from
+            description to reflexivity</article-title>
+          <source>Health Promot Int</source>
+          <year>1993</year>
+          <volume>8</volume>
+          <issue>2</issue>
+          <fpage>147</fpage>
+          <lpage>157</lpage>
+          <pub-id pub-id-type="doi">10.1093/heapro/8.2.147</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Carvalho MF, Barbosa MI, Silva ET, Rocha, DG. Intersetorialidade: diálogo
+          da política nacional da promoção da saúde com a visão dos trabalhadores da atenção básica
+          em Goiânia. <italic>Tempus Actas Saude Coletiva</italic> .
+          2009;3(3):44-55.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Carvalho</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Barbosa</surname>
+              <given-names>MI</given-names>
+            </name>
+            <name>
+              <surname>Silva</surname>
+              <given-names>ET</given-names>
+            </name>
+            <name>
+              <surname>Rocha</surname>
+              <given-names>DG</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Intersetorialidade: diálogo da política nacional da promoção
+            da saúde com a visão dos trabalhadores da atenção básica em Goiânia</article-title>
+          <source>Tempus Actas Saude Coletiva</source>
+          <year>2009</year>
+          <volume>3</volume>
+          <issue>3</issue>
+          <fpage>44</fpage>
+          <lpage>55</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation>. Creswell JW. Research design: qualitative, quantitative and mixed methods
+          approaches. 2.ed. Thousand Oaks: Sage Publications; 2003.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Creswell</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Research design: qualitative, quantitative and mixed methods
+            approaches</source>
+          <edition>2.ed</edition>
+          <publisher-loc>Thousand Oaks</publisher-loc>
+          <publisher-name>Sage Publications</publisher-name>
+          <year>2003</year>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation>. Frenk J. The global health system: strengthening national health systems
+          as the next step for global progress. <italic>PLoS Med.</italic> 2010;7(1):e1000089.
+          DOI:10.1371/journal.pmed.1000089</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Frenk</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">The global health system: strengthening national health
+            systems as the next step for global progress</article-title>
+          <source>PLoS Med</source>
+          <year>2010</year>
+          <volume>7</volume>
+          <issue>1</issue>
+          <elocation-id>e1000089</elocation-id>
+          <pub-id pub-id-type="doi">10.1371/journal.pmed.1000089</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation>. Gil CRR. Atenção primária, atenção básica e saúde da família: sinergias e
+          singularidades do contexto brasileiro. <italic>Cad Saude Publica.</italic>
+          2006;22(6):1171-81. DOI:10.1590/S0102-311X2006000600006</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Gil</surname>
+              <given-names>CRR</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Atenção primária, atenção básica e saúde da família:
+            sinergias e singularidades do contexto brasileiro</article-title>
+          <source>Cad Saude Publica</source>
+          <year>2006</year>
+          <volume>22</volume>
+          <issue>6</issue>
+          <fpage>1171</fpage>
+          <lpage>1181</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X2006000600006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation>. Gonçalves AM, Sena RR, Resende VA, Horta NC. Promoção da saúde no
+          cotidiano das equipes de saúde da família: uma prática intersetorial? <italic>Rev Enferm
+            Cent O Min.</italic> 2011;1(1):94-102.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Gonçalves</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Sena</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Resende</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Horta</surname>
+              <given-names>NC</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Promoção da saúde no cotidiano das equipes de saúde da
+            família: uma prática intersetorial?</article-title>
+          <source>Rev Enferm Cent O Min</source>
+          <year>2011</year>
+          <volume>1</volume>
+          <issue>1</issue>
+          <fpage>94</fpage>
+          <lpage>102</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation>. Labonté R. Community health promotion strategies. In: Pan American Health
+          Organization. Health promotion: an anthology. Washington (DC); 1996. p.138-48 (Scientific
+          Publications, 557).</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Labonté</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <chapter-title>Community health promotion strategies</chapter-title>
+          <person-group>
+            <collab>Pan American Health Organization</collab>
+          </person-group>
+          <source xml:lang="en">Health promotion: an anthology</source>
+          <publisher-loc>Washington (DC)</publisher-loc>
+          <year>1996</year>
+          <fpage>138</fpage>
+          <lpage>148</lpage>
+          <comment>(Scientific Publications, 557)</comment>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation>. Lee JW. Public health is a social issue. <italic>Lancet.</italic>
+          2005;365(9464):1005-6. DOI:10.1016/S0140-6736(05)71115-6</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Lee</surname>
+              <given-names>JW</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Public health is a social issue</article-title>
+          <source>Lancet</source>
+          <year>2005</year>
+          <volume>365</volume>
+          <issue>9464</issue>
+          <fpage>1005</fpage>
+          <lpage>1006</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(05)71115-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation>. Marmot M, Wilkinson RG, editors. Social determinants of health. Oxford,
+          NY: Oxford University Press; 2006.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Marmot</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wilkinson</surname>
+              <given-names>RG</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Social determinants of health</source>
+          <publisher-loc>Oxford, NY</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <year>2006</year>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation>. Marmot M. Social determinants of health inequalities.
+            <italic>Lancet.</italic> 2005;365(9464):1099-104.
+          DOI:10.1016/S0140-6736(05)71146-6</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Marmot</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Social determinants of health inequalities</article-title>
+          <source>Lancet</source>
+          <year>2005</year>
+          <volume>365</volume>
+          <issue>9464</issue>
+          <fpage>1099</fpage>
+          <lpage>1104</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(05)71146-6</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation>. Mattos RA. A integralidade na prática (ou sobre a prática da
+          integralidade). <italic>Cad Saude Publica.</italic> 2004;20(5):1411-6.
+          DOI:10.1590/S0102-311X2004000500037</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Mattos</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">A integralidade na prática (ou sobre a prática da
+            integralidade)</article-title>
+          <source>Cad Saude Publica</source>
+          <year>2004</year>
+          <volume>20</volume>
+          <issue>5</issue>
+          <fpage>1411</fpage>
+          <lpage>1416</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0102-311X2004000500037</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation>. Naido J, Wills J. Health promotion: foundations for practice. London:
+          Baillière Tindall; 1994.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Naido</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wills</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Health promotion: foundations for practice</source>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Baillière Tindall</publisher-name>
+          <year>1994</year>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation>. Pereira JCR. Análise de dados qualitativos: estratégias metodológicas para
+          as ciências da saúde, humanas e sociais. São Paulo: EDUSP; 1999.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Pereira</surname>
+              <given-names>JCR</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="pt">Análise de dados qualitativos: estratégias metodológicas para as
+            ciências da saúde, humanas e sociais</source>
+          <publisher-loc>São Paulo</publisher-loc>
+          <publisher-name>EDUSP</publisher-name>
+          <year>1999</year>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <mixed-citation>. Seedhouse D. Health promotion: philosophy, prejudice and practice.
+          Chichester: John Wiley &amp; Sons; 1997.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Seedhouse</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Health promotion: philosophy, prejudice and practice</source>
+          <publisher-loc>Chichester</publisher-loc>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <year>1997</year>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <mixed-citation>. Sousa MF, Hamann EM. Programa Saúde da Família no Brasil: uma agenda
+          incompleta? <italic>Cienc Saude Coletiva.</italic> 2009;14(Supl 1):1325-35.
+          DOI:10.1590/S1413-81232009000800002</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Sousa</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Hamann</surname>
+              <given-names>EM</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Programa Saúde da Família no Brasil: uma agenda
+            incompleta?</article-title>
+          <source>Cienc Saude Coletiva</source>
+          <year>2009</year>
+          <volume>14</volume>
+          <supplement>Supl 1</supplement>
+          <fpage>1325</fpage>
+          <lpage>1335</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1413-81232009000800002</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <mixed-citation>. Yin RK. Case study research: design and methods. 4.ed. Thousand Oaks: Sage
+          Publications; 2009. (Applied Social Methods Research Series, 5).</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Yin</surname>
+              <given-names>RK</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Case study research: design and methods</source>
+          <edition>4.ed</edition>
+          <publisher-loc>Thousand Oaks</publisher-loc>
+          <publisher-name>Sage Publications</publisher-name>
+          <year>2009</year>
+          <comment>Applied Social Methods Research Series, 5</comment>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <mixed-citation>. Ziglio E, Simpson S, Tsouros A. Health promotion and health systems: some
+          unfinished business. <italic>Health Promot Int.</italic> 2011;26(Suppl 2):ii216-25.
+          DOI:10.1093/heapro/dar079</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Ziglio</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Simpson</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Tsouros</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Health promotion and health systems: some unfinished
+            business</article-title>
+          <source>Health Promot Int</source>
+          <year>2011</year>
+          <volume>26</volume>
+          <supplement>Suppl 2</supplement>
+          <fpage>ii216</fpage>
+          <lpage>ii225</lpage>
+          <pub-id pub-id-type="doi">10.1093/heapro/dar079</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="fn1">
+        <label>a</label>
+        <p>Pan American Health Organization. Renewing primary health care in the Americas: a
+          position paper of the Pan American Health Organization/World Health Organization
+          (PAHO/WHO). Washington (DC); 2007.</p>
+      </fn>
+      <fn id="fn2">
+        <label>b</label>
+        <p>Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica.
+          Política nacional de atenção básica. Brasília (DF); 2006. (Série Pactos pela Saúde,
+          4).</p>
+      </fn>
+      <fn id="fn3">
+        <label>c</label>
+        <p>World Health Organization. Rio political declaration on social determinants of health.
+          In: World Conference on Social Determinants of Health; 21 Oct 2011; Rio de Janeiro,
+          Brazil. World Health Organization; 2011 [citado 2013 jun 24]. Disponível em:
+          http://www.who.int/sdhconference/declaration/Rio_political_declaration.pdf</p>
+      </fn>
+      <fn id="fn4">
+        <label>d</label>
+        <p>Dowbor TP. O trabalho com determinantes sociais da saúde no Programa Saúde da Família do
+          Município de São Paulo [tese de doutorado]. São Paulo: Faculdade de Saúde Pública da
+          Universidade de São Paulo; 2008.</p>
+      </fn>
+      <fn id="fn5">
+        <label>e</label>
+        <p>Mikkonen J, Raphael D. Social determinants of health: the Canadian facts. Toronto: York
+          University School of Health Policy and Management; 2010 [citado 24 ago 2013]. Disponível
+          em: http://www.thecanadianfacts.org/The_Canadian_Facts.pdf</p>
+      </fn>
+      <fn id="fn6">
+        <label>f</label>
+        <p>World Health Organization. Closing the gap in a generation: health equity through action
+          on the social determinants of health: final report of the WHO Commission on the Social
+          Determinants of Health. Geneva; 2008. </p>
+      </fn>
+      <fn id="fn7">
+        <label>g</label>
+        <p>Campos FC, Teixeira PF, coordenadores. Promoção de saúde na atenção básica no Brasil:
+          relatório de pesquisa apresentado à FUNDEP 8966-OPAS. Belo Horizonte: Núcleo de Estudos em
+          Saúde Coletiva da Faculdade de Medicina da UFMG; 2005. Projeto FUNDEP
+          8966-OPAS/FM/NESCON/Estudos de caso.</p>
+      </fn>
+      <fn>
+        <p>Trabalho apresentado na <italic>19</italic>
+          <sup>
+            <italic>th</italic>
+          </sup>
+          <italic>IUHPE World Conference on Health Promotion and Health Education – Health Promotion
+            Comes of Age: Research, Policy &amp; Practice for The 21</italic>
+          <sup>
+            <italic>st</italic>
+          </sup>
+          <italic>Century</italic> em Vancouver, 2007, e no II Seminário Brasileiro de Efetividade
+          da Promoção da Saúde, Rio de Janeiro, em 2008.</p>
+      </fn>
+      <fn>
+        <p>Trabalho baseado na tese de doutorado de Dowbor T. P. intitulada: “O trabalho com
+          determinantes sociais da saúde no Programa Saúde da Família do Município de São Paulo”,
+          apresentada à Faculdade de Saúde Pública da Universidade de São Paulo, em 2008.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Public Health Practice</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Social determinants of health and the Brazilian Family Health
+          Care Program in the city of Sao Paulo, Southeastern Brazil</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dowbor</surname>
+            <given-names>Tatiana Pluciennik</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Westphal</surname>
+            <given-names>Márcia Faria</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">II</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff3">
+        <label>I</label> Survey Research Unit. Centre for Research on Inner City Health. St.
+        Michael’s Hospital. Toronto, Canadá</aff>
+      <aff id="aff4">
+        <label>II</label> Faculdade de Saúde Pública. Universidade de São Paulo. São Paulo, SP,
+        Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondence</bold> : Tatiana Pluciennik Dowbor 30 Bond Street Toronto ON M5B 1W8
+          Canada E-mail: dowbort@smh.cal</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>The research was subsidized by the <italic>Fundação de Amparo à Pesquisa do Estado de
+              São Paulo</italic> (FAPESP Process nº 05/56470-9) and by the <italic>Conselho Nacional
+              de Desenvolvimento Científico e Tecnológico</italic> (CNPq – Process
+            n<sup>o</sup>401973/2005-0).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <sec>
+          <title>OBJECTIVE</title>
+          <p> To analyze the current status of the interventions related to social determinants of
+            health conducted in the context of the brazilian family health program.</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p> A case study using a mixed method approach based on a sequential explanatory strategy
+            with 171 unit managers in the Family Health Care Program in the municipality of Sao
+            Paulo, SP, Southeastern Brazil, in 2005/2006. Self-administered questionnaires were
+            applied and semi-structured interviews and focus groups were conducted with a purposive
+            sample of professionals involved in initiatives related to social determinants of
+            health. Quantitative data were analyzed using descriptive statistics, multiple
+            correspondence analysis, cluster analysis and correlation tests. Qualitative data were
+            analyzed through content analysis and the creation of thematic categories.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p> Despite the concentration of activities directed at disease care, the Family Health
+            Care Program carries out various activities related to the social determination of
+            health, encompassing the entire spectrum of health promotion approaches (biological,
+            behavioral, psychological, social and structural) and all major social determinants of
+            health described in the literature. There was a significant difference related to the
+            scope of the determinants being worked on in the units according to the area of the
+            city. The description of the activities revealed the fragility of the initiatives and a
+            disconnection with the organizational structure of the Family Health Care Program.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONS</title>
+          <p> The quantity and variety of initiatives related to social determinants of health
+            attests to the program’s potential to deal with the social determination of health. On
+            the other hand, the fluidity of objectives and the ‘out of the ordinary/extraordinary’
+            characterization of the described initiatives raises concern about its sustainability as
+            an integral part of the program’s current operational model.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Social Conditions</kwd>
+        <kwd>Social Inequity</kwd>
+        <kwd>Health Inequalities</kwd>
+        <kwd>Family Health Program</kwd>
+        <kwd>Primary Health Care</kwd>
+        <kwd>Health Promotion</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>It is the governments’ role to find ways of restructuring its health care systems to
+          overcome inequity, increase efficiency and improve citizens’ satisfaction with the
+          services provided. <xref ref-type="bibr" rid="B7"><sup>7</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B20"><sup>20</sup></xref> In this process of reorganizing
+          health care policies, some countries have looked to holistic health promotion strategies
+          and recommendations. They aim to establish health centered models which foster equity,
+          integration, social participation and inter-sectoral collaboration. <xref ref-type="fn"
+            rid="fn13"><sup>a</sup></xref> The Brazilian Family Health Care Program (PSF) is an
+          example of this kind of model. <xref ref-type="fn" rid="fn14"><sup>b</sup></xref>
+        </p>
+        <p>The PSF is as a primary health care strategy centered on the territory and the health
+          needs of families and communities. The program works towards a transformative practice in
+          which health is the focal point rather than illness. The PSF targets inter-sectorial
+          action, moving beyond the health care sector and dealing with social determinants of
+          health.</p>
+        <p>The social determination of health is of great concern to international bodies,
+          especially the World Health Organization (WHO). <xref ref-type="bibr" rid="B11"
+              ><sup>11</sup></xref> Equity in health is a long term goal. The WHO established the
+          Social Determinants of Health (SDH) commission in 2005 as part of the organization’s
+          change in focus onto interventions concerning social conditions for health. The
+          restructuring of health care systems so that they are able to promote health is among the
+          main challenges set by the commission. <xref ref-type="bibr" rid="B13"
+            ><sup>13</sup></xref> Due to the continued national and international interest in SDH,
+          in 2011 an international conference on SDH was organized by the WHO in Brazil, <xref
+            ref-type="bibr" rid="B2"><sup>2</sup></xref> and the importance of an holistic and
+          inclusive health care system was highlighted. <xref ref-type="fn" rid="fn16"
+            ><sup>c</sup></xref>
+        </p>
+        <p>At an international level, the PSF is an important case study with regards to SDH
+          interventions in the context of the health care systems and, at a national level, it is a
+          strategy which needs to be continuously monitored and managed.</p>
+        <p>This study aims to analyze the current status of social determinants of health
+          interventions within the Brazilian Family Health Care Program.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>METHODS</title>
+        <p>A case study <xref ref-type="bibr" rid="B19"><sup>19</sup></xref> on SDH interventions
+          within the PSF in Sao Paulo, SP, in 2008. The city was chosen due to its significance for
+          the PSF Program as a whole and for the feasibility of the data collection process. The
+          study was divided into two sequential stages of data collection and analysis, based on a
+          sequential explanatory strategy. <xref ref-type="bibr" rid="B6"><sup>6</sup></xref> The
+          first stage, mainly quantitative, included the collection of qualitative and quantitative
+          data obtained from questionnaires filled in by managers of family health care units in the
+          city. The survey only captured the vision of one professional category, but since it was
+          population based, the data was generalizable to the city level. In the second stage of
+          data collection, purely qualitative, semi-structured interviews and focus groups
+          incorporated the views of different professionals from the program, providing a more
+          in-depth examination of the topic. This article presents the data selected from the first
+          stage of the study.</p>
+        <p>The survey collected information from health care unit managers. The managers filled in a
+          semi-structured questionnaire on specific days when they had district- based management
+          meetings. There were 201 health care units linked to the PSF or the Community Health Care
+          Agent Program (PACS). The questionnaire was completed by 171 managers (85% of the
+          population). The managers of the PSF units were predominantly female (83%); 67% were
+          between 40 and 60 years old; 51% were nurses or doctors; 57% had been on the unit between
+          two and six years; and 59% had been in the current position between two and six years.</p>
+        <p>The majority (82%) of the questionnaires were completed in the presence of the
+          researcher. There was only one refusal to complete a questionnaire. The main reason for
+          not filling in the questionnaire was the manager missing the management meeting. All
+          health care districts, sub-districts, partner institutions and care models (PSF, PACS)
+          were significantly represented in the data obtained. With the aim of protecting the
+          respondents and to minimize potential propensity to respond as expected of them by the
+          program coordinators, confidentiality was guaranteed. To minimize “errors in
+          interpretation”, the questionnaire was subject to pre-tests.</p>
+        <p>Multiple Correspondence Analysis (MCA) was used to simultaneously analyze the statements
+          of the various categories of SDH interventions in the units. A list of 22 SDH was given to
+          the managers using multiple choice questions. The SDH were selected based on a revision of
+          the literature. <xref ref-type="fn" rid="fn17"><sup>d</sup></xref> Hierarchical cluster
+          analysis was used to characterize the individuals (managers). Those who responded in a
+          similar manner were placed together in a category. To characterize groups, residual
+          analysis was used, indicating which responses actually predominated in each group. The
+          patterns of response for each group were consolidated and the group was classified
+          according to its pattern. <xref ref-type="bibr" rid="B16"><sup>16</sup></xref> The link
+          between the respondent groups and the health care districts responsible for different
+          areas of the city were assessed using Fisher’s exact test. There was no homogeneity found
+          between the groups (p = 0.003).</p>
+        <p>The study was approved by the Research Ethics Committee of the Sao Paulo Municipal Health
+          Department (Process 064/2005) and by the Research Ethics Committee of the
+            <italic>Faculdade de Saúde Pública, Universidade de São Paulo</italic> (Process
+          1304/2005).</p>
+      </sec>
+      <sec sec-type="results">
+        <title>RESULTS</title>
+        <p>The program’s efforts with regards to SDH initiatives were aimed towards a group of 11
+          determinants, which were named classic SDH (workplace, drug addiction, stress, health care
+          model, education, social inclusion, self-esteem, early childhood development, sanitation,
+          leisure and food insecurity). A minority group of units, in addition to working with the
+          classic SDH also worked with the named broad determinants of health (sustainable
+          resources, income distribution, employment, peace, social support networks, social
+          justice/equality, income, housing, security, transport and healthy ecosystems) ( <xref
+            ref-type="table" rid="t03">Table 1</xref> ).</p>
+        <p>
+          <table-wrap id="t03">
+            <label>Table 1</label>
+            <caption>
+              <title>Initiatives with Social Determinants of Health within the Family Heath Care
+                Program according to unit managers. Sao Paulo, SP, 2005 to 2006. (Number of
+                respondents, N = 162)</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="25%">
+                <col width="50%"/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>SDH</td>
+                  <td align="center">#</td>
+                  <td align="center">%</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Food insecurity</td>
+                  <td align="center">112</td>
+                  <td align="center">69.0</td>
+                </tr>
+                <tr>
+                  <td>Leisure</td>
+                  <td align="center">104</td>
+                  <td align="center">64.0</td>
+                </tr>
+                <tr>
+                  <td>Sanitation</td>
+                  <td align="center">103</td>
+                  <td align="center">64.0</td>
+                </tr>
+                <tr>
+                  <td>Early childhood development</td>
+                  <td align="center">92</td>
+                  <td align="center">57.0</td>
+                </tr>
+                <tr>
+                  <td>Self-esteem</td>
+                  <td align="center">89</td>
+                  <td align="center">55.0</td>
+                </tr>
+                <tr>
+                  <td>Social inclusion</td>
+                  <td align="center">78</td>
+                  <td align="center">48.0</td>
+                </tr>
+                <tr>
+                  <td>Education</td>
+                  <td align="center">66</td>
+                  <td align="center">41.0</td>
+                </tr>
+                <tr>
+                  <td>Health care models</td>
+                  <td align="center">65</td>
+                  <td align="center">40.0</td>
+                </tr>
+                <tr>
+                  <td>Stress</td>
+                  <td align="center">61</td>
+                  <td align="center">38.0</td>
+                </tr>
+                <tr>
+                  <td>Drug addiction</td>
+                  <td align="center">55</td>
+                  <td align="center">34.0</td>
+                </tr>
+                <tr>
+                  <td>Workplace</td>
+                  <td align="center">46</td>
+                  <td align="center">28.0</td>
+                </tr>
+                <tr>
+                  <td>Healthy ecosystem</td>
+                  <td align="center">36</td>
+                  <td align="center">22.0</td>
+                </tr>
+                <tr>
+                  <td>Transport</td>
+                  <td align="center">34</td>
+                  <td align="center">21.0</td>
+                </tr>
+                <tr>
+                  <td>Security</td>
+                  <td align="center">33</td>
+                  <td align="center">20.0</td>
+                </tr>
+                <tr>
+                  <td>Housing</td>
+                  <td align="center">32</td>
+                  <td align="center">20.0</td>
+                </tr>
+                <tr>
+                  <td>Income</td>
+                  <td align="center">31</td>
+                  <td align="center">19.0</td>
+                </tr>
+                <tr>
+                  <td>Social justice/equality</td>
+                  <td align="center">30</td>
+                  <td align="center">19.0</td>
+                </tr>
+                <tr>
+                  <td>Peace</td>
+                  <td align="center">29</td>
+                  <td align="center">18.0</td>
+                </tr>
+                <tr>
+                  <td>Social support networks</td>
+                  <td align="center">29</td>
+                  <td align="center">18.0</td>
+                </tr>
+                <tr>
+                  <td>Employment</td>
+                  <td align="center">27</td>
+                  <td align="center">17.0</td>
+                </tr>
+                <tr>
+                  <td>Income distribution</td>
+                  <td align="center">15</td>
+                  <td align="center">9.0</td>
+                </tr>
+                <tr>
+                  <td>Sustainable resources</td>
+                  <td align="center">12</td>
+                  <td align="center">7.0</td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>After performing multiple correspondence analysis ( <xref ref-type="fig" rid="f03">Figure
+            1</xref> ) and grouping analysis, significant differences were observed with regards to
+          the work with SDH in different areas of the city (North, South, Southeast, Midwest and
+          East). Three groups of units were identified: Negativist, which differed statistically
+          from the total as it did not work with SDH (predominantly the South Health District); the
+          Essentialist, which differed statistically from the total for working with classic SDH
+          (predominantly the East Health District); and the Inclusive group, which differed
+          statistically from the total for working with all SDH, both classic and broad
+          (predominantly the Southeast Health District) (<xref ref-type="fig" rid="f04">Figure
+            2</xref>).</p>
+        <p>
+          <fig id="f03">
+            <label>Figure 1</label>
+            <caption>
+              <title>Multiple Correspondence Analysis and Social Determinants of Health initiatives
+                in the Family Health Care Program, according to unit managers. Sao Paulo, SP, 2005
+                to 2006.</title>
+            </caption>
+            <graphic xlink:href="0034-8910-rsp-47-04-0781-gf01-en"/>
+          </fig>
+        </p>
+        <p>
+          <fig id="f04">
+            <label>Figura 2</label>
+            <caption>
+              <title>Respondent groups according to category of response with regards to initiatives
+                with Social Determinants of Health within the Family Heath Care Program. Sao Paulo,
+                SP, 2005 to 2006.</title>
+            </caption>
+            <graphic xlink:href="0034-8910-rsp-47-04-0781-gf02-en"/>
+          </fig>
+        </p>
+        <p>Biomedical intervention activities that aimed at prevention, treatment, early detection
+          and/or curative medicine had a highly regular pattern being carried out in the family
+          health care units daily. Among these activities were medical consultations, dispensing
+          medications and emergency care, among others.</p>
+        <p>Activities that aimed at changing the behavior of members of the community to develop
+          healthier lifestyles had a varied frequency pattern. Individual counseling was more common
+          than the other activities in this group and was carried out daily in more than 60% of the
+          units. Activities such as health education, presentations, and public health campaigns
+          most commonly occurred monthly or not following a regular pattern.</p>
+        <p>Activities aimed at encouraging members of the community to mutually help each other in
+          dealing with individual problems also had a varied frequency pattern. They most commonly
+          occurred weekly and monthly. These activities included a variety of self-help groups and
+          other forms of psychosocial support.</p>
+        <p>Activities run in tandem with the community which aimed to improve the community member’s
+          quality of life and/or resolve local problems most commonly took place weekly, monthly or
+          never ( <xref ref-type="table" rid="t04">Table 2</xref> ). More than 200 activities from
+          this group were mentioned by the interviewees.</p>
+        <p>
+          <table-wrap id="t04">
+            <label>Table 2</label>
+            <caption>
+              <title>Frequency of activities in conjunction with the community aiming to improve
+                quality of life for the members of the community and/or resolve local problems
+                within the Family Health Care Program. Sao Paulo, SP, 2005 to 2006.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="8%">
+                <col width="15%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td> </td>
+                  <td colspan="2"> </td>
+                  <td colspan="2" align="center">Activity</td>
+                  <td colspan="2"> </td>
+                  <td colspan="2"> </td>
+                  <td colspan="2"> </td>
+                </tr>
+                <tr>
+                  <td colspan="11" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td rowspan="3">Frequency</td>
+                  <td colspan="2" align="center">Community therapy</td>
+                  <td colspan="2" align="center">Identification of local problems and/or
+                    vulnerabilities</td>
+                  <td colspan="2" align="center">Education</td>
+                  <td colspan="2" align="center">Leisure</td>
+                  <td colspan="2" align="center">Income generation</td>
+                </tr>
+                <tr>
+                  <td colspan="10" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td align="center">#</td>
+                  <td align="center">%</td>
+                  <td align="center">#</td>
+                  <td align="center">%</td>
+                  <td align="center">#</td>
+                  <td align="center">%</td>
+                  <td align="center">#</td>
+                  <td align="center">%</td>
+                  <td align="center">#</td>
+                  <td align="center">%</td>
+                </tr>
+                <tr>
+                  <td colspan="11" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Daily</td>
+                  <td align="center">9</td>
+                  <td align="center">6.0</td>
+                  <td align="center">19</td>
+                  <td align="center">13.0</td>
+                  <td align="center">24</td>
+                  <td align="center">17.0</td>
+                  <td align="center">15</td>
+                  <td align="center">10.0</td>
+                  <td align="center">9</td>
+                  <td align="center">7.0</td>
+                </tr>
+                <tr>
+                  <td>Weekly</td>
+                  <td align="center">54</td>
+                  <td align="center">36.0</td>
+                  <td align="center">17</td>
+                  <td align="center">12.0</td>
+                  <td align="center">32</td>
+                  <td align="center">22.0</td>
+                  <td align="center">35</td>
+                  <td align="center">23.0</td>
+                  <td align="center">32</td>
+                  <td align="center">24.0</td>
+                </tr>
+                <tr>
+                  <td>Monthly</td>
+                  <td align="center">13</td>
+                  <td align="center">9.0</td>
+                  <td align="center">48</td>
+                  <td align="center">33.0</td>
+                  <td align="center">36</td>
+                  <td align="center">25.0</td>
+                  <td align="center">25</td>
+                  <td align="center">16.0</td>
+                  <td align="center">7</td>
+                  <td align="center">5.0</td>
+                </tr>
+                <tr>
+                  <td>Quarterly</td>
+                  <td align="center">0</td>
+                  <td align="center">0</td>
+                  <td align="center">6</td>
+                  <td align="center">4.0</td>
+                  <td align="center">10</td>
+                  <td align="center">7.0</td>
+                  <td align="center">10</td>
+                  <td align="center">7.0</td>
+                  <td align="center">4</td>
+                  <td align="center">3.0</td>
+                </tr>
+                <tr>
+                  <td>Semiannually</td>
+                  <td align="center">0</td>
+                  <td align="center">0</td>
+                  <td align="center">3</td>
+                  <td align="center">2.0</td>
+                  <td align="center">6</td>
+                  <td align="center">4.0</td>
+                  <td align="center">11</td>
+                  <td align="center">7.0</td>
+                  <td align="center">3</td>
+                  <td align="center">2.0</td>
+                </tr>
+                <tr>
+                  <td>Annually</td>
+                  <td align="center"> 0</td>
+                  <td align="center">0</td>
+                  <td align="center">4</td>
+                  <td align="center">3.0</td>
+                  <td align="center">0</td>
+                  <td align="center">0</td>
+                  <td align="center">11</td>
+                  <td align="center">7.0</td>
+                  <td align="center">5</td>
+                  <td align="center">4.0</td>
+                </tr>
+                <tr>
+                  <td>No pattern of regularity</td>
+                  <td align="center">13</td>
+                  <td align="center">9.0</td>
+                  <td align="center">23</td>
+                  <td align="center">16.0</td>
+                  <td align="center">18</td>
+                  <td align="center">13.0</td>
+                  <td align="center">26</td>
+                  <td align="center">17.0</td>
+                  <td align="center">18</td>
+                  <td align="center">13.0</td>
+                </tr>
+                <tr>
+                  <td>Unknown</td>
+                  <td align="center">8</td>
+                  <td align="center">5.0</td>
+                  <td align="center">12</td>
+                  <td align="center">8.0</td>
+                  <td align="center">6</td>
+                  <td align="center">4.0</td>
+                  <td align="center">6</td>
+                  <td align="center">4.0</td>
+                  <td align="center">8</td>
+                  <td align="center">6.0</td>
+                </tr>
+                <tr>
+                  <td>Never</td>
+                  <td align="center">54</td>
+                  <td align="center">36.0</td>
+                  <td align="center">13</td>
+                  <td align="center">9.0</td>
+                  <td align="center">12</td>
+                  <td align="center">8.0</td>
+                  <td align="center">13</td>
+                  <td align="center">9.0</td>
+                  <td align="center">50</td>
+                  <td align="center">37.0</td>
+                </tr>
+                <tr>
+                  <td>Partial total</td>
+                  <td align="center">151</td>
+                  <td> </td>
+                  <td align="center">145</td>
+                  <td> </td>
+                  <td align="center">144</td>
+                  <td> </td>
+                  <td align="center">152</td>
+                  <td> </td>
+                  <td align="center">136</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>No answer</td>
+                  <td align="center">20</td>
+                  <td> </td>
+                  <td align="center">26</td>
+                  <td> </td>
+                  <td align="center">27</td>
+                  <td> </td>
+                  <td align="center">19</td>
+                  <td> </td>
+                  <td align="center">35</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Total</td>
+                  <td align="center">171</td>
+                  <td> </td>
+                  <td align="center">171</td>
+                  <td> </td>
+                  <td align="center">171</td>
+                  <td> </td>
+                  <td align="center">171</td>
+                  <td> </td>
+                  <td align="center">171</td>
+                  <td> </td>
+                </tr>
+              </tbody>
+            </table>
+          </table-wrap>
+        </p>
+        <p>Activities related to the development and/or mobilization of health care or quality of
+          life public policies had a poor pattern of regularity. In this group, the most common
+          frequencies were monthly or with no pattern of regularity. Activities related to
+          participating in local and/or health care advisory panels were the most commonly reported
+          in this group. They most commonly occurred monthly. Work group activities (research,
+          accident prevention, primary health care reception and triage, humanization, combatting
+          violence, and environment) occurred monthly or never.</p>
+        <p>The main reported obstacles to SDH initiatives in the PSF of the city were: unfavorable
+          socioeconomic conditions, lack of resources, the population’s lack of adherence and the
+          imbalance between low supply and high demand for services. The main facilitating factors
+          were: the existence of the Community Health Workers (ACS) as part of the team, population
+          mobilization, professional commitment, partnerships and knowledge of the territory.</p>
+      </sec>
+      <sec sec-type="discussion">
+        <title>DISCUSSION</title>
+        <p>Despite the anticipated concentration of activities aimed at treating disease, the PSF in
+          the city of Sao Paulo carries out a variety of activities connected to social determinants
+          of health, including all of the fundamental approaches for promoting health (biological,
+          behavioral, psychological, social and structural) <xref ref-type="bibr" rid="B4"
+              ><sup>4</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B17"><sup>17</sup></xref> and all of the main SDH described in
+          the literature. <xref ref-type="bibr" rid="B12"><sup>12</sup></xref> , <xref ref-type="fn"
+            rid="fn17"><sup>e</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="fn" rid="fn18"><sup>f</sup></xref>
+        </p>
+        <p>The existence of negativist, essentialist and inclusive groups, and their association
+          with different Health Districts indicates regional influences in SDH initiatives. The
+          South East Health District was linked with the inclusive group. The initiatives developed
+          by a PSF partner institution in the area (of programmatic bio-psychosocial
+          vulnerabilities) is a point to be further explored. <xref ref-type="fn" rid="fn16"
+              ><sup>d</sup></xref>
+        </p>
+        <p>No quantitative studies comparing type and frequency of SDH were found. The
+          classification of SDH as classic and broad used to create the negativist, essentialist and
+          inclusive groups created a precedent for classifying SDH initiatives within the PSF, as it
+          can be used in future comparative studies carried out in Brazil.</p>
+        <p>Although little is known about the characterization of these groups besides the SDH
+          initiatives in each PSF unit, it is possible to compare them with the response categories
+          which emerged from the second stage of the study. Member of the program coordination,
+          partner institutions and professionals involved in SDH initiatives within the PSF
+          expressed five categories of options with regards the inclusion of SDH initiatives in the
+          context of the PSF: (1) the ethical imperative of equity and (2) the determinism of the
+          professional-community connection (based on the presence of the ACS) were described as a
+          driving force behind SDH initiatives. (3) The priority of dealing with disease as the
+          unique role of the health sector and (4) the inability to affect social structure through
+          local interventions were described as reasons to not work with SDH in the context of the
+          program. (5) Finally, a philosophical and technical question of belonging and viability,
+          and the lack of understanding about the program’s aims were mentioned as reasons for
+          uncertainty. Although these arguments cannot be linked directly to the inclusive,
+          negativist and essentialist groups, we can find in them the theoretical and practical
+          bases for the existence of these three groups.</p>
+        <p>It is also possible to better characterize the inclusive group based on SDH activities
+          reported by the group itself in the second stage of the study. According to members of
+          this group, SDH activities show a low level of institutionalization and high level of
+          dedication and effort from some professionals, especially the ACS, viewed as the main
+          facilitator for SDH initiatives. SDH activities are not usually evaluated. Informal
+          assessments are carried out without goals or references. The stories told are of
+          frustration, but also of overcoming difficulties and improving the population’s quality of
+          life. Spending on the initiatives is low and they are usually financed either by a small
+          budget from the unit manager or by donations from employees, the community and local
+          partners.</p>
+        <p>According to the reports from the inclusive group, due to lack of program support, SDH
+          activities within the PSF are typically “fluid” and “out of the ordinary/extraordinary”:
+          this fluidity opportunistically embraces different concepts of health and different
+          objectives within the same initiative. Instead of setting truly comprehensive and holistic
+          goals, opportunistic objectives are established to ensure the survival of the initiative
+          in the context of the program. The “out of the ordinary/extraordinary” character is
+          constituted by the dual view of the initiatives as extra work, carried out to the
+          detriment of the program’s planning and, at the same time, as work which is better than
+          ordinary, carried out as a form of exalting the potential of the program to deal with the
+          broad determination of the health-disease process.</p>
+        <p>This stage of an outbreak of disconnected, deinstitutionalized activities is in agreement
+          with that described by Campos &amp; Teixeira <xref ref-type="fn" rid="fn19"
+            ><sup>g</sup></xref> (2005), in a qualitative national study carried out with 12 health
+          promotion initiatives in the PSF. They concluded that the practice of promoting health was
+          highly fragile and not institutionalized within the program. As a consequence, it is
+          necessary to bring external factors into the program to establish these types of
+          activities in the PSF. The inter-sectoral activities identified were based on specific
+          partnerships, far from the program’s management practices.</p>
+        <p>Gonçalves et al <xref ref-type="bibr" rid="B9"><sup>9</sup></xref> (2011) evaluated
+          inter-sectorial activities in PSF, using a qualitative case study, in Belo Horizonte and
+          Contagem, MG, Southeastern Brazil. They found the activities were based on specific
+          partnerships different from those practiced by the program managers.</p>
+        <p>Carvalho et al <xref ref-type="bibr" rid="B5"><sup>5</sup></xref> (2009) carried out a
+          descriptive mixed cross-sectional study (quantitative/qualitative) on intersectoral
+          activities in a health district in Goiânia, GO, Midwestern Brazil. According to these
+          authors, 71% of the health care professionals reported participating in “activities to
+          resolve individual or group problems”, a percentage close to the one mentioned in this
+          article for activities run in tandem with the community, which aimed to improve members of
+          the community’s quality of life and/or resolving local problems. They also stated the lack
+          of understanding on the part of many professionals with regards to inter-sectoral
+          initiatives and the lack of an evaluation policy for this type of initiative.</p>
+        <p>Gil <xref ref-type="bibr" rid="B8"><sup>8</sup></xref> (2006) reviewed the literature on
+          the PSF between 1990 and 2005 and stated that the PSF did not manage to incorporate a
+          wider vision of health care into its management. However, we are also reminded that
+          programmatic fragility is an inherent part of the growth paradox and this fragility can
+          serve as a basis for the program restructuring.</p>
+        <p>Sousa &amp; Hamann <xref ref-type="bibr" rid="B18"><sup>18</sup></xref> show the
+          importance of producing management technologies that include the complexity of actions
+          aimed at the broad determination of the health-disease process. For Campos &amp;
+          Guerreiro, <xref ref-type="bibr" rid="B3"><sup>3</sup></xref> strategies to strengthen
+          management and training centers for primary care should be applied for overcoming the
+          obstacles that the PSF encountered in order to plan SDH initiatives.</p>
+        <p>Significant efforts on the part of professionals in the PSF to work with social
+          determinants of health were identified. However, for these efforts to serve as leverage
+          for changing the health care model, they need to be coordinated with efforts on the part
+          of management and with the program itself. Such an alignment was not observed in this
+          study and, according to the literature, is not present in the other regions of the
+          country. <xref ref-type="bibr" rid="B5"><sup>5</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B8"><sup>8</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B9"><sup>9</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="fn" rid="fn19"><sup>g</sup></xref> The PSF service organization logic and
+          the social determinants of health intervention model needs to be rethought. This process
+          of negotiation and renegotiation between the coordinators of the program and the
+          professionals on the chalk face is fundamental if SDH activities in the PSF are to move
+          from competing with health care to becoming an integral part of inter-sectoral health
+          services <xref ref-type="bibr" rid="B14"><sup>14</sup></xref> (in contrast to their
+          present fluid state) and sustainable (in contrast to their present extraordinary
+          character).</p>
+        <p>There is great potential to work with social determinants of health within the PSF.
+          However, for this potential to be reached in a sustainable and comprehensive way, it is
+          necessary that a framework is created which goes beyond individual facilitators and
+          includes aspects of program management. SDH initiatives need to be acknowledged within the
+          context of the PSF as a state policy, which would include financing, training, evaluation,
+          inter-sectoral collaboration and civil society participation protocols. The link between
+          the Health Districts and the approaches of the SDH initiatives in the PSF units in Sao
+          Paulo needs to be investigated. We suggest comparative studies of districts and aspects
+          related to the problems and opportunities in each district, including organization
+          practices and staff training. We furthermore recommend the undertaking of case studies on
+          the management practices of the PSF and their implications for initiatives with social
+          determinants of health. These studies should concentrate on specific work processes,
+          especially documents incorporated into the day-to-day running of the services (forms,
+          meetings minutes, assessments, reports, letters), guidance documents, human resource and
+          financial policies and inter-sectoral contracts, among others. According to Andrade, <xref
+            ref-type="bibr" rid="B1"><sup>1</sup></xref> analyzing processes of inter- sectoral
+          relationships is necessary as the sustainability of SDH initiatives within the health care
+          sector necessarily involves solid partnerships with other sectors. <xref ref-type="bibr"
+            rid="B1"><sup>1</sup></xref>
+        </p>
+      </sec>
+    </body>
+    <back>
+      <app-group>
+        <p>HIGHLIGHTS</p>
+        <p>The article deals with the largest community based program in the Brazilian Unified
+          Health System – The <italic>Programa Saúde da Família</italic> (the Family Health Care
+          Program) – and its relevance and ability to work with social determinants of health.</p>
+        <p>The group classification for social determinants of health (broad and classic) and for
+          the health care units (Negativist, Essentialist and Inclusive) developed in this article
+          prove themselves to be potential instruments with which Brazilian Unified Health System
+          managers can quantitatively map initiatives with social determinants of health in the
+          context of the <italic>Programa Saúde da Família</italic> .</p>
+        <p>The regional differences shown in the municipality of Sao Paulo constitute an aspect to
+          be explored by managers in order to understand the impact of their different training
+          policies within the context of social determinants of health. Better understanding of the
+          work of the “Inclusive group” (identified in the article), especially the degree of
+          institutionalization of the activities with social determinants of health with regards
+          financing, assessment, and organization policies helps managers to change discourse and
+          practice in the <italic>Programa Saúde da Família</italic> .</p>
+        <p>Profa. Rita de Cássia Barradas Barata</p>
+        <p>Scientific Editor</p>
+      </app-group>
+      <fn-group>
+        <fn id="fn13">
+          <label>a</label>
+          <p>Pan American Health Organization. Renewing primary health care in the Americas: a
+            position paper of the Pan American Health Organization/World Health Organization
+            (PAHO/WHO). Washington (DC); 2007.</p>
+        </fn>
+        <fn id="fn14">
+          <label>b</label>
+          <p>Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Atenção Básica.
+            Política nacional de atenção básica. Brasília (DF); 2006. (Série Pactos pela Saúde,
+            4).</p>
+        </fn>
+        <fn id="fn15">
+          <label>c</label>
+          <p>World Health Organization. Rio political declaration on social determinants of health.
+            In: World Conference on Social Determinants of Health; 21 Oct 2011; Rio de Janeiro,
+            Brazil. World Health Organization; 2011 [cited 2013 Jun 24]. Available from:
+            http://www.who.int/sdhconference/declaration/Rio_political_declaration.pdf  </p>
+        </fn>
+        <fn id="fn16">
+          <label>d</label>
+          <p>Dowbor TP. O trabalho com determinantes sociais da saúde no Programa Saúde da Família
+            do Município de São Paulo [tese de doutorado]. São Paulo: Faculdade de Saúde Pública da
+            Universidade de São Paulo; 2008.</p>
+        </fn>
+        <fn id="fn17">
+          <label>e</label>
+          <p>Mikkonen J, Raphael D. Social determinants of health: the Canadian facts. Toronto: York
+            University School of Health Policy and Management; 2010 [cited 24 Ago 2013]. Available
+            from em: http://www.thecanadianfacts.org/The_Canadian_Facts.pdf  </p>
+        </fn>
+        <fn id="fn18">
+          <label>f</label>
+          <p>World Health Organization. Closing the gap in a generation: health equity through
+            action on the social determinants of health: final report of the WHO Commission on the
+            Social Determinants of Health. Geneva; 2008.</p>
+        </fn>
+        <fn id="fn19">
+          <label>g</label>
+          <p>Campos FC, Teixeira PF, coordenadores. Promoção de saúde na atenção básica no Brasil:
+            relatório de pesquisa apresentado à FUNDEP 8966-OPAS. Belo Horizonte: Núcleo de Estudos
+            em Saúde Coletiva da Faculdade de Medicina da UFMG; 2005. Projeto FUNDEP
+            8966-OPAS/FM/NESCON/Estudos de caso. Available from:
+            http://189.28.128.100/dab/docs/geral/promocao_saude_ab.pdf </p>
+        </fn>
+        <fn>
+          <p>Presented to the 19<sup>th</sup>IUHPE World Conference on Health Promotion and Health
+            Education – Health Promotion Comes of Age: Research, Policy &amp; Practice for the
+              21<sup>st</sup>Century, in Vancouver, 2007; and to the <italic>II Seminário Brasileiro
+              de Efetividade da Promoção da Saúde</italic> , Rio de Janeiro, 2008.</p>
+        </fn>
+        <fn>
+          <p>Study based on the Doctoral thesis of Dowbor T. P., entitled: “O trabalho com
+            determinantes sociais da saúde no Programa Saúde da Família do Município de São Paulo”,
+            presented to the <italic>Faculdade de Saúde Pública</italic> , <italic>Universidade de
+              São Paulo,</italic> in 2008.</p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+</article>

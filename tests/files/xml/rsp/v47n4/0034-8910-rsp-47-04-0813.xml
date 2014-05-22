@@ -1,0 +1,633 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="brief-report" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047004548</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047004548</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Comunicação Breve</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Incremental yield of bronchial washing for diagnosing
+          smear-negative pulmonary tuberculosis</article-title>
+        <trans-title-group xml:lang="pt">
+          <trans-title>Aumento do rendimento do lavado brônquico para diagnóstico da tuberculose
+            pulmonar com baciloscopia negativa</trans-title>
+        </trans-title-group>
+        <trans-title-group xml:lang="es">
+          <trans-title>Rendimiento incremental del lavado bronquial para diagnóstico de la
+            tuberculosis pulmonar con baciloscopia negativa</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Soto</surname>
+            <given-names>Alonso</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Acurio</surname>
+            <given-names>Vilma</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Solari</surname>
+            <given-names>Lely</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+          <xref ref-type="aff" rid="aff3">III</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Van der Stuyft</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+          <xref ref-type="aff" rid="aff4">IV</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>I</label>
+        <institution content-type="orgdiv1">General Epidemiology and Disease Control
+          Unit</institution>
+        <institution content-type="orgname">Institute of Tropical Medicine</institution>
+        <addr-line>
+          <named-content content-type="city">Antwerp</named-content>
+        </addr-line>
+        <country>Belgium</country> General Epidemiology and Disease Control Unit. Institute of
+        Tropical Medicine. Antwerp, Belgium</aff>
+      <aff id="aff2">
+        <label>II</label>
+        <institution content-type="orgdiv1">Departamento de Medicina</institution>
+        <institution content-type="orgname">Hospital Nacional Hipólito Unanue</institution>
+        <addr-line>
+          <named-content content-type="state">El Agustino</named-content>
+          <named-content content-type="city">Lima</named-content>
+        </addr-line>
+        <country>Peru</country> Departamento de Medicina. Hospital Nacional Hipólito Unanue. El
+        Agustino, Lima, Peru</aff>
+      <aff id="aff3">
+        <label>III</label>
+        <institution content-type="orgdiv1">Unidad de Análisis y Generación de Evidencias en Salud
+          Pública</institution>
+        <institution content-type="orgname">Instituto Nacional de Salud</institution>
+        <addr-line>
+          <named-content content-type="city">Lima</named-content>
+        </addr-line>
+        <country>Peru</country> Unidad de Análisis y Generación de Evidencias en Salud Pública,
+        Instituto Nacional de Salud. Lima, Peru</aff>
+      <aff id="aff4">
+        <label>IV</label>
+        <institution content-type="orgdiv1">Department of Public Health</institution>
+        <institution content-type="orgname">Ghent University</institution>
+        <addr-line>
+          <named-content content-type="city">Gent</named-content>
+        </addr-line>
+        <country>Belgium</country> Department of Public Health, Ghent University. Gent,
+        Belgium</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondence</bold> : Alonso Soto. Hospital Nacional Hipólito Unanue. Av. Cesar
+          Vallejo, 1390 El Agustino. Lima, Peru. E-mail: sotosolari@gmail.com</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>This study was supported by the Damien Foundation (Grant nº 85561/2005).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conﬂicts of interests.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>04</issue>
+      <fpage>813</fpage>
+      <lpage>816</lpage>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>9</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>21</day>
+          <month>2</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="en">
+        <sec>
+          <title>OBJECTIVE</title>
+          <p>To assess the increased diagnostic yield for pulmonary tuberculosis using bronchial
+            washing cultures compared with sputum cultures.</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p>Study conducted with 61 adults in Lima, Peru, from January 2006 to December 2007. The
+            yield of sputum cultures was compared with the yield of acid-fast bacilli smears and
+            cultures of bronchial washing for diagnosing pulmonary tuberculosis in suspected cases
+            of clinical tuberculosis with negative acid fast bacilli sputum smears.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p>Twenty seven (95%CI 32;58) of the cases were eventually diagnosed with smear-negative
+            pulmonary tuberculosis. Bronchial washing samples detected 23 (95%CI 72;99) of the
+            smear-negative pulmonary tuberculosis cases compared with 15 (95%CI 37;74) for sputum
+            cultures (p = 0.02). The incremental diagnostic yield of acid fast bacilli smear and
+            culture of bronchial washing specimens over sputum culture was 44% (95%CI 25;65).</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONS</title>
+          <p>In function of the epidemiological context and the resources available, bronchoscopy
+            should be deployed as part of a comprehensive work up that optimizes smear-negative
+            pulmonary tuberculosis diagnosis and minimizes risk and costs.</p>
+        </sec>
+      </abstract>
+      <trans-abstract xml:lang="pt">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Avaliar o aumento do rendimento do diagnóstico de tuberculose pulmonar mediante cultura
+            de lavado brônquico em comparação ao rendimento da cultura de escarro.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>Estudo realizado com 61 adultos da cidade de Lima, Peru, a partir de janeiro de 2006 a
+            dezembro de 2007. Foi comparado o rendimento de culturas de escarro com o de esfregaço
+            de bacilos ácido-resistentes e cultura de amostras de lavado brônquico para diagnóstico
+            de tuberculose pulmonar, em casos suspeitos de tuberculose clínica, com esfregaço de
+            escarro de bacilos ácido-resistentes negativo.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>Vinte e sete (IC95% 32;58) dos casos foram diagnosticados com tuberculose pulmonar de
+            baciloscopia negativa. As amostras de lavabo brônquio detectaram 23 (95%; IC95% 72;99)
+            dos casos de tuberculose pulmonar de baciloscopia negativa, comparados com 15 (IC95%
+            37;74) de cultura de escarro (p = 0.02). O diagnóstico da tuberculose pulmonar mediante
+            o uso do esfregaço de bacilos ácido-resistentes e da cultura de lavado brônquico tiveram
+            um rendimento adicional de 44% (IC95% 25;65) em relação à cultura de escarro.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSÕES</title>
+          <p>Em função do contexto epidemiológico e dos recursos disponíveis, a broncoscopia deve
+            ser adotada como parte de trabalho abrangente que otimize o diagnóstico de tuberculose
+            pulmonar de baciloscopia negativa e minimize riscos e custos.</p>
+        </sec>
+      </trans-abstract>
+      <trans-abstract xml:lang="es">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Comparar el rendimiento de cultivos de esputo con el de coloración de bacilos
+            ácido-resistentes para el diagnóstico de la tuberculosis pulmonar con baciloscopia
+            negativa, en casos de tuberculosis con preparaciones de esputo en lámina negativas.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>Estudio realizado con 61 adultos de Lima, Perú, a partir de enero de 2006 a diciembre
+            de 2007. Se comparó el rendimiento de cultivos de esputo con el de coloración de bacilos
+            ácido-resistentes para el diagnóstico de baciloscopia negativa de tuberculosis
+            pulmonar.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>De los casos sospechosos, 27 (44%, IC95% 32;58) fueron diagnosticados como tuberculosis
+            pulmonar con baciloscopia negativa. En el lavado bronquial se detectaron 23 (85%; IC95%
+            72-99) de los casos de baciloscopia negativa de tuberculosis pulmonar y en los cultivos
+            de esputo 56% (IC95% 37;74; p=0,02). La preparación en láminas de bacilos
+            ácido-resistentes y los cultivos de lavado bronquial tuvieron un rendimiento adicional
+            de diagnóstico de 44% (IC95% 25;65) con relación al cultivo de esputo.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONES</title>
+          <p>En función del contexto epidemiológico y los recursos disponibles, la broncoscopia debe
+            ser implementada como parte del trabajo amplio que optimice el diagnóstico de la
+            baciloscopia negativa de tuberculosis pulmonar y riesgo y minimice los costos.</p>
+        </sec>
+      </trans-abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Bronchoalveolar Lavage</kwd>
+        <kwd>Tuberculosis</kwd>
+        <kwd>diagnosis</kwd>
+        <kwd>Diagnostic Techniques and Procedures</kwd>
+        <kwd>Sensitivity and Specificity</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="pt">
+        <kwd>Lavagem Broncoalveolar</kwd>
+        <kwd>Tuberculose, diagnóstico</kwd>
+        <kwd>Técnicas e Procedimentos Diagnósticos</kwd>
+        <kwd>Sensibilidade e Especificidade</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>Lavado Broncoalveolar</kwd>
+        <kwd>Tuberculosis, diagnóstico</kwd>
+        <kwd>Técnicas y Procedimientos Diagnósticos</kwd>
+        <kwd>Sensibilidad y Especificidad</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>Damien Foundation</funding-source>
+          <award-id>85561/2005</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <table-count count="1"/>
+        <ref-count count="5"/>
+        <page-count count="4"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUCTION</title>
+      <p>According to World Health Organization (WHO), smear negative pulmonary tuberculosis (SNPT)
+        is defined as a case with at least two negative sputum acid fast bacilli (AFB) smears and
+        either a positive culture or radiographic abnormalities consistent with tuberculosis and
+        failure to respond to an antibiotic trial. <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> Microbiological tests on flexible bronchoscopy samples are considered useful for the
+        diagnosis of SNPT, but their indication is not standardized. The procedure is performed on
+        the premise that the bacillary load is higher in samples from bronchial secretions than in
+        sputum. However, bronchoscopy is not without risk for patients and may be associated with
+        nosocomial transmission of tuberculosis.</p>
+      <p>The reported sensitivity in patients with clinical suspicion of tuberculosis varies from as
+        low as 6.5% to up to 77%. <xref ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref> However, evaluations of bronchoscopy are scarce, specifically for the detection of
+        SNPT in prospective studies. Additionally, culture in liquid media is seldom performed. It
+        is more sensitive than culture in conventional solid media of sputum and recommended by the
+        WHO, <xref ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref> but whether this is also the case for bronchoscopy samples is less clear.</p>
+      <p>Further evaluation of the yield of bronchoscopy is needed in order to generate
+        evidence-based recommendations for the use of the procedure in patients with clinical
+        suspicion of SNPT. This study aimed to prospectively assess the incremental diagnostic yield
+        of acid fast bacilli (AFB) smear and culture of a bronchial washing sample over the yield of
+        sputum sample culture in such patients. We also compared the yield of liquid culture
+        compared to conventional solid culture in bronchial washing samples.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>METHODS</title>
+      <p>Study conducted in adults that attended the <italic>Hospital Nacional Hipólito
+          Unanue</italic> , a tuberculosis reference hospital in Lima, Peru, from January 2006 to
+        December 2007. We included patients with clinical suspicion of pulmonary tuberculosis (cough
+        for 14 days or more) and two or more negative AFB sputum smears and one additional negative
+        concentrated smear, who did not improve after a two week antibiotic trial. Patients with
+        high clinical suspicion of tuberculosis who were put on anti-tuberculous treatment without
+        further investigation by the treating pneumologist were excluded from the analysis.</p>
+      <p>All patients underwent bronchoscopy with bronchial washing, without bronchoalveolar lavage.
+        The procedures were executed by trained pneumologists. Patients were pre-medicated with 0.5
+        mg atropine and then sedated with midazolam. Bronchial washing was performed by instilling
+        20 to 50 ml of 0.9% isotonic saline in the tracheobronchial tree up to the sub-segmental
+        level. The sample was obtained by aspiration into a trap connected to a suction tube.</p>
+      <p>The sputum sample taken prior to the procedure was concentrated, decontaminated and
+        cultured in solid Ogawa medium using standard methodology <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref> and in mycobacteria growth indicator tube, manually read as previously described.
+          <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> Bronchial washing samples were concentrated, directly examined for AFB and cultured
+        in the same way.</p>
+      <p>We classified patients as SNPT cases when they had a positive bacteriological result in
+        cultures of sputum or in AFB smears or cultures of bronchial washing specimens. We
+        calculated the overall diagnostic yields of the different sputum and bronchial washing
+        examinations. Incremental diagnostic yield was defined as [(number of additional cases
+        diagnosed by the test / all detected cases)*100)]. The McNemar test was used for comparing
+        the proportion of positive results.</p>
+      <p>Written informed consent was obtained from all participants. Patients were offered HIV
+        counseling and voluntary testing. The study followed the Declaration of Helsinki principles
+        and was approved by the Ethics Committee of the <italic>Hospital Nacional Hipólito
+          Unanue</italic> and of the Institute of Tropical Medicine of Antwerp (Registration number
+        4525842, July 5 2005).</p>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTS</title>
+      <p>Sixty-one patients were recruited. The median age was 33 (interquartile range 26 to 43
+        years old) and 52% were males; 21% had a previous history of tuberculosis. Fourteen patients
+        refused HIV testing and one out of the 47 patients tested had a positive test. SNPT was
+        diagnosed in 27/61 (95%CI 32;58) suspected cases. There were no complications from the
+        procedure and bronchial washing samples were able to be obtained from all recruited
+        patients.</p>
+      <p>Bronchial washing AFB smears and cultures detected 23/27 cases of SNPT (95%CI 72;99), a
+        significantly higher proportion (p = 0.02) than the 15/27 (95%CI 37;74) cases detected by
+        sputum cultures ( <xref ref-type="table" rid="t01">Table 1</xref> ). Nine of the 27 SNPT
+        patients (95%CI 17;54) had a positive solid sputum culture and 13/27 (95%CI 29;68) a
+        positive liquid sputum culture. This difference was not significant (p = 0.16). The
+        incremental diagnostic yield of bronchial washing examinations over sputum cultures was
+        12/27 (95%CI 25;65). AFB smears from bronchial washings were already positive in 6/15 (95%CI
+        16;68) cases eventually detected by sputum culture.</p>
+      <p>
+        <table-wrap id="t01">
+          <label>Table</label>
+          <caption>
+            <title>Comparison of the diagnostic yield in sputum smear-negative pulmonary
+              tuberculosis suspects of sputum culture, bronchial washing smear acid fast bacilli
+              staining and bronchial washing culture. Lima, Peru, 2006 to 2007.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="23%">
+              <col width="30%"/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="3">Variable</td>
+                <td colspan="3" align="center">Bronchial washing AFB smear and culture</td>
+              </tr>
+              <tr>
+                <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td align="center">Any positive</td>
+                <td align="center">Both negative</td>
+                <td align="center">Total</td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Sputum culture</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Positive</td>
+                <td align="center">11</td>
+                <td align="center">4</td>
+                <td align="center">15</td>
+              </tr>
+              <tr>
+                <td> Negative</td>
+                <td align="center">10</td>
+                <td align="center">33</td>
+                <td align="center">43</td>
+              </tr>
+              <tr>
+                <td> Contaminated</td>
+                <td align="center">2</td>
+                <td align="center">1</td>
+                <td align="center">3</td>
+              </tr>
+              <tr>
+                <td> Total</td>
+                <td align="center">23</td>
+                <td align="center">38</td>
+                <td align="center">61</td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td rowspan="3">  </td>
+                <td colspan="3" align="center">Bronchial washing culture</td>
+              </tr>
+              <tr>
+                <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td align="center">Positive</td>
+                <td align="center">Negative</td>
+                <td align="center">Total</td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Bronchial washing AFB</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Positive</td>
+                <td align="center">10</td>
+                <td align="center">1</td>
+                <td align="center">11</td>
+              </tr>
+              <tr>
+                <td> Negative</td>
+                <td align="center">12</td>
+                <td align="center">38</td>
+                <td align="center">50</td>
+              </tr>
+              <tr>
+                <td> Total</td>
+                <td align="center">22</td>
+                <td align="center">39</td>
+                <td align="center">61</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>AFB: acid fast bacilli</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>Bronchial washing AFB smears were positive in 11 of the 23 (95%CI 27;69) SNPT cases
+        detected through bronchoscopy while cultures of bronchial washing specimens were positive in
+        22 of these cases (95%CI 78;100) (p &lt; 0.001). The incremental diagnostic yield of culture
+        over AFB smears in bronchial washing specimens was 12/23 (95%CI 31;73).</p>
+      <p>Positivity of bronchial washing culture was higher in liquid media (19/22; 95%CI 65;97)
+        than in solid media (14/22; 95%CI 41;83) (p = 0.06). The incremental diagnostic yield of
+        liquid culture from bronchial washing over solid cultures was 8/22 (95%CI 17;59).</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSION</title>
+      <p>The incremental yield of AFB smear and culture of bronchial washing specimens over sputum
+        cultures (44.0%) is substantial in suspected cases of SNPT, and the diagnostic yield (85.0%)
+        is high. The latter finding is consistent with the literature, but yield is highly dependent
+        on the setting. Nevertheless, a few patients with positive sputum cultures have negative
+        bronchial washing examinations. This may be due to the bacteriostatic effect of the local
+        anesthetic, xylocaine <xref ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref> or to delays in processing the bronchial washing samples. Bronchoalveolar lavage
+        could possibly result in an even better diagnostic yield but is not frequently performed in
+        resource constrained settings.</p>
+      <p>A considerable proportion of bronchoscopies could be foregone if the results of sputum
+        cultures became more rapidly available: half of patients with SNPT diagnosed through
+        bronchoscopy eventually had a positive sputum culture. Liquid media cultures give faster
+        results and are more sensitive than culture in standard solid media and should be made more
+        generally available. <xref ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref> The diagnostic yield of bronchial washing samples is better than that of sputum
+        samples, but they are complementary and should be included in the work-up in function of the
+        epidemiological context, patient presentation and resources available. Sputum induction,
+        post-bronchoscopic sputum samples and the deployment of molecular techniques could all
+        further contribute to rationalizing the use of bronchoscopy and to optimizing SNPT
+        diagnosis.</p>
+      <p>
+        <italic>While substantially augmenting diagnostic yield, it remains unclear at which step in
+          the diagnostic workup of suspected cases of SNPT bronchoscopy could best be used and
+          further research is needed to define its precise place and role. It should be deployed as
+          part of a broader, comprehensive approach towards diagnosing SNPT that maximizes yield
+          while minimizing risks and costs. Nevertheless, AFB smears from bronchial washing
+          specimens detect almost half of all SNPT cases and allow for a very rapid diagnosis. This
+          justifies the use of the procedure in critical situations where a treatment decision is
+          urgently needed, particularly if avoiding tuberculosis drug related morbidity is of
+          concern.</italic>
+      </p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERENCES</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. World Health Organization. Treatment of tuberculosis guidelines. 4. ed.
+          Geneva; 2010. (WHO/HTM/TB/2009.420).</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <collab>World Health Organization</collab>
+          </person-group>
+          <source xml:lang="en">Treatment of tuberculosis guidelines</source>
+          <edition>4. ed</edition>
+          <publisher-loc>Geneva</publisher-loc>
+          <year>2010</year>
+          <elocation-id>WHO/HTM/TB/2009.420</elocation-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Mohan A, Sharma SK. Fibreoptic bronchoscopy in the diagnosis of sputum
+          smear-negative pulmonary tuberculosis: current status. <italic>Indian J Chest Dis Allied
+            Sci.</italic> 2008;50(1):67-78.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Mohan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sharma</surname>
+              <given-names>SK</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Fibreoptic bronchoscopy in the diagnosis of sputum
+            smear-negative pulmonary tuberculosis: current status</article-title>
+          <source>Indian J Chest Dis Allied Sci</source>
+          <year>2008</year>
+          <volume>50</volume>
+          <issue>1</issue>
+          <fpage>67</fpage>
+          <lpage>78</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. World Health Organization. Improving the diagnosis and treatment of
+          smear-negative pulmonary and extrapulmonary tuberculosis among adults and adolescents.
+          Recommendations for HIV-prevalent and resource-constrained settings. Geneva;
+          2007.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <collab>World Health Organization</collab>
+          </person-group>
+          <source xml:lang="en">Improving the diagnosis and treatment of smear-negative pulmonary
+            and extrapulmonary tuberculosis among adults and adolescents. Recommendations for
+            HIV-prevalent and resource-constrained settings</source>
+          <publisher-loc>Geneva</publisher-loc>
+          <year>2007</year>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Kent P, Kubica GP. Public Health mycobacteriology: a guide for the level
+          III Laboratory. Atlanta: Centers for the Disease Control;1985.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Kent</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Kubica</surname>
+              <given-names>GP</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Public Health mycobacteriology: a guide for the level III
+            Laboratory</source>
+          <publisher-loc>Atlanta</publisher-loc>
+          <publisher-name>Centers for the Disease Control</publisher-name>
+          <year>1985</year>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Soto A, Agapito J, Acuna-Villaorduna C, Solari L, Samalvides F, Gotuzzo E.
+          Evaluation of the performance of two liquid-phase culture media for the diagnosis of
+          pulmonary tuberculosis in a national hospital in Lima, Peru. <italic>Int J Infect
+            Dis.</italic> 2008;13(1):40-5. DOI: 10.1016/j.ijid.2008.03.023</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Soto</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Agapito</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Acuna-Villaorduna</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Solari</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Samalvides</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Gotuzzo</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Evaluation of the performance of two liquid-phase culture
+            media for the diagnosis of pulmonary tuberculosis in a national hospital in Lima,
+            Peru</article-title>
+          <source>Int J Infect Dis</source>
+          <year>2008</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>40</fpage>
+          <lpage>45</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ijid.2008.03.023</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

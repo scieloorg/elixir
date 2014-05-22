@@ -1,0 +1,3144 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="research-article" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047002988</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047002988</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artigos Originais</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="pt">Redução do uso de açúcar em escolas públicas: ensaio
+          randomizado por conglomerados</article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>Reducción del uso de azúcar en escuelas públicas: ensayo aleatorio por
+            conglomerados</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Souza</surname>
+            <given-names>Rita Adriana Gomes de</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mediano</surname>
+            <given-names>Mauro Felippe Felix</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Souza</surname>
+            <given-names>Amanda de Moura</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">III</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sichieri</surname>
+            <given-names>Rosely</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4">IV</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>I</label>
+        <institution content-type="orgdiv1">Instituto de Saúde Coletiva</institution>
+        <institution content-type="orgname">Universidade Federal de Mato Grosso</institution>
+        <addr-line>
+          <named-content content-type="city">Cuiabá</named-content>
+          <named-content content-type="state">MT</named-content>
+        </addr-line>
+        <country>Brasil</country> Instituto de Saúde Coletiva. Universidade Federal de Mato Grosso.
+        Cuiabá, MT, Brasil</aff>
+      <aff id="aff2">
+        <label>II</label>
+        <institution content-type="orgdiv1">Instituto de Pesquisa Clínica Evandro
+          Chagas</institution>
+        <institution content-type="orgname">Fundação Oswaldo Cruz</institution>
+        <addr-line>
+          <named-content content-type="city">Rio de Janeiro</named-content>
+          <named-content content-type="state">RJ</named-content>
+        </addr-line>
+        <country>Brasil</country> Instituto de Pesquisa Clínica Evandro Chagas. Fundação Oswaldo
+        Cruz. Rio de Janeiro, RJ, Brasil</aff>
+      <aff id="aff3">
+        <label>III</label>
+        <institution content-type="orgdiv2">Departamento de Epidemiologia</institution>
+        <institution content-type="orgdiv1">Instituto de Medicina Social</institution>
+        <institution content-type="orgname">Universidade do Estado do Rio de Janeiro</institution>
+        <addr-line>
+          <named-content content-type="city">Rio de Janeiro</named-content>
+          <named-content content-type="state">RJ</named-content>
+        </addr-line>
+        <country>Brasil</country> Programa de Pós-Graduação em Saúde Coletiva. Departamento de
+        Epidemiologia. Instituto de Medicina Social. Universidade do Estado do Rio de Janeiro.
+        Rio de Janeiro, RJ, Brasil</aff>
+      <aff id="aff4">
+        <label>IV</label>
+        <institution content-type="orgdiv2">Departamento de Epidemiologia</institution>
+        <institution content-type="orgdiv1">Instituto de Medicina Social</institution>
+        <institution content-type="orgname">Universidade do Estado do Rio de Janeiro</institution>
+        <addr-line>
+          <named-content content-type="city">Rio de Janeiro</named-content>
+          <named-content content-type="state">RJ</named-content>
+        </addr-line>
+        <country>Brasil</country> Departamento de Epidemiologia. Instituto de Medicina Social.
+        Universidade do Estado do Rio de Janeiro. Rio de Janeiro, RJ, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondência | Correspondence</bold> : Rita Adriana Gomes de Souza. Instituto de
+          Saúde Coletiva. Universidade Federal de Mato Grosso. Av. Fernando Corrêa da Costa, 2367.
+          1Bloco CCBSIII 2º piso - Boa Esperança. 78060-900 Cuiabá, MT, Brasil. E-mail:
+          ritadriana@ibest.com.br</corresp>
+        <fn fn-type="conflict">
+          <p>Os autores declaram não haver confito de interesses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>4</issue>
+      <fpage>666</fpage>
+      <lpage>674</lpage>
+      <history>
+        <date date-type="received">
+          <day>11</day>
+          <month>1</month>
+          <year>2011</year>
+        </date>
+        <date date-type="accepted">
+          <day>7</day>
+          <month>10</month>
+          <year>2012</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="pt">
+        <sec>
+          <title>OBJETIVO</title>
+          <p> Analisar a eficácia de ações de educação nutricional com merendeiras na redução da
+            adição de açúcar na alimentação escolar e no próprio consumo.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p> Ensaio randomizado por conglomerado, controlado, conduzido em 20 escolas municipais na
+            cidade metropolitana de Niterói, RJ, de março a dezembro de 2007. Programa de educação
+            nutricional foi implementado nas escolas de intervenção, junto a merendeiras, usando
+            mensagens, atividades e material educativo que encorajassem a redução da adição de
+            açúcar na alimentação escolar e no consumo. A redução da disponibilidade de açúcar pelas
+            escolas foi analisada por planilhas com dados da utilização dos itens do estoque. O
+            consumo individual das merendeiras foi avaliado pelo uso de questionário de frequência
+            de consumo alimentar. As medidas antropométricas foram realizadas de acordo com técnicas
+            padronizadas e a variação na mudança do peso foi medida ao longo do estudo.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p> A redução da disponibilidade de açúcar ocorreu mais acentuadamente nas escolas de
+            intervenção quando comparadas às escolas controle (-6,0 kg <italic>versus</italic> 3,4
+            kg), sem diferença estatisticamente significante (p = 0,21), embora o poder do estudo
+            tenha sido baixo. Houve redução do consumo de doces e bebidas açucaradas nos dois
+            grupos, mas o consumo de açúcar não apresentou diferenças estatisticamente
+            significativas entre eles. Houve redução do peso e do consumo de energia total nos dois
+            grupos, mas sem diferença estatisticamente significante entre eles e sem modificação dos
+            percentuais de adequação dos macronutrientes em relação ao consumo de energia.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSÕES</title>
+          <p> Não foi possível provar que a estratégia de redução da disponibilidade e do consumo de
+            açúcar por merendeiras de escolas públicas se mostrou eficaz.</p>
+        </sec>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Analizar la eficacia de acciones de educación nutricional con las manipuladoras de
+            alimentos en la reducción de la adición de azúcar en la alimentación escolar y en el
+            propio consumo.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>Ensayo aleatorio por conglomerado, controlado, conducido en 20 escuelas municipales en
+            la ciudad metropolitana de Niterói, RJ, de marzo a diciembre de 2007. El programa de
+            educación nutricional fue implementado en las escuelas de intervención, manipuladoras de
+            alimentos, usando mensajes, actividades y material educativo de forma de incentivar la
+            reducción en la adición de azúcar a los alimentos y en el consumo. La reducción de la
+            disponibilidad de azúcar en las escuelas fue analizada por planillas con datos de la
+            utilización de los ítems de almacenamiento. El consumo individual de las manipuladoras
+            de alimentos fue evaluado a través de cuestionario de frecuencia de consumo alimentario.
+            Las medidas antropométricas fueron realizadas de acuerdo con técnicas estandarizadas y
+            la variación en el cambio de peso fue medida a lo largo del estudio.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>La reducción de la disponibilidad de azúcar ocurrió de forma más acentuada en las
+            escuelas de intervención al compararse con las escuelas control (-6,0 kg versus 3,4 kg),
+            sin diferencia estadísticamente significativa (p= 0,21), a pesar de que el poder del
+            estudio haya sido bajo. Hubo reducción en el consumo de dulces y bebidas azucaradas en
+            los dos grupos, aunque el consumo de azúcar no presentó diferencias estadísticamente
+            significativas entre ellos. Hubo reducción en el peso y en el consumo de energía total
+            en los dos grupos, pero sin diferencia estadísticamente significativa entre ellos, y sin
+            modificación en los porcentajes de adecuación de los macronutrientes con relación al
+            consumo de energía.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONES</title>
+          <p>No fue posible probar que la estrategia de reducción de la disponibilidad y de consumo
+            de azúcar por las manipuladoras de alimentos de escuelas públicas se mostró eficaz.</p>
+        </sec>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <kwd>Alimentação Escolar</kwd>
+        <kwd>Sacarose na Dieta</kwd>
+        <kwd>Estudos de Intervenção</kwd>
+        <kwd>Educação Alimentar e Nutricional</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>Alimentación Escolar</kwd>
+        <kwd>Sacarosa en la Dieta</kwd>
+        <kwd>Estudios de Intervención</kwd>
+        <kwd>Educación Alimentaria y Nutricional</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="2"/>
+        <table-count count="8"/>
+        <ref-count count="23"/>
+        <page-count count="9"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUÇÃO</title>
+      <p>A obesidade é considerada uma epidemia mundial. Reflete a complexa interação de fatores
+        genéticos, metabólicos, culturais, ambientais, socioeconômicos e comportamentais, mas tem no
+        consumo energético sua fundamental explicação. <xref ref-type="bibr" rid="B19">
+          <sup>19</sup>
+        </xref> O consumo de carboidratos, principalmente na forma de açúcar simples, aumentou nos
+        últimos 20 anos, assim como as taxas de sobrepeso e obesidade. <xref ref-type="bibr"
+          rid="B9">
+          <sup>9</sup>
+        </xref>
+      </p>
+      <p>A proporção de energia a partir do consumo de açúcar subiu de 13,1% para 16,0% entre 1977 e
+        1996, e mais de 30% dos carboidratos consumidos foram provenientes do açúcar de 1994 a 1996
+        nos Estados Unidos. <xref ref-type="bibr" rid="B10">
+          <sup>10</sup>
+        </xref> No Brasil, maior produtor mundial de açúcar, a participação relativa deste no total
+        de energia determinada pela disponibilidade de alimentos no domicílio nas Pesquisas de
+        Orçamento Familiar (POF) foi de aproximadamente 13%. No entanto, as principais fontes
+        alimentares de açúcar têm sofrido alterações: o refrigerante, que representava 0,8% do
+        consumo de açúcares em 1988, aumentou para 1,3% em 1996, 1,5% em 2003 <xref ref-type="bibr"
+          rid="B5">
+          <sup>5</sup>
+        </xref> e 1,8% em 2008. <xref ref-type="fn" rid="fn1">
+          <sup>a</sup>
+        </xref>
+      </p>
+      <p>Apesar de não haver consenso sobre o impacto do consumo isolado do açúcar sobre a obesidade
+        ou outras condições de saúde, <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref> seu aumento fez com que as recomendações no Brasil e nos Estados Unidos <xref
+          ref-type="fn" rid="fn2">
+          <sup>b</sup>
+        </xref> aconselhassem o público a escolher bebidas e alimentos que diminuíssem o consumo de
+        açúcar de adição. A Organização Mundial da Saúde (OMS), em 2003, sugeriu que a adição de
+        açúcares deveria fornecer não mais do que 10% da energia da dieta. <xref ref-type="bibr"
+          rid="B22">
+          <sup>22</sup>
+        </xref> Essa recomendação consta no guia alimentar brasileiro elaborado e divulgado pelo
+        Ministério da Saúde. <xref ref-type="fn" rid="fn3">
+          <sup>c</sup>
+        </xref>
+      </p>
+      <p>Embora não sejam conhecidas estratégias eficazes na prevenção ou tratamento do ganho
+        excessivo de peso, <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref> uma estratégia de prevenção a este seria mais viável do que a redução de peso para
+        toda a população. Pequenas mudanças na dieta e atividade física cumulativas poderiam ter
+        maior impacto se desenvolvidas com crianças que não estão em risco de sobrepeso. <xref
+          ref-type="bibr" rid="B12">
+          <sup>12</sup>
+        </xref>
+      </p>
+      <p>Crianças e adolescentes são foco dos esforços de prevenção da obesidade, <xref
+          ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref> por isso escolas são cenário privilegiado para a implementação de intervenções.
+        Oferecem contato contínuo e intenso com as crianças durante seus anos de formação e possuem
+        infraestrutura, com maior potencial de influenciar positivamente a saúde infanto-juvenil.
+          <xref ref-type="bibr" rid="B21">
+          <sup>21</sup>
+        </xref>
+      </p>
+      <p>Estudo de intervenção em escolares visando à redução do consumo de refrigerantes em
+        Niterói, RJ, mostrou que pequena diminuição nesse consumo foi substituída por consumo de
+        sucos com alta adição de açúcar <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref> e pouca participação das merendeiras na redução açúcar dessa adição.</p>
+      <p>Este estudo teve por objetivo analisar a eficácia de ações de educação nutricional com
+        merendeiras na redução da adição de açúcar na alimentação escolar e no próprio consumo.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>MÉTODOS</title>
+      <p>Ensaio randomizado controlado por conglomerado conduzido em 20 escolas municipais na cidade
+        metropolitana de Niterói de março a dezembro de 2007. As 36 escolas municipais estavam
+        distribuídas em cinco polos; 20 foram selecionadas de três polos (um, dois e cinco) que
+        apresentavam características demográficas e socioeconômicas semelhantes.</p>
+      <p>Um dos três polos foi sorteado para receber intervenção (sete escolas) e outro para
+        funcionar como escola controle (sete escolas), visando reduzir a contaminação da
+        intervenção. No terceiro polo, das sete escolas, três foram sorteadas para o grupo de
+        intervenção e três para o grupo controle (uma escola estava em obras). Esse polo era o mais
+        distante do centro de Niterói e de menor densidade populacional, de forma que as escolas não
+        eram próximas e a possibilidade de contaminação, menor.</p>
+      <p>Foram excluídos cinco profissionais do sexo masculino e consideradas elegíveis mulheres que
+        exerciam a função de merendeira nas escolas participantes, em qualquer turno, e que não
+        estivessem grávidas. Seis (6,3%) merendeiras recusaram-se a participar do estudo; 47
+        compuseram o grupo de intervenção e 48 o grupo controle ( <xref ref-type="fig" rid="f01"
+          >Figura</xref> ).</p>
+      <p>
+        <fig id="f01">
+          <label>Figura</label>
+          <caption>
+            <title> Representação esquemática da seleção e acompanhamento das participantes da
+              pesquisa, Niterói, RJ, 2007.</title>
+          </caption>
+          <graphic xlink:href="0034-8910-rsp-47-04-0666-gf01"/>
+        </fig>
+      </p>
+      <p>Utilizamos dados de consumo observados em crianças de escolas públicas de Niterói (34,5 g;
+        desvio-padrão (DP): 26,0 g) em estudo seccional realizado em 2005 <xref ref-type="bibr"
+          rid="B16">
+          <sup>16</sup>
+        </xref> para estimar a amostra necessária para avaliação de alteração no consumo e
+        disponibilidade de açúcar. Seriam necessários 36 indivíduos em cada braço para redução de
+        10% no consumo (3,4 g), assumindo 80% de poder e nível de significância de 0,05. A amostra
+        adequada seria composta por 80 merendeiras, considerando que as escolas seriam sorteadas e a
+        taxa de participação de 80% <xref ref-type="bibr" rid="B14">
+          <sup>14</sup>
+        </xref> ( <xref ref-type="fig" rid="f01">Figura</xref> ).</p>
+      <p>Foi implementado Programa de Educação Nutricional nas escolas de intervenção durante sete
+        meses do ano escolar de 2007, usando mensagens e atividades que encorajassem a redução da
+        adição de açúcar na alimentação escolar e no consumo das merendeiras.</p>
+      <p>As merendeiras do grupo de intervenção participaram de cinco atividades. As duas primeiras
+        englobaram duas seções sobre o consumo de açúcar (abordaram temas como obesidade e consumo
+        de açúcar e de alimentos fontes de açúcar no Brasil, recomendação dietética e estímulo para
+        redução do açúcar na alimentação). A terceira atividade foi de substituição do açúcar pelo
+        leite em pó no cafezinho. Para isso, foi fornecida uma lata de leite em pó para estimular a
+        mudança e um cartaz estimulando essa prática afixado no local do cafezinho. A quarta
+        atividade envolveu uma seção sobre rotulagem de alimentos; a quinta foi a realização de
+        concurso de receitas com redução de açúcar. As atividades aconteciam na escola mensalmente e
+        duravam cerca de 20 min. Três assistentes de pesquisa foram treinados para desenvolver tais
+        atividades.</p>
+      <p>As participantes receberam material educativo promovendo a redução do açúcar e material com
+        a logomarca do projeto, como canecas, <italic>nécessaires</italic> , bolsas e ímãs.
+          <italic>Banners</italic> e ímãs de geladeira foram fornecidos às escolas.</p>
+      <p>Dados demográficos, socioeconômicos, de saúde, de atividade física e de consumo alimentar
+        foram coletados por meio de entrevista para os dois grupos, no início do ano letivo.</p>
+      <p>As merendeiras do grupo controle e as do grupo de intervenção participaram de três seções
+        de discussão sobre promoção de alimentação saudável promovidas pela Secretaria de Educação
+        do município em uma das escolas participantes, no início do ano letivo. Essas reuniões
+        tinham por objetivo familiarizar a equipe com as participantes do estudo.</p>
+      <p>A avaliação da disponibilidade de açúcar e de alimentos fontes de açúcar (rosquinha, café
+        com leite, cereal de banana, cereal de chocolate, achocolatado, farinha láctea, massa para
+        bolo) nas escolas é feita quinzenalmente. Neste estudo, a avaliação foi feita na linha de
+        base (média das duas quinzenas de março) e ao final do estudo (média das duas quinzenas de
+        setembro). Foram utilizadas planilhas com dados da disponibilidade dos itens. Nesses mesmos
+        momentos, foram registrados o número de alunos recebendo alimentação escolar e o número de
+        dias em que foi servida. A disponibilidade <italic>per capita</italic> em gramas de açúcar
+        nas escolas foi obtida pela divisão da disponibilidade de açúcar em gramas pela média mensal
+        do número de dias em que a alimentação escolar foi servida e pelo número de alunos da
+        escola.</p>
+      <p>O consumo individual das merendeiras foi avaliado por meio de questionário de frequência de
+        consumo alimentar (QFCA). <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref> O questionário contempla um item para adição de açúcar refinado de mesa que pode ser
+        adicionado no café, no suco e em outros alimentos. Os itens considerados doces foram:
+        sorvete, caramelos/balas, chocolates, achocolatado, pudim/doce e biscoito doce. Bebidas
+        açucaradas foram: refrigerantes, suco e mate. As respostas para a frequência de consumo
+        englobavam oito opções: 3 vezes/dia ou mais, 2-3 vezes/dia, uma vez/dia, 5-6 vezes/semana,
+        2-4 vezes/semana, uma vez/semana, 1-3 vezes/mês e nunca/quase nunca, que foram transformadas
+        em frequências diárias. Uma vez/dia, por exemplo, correspondeu a 0,14 (1/7). Os alimentos
+        analisados apresentavam três opções de resposta para a porção, com exceção do pudim/doce,
+        que apresentava duas opções de resposta. O QFCA foi aplicado na linha de base e ao final do
+        estudo.</p>
+      <p>O peso foi medido na linha de base, no quinto mês de seguimento e ao fim do estudo, com uso
+        de roupas leves e na mesma balança digital (marca Tanita, modelo BC 533 Inner Scan), com
+        graduação de peso de 0,1 kg e capacidade máxima de 150 kg. O indivíduo manteve-se em posição
+        ortostática, braços estendidos ao longo do corpo e olhando para a frente durante a pesagem,
+        observando-se a técnica recomendada no manual de utilização do equipamento e empregada por
+        Lohman et al <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref> (1988). A estatura foi aferida na linha de base (média de duas aferições) na mesma
+        posição descrita anteriormente, porém com os pés unidos e com os calcanhares, ombros e
+        nádegas tocando a parede por meio de estadiômetro portátil (marca Seca, modelo Body Metter
+        208). Peso e estatura foram utilizados para o cálculo do índice de massa corporal (IMC =
+        peso (kg)/estatura (metros) <sup>2</sup> ) e o estado nutricional classificado de acordo com
+        a OMS <xref ref-type="bibr" rid="B23">
+          <sup>23</sup>
+        </xref> em eutrofia (IMC: 18,5 a 24,9 kg/m <sup>2</sup> ), sobrepeso (IMC: 25,0 a 29,9 kg/m
+          <sup>2</sup> ) e obesidade (IMC ≥ 30,0 kg/m <sup>2</sup> ).</p>
+      <p>As características dos grupos na linha de base foram comparadas usando Teste
+          <italic>t</italic> de <italic>Student</italic> para variáveis contínuas e teste
+        Qui-quadrado para variáveis categóricas, e foram similares nos dois grupos ( <xref
+          ref-type="table" rid="t01">Tabela 1</xref> ). A média de idade foi de aproximadamente 46
+        anos e a de renda <italic>per capita</italic> de aproximadamente 600 reais. A maioria das
+        mulheres apresentava excesso de peso (IMC ≥ 25,0 kg/m <sup>2</sup> ), era de cor branca,
+        vivia com o companheiro, tinha até dois filhos e ensino médio completo e não fumava.</p>
+      <p>
+        <table-wrap id="t01">
+          <label>Tabela 1</label>
+          <caption>
+            <title>Características das merendeiras na linha de base. Niterói, RJ, 2007.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="14%">
+              <col width="30%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="3">Variável</td>
+                <td colspan="2" align="center">Intervenção (n = 47)</td>
+                <td colspan="2" align="center">Controle (n = 48)</td>
+                <td rowspan="3" align="center">p <sup>a</sup>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+              </tr>
+              <tr>
+                <td colspan="6" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Idade (anos)</td>
+                <td align="center">45,8</td>
+                <td align="center">8,9</td>
+                <td align="center">45,8</td>
+                <td align="center">10,1</td>
+                <td align="center">0,98</td>
+              </tr>
+              <tr>
+                <td>Renda <italic>per capita</italic> (reais)</td>
+                <td align="center">621,7</td>
+                <td align="center">426,1</td>
+                <td align="center">569,0</td>
+                <td align="center">343,7</td>
+                <td align="center">0,51</td>
+              </tr>
+              <tr>
+                <td>Estado nutricional (%)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,59</td>
+              </tr>
+              <tr>
+                <td> Eutrofia (IMC 18,5-24,9 kg/m <sup>2</sup> )</td>
+                <td colspan="2" align="center">29,8</td>
+                <td colspan="2" align="center">37,5</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Sobrepeso (IMC 25,0-29,9 kg/m <sup>2</sup> )</td>
+                <td colspan="2" align="center">42,5</td>
+                <td colspan="2" align="center">31,2</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Obesidade (IMC ≥ 30,0 kg/m <sup>2</sup> )</td>
+                <td colspan="2" align="center">23,4</td>
+                <td colspan="2" align="center">29,2</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Cor da pele (%)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,60</td>
+              </tr>
+              <tr>
+                <td> Branca</td>
+                <td colspan="2" align="center">55,3</td>
+                <td colspan="2" align="center">56,2</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Parda</td>
+                <td colspan="2" align="center">34,0</td>
+                <td colspan="2" align="center">27,1</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Negra</td>
+                <td colspan="2" align="center">10,7</td>
+                <td colspan="2" align="center">16,7</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Situação conjugal (%)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,25</td>
+              </tr>
+              <tr>
+                <td> Com companheiro</td>
+                <td colspan="2" align="center">57,4</td>
+                <td colspan="2" align="center">68,8</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Sem companheiro</td>
+                <td colspan="2" align="center">42,6</td>
+                <td colspan="2" align="center">31,2</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Número de filhos (%)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,62</td>
+              </tr>
+              <tr>
+                <td> Nenhum</td>
+                <td colspan="2" align="center">17,0</td>
+                <td colspan="2" align="center">14,6</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Até dois</td>
+                <td colspan="2" align="center">59,6</td>
+                <td colspan="2" align="center">68,7</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Três ou mais</td>
+                <td colspan="2" align="center">23,4</td>
+                <td colspan="2" align="center">16,7</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Escolaridade (%)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,98</td>
+              </tr>
+              <tr>
+                <td> Ensino fundamental</td>
+                <td colspan="2" align="center">27,6</td>
+                <td colspan="2" align="center">29,1</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Ensino médio</td>
+                <td colspan="2" align="center">68,1</td>
+                <td colspan="2" align="center">66,7</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Ensino superior</td>
+                <td colspan="2" align="center">4,3</td>
+                <td colspan="2" align="center">4,2</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Tabagismo (%)</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,37</td>
+              </tr>
+              <tr>
+                <td> Sim</td>
+                <td colspan="2" align="center">19,1</td>
+                <td colspan="2" align="center">12,5</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td> Não</td>
+                <td colspan="2" align="center">80,9</td>
+                <td colspan="2" align="center">87,5</td>
+                <td> </td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>DP: desvio-padrão; IMC: Índice de Massa Corporal</p>
+            <p>
+              <sup>a</sup> Teste <italic>t</italic> de <italic>Student</italic> ou Qui-quadrado</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>As mudanças na disponibilidade de açúcar nas escolas e no consumo individual foram
+        avaliadas por teste <italic>t</italic> pareado. As mudanças temporais de peso foram
+        avaliadas por análise de regressão de efeitos mistos para medidas repetidas que equivalem a
+        análises por intenção de tratamento e levaram em consideração o efeito do conglomerado. O
+        peso sofreu transformação logarítmica por não possuir distribuição normal. As análises foram
+        feitas utilizando o <italic>software Statistical Analyses System</italic> , versão 9.1. (SAS
+        Institute Inc., Cary, NC, USA). O nível de significância adotado foi de 5%.</p>
+      <p>Este estudo foi conduzido dentro dos padrões exigidos pela Declaração de Helsinque e
+        aprovado pelo Comitê de Ética em Pesquisa do Instituto de Medicina Social da Universidade do
+        Estado do Rio de Janeiro (Processo nº 26/2006, aprovado em 14/12/2006). As participantes
+        foram esclarecidas sobre os propósitos do estudo e sobre a confidencialidade dos resultados.
+        Todas leram e assinaram o Termo de Consentimento Livre e Esclarecido.</p>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTADOS</title>
+      <p>As perdas de seguimento no grupo de intervenção foram de 12,8% e no grupo controle de 10,4%
+          (<xref ref-type="fig" rid="f01">Figura</xref>), nenhuma relacionada à intervenção. O tempo
+        de seguimento foi praticamente o mesmo nos dois grupos (8,8 meses para o grupo de
+        intervenção e 8,9 para o grupo controle). Uma escola do grupo de intervenção entrou em obras
+        no meio do estudo e não foi possível avaliar os itens do estoque. Uma escola do grupo
+        controle não forneceu o número de alunos e não foi possível avaliar a disponibilidade
+          <italic>per capita</italic> de açúcar e de alimentos fontes de açúcar, mas as merendeiras
+        dessas escolas permaneceram no estudo. Seis mulheres (duas no grupo de intervenção e quatro
+        no grupo controle) que apresentaram consumo de energia acima de dez mil calorias e uma do
+        grupo controle que não respondeu o QFCA não foram consideradas nas análises relacionadas ao
+        consumo alimentar.</p>
+      <p>O açúcar apresentou a maior disponibilidade <italic>per capita</italic> na linha de base,
+        com redução na sua disponibilidade no grupo de intervenção quando comparado ao grupo
+        controle ao final, do estudo (-6,4 kg <italic>versus</italic> 3,4 kg). Os itens analisados
+        apresentaram redução na disponibilidade nos dois grupos ao final do estudo, com exceção da
+        disponibilidade de rosquinha nos dois grupos e da disponibilidade de achocolatado no grupo
+        de intervenção. Entretanto, as diferenças encontradas não foram estatisticamente
+        significantes ( <xref ref-type="table" rid="t02">Tabela 2</xref> ).</p>
+      <p>
+        <table-wrap id="t02">
+          <label>Tabela 2</label>
+          <caption>
+            <title>Média e desvio-padrão (DP) da disponibilidade de açúcar e alimentos fontes de
+              açúcar, nas escolas dos grupos na linha de base e ao final do estudo. Niterói, RJ,
+              2007.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="9%">
+              <col width="15%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="5" align="left">Alimento</td>
+                <td colspan="4" align="center">Linha de base ( <italic>per capita</italic> em
+                  gramas)</td>
+                <td colspan="4" align="center">Mudança da linha de base (kg)</td>
+                <td rowspan="5" align="center"> p <sup>a</sup>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="8" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="2" align="center">Intervenção (n = 10)</td>
+                <td colspan="2" align="center">Controle (n = 10)</td>
+                <td colspan="2" align="center">Intervenção (n = 9)</td>
+                <td colspan="2" align="center">Controle (n = 10)</td>
+              </tr>
+              <tr>
+                <td/>
+              </tr>
+              <tr>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+              </tr>
+              <tr>
+                <td colspan="10" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Açúcar</td>
+                <td align="center">5,0</td>
+                <td align="center">2,4</td>
+                <td align="center">4,6</td>
+                <td align="center">2,3</td>
+                <td align="center">-6,0</td>
+                <td align="center">15,7</td>
+                <td align="center">3,4</td>
+                <td align="center">15,6</td>
+                <td align="center">0,21</td>
+              </tr>
+              <tr>
+                <td>Rosquinha</td>
+                <td align="center">1,0</td>
+                <td align="center">0,3</td>
+                <td align="center">1,5</td>
+                <td align="center">1,0</td>
+                <td align="center">3,7</td>
+                <td align="center">7,5</td>
+                <td align="center">11,6</td>
+                <td align="center">14,6</td>
+                <td align="center">0,15</td>
+              </tr>
+              <tr>
+                <td>Café com leite</td>
+                <td align="center">2,2</td>
+                <td align="center">1,8</td>
+                <td align="center">3,6</td>
+                <td align="center">2,6</td>
+                <td align="center">-4,2</td>
+                <td align="center">11,8</td>
+                <td align="center">-7,9</td>
+                <td align="center">14,3</td>
+                <td align="center">0,55</td>
+              </tr>
+              <tr>
+                <td>Cereal de banana</td>
+                <td align="center">1,7</td>
+                <td align="center">1,3</td>
+                <td align="center">2,6</td>
+                <td align="center">2,3</td>
+                <td align="center">-1,8</td>
+                <td align="center">8,0</td>
+                <td align="center">-9,7</td>
+                <td align="center">12,3</td>
+                <td align="center">0,11</td>
+              </tr>
+              <tr>
+                <td>Cereal de chocolate</td>
+                <td align="center">1,5</td>
+                <td align="center">1,2</td>
+                <td align="center">1,4</td>
+                <td align="center">1,3</td>
+                <td align="center">-0,8</td>
+                <td align="center">5,2</td>
+                <td align="center">-1,8</td>
+                <td align="center">9,2</td>
+                <td align="center">0,77</td>
+              </tr>
+              <tr>
+                <td>Achocolatado</td>
+                <td align="center">0,6</td>
+                <td align="center">0,6</td>
+                <td align="center">1,0</td>
+                <td align="center">0,9</td>
+                <td align="center">0,2</td>
+                <td align="center">3,4</td>
+                <td align="center">-1,1</td>
+                <td align="center">3,8</td>
+                <td align="center">0,43</td>
+              </tr>
+              <tr>
+                <td>Farinha láctea</td>
+                <td align="center">0,9</td>
+                <td align="center">0,7</td>
+                <td align="center">0,8</td>
+                <td align="center">0,8</td>
+                <td align="center">-3,1</td>
+                <td align="center">6,4</td>
+                <td align="center">-2,1</td>
+                <td align="center">4,4</td>
+                <td align="center">0,69</td>
+              </tr>
+              <tr>
+                <td>Massa para bolo</td>
+                <td align="center">0,3</td>
+                <td align="center">0,4</td>
+                <td align="center">0,5</td>
+                <td align="center">0,6</td>
+                <td align="center">-0,03</td>
+                <td align="center">2,9</td>
+                <td align="center">-1,6</td>
+                <td align="center">3,0</td>
+                <td align="center">0,28</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>
+              <sup>a</sup> Teste <italic>t</italic> pareado</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>O consumo de doces e bebidas açucaradas sofreu redução nos dois grupos. O consumo de açúcar
+        aumentou no grupo de intervenção e reduziu no grupo controle, mas sem diferenças
+        estatisticamente significativas ( <xref ref-type="table" rid="t03">Tabela 3</xref> ).</p>
+      <p>
+        <table-wrap id="t03">
+          <label>Tabela 3</label>
+          <caption>
+            <title>Média e desvio-padrão (DP) das porções diárias <sup>a</sup> consumidas com
+              açúcar, doces e bebidas na linha de base e ao final do estudo entre os grupos.
+              Niterói, RJ, 2007.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="6%">
+              <col width="15%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="4">Alimento ou grupo de alimento</td>
+                <td colspan="4" align="center">Intervenção</td>
+                <td colspan="4" align="center">Controle</td>
+                <td colspan="4" align="center">Mudança da linha de base</td>
+                <td rowspan="4" align="center"> p <sup>e</sup>
+                </td>
+              </tr>
+              <tr>
+                <td colspan="12" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="2" align="center">Linha de base (n = 45)</td>
+                <td colspan="2" align="center">Final do estudo (n = 40)</td>
+                <td colspan="2" align="center">Linha de base (n = 43)</td>
+                <td colspan="2" align="center">Final do estudo (n = 39)</td>
+                <td colspan="2" align="center">Intervenção (n = 40)</td>
+                <td colspan="2" align="center">Controle (n = 39)</td>
+              </tr>
+              <tr>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+              </tr>
+              <tr>
+                <td colspan="14" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Açúcar <sup>b</sup>
+                </td>
+                <td align="center">1,7</td>
+                <td align="center">1,9</td>
+                <td align="center">2,0</td>
+                <td align="center">1,8</td>
+                <td align="center">1,8</td>
+                <td align="center">2,0</td>
+                <td align="center">1,5</td>
+                <td align="center">1,7</td>
+                <td align="center">0,3</td>
+                <td align="center">1,7</td>
+                <td align="center">-0,4</td>
+                <td align="center">2,3</td>
+                <td align="center">0,10</td>
+              </tr>
+              <tr>
+                <td>Doces <sup>c</sup>
+                </td>
+                <td align="center">1,4</td>
+                <td align="center">1,7</td>
+                <td align="center">0,8</td>
+                <td align="center">0,8</td>
+                <td align="center">1,1</td>
+                <td align="center">1,3</td>
+                <td align="center">0,9</td>
+                <td align="center">1,1</td>
+                <td align="center">-0,6</td>
+                <td align="center">1,5</td>
+                <td align="center">-0,2</td>
+                <td align="center">1,2</td>
+                <td align="center">0,18</td>
+              </tr>
+              <tr>
+                <td>Bebidas açucaradas <sup>d</sup>
+                </td>
+                <td align="center">2,3</td>
+                <td align="center">2,1</td>
+                <td align="center">1,9</td>
+                <td align="center">2,7</td>
+                <td align="center">3,0</td>
+                <td align="center">3,6</td>
+                <td align="center">1,4</td>
+                <td align="center">1,3</td>
+                <td align="center">-0,5</td>
+                <td align="center">2,3</td>
+                <td align="center">-1,8</td>
+                <td align="center">3,6</td>
+                <td align="center">0,07</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>
+              <sup>a</sup> Porção diária = frequência diária x número de porções <sup>b</sup> Açúcar
+              de adição <sup>c</sup> Sorvete, caramelos/balas, chocolates, achocolatado, pudim/doce,
+              biscoito doce <sup>d</sup> Refrigerante, mate, suco <sup>e</sup> Teste
+                <italic>t</italic> pareado</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>Embora tenha ocorrido importante redução do consumo de energia total (em média 1.100
+        calorias), não houve modificação dos percentuais de adequação dos macronutrientes em relação
+        ao consumo de energia nem modificação significativa somente dos itens de intervenção. As
+        bebidas açucaradas foram as que mais contribuíram para o percentual total de energia. As
+        merendeiras do grupo de intervenção conseguiram manter a perda de peso ao final do estudo,
+        porém sem diferença estatisticamente significante (p = 0,74); 15 merendeiras (15,8%) (nove
+        no grupo de intervenção e seis no grupo controle) perderam pelo menos 5% do peso inicial (
+          <xref ref-type="table" rid="t04">Tabela 4</xref> ).</p>
+      <p>
+        <table-wrap id="t04">
+          <label>Tabela 4</label>
+          <caption>
+            <title>Média e desvio-padrão (DP) do consumo de energia, percentual médio de
+              macronutrientes <sup>a</sup> e de energia proveniente do açúcar de adição, dos doces e
+              das bebidas açucaradas entre os grupos na linha de base, ao final do estudo e a
+              variação de peso ao longo do estudo. Niterói, RJ, 2007.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="6%">
+              <col width="15%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td> </td>
+                <td colspan="4" align="center">Linha de base</td>
+                <td> </td>
+                <td colspan="4" align="center">Final do estudo</td>
+                <td colspan="4" align="center">Mudança da linha de base</td>
+                <td align="center">  </td>
+              </tr>
+              <tr>
+                <td/>
+                <td colspan="13" style="border-bottom: thin solid; border-color: #000000"/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Variável</td>
+                <td colspan="2" align="center">Intervenção (n = 45)</td>
+                <td colspan="2" align="center">Controle (n = 43)</td>
+                <td align="center">p</td>
+                <td colspan="2" align="center">Intervenção (n = 40)</td>
+                <td colspan="2" align="center">Controle (n = 39)</td>
+                <td colspan="2" align="center">Intervenção</td>
+                <td colspan="2" align="center">Controle</td>
+                <td align="center">p <sup>b</sup>
+                </td>
+              </tr>
+              <tr>
+                <td> </td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td> </td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center">Média</td>
+                <td align="center">DP</td>
+                <td align="center"> </td>
+              </tr>
+              <tr>
+                <td colspan="15" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Energia (kcal)</td>
+                <td align="center">3.791</td>
+                <td align="center">2.385</td>
+                <td align="center">3.888</td>
+                <td align="center">2.390</td>
+                <td align="center">0,85</td>
+                <td align="center">2.839</td>
+                <td align="center">1.904</td>
+                <td align="center">2.906</td>
+                <td align="center">2.064</td>
+                <td align="center">-1.056</td>
+                <td align="center">2.475</td>
+                <td align="center">-1.149</td>
+                <td align="center">2.737</td>
+                <td align="center">0,88</td>
+              </tr>
+              <tr>
+                <td>Carboidrato (%)</td>
+                <td align="center">60,6</td>
+                <td align="center">5,2</td>
+                <td align="center">59,5</td>
+                <td align="center">9,8</td>
+                <td align="center">0,50</td>
+                <td align="center">59,4</td>
+                <td align="center">5,8</td>
+                <td align="center">58,1</td>
+                <td align="center">6,3</td>
+                <td align="center">-1,1</td>
+                <td align="center">6,9</td>
+                <td align="center">-1,6</td>
+                <td align="center">10,7</td>
+                <td align="center">0,81</td>
+              </tr>
+              <tr>
+                <td>Proteína (%)</td>
+                <td align="center">12,2</td>
+                <td align="center">2,5</td>
+                <td align="center">12,4</td>
+                <td align="center">2,8</td>
+                <td align="center">0,67</td>
+                <td align="center">13,0</td>
+                <td align="center">2,5</td>
+                <td align="center">13,1</td>
+                <td align="center">2,8</td>
+                <td align="center">0,9</td>
+                <td align="center">2,9</td>
+                <td align="center">0,8</td>
+                <td align="center">3,5</td>
+                <td align="center">0,90</td>
+              </tr>
+              <tr>
+                <td>Lipídio (%)</td>
+                <td align="center">27,2</td>
+                <td align="center">3,7</td>
+                <td align="center">28,1</td>
+                <td align="center">7,5</td>
+                <td align="center">0,49</td>
+                <td align="center">27,5</td>
+                <td align="center">4,3</td>
+                <td align="center">28,8</td>
+                <td align="center">4,5</td>
+                <td align="center">0,2</td>
+                <td align="center">5,1</td>
+                <td align="center">0,8</td>
+                <td align="center">8,0</td>
+                <td align="center">0,70</td>
+              </tr>
+              <tr>
+                <td>Energia do açúcar de adição (%)</td>
+                <td align="center">2,1</td>
+                <td align="center">2,4</td>
+                <td align="center">2,9</td>
+                <td align="center">4,9</td>
+                <td align="center">0,34</td>
+                <td align="center">3,7</td>
+                <td align="center">3,7</td>
+                <td align="center">4,0</td>
+                <td align="center">5,0</td>
+                <td align="center">1,6</td>
+                <td align="center">3,7</td>
+                <td align="center">1,1</td>
+                <td align="center">5,2</td>
+                <td align="center">0,62</td>
+              </tr>
+              <tr>
+                <td>Energia dos doces (%)</td>
+                <td align="center">2,6</td>
+                <td align="center">3,5</td>
+                <td align="center">2,5</td>
+                <td align="center">2,8</td>
+                <td align="center">0,87</td>
+                <td align="center">2,1</td>
+                <td align="center">2,3</td>
+                <td align="center">2,9</td>
+                <td align="center">3,1</td>
+                <td align="center">-0,28</td>
+                <td align="center">3,7</td>
+                <td align="center">0,28</td>
+                <td align="center">2,8</td>
+                <td align="center">0,46</td>
+              </tr>
+              <tr>
+                <td>Energia das bebidas açucaradas (%)</td>
+                <td align="center">4,2</td>
+                <td align="center">3,4</td>
+                <td align="center">5,8</td>
+                <td align="center">7,0</td>
+                <td align="center">0,19</td>
+                <td align="center">4,0</td>
+                <td align="center">4,5</td>
+                <td align="center">4,1</td>
+                <td align="center">3,5</td>
+                <td align="center">-0,25</td>
+                <td align="center">4,6</td>
+                <td align="center">-2,1</td>
+                <td align="center">7,0</td>
+                <td align="center">0,18</td>
+              </tr>
+              <tr>
+                <td>Total de energia dos itens analisados (%)</td>
+                <td align="center">8,9</td>
+                <td align="center">6,8</td>
+                <td align="center">11,2</td>
+                <td align="center">9,4</td>
+                <td align="center">0,20</td>
+                <td align="center">9,8</td>
+                <td align="center">8,3</td>
+                <td align="center">11,0</td>
+                <td align="center">8,7</td>
+                <td align="center">1,11</td>
+                <td align="center">8,0</td>
+                <td align="center">-0,65</td>
+                <td align="center">9,0</td>
+                <td align="center">0,36</td>
+              </tr>
+              <tr>
+                <td colspan="15" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="15" align="center">Peso (kg)</td>
+              </tr>
+              <tr>
+                <td colspan="15" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td> </td>
+                <td colspan="4" align="center">Linha de base</td>
+                <td>Aos 5 meses</td>
+                <td colspan="4" align="center">Final do estudo</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">p <sup>c</sup>
+                </td>
+              </tr>
+              <tr>
+                <td>Intervenção</td>
+                <td colspan="4" align="center">68,7</td>
+                <td align="center">68,7</td>
+                <td colspan="4" align="center">67,3</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,74</td>
+              </tr>
+              <tr>
+                <td>Controle</td>
+                <td colspan="4" align="center">69,1</td>
+                <td align="center">68,5</td>
+                <td colspan="4" align="center">68,9</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>
+              <sup>a</sup> Percentual médio em relação ao consumo de energia <sup>b</sup> Teste
+                <italic>t</italic> pareado <sup>c</sup> Análise de regressão de efeitos mistos para
+              medidas repetidas</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSÃO</title>
+      <p>Estratégia de pequenas mudanças no comportamento com deslocamento negativo no balanço
+        energético tem sido proposta para reduzir a epidemia de obesidade, <xref ref-type="bibr"
+          rid="B4">
+          <sup>4</sup>
+        </xref> embora não seja consenso. <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref> Os dados deste estudo sugerem ser possível reduzir a disponibilidade de açúcar e de
+        alimentos fontes de açúcar nas escolas. Embora não tenha ocorrido redução no consumo de
+        açúcar, doces e bebidas açucaradas no grupo de intervenção comparado ao grupo controle,
+        houve redução do consumo calórico total nos dois grupos e redução do peso, apesar de essas
+        reduções não terem sido estatisticamente significantes.</p>
+      <p>Revisão sistemática recente <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref> concluiu que o consumo de açúcar não está relacionado a efeitos adversos na saúde,
+        como obesidade e síndrome metabólica, e alguns autores acreditam que o consumo de açúcar não
+        tem associação causal direta com a obesidade. Apesar disso, o açúcar contribui para a alta
+        densidade energética da dieta, <xref ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref> o que pode levar ao ganho de peso. <xref ref-type="bibr" rid="B8">
+          <sup>8</sup>
+        </xref> Uma metanálise, que incluiu como variável o financiamento do projeto, mostrou que
+        estudos financiados pela indústria de alimentos são os que apresentam os resultados
+        preferencialmente negativos. <xref ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> Além disso, acredita-se que uma dieta com maior teor de açúcar pode conter níveis
+        mais baixos de micronutrientes (efeito de diluição) <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> e pode ser nutricionalmente inadequada. <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref>
+      </p>
+      <p>Não houve redução do consumo de carboidratos pelas merendeiras, objetivada pelo estudo, nem
+        diminuição dos lipídios e das proteínas. Estudos mostram que a adoção de múltiplas
+        estratégias dietéticas, que visem uma melhor qualidade da dieta, podem ser mais eficazes do
+        que focar em estratégias únicas. <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B17">
+          <sup>17</sup>
+        </xref> A redução de adição de açúcar e gorduras sólidas é estimulada por corresponderem a
+        35% das calorias da dieta nos Estados Unidos.</p>
+      <p>Medidas quanto à produção de alimentos com alto percentual de açúcar podem ser mais
+        satisfatórias do que investimento no consumidor. Nosso enfoque com as merendeiras
+        justificou-se por serem importante elo na cadeia de alimentação saudável na escola. A
+        dificuldade em fazer com que reduzissem o consumo de açúcar pode indicar dificuldade em
+        implementar essas mudanças na alimentação escolar por opção das próprias merendeiras.
+        Contudo, é possível, como mostra este estudo, reduzir o conteúdo de açúcar a partir de
+        políticas que combinem redução da disponibilidade e de atividades de educação
+        nutricional.</p>
+      <p>O poder do estudo ficou comprometido dado que a disponibilidade de açúcar nas escolas no
+        ano de realização do estudo havia sido reduzida em função de ações da Secretaria de Educação
+        do município, que passou a desenvolver estratégias de alimentação saudável, dentre elas a de
+        redução do uso de açúcar. Isso explica os valores encontrados e satisfatórios, menores do
+        que os que foram usados no cálculo do tamanho da amostra.</p>
+      <p>O enfoque no consumo e disponibilidade de açúcar com base em uma única mensagem não foi
+        completamente satisfatório em relação à redução de consumo pelas merendeiras dos dois
+        grupos. A redução da disponibilidade de açúcar deve englobar a disponibilidade de todos os
+        alimentos fontes de açúcar no programa de alimentação escolar.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERÊNCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Bluford DA, Sherry B, Scanlon KS. Interventions to prevent or treat
+          obesity in preschool children: a review of evaluated programs. <italic>Obesity (Silver
+            Spring)</italic> . 2007;15(6):1356-72. DOI:10.1038/oby.2007.163</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Bluford</surname>
+              <given-names>DA</given-names>
+            </name>
+            <name>
+              <surname>Sherry</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Scanlon</surname>
+              <given-names>KS</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Interventions to prevent or treat obesity in preschool
+            children: a review of evaluated programs</article-title>
+          <source>Obesity</source>
+          <publisher-loc>Silver Spring</publisher-loc>
+          <year>2007</year>
+          <volume>15</volume>
+          <issue>6</issue>
+          <fpage>1356</fpage>
+          <lpage>1372</lpage>
+          <pub-id pub-id-type="doi">10.1038/oby.2007.163</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Coulston A, Johnson RK. Sugar and sugars: myths and realities. <italic>J
+            Am Diet Assoc</italic> . 2002;102(3):351-3.
+          DOI:10.1016/S0002-8223(02)90082-9</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Coulston</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>RK</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Sugar and sugars: myths and realities</article-title>
+          <source>J Am Diet Assoc</source>
+          <year>2002</year>
+          <volume>102</volume>
+          <issue>3</issue>
+          <fpage>351</fpage>
+          <lpage>353</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0002-8223(02)90082-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Frary CD, Johnson RJ, Wang MQ. Children and adolescents’ choices of foods
+          and beverages high in added sugars are associated with intakes of key nutrients and food
+          groups. <italic>J Adolesc Health</italic> . 2004;34(1):56-63.
+          DOI:10.1016/S1054-139X(03)00248-9</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Frary</surname>
+              <given-names>CD</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>RJ</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>MQ</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Children and adolescents’ choices of foods and beverages high
+            in added sugars are associated with intakes of key nutrients and food
+            groups</article-title>
+          <source>J Adolesc Health</source>
+          <year>2004</year>
+          <volume>34</volume>
+          <issue>1</issue>
+          <fpage>56</fpage>
+          <lpage>63</lpage>
+          <pub-id pub-id-type="doi">10.1016/S1054-139X(03)00248-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Hill JO. Can a small-changes approach help address the obesity epidemic? A
+          report of the Joint Task Force of the American Society for Nutrition, Institute of Food
+          Technologists, and International Food Information Council. <italic>Am J Clin Nutr</italic>
+          . 2009;89(2):477-84. DOI:10.3945/ajcn.2008.26566</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Hill</surname>
+              <given-names>JO</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Can a small-changes approach help address the obesity
+            epidemic? A report of the Joint Task Force of the American Society for Nutrition,
+            Institute of Food Technologists, and International Food Information
+            Council</article-title>
+          <source>Am J Clin Nutr</source>
+          <year>2009</year>
+          <volume>89</volume>
+          <issue>2</issue>
+          <fpage>477</fpage>
+          <lpage>484</lpage>
+          <pub-id pub-id-type="doi">10.3945/ajcn.2008.26566</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Levy-Costa RB, Sichieri R, Pontes N dos S, Monteiro CA. Disponibilidade
+          domiciliar de alimentos no Brasil: distribuição e evolução (1974-2003). <italic>Rev Saude
+            Publica</italic> . 2005;39(4): 530-40.
+          DOI:10.1590/S0034-89102005000400003</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Levy-Costa</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Sichieri</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Pontes</surname>
+              <given-names>N dos S</given-names>
+            </name>
+            <name>
+              <surname>Monteiro</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Disponibilidade domiciliar de alimentos no Brasil:
+            distribuição e evolução (1974-2003)</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2005</year>
+          <volume>39</volume>
+          <issue>4</issue>
+          <fpage>530</fpage>
+          <lpage>540</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102005000400003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation>. Lohman TG, Roche AF, Martorell R. Anthropometric standardization reference
+          manual. Illinois: Human Kinetics Books; 1988.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Lohman</surname>
+              <given-names>TG</given-names>
+            </name>
+            <name>
+              <surname>Roche</surname>
+              <given-names>AF</given-names>
+            </name>
+            <name>
+              <surname>Martorell</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Anthropometric standardization reference manual</source>
+          <publisher-loc>Illinois</publisher-loc>
+          <publisher-name>Human Kinetics Books</publisher-name>
+          <year>1988</year>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation>. Malik VS, Schulze MB, Hu FB. Intake of sugar-sweetened beverages and
+          weight gain: a systematic review. Am J Clin Nutr. 2006;84(2):274-88.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Malik</surname>
+              <given-names>VS</given-names>
+            </name>
+            <name>
+              <surname>Schulze</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>FB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Intake of sugar-sweetened beverages and weight gain: a
+            systematic review</article-title>
+          <source>Am J Clin Nutr</source>
+          <year>2006</year>
+          <volume>84</volume>
+          <issue>2</issue>
+          <fpage>274</fpage>
+          <lpage>288</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation>. Mann J. Free sugars and human health: sufficient evidence for action?
+            <italic>Lancet</italic> . 2004; 363(9414):1068-70.
+          DOI:10.1016/S0140-6736(04)15844-3</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Mann</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Free sugars and human health: sufficient evidence for
+            action?</article-title>
+          <source>Lancet</source>
+          <year>2004</year>
+          <volume>363</volume>
+          <issue>9414</issue>
+          <fpage>1068</fpage>
+          <lpage>1070</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(04)15844-3</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation>. Monteiro CA. Nutrition and health. The issue is not food, nor nutrients,
+          so much as processing. <italic>Public Health Nutr</italic> . 2009;12(5):729-31.
+          DOI:10.1017/S1368980009005291</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Monteiro</surname>
+              <given-names>CA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Nutrition and health. The issue is not food, nor nutrients,
+            so much as processing</article-title>
+          <source>Public Health Nutr</source>
+          <year>2009</year>
+          <volume>12</volume>
+          <issue>5</issue>
+          <fpage>729</fpage>
+          <lpage>731</lpage>
+          <pub-id pub-id-type="doi">10.1017/S1368980009005291</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation>. Popkin BM, Nielsen SJ. The sweetening of the world’s diet. <italic>Obes
+            Res</italic> . 2003;11(11):1325-32. DOI:10.1038/oby.2003.179</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Popkin</surname>
+              <given-names>BM</given-names>
+            </name>
+            <name>
+              <surname>Nielsen</surname>
+              <given-names>SJ</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">The sweetening of the world’s diet</article-title>
+          <source>Obes Res</source>
+          <year>2003</year>
+          <volume>11</volume>
+          <issue>11</issue>
+          <fpage>1325</fpage>
+          <lpage>1332</lpage>
+          <pub-id pub-id-type="doi">10.1038/oby.2003.179</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation>. Prentice AM, Jebb SA. Fast foods, energy density and obesity: a possible
+          mechanistic link. <italic>Obes Rev</italic> . 2003;4(4):187-94.
+          DOI:10.1046/j.1467-789X.2003.00117.x</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Prentice</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Jebb</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Fast foods, energy density and obesity: a possible
+            mechanistic link</article-title>
+          <source>Obes Rev</source>
+          <year>2003</year>
+          <volume>4</volume>
+          <issue>4</issue>
+          <fpage>187</fpage>
+          <lpage>194</lpage>
+          <pub-id pub-id-type="doi">10.1046/j.1467-789X.2003.00117.x</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation>. Rodearmel SJ, Wyatt HR, Stroebele N, Smith SM, Ogden LG, Hill JO. Small
+          changes in dietary sugar and physical activity as an approach to preventing excessive
+          weight gain: the America on the Move family study. <italic>Pediatrics</italic> .
+          2007;120(4):e869-79. DOI:10.1542/peds.2006-2927</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Rodearmel</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Wyatt</surname>
+              <given-names>HR</given-names>
+            </name>
+            <name>
+              <surname>Stroebele</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Ogden</surname>
+              <given-names>LG</given-names>
+            </name>
+            <name>
+              <surname>Hill</surname>
+              <given-names>JO</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Small changes in dietary sugar and physical activity as an
+            approach to preventing excessive weight gain: the America on the Move family
+            study</article-title>
+          <source>Pediatrics</source>
+          <year>2007</year>
+          <volume>120</volume>
+          <issue>4</issue>
+          <fpage>e869</fpage>
+          <lpage>e879</lpage>
+          <pub-id pub-id-type="doi">10.1542/peds.2006-2927</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation>. Ruxton CH, Gardner EJ, McNulty HM. Is sugar consumption detrimental to
+          health? A review of the evidence 1995-2006. Crit Rev Food Sci Nutr. 2010;50(1):1-19.
+          DOI:10.1080/10408390802248569</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Ruxton</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Gardner</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>McNulty</surname>
+              <given-names>HM</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Is sugar consumption detrimental to health? A review of the
+            evidence 1995-2006</article-title>
+          <source>Crit Rev Food Sci Nutr</source>
+          <year>2010</year>
+          <volume>50</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>19</lpage>
+          <pub-id pub-id-type="doi">10.1080/10408390802248569</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation>. Sato T. Sample size calculations with compliance information. <italic>Stat
+            Med</italic> . 2000;19(19):2689-97. DOI:10.1002/1097-0258(20001015)19:19&lt;2689:
+          :AID-SIM555&gt;3.0.CO;2-0</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Sato</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Sample size calculations with compliance
+            information</article-title>
+          <source>Stat Med</source>
+          <year>2000</year>
+          <volume>19</volume>
+          <issue>19</issue>
+          <fpage>2689</fpage>
+          <lpage>2697</lpage>
+          <pub-id pub-id-type="doi">10.1002/1097-0258(20001015)19:19&lt;2689:
+            :AID-SIM555&gt;3.0.CO;2-0</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation>. Sichieri R, Everhart JE. Validity of a Brazilian Food Frequency
+          Questionnaire against dietary recalls and estimated energy intake. <italic>Nutr
+            Res</italic> . 1998;18(10):1649-59. DOI:10.1016/S0271-5317(98)00151-1</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Sichieri</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Everhart</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Validity of a Brazilian Food Frequency Questionnaire against
+            dietary recalls and estimated energy intake</article-title>
+          <source>Nutr Res</source>
+          <year>1998</year>
+          <volume>18</volume>
+          <issue>10</issue>
+          <fpage>1649</fpage>
+          <lpage>1659</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0271-5317(98)00151-1</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation>. Sichieri R, Trotte AP, de Souza RA, Veiga GV. School randomised trial on
+          prevention of excessive weight gain by discouraging students from drinking sodas.
+            <italic>Public Health Nutr</italic> . 2009;12(2):197-202.
+          DOI:10.1017/S1368980008002644</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Sichieri</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Trotte</surname>
+              <given-names>AP</given-names>
+            </name>
+            <name>
+              <surname>de Souza</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Veiga</surname>
+              <given-names>GV</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">School randomised trial on prevention of excessive weight
+            gain by discouraging students from drinking sodas</article-title>
+          <source>Public Health Nutr</source>
+          <year>2009</year>
+          <volume>12</volume>
+          <issue>2</issue>
+          <fpage>197</fpage>
+          <lpage>202</lpage>
+          <pub-id pub-id-type="doi">10.1017/S1368980008002644</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <mixed-citation>. Sigman-Grant M, Morita J. Defining and interpreting intakes of sugars. Am
+          J Clin Nutr. 2003;78(4):815-26.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Sigman-Grant</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Morita</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Defining and interpreting intakes of sugars</article-title>
+          <source>Am J Clin Nutr</source>
+          <year>2003</year>
+          <volume>78</volume>
+          <issue>4</issue>
+          <fpage>815</fpage>
+          <lpage>826</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <mixed-citation>. Swinburn BA, Sacks G, Lo SK, Westerterp KR, Rush EC, Rosenbaum M, et al.
+          Estimating the changes in energy flux that characterize the rise in obesity prevalence.
+            <italic>Am J Clin Nutr</italic> . 2009;89(6):1723-8.
+          DOI:10.3945/ajcn.2008.27061</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Swinburn</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Sacks</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Lo</surname>
+              <given-names>SK</given-names>
+            </name>
+            <name>
+              <surname>Westerterp</surname>
+              <given-names>KR</given-names>
+            </name>
+            <name>
+              <surname>Rush</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Rosenbaum</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Estimating the changes in energy flux that characterize the
+            rise in obesity prevalence</article-title>
+          <source>Am J Clin Nutr</source>
+          <year>2009</year>
+          <volume>89</volume>
+          <issue>6</issue>
+          <fpage>1723</fpage>
+          <lpage>1728</lpage>
+          <pub-id pub-id-type="doi">10.3945/ajcn.2008.27061</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <mixed-citation>. Swinburn B, Sacks G, Ravussin E. Increased food energy supply is more than
+          sufficient to explain the US epidemic of obesity. <italic>Am J Clin Nutr</italic> .
+          2009;90(6):1453-6. DOI:10.3945/ajcn.2009.28595</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Swinburn</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Sacks</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Ravussin</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Increased food energy supply is more than sufficient to
+            explain the US epidemic of obesity</article-title>
+          <source>Am J Clin Nutr</source>
+          <year>2009</year>
+          <volume>90</volume>
+          <issue>6</issue>
+          <fpage>1453</fpage>
+          <lpage>1456</lpage>
+          <pub-id pub-id-type="doi">10.3945/ajcn.2009.28595</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <mixed-citation>. Vartanian LR, Schwartz MB, Brownell KD. Effects of soft drink consumption
+          on nutrition and health: a systematic review and meta-analysis. <italic>Am J Public
+            Health</italic> . 2007;97(4):667-75. DOI:10.2105/AJPH.2005.083782</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Vartanian</surname>
+              <given-names>LR</given-names>
+            </name>
+            <name>
+              <surname>Schwartz</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>Brownell</surname>
+              <given-names>KD</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Effects of soft drink consumption on nutrition and health: a
+            systematic review and meta-analysis</article-title>
+          <source>Am J Public Health</source>
+          <year>2007</year>
+          <volume>97</volume>
+          <issue>4</issue>
+          <fpage>667</fpage>
+          <lpage>675</lpage>
+          <pub-id pub-id-type="doi">10.2105/AJPH.2005.083782</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <mixed-citation>. 21. Wolf AM, Woodworth KA. Obesity prevention: recommended strategies and
+          challenges. <italic>Am J Med</italic> . 2009;122(4 Suppl 1):S19-23.
+          DOI:10.1016/j.amjmed.2009.01.004</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Wolf</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Woodworth</surname>
+              <given-names>KA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Obesity prevention: recommended strategies and
+            challenges</article-title>
+          <source>Am J Med</source>
+          <year>2009</year>
+          <volume>122</volume>
+          <issue>4</issue>
+          <supplement>1</supplement>
+          <fpage>S19</fpage>
+          <lpage>S23</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.amjmed.2009.01.004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <mixed-citation>. 22. World Health Organization; Food and Agriculture Organization. Diet,
+          nutrition and the prevention of chronic diseases. Report of a Joint WHO/FAO Expert
+          Consultation. Geneva; 2003. (Technical Report Series, 916).</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <collab>World Health Organization; Food and Agriculture Organization</collab>
+          </person-group>
+          <source xml:lang="en">Diet, nutrition and the prevention of chronic diseases. Report of a
+            Joint WHO/FAO Expert Consultation</source>
+          <publisher-loc>Geneva</publisher-loc>
+          <year>2003</year>
+          <series>Technical Report Series</series>
+          <volume>916</volume>
+        </element-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <mixed-citation>. 23. World Health Organization. Physical status: the use and interpretation
+          of anthropometry. Report of a WHO Expert Committee. Geneva; 1995. (Technical Report
+          Series, 854).</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <collab>World Health Organization</collab>
+          </person-group>
+          <source xml:lang="en">Physical status: the use and interpretation of anthropometry. Report
+            of a WHO Expert Committee</source>
+          <publisher-loc>Geneva</publisher-loc>
+          <year>1995</year>
+          <series>Technical Report Series</series>
+          <volume>854</volume>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="fn1">
+        <label>a</label>
+        <p>Instituto Brasileiro de Geografia e Estatística. Pesquisa de orçamentos familiares
+          2008-2009: avaliação nutricional da disponibilidade domiciliar de alimentos no Brasil. Rio
+          de Janeiro; 2010.</p>
+      </fn>
+      <fn id="fn2">
+        <label>b</label>
+        <p>United States Department of Agriculture, Center for Nutrition Policy and Promotion.
+          Report of the Dietary Guidelines Advisory Committee on the Dietary Guidelines for
+          Americans. Washington (DC); 2010.</p>
+      </fn>
+      <fn id="fn3">
+        <label>c</label>
+        <p>Ministério da Saúde. Secretaria de Atenção à Saúde. Coordenação Geral da Política de
+          Alimentação e Nutrição. Guia Alimentar para a População Brasileira – Promovendo a
+          alimentação saudável. Brasília (DF); 2006.</p>
+      </fn>
+    </fn-group>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Reducing the use of sugar in public schools: a randomized
+          cluster trial</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Souza</surname>
+            <given-names>Rita Adriana Gomes de</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">I</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mediano</surname>
+            <given-names>Mauro Felippe Felix</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6">II</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Souza</surname>
+            <given-names>Amanda de Moura</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff7">III</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sichieri</surname>
+            <given-names>Rosely</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff8">IV</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff5">
+        <label>I</label> Instituto de Saúde Coletiva. Universidade Federal de Mato Grosso. Cuiabá,
+        MT, Brasil</aff>
+      <aff id="aff6">
+        <label>II</label> Instituto de Pesquisa Clínica Evandro Chagas. Fundação Oswaldo Cruz. Rio
+        de Janeiro, RJ, Brasil</aff>
+      <aff id="aff7">
+        <label>III</label> Programa de Pós-Graduação em Saúde Coletiva. Departamento de
+        Epidemiologia. Instituto de Medicina Social. Universidade do Estado do Rio de Janeiro. Rio
+        de Janeiro, RJ, Brasil</aff>
+      <aff id="aff8">
+        <label>IV</label> Departamento de Epidemiologia. Instituto de Medicina Social. Universidade
+        do Estado do Rio de Janeiro. Rio de Janeiro, RJ, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondence</bold> : Rita Adriana Gomes de Souza. Instituto de Saúde Coletiva.
+          Universidade Federal de Mato Grosso.. Av. Fernando Corrêa da Costa, 2367. 1Bloco CCBSIII
+          2º piso - Boa Esperança. 78060-900 Cuiabá, MT, Brasil. E-mail:
+          ritadriana@ibest.com.br</corresp>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <sec>
+          <title>OBJECTIVE</title>
+          <p> To test the efficacy of nutritional guidelines for school lunch cooks aiming to reduce
+            added sugar in school meals and their own sugar intake.</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p> A controlled randomized cluster trial was carried out in twenty public schools in the
+            municipality of Niteroi in Rio de Janeiro, Southeastern Brazil, from March to December
+            2007. A nutrition educational program was implemented in the schools in question through
+            messages, activities and printed educational materials encouraging reduced levels of
+            added sugar in school meals and in the school lunch cooks’ own intake. The reduced
+            availability of added sugar in schools was evaluated using spreadsheets including data
+            on the monthly use of food item supplies. The cooks’ individual food intake was
+            evaluated by a Food Frequency Questionnaire. Anthropometric measurements were taken
+            according to standardized techniques and variation in weight was measured throughout the
+            duration of the study.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p> There was a more marked reduction in the intervention schools compared to the control
+            schools (-6.0 kg <italic>versus</italic> 0.34 kg), but no statistically significant
+            difference (p = 0.21), although the study power was low. Both groups of school lunch
+            cooks showed a reduction in the consumption of sweets and sweetened beverages, but the
+            difference in sugar intake was not statistically significant. Weight loss and a
+            reduction in total energy consumption occurred in both groups, but the difference
+            between them was not statistically significant, and there was no alteration in the
+            percentages of adequacy of macronutrients in relation to energy consumption.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONS</title>
+          <p> The strategy of reducing the use and consumption of sugar by school lunch cooks from
+            public schools could not be proved to be effective.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <kwd>School Feeding</kwd>
+        <kwd>Dietary Sucrose</kwd>
+        <kwd>Intervention Studies</kwd>
+        <kwd>Food and Nutrition Education</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>Obesity is viewed as a global epidemic. It reflects the complex interaction of genetic,
+          metabolic, cultural, environmental, socio-economic and behavioral factors, although it’s
+          most basic explanation lies in energy intake. <xref ref-type="bibr" rid="B19">
+            <sup>19</sup>
+          </xref> Consumption of carbohydrates, principally in the form of simple sugars, has
+          increased over the last 20 years, as have rates of obesity and being overweight. <xref
+            ref-type="bibr" rid="B9">
+            <sup>9</sup>
+          </xref>
+        </p>
+        <p>The share of energy coming from consuming sugar increased from 13.1% to 16.0% between
+          1977 and 1996, and, between 1994 and 1996 in the United States, <xref ref-type="bibr"
+            rid="B10">
+            <sup>10</sup>
+          </xref> over 30% of carbohydrates consumed came from sugar. In Brazil, the world’s largest
+          producer of sugar, its relative share of total energy, as determined in the
+            <italic>Pesquisas de Orçamento Familiar</italic> (POF – Household Budget Surveys), was
+          around 13%. However, the main sources of sugar have changed: soft drinks, which
+          represented 0.8% of sugar intake in 1988, increased to 1.3% in 1996, 1.5% in 2003 <xref
+            ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> and 1.8% in 2008. <xref ref-type="fn" rid="fn4">
+            <sup>a</sup>
+          </xref>
+        </p>
+        <p>Although there is no consensus on the impact of sugar intake in isolation on obesity and
+          other health conditions, <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref> its increase has meant that, in Brazil and the United States, <xref ref-type="fn"
+            rid="fn5">
+            <sup>b</sup>
+          </xref> the public are advised to choose food and drink which will decrease their added
+          sugar intake. In 2003, the World Health Organization (WHO), suggested that added sugars
+          should provide no more than 10% of energy intake in the diet. <xref ref-type="bibr"
+            rid="B22">
+            <sup>22</sup>
+          </xref> This recommendation appears in the Brazilian food guide developed and distributed
+          by the Ministry of Health. <xref ref-type="fn" rid="fn6">
+            <sup>c</sup>
+          </xref>
+        </p>
+        <p>Although there are no known effective strategies to prevent or treat excessive weight
+          gain, <xref ref-type="bibr" rid="B7">
+            <sup>7</sup>
+          </xref> a strategy to prevent this would be more viable than the entire population losing
+          weight. Small, cumulative changes in diet and physical activity may have greater impact if
+          developed with children who are not at risk of being overweight. <xref ref-type="bibr"
+            rid="B12">
+            <sup>12</sup>
+          </xref>
+        </p>
+        <p>Children and adolescents are the focus of efforts to prevent obesity, <xref
+            ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref> thus schools are the ideal situation in which to set up interventions. They
+          provide the opportunity for continued, intense contact with children throughout their
+          formative years and have infrastructure, offering the greatest potential to positively
+          influence infant-juvenile health. <xref ref-type="bibr" rid="B21">
+            <sup>21</sup>
+          </xref>
+        </p>
+        <p>In Niterói, RJ, Southeastern Brazil, intervention studies with schoolchildren aiming at
+          reducing consumption of soft drinks showed that a small decrease in their consumption was
+          replaced by the consumption of juices with high levels of added sugar <xref
+            ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref> and that the school lunch cooks participated very little in reducing added
+          sugar.</p>
+        <p>This study aimed to analyze the effectiveness of nutritional education activities with
+          school lunch cooks in reducing added sugar in school lunches and in their own
+          consumption.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>METHODS</title>
+        <p>A controlled randomized cluster trial carried out in 20 municipal schools in the
+          municipality of Niterói between March and December 2007. The 36 municipal schools were
+          distributed among five areas; 20 were selected from three areas (one, two and five) which
+          had similar demographic and socio-economic characteristics.</p>
+        <p>One of the three areas was randomly selected to receive intervention (seven schools) and
+          another to be the control (seven schools), aiming thus to reduce contamination between the
+          groups. Of the seven schools in the third area, three were randomly allocated to the
+          intervention group and three to the control group (one school was undergoing building
+          work). This area was the most distant from the center of Niterói and had a lower
+          population density, meaning the schools were not close together and there was less chance
+          of contamination.</p>
+        <p>Five male workers were excluded and those considered eligible to take part were
+          non-pregnant females working as school lunch cooks in participating schools, regardless of
+          shift. Six (6.3%) refused to participate in the study; the intervention groups was made up
+          of 47 individuals and the control group of 48 ( <xref ref-type="fig" rid="f02"
+            >Figure</xref> ).</p>
+        <p>
+          <fig id="f02">
+            <label>Figure</label>
+            <caption>
+              <title>Schematic representation of selection and monitoring of participants in the
+                research, Niterói, RJ, Southeastern Brazil, 2007.</title>
+            </caption>
+            <graphic xlink:href="0034-8910-rsp-47-04-0666-gf01-en"/>
+          </fig>
+        </p>
+        <p>Data on consumption for children in public schools in Niterói (34.5 g; standard deviation
+          (SD): 26.0 g) from a 2005 cross-sectional study <xref ref-type="bibr" rid="B16">
+            <sup>16</sup>
+          </xref> was used in order to estimate the necessary sample size for evaluating changes in
+          the intake and availability of sugar. There would be 36 individuals needed in each group
+          for a 10% decrease in intake (3.4 g), supposing 80% of power and a 0.05 level of
+          significance. A suitable sample would be made up of 80 school lunch cooks, taking into
+          consideration that the schools were randomly selected and the participation rate was 80%
+            <xref ref-type="bibr" rid="B14">
+            <sup>14</sup>
+          </xref> ( <xref ref-type="fig" rid="f02">Figure</xref> ).</p>
+        <p>A Nutritional Education Program was established in the intervention schools for a period
+          of seven months in the 2007 academic year, using messages and activities which encouraged
+          reducing the sugar added to school meals and in the cooks’ own intake.</p>
+        <p>The school lunch cooks taking part in the intervention took part in five activities. The
+          first two included two sections on sugar intake (approaching topics such as obesity and
+          sugar intake and foods which are sources of sugars in Brazil, dietary recommendations and
+          encouragement to reduce sugar in food). The third activity was to substitute sugar in
+          coffee with powdered milk. To accomplish this, a tin of powdered milk was provided to
+          encourage this substitution and an information card promoting this change was placed where
+          the coffee was made. The fourth activity included a section on food labelling; the fifth
+          was a competition involving reduced sugar recipes. The activities took place monthly in
+          the school and lasted around 20 minutes. Three research assistants were trained to carry
+          out these activities.</p>
+        <p>Participants received educational material encouraging them to reduce sugar and products
+          branded with the project logo such as mugs, bags and magnets. The schools were provided
+          with banners and fridge magnets.</p>
+        <p>Demographic and socio-economic data, and information about health, physical activity and
+          sugar intake for both groups were collected through interviews and the beginning of the
+          academic year.</p>
+        <p>The school lunch cooks in the control group and the intervention group took part in three
+          discussion segments on encouraging healthy eating, promoted by the municipal Education
+          Department, in one of the participant schools, at the beginning of the academic year.
+          These meetings aimed to enable the team and the participant to get to know each other.</p>
+        <p>The assessment of the availability of sugar and foods which are sources of sugar (donuts,
+          milky coffee, banana cereal, chocolate cereal, chocolate milk, lacteal flour powdered
+          drink mix, cake mix) in schools took place fortnightly. In this study, there was a
+          baseline assessment (mean of two fortnights in March) and another carried out at the end
+          of the study (mean of two fortnights in September). Spreadsheets containing data on the
+          availability of the items were used. At these times, the number of pupils receiving school
+          meals and the number of days on which they were served were recorded. The <italic>per
+            capita</italic> availability of sugar, in grams, in the schools, was obtained by
+          dividing the availability of sugar, in grams, by the mean monthly number of days on which
+          school meals were served and by the number of pupils in the school.</p>
+        <p>The school lunch cooks’ individual intake was assessed using a Food Frequency
+          Questionnaire (FFQ). <xref ref-type="bibr" rid="B15">
+            <sup>15</sup>
+          </xref> The questionnaire included an item on adding refined table sugar to coffee, sugar
+          and other foods. The items considered to be sweets were: ice-cream, candies, chocolate,
+          chocolate milk, milk pudding and cookies. Sugary drinks were: soft drinks, juice and mate
+          tea. Responses to frequency of consumption included eight options: three or more
+          times/day, 2-3 times/day, once/day, 5-6 times/week, 2-4 times/week, 1 once/week, 1-3/month
+          and never/almost never, which were transformed into daily frequency. Once/day, e.g,
+          corresponded to 0.14 (1/7). The food items in question had three response options for the
+          portion, with the exception of milk pudding, which had two response options. The FFQ was
+          applied at the baseline and at the end of the study.</p>
+        <p>Weight was measured at the baseline, in the fifth month and at the end of the study,
+          using light clothing and the same digital scale (Tanita, model BC 533 Inner Scan),
+          calibrated to 0.1 kg and with a maximum capacity of 150 kg. The individuals had to stand
+          straight, arms beside the body, looking straight ahead, according to the technique
+          recommended in the equipment manual and utilized by Lohman et al <xref ref-type="bibr"
+            rid="B6">
+            <sup>6</sup>
+          </xref> (1988). Height was measured at the baseline (mean of two measurements) in the
+          position described above, although with feet together and with claves, shoulders and
+          buttocks touching the wall. A portable stadiometer (Seca, model Body Metter 208) was used.
+          Height and weight were used to calculate body mass index (BMI = weight (kg)/height
+          (meters) <sup>2</sup> ) and nutritional state was classified, according to the WHO <xref
+            ref-type="bibr" rid="B23">
+            <sup>23</sup>
+          </xref> into normal weight (BMI: 18.5 to 24.9 kg/m <sup>2</sup> ), overweight (BMI: 25.0
+          to 29.9 kg/m <sup>2</sup> ) and obese (BMI ≥ 30.0 kg/m <sup>2</sup> ).</p>
+        <p>The characteristics of the two groups were compared at the baseline using the Student’s
+          t-test for continuous variables and the chi-squared test for categorical variables, and
+          were similar for both groups ( <xref ref-type="table" rid="t05">Table 1</xref> ). Mean age
+          was approximately 46 years old, and income <italic>per capita</italic> around 600 reais.
+          The majority of the women were overweight (BMI ≥ 25.0 kg/m <sup>2</sup> ), white and lived
+          with a partner, had up to two children, had finished high school and were non-smokers.</p>
+        <p>
+          <table-wrap id="t05">
+            <label>Table 1</label>
+            <caption>
+              <title>Characteristics of the school lunch cooks at the baseline. Niterói, RJ,
+                Southeastern Brazil, 2007.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="14%">
+                <col width="30%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td rowspan="3">Variable</td>
+                  <td colspan="2" align="center">Intervention (n = 47)</td>
+                  <td colspan="2" align="center">Control (n = 48)</td>
+                  <td rowspan="3" align="center">p <sup>a</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                </tr>
+                <tr>
+                  <td colspan="6" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Age (years)</td>
+                  <td align="center">45.8</td>
+                  <td align="center">8.9</td>
+                  <td align="center">45.8</td>
+                  <td align="center">10.1</td>
+                  <td align="center">0,98</td>
+                </tr>
+                <tr>
+                  <td>
+                    <italic>Per capita</italic> income (reais)</td>
+                  <td align="center">621.7</td>
+                  <td align="center">426.1</td>
+                  <td align="center">569.0</td>
+                  <td align="center">343.7</td>
+                  <td align="center">0,51</td>
+                </tr>
+                <tr>
+                  <td>Nutritional state (%)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0,59</td>
+                </tr>
+                <tr>
+                  <td> Normal weight (BMI 18.5-24.9 kg/m <sup>2</sup> )</td>
+                  <td colspan="2" align="center">29.8</td>
+                  <td colspan="2" align="center">37.5</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Overweight (BMI 25.0-29.9 kg/m <sup>2</sup> )</td>
+                  <td colspan="2" align="center">42.5</td>
+                  <td colspan="2" align="center">31.2</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Obese (BMI ≥ 30.0 kg/m <sup>2</sup> )</td>
+                  <td colspan="2" align="center">23.4</td>
+                  <td colspan="2" align="center">29.2</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Skin color (%)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.60</td>
+                </tr>
+                <tr>
+                  <td> White</td>
+                  <td colspan="2" align="center">55.3</td>
+                  <td colspan="2" align="center">56.2</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Mixed</td>
+                  <td colspan="2" align="center">34.0</td>
+                  <td colspan="2" align="center">27.1</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Black</td>
+                  <td colspan="2" align="center">10.7</td>
+                  <td colspan="2" align="center">16.7</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Marital status (%)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.25</td>
+                </tr>
+                <tr>
+                  <td> Live with partner</td>
+                  <td colspan="2" align="center">57.4</td>
+                  <td colspan="2" align="center">68.8</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Not living with partner</td>
+                  <td colspan="2" align="center">42.6</td>
+                  <td colspan="2" align="center">31.2</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Number of children (%)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.62</td>
+                </tr>
+                <tr>
+                  <td> None</td>
+                  <td colspan="2" align="center">17.0</td>
+                  <td colspan="2" align="center">14.6</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Up to two</td>
+                  <td colspan="2" align="center">59.6</td>
+                  <td colspan="2" align="center">68.7</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Three or more</td>
+                  <td colspan="2" align="center">23.4</td>
+                  <td colspan="2" align="center">16.7</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Schooling (%)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.98</td>
+                </tr>
+                <tr>
+                  <td> Primary</td>
+                  <td colspan="2" align="center">27.6</td>
+                  <td colspan="2" align="center">29.1</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Secondary</td>
+                  <td colspan="2" align="center">68.1</td>
+                  <td colspan="2" align="center">66.7</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> Further education</td>
+                  <td colspan="2" align="center">4.3</td>
+                  <td colspan="2" align="center">4.2</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Smoker (%)</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.37</td>
+                </tr>
+                <tr>
+                  <td> Yes</td>
+                  <td colspan="2" align="center">19.1</td>
+                  <td colspan="2" align="center">12.5</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td> No</td>
+                  <td colspan="2" align="center">80.9</td>
+                  <td colspan="2" align="center">87.5</td>
+                  <td> </td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>SD: standard deviation; BMI: Body Mass Index</p>
+              <p>
+                <sup>a</sup> Student t-test or Chi-squared test</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>Changes in the availability of sugar in the schools and in individual consumption were
+          assessed using the paired t-test. Fluctuations in weight were evaluated using regression
+          analysis of mixed effects for repeated measures, equivalent to intention-to-treat analysis
+          and take into consideration the conglomerate effect. Weight underwent a logarithmic
+          transformation as it did not have normal distribution. The analyses were carried out using
+          Statistical Analyses System software, version 9.1. (SAS Institute Inc., Cary, NC, USA).
+          The level of significance adopted was 5%.</p>
+        <p>This study was carried out following the standards required by the Helsinki Declaration
+          and was approved by the Research Ethics Committee of the Institute of Social Medicine,
+            <italic>Universidade do Estado do Rio de Janeiro</italic> (Process No. 26/2006, approved
+          12/14/2006). The aims of the study and the confidentiality of its results were explained
+          to the participants. All participants read and signed a consent form.</p>
+      </sec>
+      <sec sec-type="results">
+        <title>RESULTS</title>
+        <p>In the intervention group, there was a loss of 12.8% during the study, and of 10.4% in
+          the control group ( <xref ref-type="fig" rid="f02">Figure</xref> ), none of which were
+          related to the intervention. The follow up time was practically identical for both groups
+          (8.8 months for the intervention group and 8.9 months for the control group). One school
+          in the intervention group started building work in the middle of the study and it was
+          therefore impossible to evaluate the food items stored. One school in the control group
+          did not provide the number of pupils and it was therefore impossible to assess the
+            <italic>per capita</italic> availability of sugar and foods which are sources of sugar,
+          although the school lunch cooks continued to participate in the study. Six women, (two in
+          the intervention group and four in the control group) who had daily energy intakes of
+          above ten thousand calories, and one in the control group who did not complete the FFQ
+          were not included in analyses related to food intake.</p>
+        <p>The <italic>per capital</italic> available sugar was higher at the baseline, and there
+          was a reduction in availability in the intervention group, compared with the control
+          group, by the end of the study (-6.4 kg <italic>versus</italic> 3.4 kg). The items
+          analyzed showed a reduction in the availability in both groups at the end of the study,
+          with the exception of donuts in both groups, and chocolate milk in the intervention group.
+          However, the differences were not statistically significant ( <xref ref-type="table"
+            rid="t06">Table 2</xref> ).</p>
+        <p>
+          <table-wrap id="t06">
+            <label>Table 2</label>
+            <caption>
+              <title>Mean and standard deviation (SD) for availability of sugar and foods which are
+                sources of sugar, in school in both groups at the baseline and at the end of the
+                study. Niterói, RJ, Southeastern Brazil, 2007.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="8%">
+                <col width="20%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td rowspan="4"> Food </td>
+                  <td colspan="4" align="center">Baseline ( <italic>per capita</italic> in
+                    grams)</td>
+                  <td colspan="4" align="center">Changes in the baseline (kg)</td>
+                  <td rowspan="4" align="center"> p <sup>a</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="8" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td colspan="2" align="center">Intervention (n = 10)</td>
+                  <td colspan="2" align="center">Control (n = 10)</td>
+                  <td colspan="2" align="center">Intervention (n = 9)</td>
+                  <td colspan="2" align="center">Control (n = 10)</td>
+                </tr>
+                <tr>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                </tr>
+                <tr>
+                  <td colspan="10" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Sugar</td>
+                  <td align="center">5.0</td>
+                  <td align="center">2.4</td>
+                  <td align="center">4.6</td>
+                  <td align="center">2.3</td>
+                  <td align="center">-6.0</td>
+                  <td align="center">15.7</td>
+                  <td align="center">3.4</td>
+                  <td align="center">15.6</td>
+                  <td align="center">0.21</td>
+                </tr>
+                <tr>
+                  <td>Donuts</td>
+                  <td align="center">1.0</td>
+                  <td align="center">0.3</td>
+                  <td align="center">1.5</td>
+                  <td align="center">1.0</td>
+                  <td align="center">3.7</td>
+                  <td align="center">7.5</td>
+                  <td align="center">11.6</td>
+                  <td align="center">14.6</td>
+                  <td align="center">0.15</td>
+                </tr>
+                <tr>
+                  <td>Milky coffee</td>
+                  <td align="center">2.2</td>
+                  <td align="center">1.8</td>
+                  <td align="center">3.6</td>
+                  <td align="center">2.6</td>
+                  <td align="center">-4.2</td>
+                  <td align="center">11.8</td>
+                  <td align="center">-7.9</td>
+                  <td align="center">14.3</td>
+                  <td align="center">0.55</td>
+                </tr>
+                <tr>
+                  <td>Banana cereal</td>
+                  <td align="center">1.7</td>
+                  <td align="center">1.3</td>
+                  <td align="center">2.6</td>
+                  <td align="center">2.3</td>
+                  <td align="center">-1.8</td>
+                  <td align="center">8.0</td>
+                  <td align="center">-9.7</td>
+                  <td align="center">12.3</td>
+                  <td align="center">0.11</td>
+                </tr>
+                <tr>
+                  <td>Chocolate cereal</td>
+                  <td align="center">1.5</td>
+                  <td align="center">1.2</td>
+                  <td align="center">1.4</td>
+                  <td align="center">1.3</td>
+                  <td align="center">-0.8</td>
+                  <td align="center">5.2</td>
+                  <td align="center">-1.8</td>
+                  <td align="center">9.2</td>
+                  <td align="center">0.77</td>
+                </tr>
+                <tr>
+                  <td>Chocolate milk</td>
+                  <td align="center">0.6</td>
+                  <td align="center">0.6</td>
+                  <td align="center">1.0</td>
+                  <td align="center">0.9</td>
+                  <td align="center">0.2</td>
+                  <td align="center">3.4</td>
+                  <td align="center">-1.1</td>
+                  <td align="center">3.8</td>
+                  <td align="center">0.43</td>
+                </tr>
+                <tr>
+                  <td>Farinha láctea</td>
+                  <td align="center">0.9</td>
+                  <td align="center">0.7</td>
+                  <td align="center">0.8</td>
+                  <td align="center">0.8</td>
+                  <td align="center">-3.1</td>
+                  <td align="center">6.4</td>
+                  <td align="center">-2.1</td>
+                  <td align="center">4.4</td>
+                  <td align="center">0.69</td>
+                </tr>
+                <tr>
+                  <td>Cake mix</td>
+                  <td align="center">0.3</td>
+                  <td align="center">0.4</td>
+                  <td align="center">0.5</td>
+                  <td align="center">0.6</td>
+                  <td align="center">-0.03</td>
+                  <td align="center">2.9</td>
+                  <td align="center">-1.6</td>
+                  <td align="center">3.0</td>
+                  <td align="center">0.28</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>
+                <sup>a</sup> Paired t-test</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>Consumption of sweets and sugary drinks underwent a reduction in both groups. Sugar
+          intake increased in the intervention group and fell in the control group, although the
+          differences were not statistically significant ( <xref ref-type="table" rid="t07">Table
+            3</xref> ).</p>
+        <p>
+          <table-wrap id="t07">
+            <label>Table 3</label>
+            <caption>
+              <title>Mean and standard deviation (SD) of the daily portions <sup>a</sup> of sugar,
+                sweets and drinks at the baseline and at the end of the study between the groups.
+                Niterói, RJ, Southeastern Brazil, 2007.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="6%">
+                <col width="20%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td rowspan="4">Food or food group</td>
+                  <td colspan="4" align="center">Intervention</td>
+                  <td colspan="4" align="center">Control</td>
+                  <td colspan="4" align="center">Change in the baseline</td>
+                  <td rowspan="4" align="center"> p <sup>e</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td colspan="12" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td colspan="2" align="center">Baseline (n = 45)</td>
+                  <td colspan="2" align="center">End of study (n = 40)</td>
+                  <td colspan="2" align="center">Baseline (n = 43)</td>
+                  <td colspan="2" align="center">End of study (n = 39)</td>
+                  <td colspan="2" align="center">Intervention (n = 40)</td>
+                  <td colspan="2" align="center">Control (n = 39)</td>
+                </tr>
+                <tr>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                </tr>
+                <tr>
+                  <td colspan="14" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Sugar <sup>b</sup>
+                  </td>
+                  <td align="center">1.7</td>
+                  <td align="center">1.9</td>
+                  <td align="center">2.0</td>
+                  <td align="center">1.8</td>
+                  <td align="center">1.8</td>
+                  <td align="center">2.0</td>
+                  <td align="center">1.5</td>
+                  <td align="center">1.7</td>
+                  <td align="center">0.3</td>
+                  <td align="center">1.7</td>
+                  <td align="center">-0.4</td>
+                  <td align="center">2.3</td>
+                  <td align="center">0.10</td>
+                </tr>
+                <tr>
+                  <td>Sweets <sup>c</sup>
+                  </td>
+                  <td align="center">1.4</td>
+                  <td align="center">1.7</td>
+                  <td align="center">0.8</td>
+                  <td align="center">0.8</td>
+                  <td align="center">1.1</td>
+                  <td align="center">1.3</td>
+                  <td align="center">0.9</td>
+                  <td align="center">1.1</td>
+                  <td align="center">-0.6</td>
+                  <td align="center">1.5</td>
+                  <td align="center">-0.2</td>
+                  <td align="center">1.2</td>
+                  <td align="center">0.18</td>
+                </tr>
+                <tr>
+                  <td>Sugary drinks <sup>d</sup>
+                  </td>
+                  <td align="center">2.3</td>
+                  <td align="center">2.1</td>
+                  <td align="center">1.9</td>
+                  <td align="center">2.7</td>
+                  <td align="center">3.0</td>
+                  <td align="center">3.6</td>
+                  <td align="center">1.4</td>
+                  <td align="center">1.3</td>
+                  <td align="center">-0.5</td>
+                  <td align="center">2.3</td>
+                  <td align="center">-1.8</td>
+                  <td align="center">3.6</td>
+                  <td align="center">0.07</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>
+                <sup>a</sup> Daily portion = daily frequency x number of portions</p>
+              <p>
+                <sup>b</sup> Added sugar</p>
+              <p>
+                <sup>c</sup> Ice-cream, candies, chocolate, chocolate milk, milk pudding,
+                cookies</p>
+              <p>
+                <sup>d</sup> Soft drinks, mate tea, juice</p>
+              <p>
+                <sup>e</sup> Paired t-test</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>Although there was a significant decline in total energy intake (on average, 1,100
+          calories), there was no change in the percentage share of macronutrients in relation to
+          energy intake, nor was there a significant change only in items in the intervention.
+          Sugary drinks were those which made the highest contribution to the total percentage of
+          energy. The school lunch cooks in the intervention group managed to maintain weight loss
+          until the end of the study, although the difference was not statistically significant (p =
+          0.74); 15 school lunch cooks (15.8%) (nine in the intervention group and six in the
+          control group) lost at least 5% of their initial weight ( <xref ref-type="table" rid="t08"
+            >Table 4</xref> ).</p>
+        <p>
+          <table-wrap id="t08">
+            <label>Table 4</label>
+            <caption>
+              <title>Mean and standard deviation (SD) for energy intake, mean percentage share of
+                macronutrients <sup>a</sup> and energy from added sugar, from sweets and from sugary
+                drinks between the groups at the baseline and at the end of the study and changes in
+                weight throughout the study. Niterói, RJ, Southeastern Brazil, 2007.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="6%">
+                <col width="20%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td> </td>
+                  <td colspan="4" align="center">Baseline</td>
+                  <td> </td>
+                  <td colspan="4" align="center">End of study</td>
+                  <td colspan="4" align="center">Changes at the baseline</td>
+                  <td align="center"> </td>
+                </tr>
+                <tr>
+                  <td/>
+                  <td colspan="13" style="border-bottom: thin solid; border-color: #000000"/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td>Variable </td>
+                  <td colspan="2" align="center">Intervention (n = 45)</td>
+                  <td colspan="2" align="center">Control (n = 43)</td>
+                  <td align="center">p</td>
+                  <td colspan="2" align="center">Intervention (n = 40)</td>
+                  <td colspan="2" align="center">Control (n = 39)</td>
+                  <td colspan="2" align="center">Intervention</td>
+                  <td colspan="2" align="center">Control</td>
+                  <td align="center">p <sup>b</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td> </td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td align="center">Mean</td>
+                  <td align="center">SD</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td colspan="15" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Energy (kcal)</td>
+                  <td align="center">3,791</td>
+                  <td align="center">2,385</td>
+                  <td align="center">3,888</td>
+                  <td align="center">2,390</td>
+                  <td align="center">0.85</td>
+                  <td align="center">2,839</td>
+                  <td align="center">1,904</td>
+                  <td align="center">2,906</td>
+                  <td align="center">2,064</td>
+                  <td align="center">-1,056</td>
+                  <td align="center">2,475</td>
+                  <td align="center">-1,149</td>
+                  <td align="center">2,737</td>
+                  <td align="center">0.88</td>
+                </tr>
+                <tr>
+                  <td>Carbohydrate (%)</td>
+                  <td align="center">60.6</td>
+                  <td align="center">5.2</td>
+                  <td align="center">59.5</td>
+                  <td align="center">9.8</td>
+                  <td align="center">0.50</td>
+                  <td align="center">59.4</td>
+                  <td align="center">5.8</td>
+                  <td align="center">58.1</td>
+                  <td align="center">6.3</td>
+                  <td align="center">-1.1</td>
+                  <td align="center">6.9</td>
+                  <td align="center">-1.6</td>
+                  <td align="center">10.7</td>
+                  <td align="center">0.81</td>
+                </tr>
+                <tr>
+                  <td>Protein (%)</td>
+                  <td align="center">12.2</td>
+                  <td align="center">2.5</td>
+                  <td align="center">12.4</td>
+                  <td align="center">2.8</td>
+                  <td align="center">0.67</td>
+                  <td align="center">13.0</td>
+                  <td align="center">2.5</td>
+                  <td align="center">13.1</td>
+                  <td align="center">2.8</td>
+                  <td align="center">0.9</td>
+                  <td align="center">2.9</td>
+                  <td align="center">0.8</td>
+                  <td align="center">3.5</td>
+                  <td align="center">0.90</td>
+                </tr>
+                <tr>
+                  <td>Lipid (%)</td>
+                  <td align="center">27.2</td>
+                  <td align="center">3.7</td>
+                  <td align="center">28.1</td>
+                  <td align="center">7.5</td>
+                  <td align="center">0.49</td>
+                  <td align="center">27.5</td>
+                  <td align="center">4.3</td>
+                  <td align="center">28.8</td>
+                  <td align="center">4.5</td>
+                  <td align="center">0.2</td>
+                  <td align="center">5.1</td>
+                  <td align="center">0.8</td>
+                  <td align="center">8.0</td>
+                  <td align="center">0.70</td>
+                </tr>
+                <tr>
+                  <td>Energy from added sugar (%)</td>
+                  <td align="center">2.1</td>
+                  <td align="center">2.4</td>
+                  <td align="center">2.9</td>
+                  <td align="center">4.9</td>
+                  <td align="center">0.34</td>
+                  <td align="center">3.7</td>
+                  <td align="center">3.7</td>
+                  <td align="center">4.0</td>
+                  <td align="center">5.0</td>
+                  <td align="center">1.6</td>
+                  <td align="center">3.7</td>
+                  <td align="center">1.1</td>
+                  <td align="center">5.2</td>
+                  <td align="center">0.62</td>
+                </tr>
+                <tr>
+                  <td>Energy from sweets (%)</td>
+                  <td align="center">2.6</td>
+                  <td align="center">3.5</td>
+                  <td align="center">2.5</td>
+                  <td align="center">2.8</td>
+                  <td align="center">0.87</td>
+                  <td align="center">2.1</td>
+                  <td align="center">2.3</td>
+                  <td align="center">2.9</td>
+                  <td align="center">3.1</td>
+                  <td align="center">-0.28</td>
+                  <td align="center">3.7</td>
+                  <td align="center">0.28</td>
+                  <td align="center">2.8</td>
+                  <td align="center">0.46</td>
+                </tr>
+                <tr>
+                  <td>Energy from sugary drinks (%)</td>
+                  <td align="center">4.2</td>
+                  <td align="center">3.4</td>
+                  <td align="center">5.8</td>
+                  <td align="center">7.0</td>
+                  <td align="center">0.19</td>
+                  <td align="center">4.0</td>
+                  <td align="center">4.5</td>
+                  <td align="center">4.1</td>
+                  <td align="center">3.5</td>
+                  <td align="center">-0.25</td>
+                  <td align="center">4.6</td>
+                  <td align="center">-2.1</td>
+                  <td align="center">7.0</td>
+                  <td align="center">0.18</td>
+                </tr>
+                <tr>
+                  <td>Total energy for the items in question (%)</td>
+                  <td align="center">8.9</td>
+                  <td align="center">6.8</td>
+                  <td align="center">11.2</td>
+                  <td align="center">9.4</td>
+                  <td align="center">0.20</td>
+                  <td align="center">9.8</td>
+                  <td align="center">8.3</td>
+                  <td align="center">11.0</td>
+                  <td align="center">8.7</td>
+                  <td align="center">1.11</td>
+                  <td align="center">8.0</td>
+                  <td align="center">-0.65</td>
+                  <td align="center">9.0</td>
+                  <td align="center">0.36</td>
+                </tr>
+                <tr>
+                  <td colspan="15" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td colspan="15" align="center">Weight (kg)</td>
+                </tr>
+                <tr>
+                  <td colspan="15" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td colspan="4" align="center">Baseline</td>
+                  <td align="center">5 <sup>th</sup> month</td>
+                  <td colspan="4" align="center">End of study</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">p <sup>c</sup>
+                  </td>
+                </tr>
+                <tr>
+                  <td>Intervention</td>
+                  <td colspan="4" align="center">68.7</td>
+                  <td align="center">68.7</td>
+                  <td colspan="4" align="center">67.3</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">0.74</td>
+                </tr>
+                <tr>
+                  <td>Control</td>
+                  <td colspan="4" align="center">69.1</td>
+                  <td align="center">68.5</td>
+                  <td colspan="4" align="center">68.9</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>
+                <sup>a</sup> Mean percentage share in relation to energy intake</p>
+              <p>
+                <sup>b</sup> Paired t-test</p>
+              <p>
+                <sup>c</sup> Regression analysis of mixed effects for repeated measures</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+      </sec>
+      <sec sec-type="discussion">
+        <title>DISCUSSION</title>
+        <p>The strategy of small changes in behavior to negatively offset the energy balance has
+          been proposed as a way to reduce the obesity epidemic, <xref ref-type="bibr" rid="B4">
+            <sup>4</sup>
+          </xref> although there is no consensus on this. <xref ref-type="bibr" rid="B18">
+            <sup>18</sup>
+          </xref> The data of this study suggest it is possible to reduce the availability of sugar
+          and foods which are sources of sugar in schools. Although there was no reduction in the
+          intake of sugar, sweets and sugary drinks in the intervention group compared with the
+          control group, there was a reduction in the total calorie intake of the two groups and
+          there was weight loss, although neither of these reductions were statistically
+          significant.</p>
+        <p>A recent systematic review <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref> concluded that sugar intake is not related to adverse health effects, such as
+          obesity and metabolic syndrome, and some authors believe that sugar intake has no direct
+          causal link to obesity. In spite of this, sugar contributes to high caloric density of the
+          diet, <xref ref-type="bibr" rid="B2">
+            <sup>2</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B11">
+            <sup>11</sup>
+          </xref> which can lead to weigh gain. <xref ref-type="bibr" rid="B8">
+            <sup>8</sup>
+          </xref> A meta-analysis, including the financing of the project as a variable, showed that
+          studies financed by the food industry are those which show preferably negative results.
+            <xref ref-type="bibr" rid="B20">
+            <sup>20</sup>
+          </xref> Moreover, it is believed that a high sugar diet may also contain lower levels of
+          micronutrients (dilution effect) <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref> and may be nutritionally deficient. <xref ref-type="bibr" rid="B13">
+            <sup>13</sup>
+          </xref>
+        </p>
+        <p>There was no decrease in the school lunch cooks’ carbohydrate intake, an aim of the
+          study, nor was there a decrease in protein or lipid intake. Studies show that the adoption
+          of multiple dietary strategies, aiming to improve dietary quality, may be more effective
+          than focusing on one single strategy. <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B17">
+            <sup>17</sup>
+          </xref> Reducing added sugar and solid fats is encouraged as they account for 355 of
+          calories in the North American diet.</p>
+        <p>Measures regarding the production of foods with high sugar content may be more
+          satisfactory than focusing on the consumer. Our focus on the school lunch cooks was
+          justified by their importance in the schools’ health eating process. The difficulty in
+          making them reduce their sugar intake may indicate difficulties in implementing these
+          changes in school meals due to the school lunch cooks themselves. However, it is possible,
+          as shown in this study, to reduce sugar content based on policies which combine reducing
+          availability and nutrition education activities.</p>
+        <p>The power of the study was compromised as the municipal Department of Education had taken
+          measures to develop healthy eating strategies, leading to reductions in the availability
+          of sugar in schools, in the same year in which the study was carried out. This explains
+          the figures found, which were lower than those used in calculating the sample size.</p>
+        <p>The focus on sugar intake and availability based on one single message was not completely
+          satisfactory regarding reduced intake by the school lunch cooks in both groups. Reduced
+          availability of sugar should include reduced availability of foods in school meals which
+          are sources of sugar.</p>
+      </sec>
+    </body>
+    <back>
+      <fn-group>
+        <fn id="fn4">
+          <label>a</label>
+          <p>Instituto Brasileiro de Geografia e Estatística. Pesquisa de orçamentos familiares
+            2008-2009: avaliação nutricional da disponibilidade domiciliar de alimentos no Brasil.
+            Rio de Janeiro; 2010.</p>
+        </fn>
+        <fn id="fn5">
+          <label>b</label>
+          <p>United States Department of Agriculture, Center for Nutrition Policy and Promotion.
+            Report of the Dietary Guidelines Advisory Committee on the Dietary Guidelines for
+            Americans. Washington (DC); 2010.</p>
+        </fn>
+        <fn id="fn6">
+          <label>c</label>
+          <p>Ministério da Saúde. Secretaria de Atenção à Saúde. Coordenação Geral da Política de
+            Alimentação e Nutrição. Guia Alimentar para a População Brasileira – Promovendo a
+            alimentação saudável. Brasília (DF); 2006.</p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+</article>

@@ -1,0 +1,2920 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="research-article" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047004267</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047004267</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Artigos Originais</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="pt">Avaliação da confiabilidade e validade do Índice de Qualidade
+          da Dieta Revisado</article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>Confiabilidad y validez del Índice de Calidad de la Dieta
+            Revisado</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Andrade</surname>
+            <given-names>Samantha Caesar de</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Previdelli</surname>
+            <given-names>Ágatha Nogueira</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Marchioni</surname>
+            <given-names>Dirce Maria Lobo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fisberg</surname>
+            <given-names>Regina Mara</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <institution content-type="orgdiv2">Departamento de Nutrição</institution>
+        <institution content-type="orgdiv1">Faculdade de Saúde Pública</institution>
+        <institution content-type="orgname">Universidade de São Paulo</institution>
+        <addr-line>
+          <named-content content-type="city">São Paulo</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Departamento de Nutrição . Faculdade de Saúde Pública .
+        Universidade de São Paulo. São Paulo, SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondência | Correspondence</bold> : Regina Mara Fisberg. Departamento de
+          Nutrição. Av. Doutor Arnaldo, 715. 01255-000 São Paulo, SP, Brasil. E-mail:
+          rfisberg@usp.br</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>Estudo financiado pela Secretaria Municipal da Saúde de São Paulo (Processo nº
+            027/2003) e pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq –
+            Processo nº 502948/ 2003-5).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>Os autores declaram não haver conflito de interesses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>4</issue>
+      <fpage>675</fpage>
+      <lpage>683</lpage>
+      <history>
+        <date date-type="received">
+          <day>15</day>
+          <month>3</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>1</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="pt">
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Avaliar a confiabilidade e a validade do Índice de Qualidade da Dieta Revisado de
+            acordo com as propriedades psicométricas.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>Estudo transversal em amostra probabilística do município de São Paulo, SP, com 2.375
+            indivíduos com idade maior ou igual a 12 anos, de ambos os sexos, incluídos no Inquérito
+            de Saúde, realizado em 2003. As informações sobre características da população foram
+            obtidas por meio de questionário. Dados do consumo alimentar foram obtidos pela
+            aplicação do Recordatório de 24 horas, utilizado para calcular o Índice de Qualidade da
+            Dieta Revisado (IQD-R).</p>
+        </sec>
+        <sec>
+          <title>Foram avaliados</title>
+          <p>(1) validade de conteúdo, comparando os componentes com as recomendações do Guia
+            Alimentar para a População Brasileira; (2) validade de constructo, por meio da análise
+            fatorial pelo método dos componentes principais e verificando se o índice consegue
+            mensurar a qualidade da dieta independente da energia ingerida; (3) validade
+            discriminante; e (4) a confiabilidade do IQD-R pela análise da consistência interna dos
+            itens utilizando o coeficiente alfa de Cronbach.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>As correlações entre os escores dos componentes e a energia consumida foram fracas (r
+            #&lt; 0,30). A análise de componentes principais indicou a presença de quatro fatores
+            com autovalores #&gt; 1 que representaram 67% da variância do índice. A validade
+            discriminante do IQD-R foi observada comparando os indivíduos por sexo e hábito de
+            fumar, identificando diferenças estatisticamente significativas entre as médias dos
+            componentes do IQD-R e o escore final. O valor do alfa de Cronbach (α = 0,7) indicou a
+            presença de consistência interna entre os componentes do IQD-R. O componente Gord_AA,
+            seguido dos componentes frutas totais e frutas integrais, apresentaram maior correlação
+            com a pontuação final do índice.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSÕES</title>
+          <p>O Índice de Qualidade da Dieta Revisado mostrou-se confiável e estruturalmente válido
+            quando utilizado para avaliar e monitorar a qualidade da dieta de brasileiros.</p>
+        </sec>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <label>RESUMEN</label>
+        <sec>
+          <title>OBJETIVO</title>
+          <p>Evaluar la confiabilidad y la validez del Índice de la Calidad de la Dieta
+            Revisado.</p>
+        </sec>
+        <sec>
+          <title>MÉTODOS</title>
+          <p>Estudio transversal en muestra probabilística del municipio de Sao Paulo, SP, con 2.375
+            individuos con edad mayor o igual a 12 años, de ambos sexos, incluidos en la Pesquisa de
+            Salud, realizado en 2003. Las informaciones sobre características de la población fueron
+            obtenidas por medio de cuestionario. Datos del consumo alimenticio fueron obtenidos por
+            la aplicación del Recordatorio de 24 horas, utilizado para calcular el Índice de Calidad
+            de la dieta Revisado (IQD-R).</p>
+        </sec>
+        <sec>
+          <title>Se evaluaron</title>
+          <p>validez del contenido, comparando los componentes con las recomendaciones de la Guía
+            Alimenticia para la Población Brasileña; validez del constructo, por medio del análisis
+            de componentes principales y de la capacidad discriminante; verificar si el índice logra
+            medir la calidad de la dieta independientemente de la energía ingerida; y verificar la
+            confiabilidad del IQD-R por el análisis de la consistencia interna de los ítems
+            utilizando el coeficiente alfa de Cronbach.</p>
+        </sec>
+        <sec>
+          <title>RESULTADOS</title>
+          <p>Las correlaciones entre los escores de los componentes y la energía consumida fueron
+            débiles (r#&lt;0,30). La capacidad discriminante del IQD-R fue observada comparando los
+            individuos por sexo y hábito de fumar, identificando diferencias estadísticamente
+            significativas entre los promedios de los componentes del IQD-R y el escore final. El
+            análisis de componentes principales indicó la presencia de cuatro factores con
+            autovalores #&gt; 1 que representaron 67% de la varianza del índice. El valor del alfa
+            de Cronbach (α = 0,7) indicó la presencia de consistencia interna entre los componentes
+            del IQD-R. El componente Gord_AA, seguido de las frutas totales e integrales,
+            presentaron mayor correlación con la puntuación final del índice.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONES</title>
+          <p>El Índice de Calidad de la Dieta Revisado mostró ser confiable y estructuralmente
+            válido al ser utilizado para evaluar y monitorear la calidad de la dieta de
+            brasileños.</p>
+        </sec>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <kwd>Dieta, classificação</kwd>
+        <kwd>Consumo de Alimentos</kwd>
+        <kwd>Avaliação Nutricional</kwd>
+        <kwd>Indicadores de Qualidade em Assistência à Saúde, utilização</kwd>
+        <kwd>Reprodutibilidade dos Testes</kwd>
+        <kwd>Estudos Transversais</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>Secretaria Municipal da Saúde de São Paulo</funding-source>
+          <award-id>027/2003</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Secretaria Municipal da Saúde de São Paulo</funding-source>
+          <award-id>502948/2003-5</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Conselho Nacional de Desenvolvimento Científico e
+            Tecnológico</funding-source>
+          <award-id>027/2003</award-id>
+        </award-group>
+        <award-group>
+          <funding-source>Conselho Nacional de Desenvolvimento Científico e
+            Tecnológico</funding-source>
+          <award-id>502948/2003-5</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="2"/>
+        <table-count count="8"/>
+        <ref-count count="22"/>
+        <page-count count="9"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUÇÃO</title>
+      <p>Os índices dietéticos permitem avaliar e monitorar a aderência da dieta de indivíduos e/ou
+        populações às recomendações nutricionais. <xref ref-type="bibr" rid="B14">
+          <sup>14</sup>
+        </xref> Sua utilização requer adaptações específicas para cada país para espelhar a
+        realidade local. <xref ref-type="bibr" rid="B11">
+          <sup>11</sup>
+        </xref> Fisberg et al <xref ref-type="bibr" rid="B8">
+          <sup>8</sup>
+        </xref> adaptaram e validaram o Healthy Eating Index (HEI) para a população brasileira em
+        2004, originando o Índice de Qualidade da Dieta (IQD).</p>
+      <p>Com a edição do Guia Alimentar para a População Brasileira, elaborado pelo Ministério da
+        Saúde em 2006, <xref ref-type="fn" rid="fn1">
+          <sup>a</sup>
+        </xref> constatou-se lacuna que ensejou a revisão do IQD. Previdelli et al <xref
+          ref-type="bibr" rid="B20">
+          <sup>20</sup>
+        </xref> (2011) atualizaram o índice, desenvolvendo o IQD Revisado (IQD-R), formado por 12
+        componentes com base em densidade energética (porção/1.000 kcal) ou por percentual calórico
+        de participação na dieta, de forma a refletir diferentes aspectos da qualidade da dieta.</p>
+      <p>O instrumento vem sendo utilizado para avaliar a qualidade da dieta de grupos
+        populacionais, <xref ref-type="fn" rid="fn2">
+          <sup>b</sup>
+        </xref> mas não há estudos sobre as propriedades psicométricas dessa versão. O objetivo
+        deste artigo foi avaliar a confiabilidade e a validade do IQD-R.</p>
+    </sec>
+    <sec sec-type="methods">
+      <title>MÉTODOS</title>
+      <p>Estudo transversal em amostra probabilística do município de São Paulo, SP, constituída por
+        2.375 indivíduos com idade ≥ 12 anos, de ambos os sexos, participantes do Inquérito de Saúde
+        (ISA-Capital 2003). Detalhes da amostra e coleta de dados desse estudo foram previamente
+        publicados. <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> As informações sobre características da população foram obtidas por questionário e o
+        consumo alimentar pelo Método Recordatório de 24 horas. As medidas caseiras foram
+        transformadas em unidades de medidas e o valor nutritivo foi obtido pelo programa Nutrition
+        Data System for Research (NDS-R, versão 2007). Foi calculado o Índice de Qualidade da Dieta
+        Revisado ( <xref ref-type="table" rid="t01">Tabela 1</xref> ).</p>
+      <p>
+        <table-wrap id="t01">
+          <label>Tabela 1</label>
+          <caption>
+            <title>. Distribuição da pontuação e das porções dos componentes do Índice de Qualidade
+              da Dieta Revisado (IQD-R). São Paulo, SP, 2012.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="16&#10;    %">
+              <col width="20"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="3"> Componentes</td>
+                <td colspan="5" align="center">Pontuação (pontos)</td>
+              </tr>
+              <tr>
+                <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td align="center">0</td>
+                <td align="center">5</td>
+                <td align="center">8</td>
+                <td align="center">10</td>
+                <td align="center">20</td>
+              </tr>
+              <tr>
+                <td colspan="6" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Frutas totais <sup>a</sup>
+                </td>
+                <td align="center">0</td>
+                <td align="center">1,0 porção/1.000 kcal</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Frutas integrais <sup>b</sup>
+                </td>
+                <td align="center">0</td>
+                <td align="center">0,5 porção/1.000 kcal</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Vegetais totais <sup>c</sup>
+                </td>
+                <td align="center">0</td>
+                <td align="center">1,0 porção/1.000 kcal</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Veveal <sup>d</sup>
+                </td>
+                <td align="center">0</td>
+                <td align="center">0,5 porção/1.000 kcal</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Cereais totais <sup>e</sup>
+                </td>
+                <td align="center">0</td>
+                <td align="center">2,0 porções/1.000 kcal</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Cereais integrais</td>
+                <td align="center">0</td>
+                <td align="center">1,0 porção/1.000 kcal</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Leite e derivados <sup>f</sup>
+                </td>
+                <td align="center">0</td>
+                <td> </td>
+                <td> </td>
+                <td align="center">1,5 porção/1.000 kcal</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Carnes, ovos e leguminosas</td>
+                <td align="center">0</td>
+                <td> </td>
+                <td> </td>
+                <td align="center">1,0 porção/1.000 kcal</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Óleos <sup>g</sup>
+                </td>
+                <td align="center">0</td>
+                <td> </td>
+                <td> </td>
+                <td align="center">0,5 porção/1.000 kcal</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Gordura saturada</td>
+                <td align="center">≥ 15</td>
+                <td> </td>
+                <td align="center">10</td>
+                <td align="center">≤ 7% do VET</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Sódio</td>
+                <td align="center">≥ 2,0</td>
+                <td> </td>
+                <td align="center">1,0</td>
+                <td align="center">≤ 0,75 g/1.000 kcal</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td>Gord_AA</td>
+                <td align="center">≥ 35</td>
+                <td> </td>
+                <td> </td>
+                <td> </td>
+                <td align="center">≤ 10% do VET</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>Gord_AA: calorias provenientes da gordura sólida, álcool e açúcar de adição; VET:
+              valor energético total</p>
+            <p>
+              <sup>a</sup> Inclui frutas e sucos de frutas naturais</p>
+            <p>
+              <sup>b</sup> Exclui frutas de sucos</p>
+            <p>
+              <sup>c</sup> Inclui leguminosas apenas depois que a pontuação máxima de carnes, ovos e
+              leguminosas for atingida</p>
+            <p>
+              <sup>d</sup> Veveal = Vegetais verde-escuros e alaranjados e leguminosas (apenas
+              depois que a pontuação máxima de carnes, ovos e leguminosas for atingida)</p>
+            <p>
+              <sup>e</sup> Cereais totais = representa o grupo dos cereais, raízes e tubérculos</p>
+            <p>
+              <sup>f</sup> Inclui leite e derivados e bebidas à base de soja</p>
+            <p>
+              <sup>g</sup> Inclui as gorduras mono e polinsaturas, oleaginosas e gordura de
+              peixe</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>O desempenho do IQD-R foi mensurado de acordo com estratégias para avaliar a validade de
+        conteúdo, de constructo, discriminante e a confiabilidade, como proposto por Guenther et al
+        (2008). <xref ref-type="bibr" rid="B12">
+          <sup>12</sup>
+        </xref>
+      </p>
+      <p>
+        <italic>Primeira etapa: Validade de conteúdo</italic>
+      </p>
+      <p>Os componentes do IQD-R foram comparados com as diretrizes alimentares oficiais do Guia
+        Alimentar para a População Brasileira <xref ref-type="fn" rid="fn1">
+          <sup>a</sup>
+        </xref> para avaliar se os mesmos capturam os aspectos-chave da alimentação saudável
+        recomendados à população.</p>
+      <p>
+        <italic>Segunda etapa: Validade de constructo</italic>
+      </p>
+      <p>A ingestão de nutrientes correlaciona-se positivamente com a quantidade de energia
+        consumida. Dietas mais calóricas poderiam ter sua pontuação superestimada, principalmente se
+        medidas em termos absolutos. <xref ref-type="bibr" rid="B12">
+          <sup>12</sup>
+        </xref> Para analisar se o IQD-R avalia a qualidade da dieta independente da quantidade
+        energética ingerida, utilizou-se a análise de correlação de Pearson entre a pontuação final
+        dos componentes do índice e da energia.</p>
+      <p>Utilizou-se a análise fatorial pelo método de Componentes Principais (ACP), baseada na
+        correlação entre os 12 componentes para verificar se a estrutura do IQD-R tem mais de uma
+        dimensão. A ACP é uma técnica estatística de análise múltipla que transforma linearmente um
+        conjunto original de variáveis em um conjunto substancialmente menor de variáveis não
+        correlacionadas que contém a maior parte da informação do conjunto original. Todos os itens
+        foram considerados na análise. A matriz foi obtida por rotação varimax. O critério de Kaiser
+        (1958), <xref ref-type="bibr" rid="B13">
+          <sup>13</sup>
+        </xref> que propõe considerar apenas os autovalores superiores a um, foi utilizado para
+        escolher o número de fatores a serem mantidos. Um método auxiliar utilizado foi o
+          <italic>Scree test</italic> ; <xref ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref> para tanto, foi analisada graficamente a dispersão do número de fatores até que a
+        curva da variância individual de cada fator se tornasse horizontal ou sofresse queda
+        abrupta.</p>
+      <p>
+        <italic>Terceira etapa: Validade discriminante</italic>
+      </p>
+      <p>Verificou-se a capacidade do índice em distinguir a qualidade da dieta em diferentes grupos
+        populacionais. Comparou-se a pontuação média dos componentes do IQD-R de indivíduos com
+        idade ≥ 20 anos por sexo e hábito de fumar por meio do teste de Wald (análise de variância
+        ponderada).</p>
+      <p>
+        <italic>Quarta etapa: Confiabilidade</italic>
+      </p>
+      <p>Calculou-se o alfa de Cronbach (α) que se baseia na média das correlações interitens de 0 a
+        1 para avaliar a consistência interna entre os componentes do IQD-R. <xref ref-type="bibr"
+          rid="B2">
+          <sup>2</sup>
+        </xref> Quanto mais elevado é o alfa, maior a confiabilidade da escala; neste caso, a soma
+        dos pontos dos itens considerados. Valor ≥ 0,7 reflete fidedignidade aceitável, <xref
+          ref-type="bibr" rid="B19">
+          <sup>19</sup>
+        </xref> embora sejam aceitos na literatura correlações dos interitens &gt; 0,6. <xref
+          ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B21">
+          <sup>21</sup>
+        </xref>
+      </p>
+      <p>Verificou-se a influência dos componentes sobre o escore total, examinando as correlações
+        de cada componente com a pontuação final do IQD-R.</p>
+      <p>Com exceção da ACP, os demais resultados foram obtidos com as correções necessárias,
+        conforme desenho amostral por meio do módulo survey do software estatístico Stata, versão
+        10.0 (Stata Corporation – Houston, EUA), adotando-se o valor crítico de p &lt; 0,05.</p>
+      <p>O projeto de pesquisa principal foi aprovado pelo Comitê de Ética da Faculdade de Saúde
+        Pública da Universidade de São Paulo (Processo nº 13/2001).</p>
+    </sec>
+    <sec sec-type="results">
+      <title>RESULTADOS</title>
+      <p>Por meio da análise de conteúdo verificou-se que os componentes do IQD-R contemplam seis
+        das sete diretrizes do Guia Alimentar para a População Brasileira. <xref ref-type="fn"
+          rid="fn1">
+          <sup>a</sup>
+        </xref> O Índice não avalia a recomendação para a ingestão de dois litros de água por dia e
+        duas diretrizes especiais que estimulam a prática de atividade física e enfatizam a
+        importância da segurança na qualidade sanitária dos alimentos ( <xref ref-type="table"
+          rid="t02">Tabela 2</xref> ).</p>
+      <p>
+        <table-wrap id="t02">
+          <label>Tabela 2</label>
+          <caption>
+            <title>Mapeamento dos componentes do Índice de Qualidade da Dieta Revisado (IQD-R) de
+              acordo com as recomendações do Guia Alimentar para a População Brasileira. São Paulo,
+              SP, 2012.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="30%">
+              <col width="40%"/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>Recomendação do Guia</td>
+                <td align="center">Componente do IQD-R</td>
+                <td align="center">Observação sobre o IQD-R</td>
+              </tr>
+              <tr>
+                <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td> </td>
+                <td align="center">Diretrizes 1 e 6</td>
+                <td> </td>
+              </tr>
+              <tr>
+                <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td valign="top">Limitar a ingestão de gorduras saturadas, substituindo por
+                  insaturadas e eliminando as trans</td>
+                <td rowspan="2" align="center" valign="top">Gordura saturada</td>
+                <td valign="top">O componente “gordura saturada” avalia a ingestão do nutriente,
+                  seguindo recomendações do Guia Alimentar e das diretrizes da Sociedade Brasileira
+                  de Cardiologia.</td>
+              </tr>
+              <tr>
+                <td rowspan="2" valign="top">Gordura saturada não deve ultrapassar 10% das
+                  necessidades diárias, assim como de açúcares simples</td>
+                <td rowspan="3" valign="top">O componente “Óleo”, representa a ingestão do óleo
+                  vegetal, gordura de peixe e das oleaginosas”, alimentos incentivados para consumo.
+                  No Guia Alimentar as oleaginosas fazem parte do grupo das leguminosas, porém são
+                  citadas como boas fontes de gordura insaturada.</td>
+              </tr>
+              <tr>
+                <td rowspan="2" align="center" valign="top">Óleo</td>
+              </tr>
+              <tr>
+                <td valign="top">Preferir óleos vegetais, azeite e margarinas livres de ácidos
+                  graxos trans</td>
+              </tr>
+              <tr>
+                <td valign="top">Diminuir o consumo de sal e de alimentos industrializados</td>
+                <td align="center" valign="top">Sal</td>
+                <td valign="top">O sal é refletido no componente “Sódio”.</td>
+              </tr>
+              <tr>
+                <td valign="top"> </td>
+                <td align="center" valign="top">Gord_AA</td>
+                <td valign="top">As gorduras trans são refletidas nas calorias das gorduras sólidas,
+                  que pertencem ao grupo “Gord_AA” juntamente com os açúcares de adição e o álcool.
+                  O colesterol não está incluído no Índice.</td>
+              </tr>
+              <tr>
+                <td valign="top">Manutenção do balanço energético e do peso saudável</td>
+                <td valign="top"> </td>
+                <td valign="top">O IQD-R não avalia a ingestão de energia e a prática de atividade
+                  física.</td>
+              </tr>
+              <tr>
+                <td colspan="3" valign="top"
+                  style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td valign="top"> </td>
+                <td align="center" valign="top">Diretriz 2</td>
+                <td valign="top"> </td>
+              </tr>
+              <tr>
+                <td colspan="3" valign="top"
+                  style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td valign="top">Consumir alimentos ricos em carboidratos complexos, de preferência
+                  integrais</td>
+                <td align="center" valign="top">Cereais totais Cereais integrais</td>
+                <td valign="top">Como não há uma recomendação para o consumo de cereais integrais, o
+                  IQD-R estabelece a ingestão de pelo menos 1 porção/1.000 kcal.</td>
+              </tr>
+              <tr>
+                <td colspan="3" valign="top"
+                  style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td valign="top"> </td>
+                <td align="center" valign="top">Diretriz 3</td>
+                <td valign="top"> </td>
+              </tr>
+              <tr>
+                <td colspan="3" valign="top"
+                  style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td rowspan="2" valign="top">Variar as frutas, verduras e legumes, aumentando o
+                  fornecimento de fibras e de vitaminas, como os carotenóides, presentes nos
+                  vegetais verde-escuros e alaranjados</td>
+                <td align="center" valign="top">Frutas totais Frutas integrais</td>
+                <td valign="top">A variedade é avaliada no IQD-R. As frutas inteiras e subgrupos dos
+                  vegetais são enfatizados.</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">Vegetais totais e leguminosas</td>
+                <td valign="top"> </td>
+              </tr>
+              <tr>
+                <td valign="top"> </td>
+                <td align="center" valign="top">Vegetais verde-escuros e alaranjados e
+                  leguminosas</td>
+                <td valign="top"> </td>
+              </tr>
+              <tr>
+                <td colspan="3" valign="top"
+                  style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td valign="top"> </td>
+                <td align="center" valign="top">Diretriz 4</td>
+                <td valign="top"> </td>
+              </tr>
+              <tr>
+                <td colspan="3" valign="top"
+                  style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td rowspan="3" valign="top">Combinar o consumo diário de leguminosas com grãos de
+                  cereais, formando fontes completas de proteínas</td>
+                <td align="center" valign="top">Carnes, ovos e leguminosas</td>
+                <td rowspan="3" valign="top">Por ser um hábito dos brasileiros, as leguminosas
+                  contribuem, inicialmente, para o grupo das carnes, com o fornecimento das
+                  proteínas e, posteriormente, para o grupo dos vegetais pela contribuição de
+                  minerais e fibras.</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">Vegetais totais e leguminosas</td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">Vegetais verde-escuros e alaranjados e
+                  leguminosas</td>
+              </tr>
+              <tr>
+                <td colspan="3" valign="top"
+                  style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td valign="top"> </td>
+                <td align="center" valign="top">Diretriz 5</td>
+                <td valign="top"> </td>
+              </tr>
+              <tr>
+                <td colspan="3" valign="top"
+                  style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td valign="top">Escolher leite e derivados com menores quantidades de gorduras</td>
+                <td align="center" valign="top">Leite e derivados</td>
+                <td rowspan="2" valign="top">A escolha por leite integral e carnes gordas irá
+                  diminuir a pontuação do componente “gordura saturada” e “Gord_AA”. O mesmo
+                  acontecerá na escolha por embutidos, também influenciando na diminuição da
+                  pontuação do componente “sódio”.</td>
+              </tr>
+              <tr>
+                <td valign="top">Prefira as carnes mais magras e evite a ingestão de embutidos</td>
+                <td align="center" valign="top">Carnes, ovos e leguminosas</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>Gord_AA: Calorias provenientes da gordura sólida, álcool e açúcar de adição</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>Foram observadas fracas correlações entre os escores dos componentes do IQD-R e a energia
+        consumida; oito componentes apresentaram essa correlação inversa ( <xref ref-type="table"
+          rid="t03">Tabela 3</xref> ). A baixa correlação entre as pontuações e a energia sugere
+        independência entre elas.</p>
+      <p>
+        <table-wrap id="t03">
+          <label>Tabela 3</label>
+          <caption>
+            <title>Correlação dos escores dos componentes do Índice de Qualidade da Dieta Revisado
+              (IQD-R) com a pontuação final e a energia consumida. São Paulo, SP, 2003.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="17%">
+              <col width="30%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td>Componente</td>
+                <td align="center">IQD-R final (r)</td>
+                <td align="center">p</td>
+                <td align="center">Energia (kcal) (r)</td>
+                <td align="center">p</td>
+              </tr>
+              <tr>
+                <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Frutas totais</td>
+                <td align="center">0,50</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">-0,04</td>
+                <td align="center">0,038</td>
+              </tr>
+              <tr>
+                <td>Frutas integrais</td>
+                <td align="center">0,48</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">-0,04</td>
+                <td align="center">0,037</td>
+              </tr>
+              <tr>
+                <td>Vegetais totais</td>
+                <td align="center">0,34</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">-0,06</td>
+                <td align="center">0,006</td>
+              </tr>
+              <tr>
+                <td>Veveal</td>
+                <td align="center">0,36</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">-0,08</td>
+                <td align="center">&lt; 0,001</td>
+              </tr>
+              <tr>
+                <td>Cereais totais</td>
+                <td align="center">0,14</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">-0,08</td>
+                <td align="center">&lt; 0,001</td>
+              </tr>
+              <tr>
+                <td>Cereais integrais</td>
+                <td align="center">0,09</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">0,02</td>
+                <td align="center">0,290</td>
+              </tr>
+              <tr>
+                <td>Leite e derivados</td>
+                <td align="center">-0,02</td>
+                <td align="center">0,304</td>
+                <td align="center">-0,02</td>
+                <td align="center">0,236</td>
+              </tr>
+              <tr>
+                <td>Carnes, ovos e leguminosas</td>
+                <td align="center">0,28</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">0,06</td>
+                <td align="center">0,004</td>
+              </tr>
+              <tr>
+                <td>Óleos</td>
+                <td align="center">0,46</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">-0,14</td>
+                <td align="center">&lt; 0,001</td>
+              </tr>
+              <tr>
+                <td>Sódio</td>
+                <td align="center">-0,18</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">0,19</td>
+                <td align="center">&lt; 0,001</td>
+              </tr>
+              <tr>
+                <td>Gord_AA</td>
+                <td align="center">0,75</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">-0,30</td>
+                <td align="center">&lt; 0,001</td>
+              </tr>
+              <tr>
+                <td>Gordura saturada</td>
+                <td align="center">0,47</td>
+                <td align="center">&lt; 0,001</td>
+                <td align="center">-0,19</td>
+                <td align="center">&lt; 0,001</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>Veveal: vegetais verdes-escuros e alaranjados e leguminosas; Óleos: óleos vegetais,
+              oleaginosas e gordura de peixe; Gord_AA: calorias totais de gordura sólida, álcool e
+              açúcar de adição</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>O <italic>Scree plot</italic> da ACP ( <xref ref-type="fig" rid="f01">Figura</xref> )
+        mostrou a presença de quatro fatores com autovalores &gt; 1, que representaram 67% da
+        variância total do índice.</p>
+      <p>
+        <fig id="f01">
+          <label>Figura</label>
+          <caption>
+            <title><italic>Scree plot</italic> da análise de componentes principais do Indice de
+              Qualidade da Dieta Revisado. São Paulo, SP, 2003.</title>
+          </caption>
+          <graphic xlink:href="0034-8910-rsp-47-04-0675-gf01"/>
+        </fig>
+      </p>
+      <p>A validade discriminante do índice foi observada comparando os grupos fumantes e não
+        fumantes. A média dos escores de seis componentes do IQD-R foi menor para o grupo fumante:
+        frutas totais, frutas integrais, cereais totais, leite e derivados, óleos e sódio. A
+        pontuação média total do IQD-R foi maior para a população não fumante quando comparada com a
+        fumante (56,8 e 55,4; respectivamente, p &lt; 0,05) ( <xref ref-type="table" rid="t04"
+          >Tabela 4</xref> ). Essa discriminação foi similar à observada quando comparada à média do
+        escore total do índice entre homens e mulheres (55,3 e 56,9; respectivamente, p &lt; 0,05).
+        Quatro componentes também apresentaram média menor para os homens: frutas totais, frutas
+        integrais, cereais totais e leite e derivados (valores não apresentados em tabela).</p>
+      <p>
+        <table-wrap id="t04">
+          <label>Tabela 4</label>
+          <caption>
+            <title>Média dos componentes e da pontuação final do Índice de Qualidade da Dieta
+              Revisado (IQD-R) de indivíduos com idade maior ou igual a 20 anos de acordo com o
+              hábito de fumar. São Paulo, SP, 2003.</title>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <colgroup width="14%">
+              <col width="30%"/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+              <col/>
+            </colgroup>
+            <tbody>
+              <tr>
+                <td rowspan="5"> IQD-R e componentes </td>
+                <td colspan="2" align="center">Fumantes</td>
+                <td colspan="2" align="center">Não fumantes</td>
+                <td rowspan="5" align="center"> p </td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td colspan="2" align="center">n = 626</td>
+                <td colspan="2" align="center">n = 904</td>
+              </tr>
+              <tr>
+                <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td align="center">Média</td>
+                <td align="center">Erro Padrão</td>
+                <td align="center">Média</td>
+                <td align="center">Erro Padrão</td>
+              </tr>
+              <tr>
+                <td colspan="6" style="border-bottom: thin solid; border-color: #000000"/>
+              </tr>
+              <tr>
+                <td>Frutas totais</td>
+                <td align="center">1,4</td>
+                <td align="center">0,1</td>
+                <td align="center">1,8</td>
+                <td align="center">0,1</td>
+                <td align="center">0,003</td>
+              </tr>
+              <tr>
+                <td>Frutas integrais</td>
+                <td align="center">1,2</td>
+                <td align="center">0,1</td>
+                <td align="center">1,5</td>
+                <td align="center">0,1</td>
+                <td align="center">0,036</td>
+              </tr>
+              <tr>
+                <td>Vegetais totais</td>
+                <td align="center">4,3</td>
+                <td align="center">0,1</td>
+                <td align="center">4,3</td>
+                <td align="center">0,1</td>
+                <td align="center">0,556</td>
+              </tr>
+              <tr>
+                <td>Veveal</td>
+                <td align="center">3,9</td>
+                <td align="center">0,1</td>
+                <td align="center">3,7</td>
+                <td align="center">0,1</td>
+                <td align="center">0,394</td>
+              </tr>
+              <tr>
+                <td>Cereais totais</td>
+                <td align="center">4,5</td>
+                <td align="center">0,1</td>
+                <td align="center">4,6</td>
+                <td align="center">0,0</td>
+                <td align="center">0,050</td>
+              </tr>
+              <tr>
+                <td>Cereais integrais</td>
+                <td align="center">0,4</td>
+                <td align="center">0,1</td>
+                <td align="center">0,4</td>
+                <td align="center">0,1</td>
+                <td align="center">0,858</td>
+              </tr>
+              <tr>
+                <td>Leite e derivados</td>
+                <td align="center">3,6</td>
+                <td align="center">0,2</td>
+                <td align="center">4,2</td>
+                <td align="center">0,2</td>
+                <td align="center">0,003</td>
+              </tr>
+              <tr>
+                <td>Carnes, ovos e leguminosas</td>
+                <td align="center">9,0</td>
+                <td align="center">0,1</td>
+                <td align="center">8,5</td>
+                <td align="center">0,1</td>
+                <td align="center">0,009</td>
+              </tr>
+              <tr>
+                <td>Óleos</td>
+                <td align="center">9,7</td>
+                <td align="center">0,1</td>
+                <td align="center">9,9</td>
+                <td align="center">0,0</td>
+                <td align="center">0,042</td>
+              </tr>
+              <tr>
+                <td>Sódio</td>
+                <td align="center">1,8</td>
+                <td align="center">0,1</td>
+                <td align="center">2,2</td>
+                <td align="center">0,1</td>
+                <td align="center">0,030</td>
+              </tr>
+              <tr>
+                <td>Gord_AA</td>
+                <td align="center">9,8</td>
+                <td align="center">0,4</td>
+                <td align="center">9,9</td>
+                <td align="center">0,3</td>
+                <td align="center">0,891</td>
+              </tr>
+              <tr>
+                <td>Gordura saturada</td>
+                <td align="center">5,</td>
+                <td align="center">0,2</td>
+                <td align="center">5,9</td>
+                <td align="center">0,2</td>
+                <td align="center">0,969</td>
+              </tr>
+              <tr>
+                <td>IQD-R total</td>
+                <td align="center">55,4</td>
+                <td align="center">0,6</td>
+                <td align="center">56,8</td>
+                <td align="center">0,5</td>
+                <td align="center">0,050</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p>Veveal: vegetais verdes-escuros e alaranjados e leguminosas; Óleos: óleos vegetais,
+              oleaginosas e gordura de peixe; Gord_AA: calorias totais de gordura sólida, álcool e
+              açúcar de adição</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </p>
+      <p>Quanto à confiabilidade, o valor do alfa de Cronbach (α = 0,7) indicou a presença de
+        consistência interna entre os componentes do IQD-R. As correlações entre os escores dos
+        componentes do IQD-R e a pontuação final foram fracas. O componente Gord_AA (composto por
+        calorias totais provenientes de gorduras sólidas, álcool e açúcar de adição) foi o mais
+        fortemente correlacionado (r = 0,75), seguido de frutas totais e frutas integrais (r = 0,50
+        e r = 0,48, respectivamente) ( <xref ref-type="table" rid="t03">Tabela 3</xref> ).</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSÃO</title>
+      <p>O IQD-R apresentou-se confiável e estruturalmente válido quando utilizado para avaliar a
+        qualidade da dieta de brasileiros. A validade de conteúdo foi sustentada pelo índice
+        contemplar as principais recomendações do Ministério da Saúde.</p>
+      <p>Indivíduos que apresentaram dieta com alta densidade energética tenderam a consumir maior
+        quantidade de alimentos com baixo valor nutritivo e provavelmente receberam pontuação mais
+        baixa para o IQD-R, segundo a correlação do escore do componente Gord_AA com a energia
+        consumida. Assim como na validação do HEI-2005, <xref ref-type="fn" rid="fn3">
+          <sup>c</sup>
+        </xref> os escores de todos os componentes apresentaram correlação fraca com a energia,
+        sugerindo que ambos os índices avaliam a qualidade da dieta independentemente da quantidade
+        de energia ingerida. A vantagem de utilizar índices como o IQD-R é que o seu cálculo baseado
+        em densidade energética (porção/1.000 kcal) ou por percentual calórico de participação na
+        dieta atenua o efeito do total de energia ingerido sobre o índice.</p>
+      <p>O IQD-R não avalia diretamente a quantidade de energia consumida por ser um indicativo
+        qualitativo. Porém, a variável pode ser trabalhada como quantitativa contínua ou em
+        categorias de tercis, o que permite associar a qualidade da dieta a desfechos
+        epidemiológicos relacionados com o consumo energético, como quando utilizado o Índice de
+        Massa Corporal.</p>
+      <p>Os pontos que contribuem para o escore total do índice podem ser acumulados de formas
+        diferentes. É provável que exista mais do que um padrão dietético que considere a dieta
+        saudável ou menos saudável. Por essa razão, os índices podem ser associados a outras
+        análises, como a de Cluster, definindo padrões dietéticos e comparando com a dieta de
+        indivíduos como no estudo conduzido por Ben-Shalom et al (2012). <xref ref-type="fn"
+          rid="fn4">
+          <sup>d</sup>
+        </xref>
+      </p>
+      <p>O índice mostrou a habilidade em distinguir grupos com diferenças conhecidas na qualidade
+        da dieta, independentemente da energia ingerida. Os indivíduos fumantes apresentaram pior
+        qualidade da dieta, como descrito na literatura <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B6">
+          <sup>6</sup>
+        </xref> e nas avaliações do HEI-2005 no estudo de Guenther et al (2008). <xref
+          ref-type="bibr" rid="B12">
+          <sup>12</sup>
+        </xref> As mulheres apresentaram melhor qualidade da dieta, como apresentado em outros
+        estudos, inclusive no estudo de Ervin <xref ref-type="bibr" rid="B7">
+          <sup>7</sup>
+        </xref> (2011) que avalia os dados do National Health and Nutrition Examination Survey
+        (NHANES) de 2003-2004. Mulheres tendem a aderir mais às recomendações do Guia Alimentar
+        Americano, principalmente para o grupo das frutas e verduras, com escore total ligeiramente
+        maior para o HEI-2005 (60,3 comparado com 54,8 para os homens).</p>
+      <p>Comparando os resultados obtidos com a ACP do IQD-R e do HEI-2005, observou-se a presença
+        de quatro fatores com autovalores &gt; 1 contra cinco no índice americano. A mesma
+        metodologia foi utilizada para extrair os fatores nos dois estudos, porém a quantidade de
+        variância total explicada de 67% não pode ser comparada ao do HEI-2005, pois Guenther et al
+        (2007) <xref ref-type="fn" rid="fn3">
+          <sup>c</sup>
+        </xref> não descrevem esse valor.</p>
+      <p>Todavia, a ACP indica que nenhuma combinação linear é responsável por uma proporção
+        substancial na variação dos padrões alimentares. O próprio Guia Alimentar <xref
+          ref-type="fn" rid="fn1">
+          <sup>a</sup>
+        </xref> enfatiza a importância na variedade dos alimentos consumidos, direcionando as
+        orientações com base nos grupos de alimentos e padrões dietéticos, facilitando a compreensão
+        do público-alvo.</p>
+      <p>Indivíduos consomem nutrientes com base em suas escolhas alimentares, que são influenciadas
+        por fatores culturais, sociais e demográficos. O indivíduo tende a não cumprir todos os
+        critérios padronizados. Uma dieta pode satisfazer o padrão para cereais totais e leite e
+        derivados, mas não atender o padrão para as frutas. Do ponto de vista epidemiológico, a
+        dieta representa um complexo conjunto de exposições altamente correlacionadas. A relação
+        entre um grupo de alimentos e uma doença pode ser erroneamente atribuída se estudado apenas
+        um único componente e/ou nutriente. <xref ref-type="bibr" rid="B10">
+          <sup>10</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B17">
+          <sup>17</sup>
+        </xref>
+      </p>
+      <p>A confiabilidade satisfatória ao IQD-R foi sugerida pelo alfa de Cronbach de 0,7. Nos
+        estudos com índices desenvolvidos em outros países, o alfa variou de 0,28 a 0,52. <xref
+          ref-type="bibr" rid="B12">
+          <sup>12</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B18">
+          <sup>18</sup>
+        </xref> O alfa encontrado na validação do HEI-2005 foi de 0,43. Conforme Nunnally <xref
+          ref-type="bibr" rid="B19">
+          <sup>19</sup>
+        </xref> (1978), valores ≥ 0,7 são considerados indicativos de consistência interna;
+        portanto, o IQD-R apresenta maior confiabilidade na população brasileira do que o HEI-2005
+        na população americana. A eliminação de qualquer um dos componentes do IQD-R não melhorou a
+        consistência interna, indicando a importância dos 12 componentes na composição do índice. As
+        correlações entre os componentes e a pontuação final podem indicar quanto cada componente
+        contribuiu para a variação do escore total. O componente Gord_AA, seguido dos componentes
+        frutas totais e frutas integrais, apresentaram maior correlação com a pontuação final do
+        índice, i.e., pessoas com alta pontuação no IQD-R são suscetíveis a apresentar baixo consumo
+        de gorduras sólidas, açúcares de adição e álcool, e adequado consumo de frutas.</p>
+      <p>Como limitação do estudo, pode-se considerar a não comparação do IQD-R com um instrumento
+        padrão-ouro que avalie a qualidade da dieta. Para a avaliação do HEI-2005, os autores
+        compararam o índice com cardápios provenientes de recomendações americanas, desenvolvidos
+        pelo <italic>US Department of Agriculture,</italic>
+        <xref ref-type="fn" rid="fn5">
+          <sup>e</sup>
+        </xref>
+        <italic>National Heart Lung and Blood Institute,</italic>
+        <xref ref-type="fn" rid="fn6">
+          <sup>f</sup>
+        </xref>
+        <italic>Harvard Medical School’s Healthy Eating Pyramid</italic>
+        <xref ref-type="bibr" rid="B22">
+          <sup>22</sup>
+        </xref> e <italic>American Heart Association´s No-Fad Diet</italic> . <xref ref-type="fn"
+          rid="fn7">
+          <sup>g</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="fn" rid="fn8">
+          <sup>h</sup>
+        </xref> Como o Brasil não disponibiliza recomendações baseadas em cardápios, não foi
+        possível a utilização desse método. Porém, critérios como marcadores bioquímicos podem
+        servir como padrão-ouro para alguns componentes baseados em nutrientes.</p>
+      <p>A comparação com outros índices de qualidade da dieta pode servir como avaliação do
+        instrumento, assim como a capacidade do índice em detectar alterações na população ao longo
+        do tempo, analisando os valores médios do escore total do IQD-R e a pontuação dos
+        componentes em dois momentos distintos. Outra avaliação importante é a capacidade do Índice
+        em predizer morte e doença. Essa validade de critério preditiva deve utilizar o IQD-R
+        associado a estudos longitudinais que contenham dados de saúde ou mortalidade. Pesquisas
+        similares já foram realizadas com o HEI-2005. <xref ref-type="bibr" rid="B9">
+          <sup>9</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B15">
+          <sup>15</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B16">
+          <sup>16</sup>
+        </xref>
+      </p>
+      <p>O IQD-R apresenta boa confiabilidade e mostrou-se válido para ser utilizado como um
+        instrumento para avaliar e monitorar a qualidade da dieta dos brasileiros. Pode auxiliar na
+        geração de dados que apoiem o planejamento de políticas públicas e direcionamento de futuras
+        diretrizes. Possibilidades de pesquisas futuras incluem testes adicionais como o de validade
+        preditiva e até adaptações do índice para subpopulações específicas.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERÊNCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Brown JD. The Cronbach Alpha Reliability Estimate. <italic>Shiken JALT
+            Test Eval Sig Newsl.</italic> 2002;6 (1):16-8.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Brown</surname>
+              <given-names>JD</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">The Cronbach Alpha Reliability Estimate</article-title>
+          <source>Shiken JALT Test Eval Sig Newsl</source>
+          <year>2002</year>
+          <volume>6</volume>
+          <issue>1</issue>
+          <fpage>16</fpage>
+          <lpage>18</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Carmines EG, Zeller RA. Reliability and validity assessment. Thousand
+          Oaks: Sage Publications; 1979. (Quantitative Applications in the Social Sciences,
+          17).</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Carmines</surname>
+              <given-names>EG</given-names>
+            </name>
+            <name>
+              <surname>Zeller</surname>
+              <given-names>RA</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Reliability and validity assessment</source>
+          <publisher-loc>Thousand Oaks</publisher-loc>
+          <publisher-name>Sage Publications</publisher-name>
+          <year>1979</year>
+          <series>Quantitative Applications in the Social Sciences</series>
+          <volume>17</volume>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Castro MA, Barros RR, Bueno MB, César CLG, Fisberg RM. Trans fatty acid
+          intake among the population of the city of São Paulo, Southeasthern Brazil. <italic>Rev
+            Saude Publica</italic> . 2009;43(6):991-7.
+          DOI:10.1590/S0034-89102009005000084</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Castro</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Barros</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Bueno</surname>
+              <given-names>MB</given-names>
+            </name>
+            <name>
+              <surname>César</surname>
+              <given-names>CLG</given-names>
+            </name>
+            <name>
+              <surname>Fisberg</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Trans fatty acid intake among the population of the city of
+            São Paulo, Southeasthern Brazil</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2009</year>
+          <volume>43</volume>
+          <issue>6</issue>
+          <fpage>991</fpage>
+          <lpage>997</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102009005000084</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Cattell RB. The scree test for the number of factors. <italic>Multivariate
+            Behav Res</italic> . 1966;1(2):245-76. DOI:10.1207/s15327906mbr0102_10</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Cattell</surname>
+              <given-names>RB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">The scree test for the number of factors</article-title>
+          <source>Multivariate Behav Res</source>
+          <year>1966</year>
+          <volume>1</volume>
+          <issue>2</issue>
+          <fpage>245</fpage>
+          <lpage>276</lpage>
+          <pub-id pub-id-type="doi">10.1207/s15327906mbr0102_10</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Dallongeville J, Marécaux N, Fruchart JC, Amouyel P. Cigarette smoking is
+          associated with unhealthy patterns of nutrient intake: a meta-analysis. <italic>J
+            Nutr</italic> . 1998;128(9):1450-7.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Dallongeville</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Marécaux</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Fruchart</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Amouyel</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Cigarette smoking is associated with unhealthy patterns of
+            nutrient intake: a meta-analysis</article-title>
+          <source>J Nutr</source>
+          <year>1998</year>
+          <volume>128</volume>
+          <issue>9</issue>
+          <fpage>1450</fpage>
+          <lpage>1457</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <mixed-citation>. Ervin RB. Healthy Eating Index scores among adults, 60 years of age and
+          over, by sociodemographic and health characteristics: United States, 1999-2002.
+            <italic>Adv Data</italic> . 2008;(395):1-16.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Ervin</surname>
+              <given-names>RB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Healthy Eating Index scores among adults, 60 years of age and
+            over, by sociodemographic and health characteristics: United States,
+            1999-2002</article-title>
+          <source>Adv Data</source>
+          <year>2008</year>
+          <issue>395</issue>
+          <fpage>1</fpage>
+          <lpage>16</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <mixed-citation>. Ervin RB. Healthy Eating Index – 2005 total and components scores for
+          adults aged 20 and over: National Health and Nutrition Examination Survey, 2003-2004.
+            <italic>Natl Health Stat Report</italic> . 2011;(44): 1-9.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Ervin</surname>
+              <given-names>RB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Healthy Eating Index – 2005 total and components scores for
+            adults aged 20 and over: National Health and Nutrition Examination Survey,
+            2003-2004</article-title>
+          <source>Natl Health Stat Report</source>
+          <year>2011</year>
+          <issue>44</issue>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <mixed-citation>. Fisberg RM, Slater B, Barros RR, Lima FD, Cesar CLG, Carandina L, et al.
+          Índice de Qualidade da Dieta: avaliação da adaptação e aplicabilidade <italic>. Rev
+            Nutr</italic> . 2004;17(3):301-18. DOI:10.1590/S1415-52732004000300003</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Fisberg</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Slater</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Barros</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Lima</surname>
+              <given-names>FD</given-names>
+            </name>
+            <name>
+              <surname>Cesar</surname>
+              <given-names>CLG</given-names>
+            </name>
+            <name>
+              <surname>Carandina</surname>
+              <given-names>L</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="pt">Índice de Qualidade da Dieta: avaliação da adaptação e
+            aplicabilidade</article-title>
+          <source>Rev Nutr</source>
+          <year>2004</year>
+          <volume>17</volume>
+          <issue>3</issue>
+          <fpage>301</fpage>
+          <lpage>318</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1415-52732004000300003</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <mixed-citation>. Ford ES, Mokdad AH, Liu S. Healthy Eating Index and C-reactive protein
+          concentration: findings from the National Health and Nutrition Examination Survey III,
+          1988-1994. <italic>Eur J Clin Nutr</italic> . 2005;59(2):278 -83.
+          DOI:10.1038/sj.ejcn.1602070</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Ford</surname>
+              <given-names>ES</given-names>
+            </name>
+            <name>
+              <surname>Mokdad</surname>
+              <given-names>AH</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Healthy Eating Index and C-reactive protein concentration:
+            findings from the National Health and Nutrition Examination Survey III,
+            1988-1994</article-title>
+          <source>Eur J Clin Nutr</source>
+          <year>2005</year>
+          <volume>59</volume>
+          <issue>2</issue>
+          <fpage>278</fpage>
+          <lpage>283</lpage>
+          <pub-id pub-id-type="doi">10.1038/sj.ejcn.1602070</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <mixed-citation>. Gordon T, Fisher M, Rifkind BM. Some difficulties inherent in the
+          interpretation of dietary data from free-living populations. <italic>Am J Clin
+            Nutr</italic> . 1984;39(1):152-6.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Fisher</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Rifkind</surname>
+              <given-names>BM</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Some difficulties inherent in the interpretation of dietary
+            data from free-living populations</article-title>
+          <source>Am J Clin Nutr</source>
+          <year>1984</year>
+          <volume>39</volume>
+          <issue>1</issue>
+          <fpage>152</fpage>
+          <lpage>156</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <mixed-citation>. Guenther PM, Reedy J, Krebs-Smith SM. Development of the Healthy Eating
+          Index-2005. <italic>J Am Diet Assoc</italic> .
+          2008;108(11):1896-901.DOI:10.1016/j.jada.2008.08.016</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Guenther</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Reedy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Krebs-Smith</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Development of the Healthy Eating Index-2005</article-title>
+          <source>J Am Diet Assoc</source>
+          <year>2008</year>
+          <volume>108</volume>
+          <issue>11</issue>
+          <fpage>1896</fpage>
+          <lpage>1901</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jada.2008.08.016</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <mixed-citation>. Guenther PM, Reedy J, Krebs-Smith SM, Reeve BB. Evaluation of the Healthy
+          Eating Index-2005. <italic>J Am Diet Assoc.</italic> 2008;108(11):1854-64.
+          DOI:10.1016/j.jada.2008.08.011</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Guenther</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Reedy</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Krebs-Smith</surname>
+              <given-names>SM</given-names>
+            </name>
+            <name>
+              <surname>Reeve</surname>
+              <given-names>BB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Evaluation of the Healthy Eating Index-2005</article-title>
+          <source>J Am Diet Assoc</source>
+          <year>2008</year>
+          <volume>108</volume>
+          <issue>11</issue>
+          <fpage>1854</fpage>
+          <lpage>1864</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jada.2008.08.011</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <mixed-citation>. Kaiser HF. The varimax criterion for analytical rotation in factor
+          analysis. <italic>Psychometrika</italic> . 1958;23(3):187-200.
+          DOI:10.1007/BF02289233</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Kaiser</surname>
+              <given-names>HF</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">The varimax criterion for analytical rotation in factor
+            analysis</article-title>
+          <source>Psychometrika</source>
+          <year>1958</year>
+          <volume>23</volume>
+          <issue>3</issue>
+          <fpage>187</fpage>
+          <lpage>200</lpage>
+          <pub-id pub-id-type="doi">10.1007/BF02289233</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <mixed-citation>. Kennedy ET, Ohls J, Carlson S, Fleming K. The Healthy Eating Index: design
+          and applications. <italic>J Am Diet Assoc</italic> . 1995;95(10):1103-8.
+          DOI:10.1016/S0002-8223(95)00300-2</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Kennedy</surname>
+              <given-names>ET</given-names>
+            </name>
+            <name>
+              <surname>Ohls</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Carlson</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Fleming</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">The Healthy Eating Index: design and
+            applications</article-title>
+          <source>J Am Diet Assoc</source>
+          <year>1995</year>
+          <volume>95</volume>
+          <issue>10</issue>
+          <fpage>1103</fpage>
+          <lpage>1108</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0002-8223(95)00300-2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <mixed-citation>. Koning LD, Chiuve SE, Fung TT, Willett WC, Rimm EB, Hu FB. Diet-quality
+          scores and the risk of type 2 diabetes in men. <italic>Diabetes Care.</italic>
+          2011;34(5):1150-6. DOI:10.2337/dc10-2352</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Koning</surname>
+              <given-names>LD</given-names>
+            </name>
+            <name>
+              <surname>Chiuve</surname>
+              <given-names>SE</given-names>
+            </name>
+            <name>
+              <surname>Fung</surname>
+              <given-names>TT</given-names>
+            </name>
+            <name>
+              <surname>Willett</surname>
+              <given-names>WC</given-names>
+            </name>
+            <name>
+              <surname>Rimm</surname>
+              <given-names>EB</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>FB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Diet-quality scores and the risk of type 2 diabetes in
+            men</article-title>
+          <source>Diabetes Care</source>
+          <year>2011</year>
+          <volume>34</volume>
+          <issue>5</issue>
+          <fpage>1150</fpage>
+          <lpage>1156</lpage>
+          <pub-id pub-id-type="doi">10.2337/dc10-2352</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <mixed-citation>. Kuczmarski MF, Cremer Sees A, Hotchkiss L, Cotugna N, Evans MK, Zonderman
+          AB. Higher Healthy Eating Index-2005 scores associated with reduced symptoms of depression
+          in an urban population: findings from the Healthy Aging in Neighborhoods of Diversity
+          Across the Life Span (HANDLS) Study. <italic>J Am Diet Assoc</italic> . 2010;110(3):383-9.
+          DOI:10.1016/j.jada.2009.11.025</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Kuczmarski</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Cremer Sees</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hotchkiss</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Cotugna</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Evans</surname>
+              <given-names>MK</given-names>
+            </name>
+            <name>
+              <surname>Zonderman</surname>
+              <given-names>AB</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Higher Healthy Eating Index-2005 scores associated with
+            reduced symptoms of depression in an urban population: findings from the Healthy Aging
+            in Neighborhoods of Diversity Across the Life Span (HANDLS) Study</article-title>
+          <source>J Am Diet Assoc</source>
+          <year>2010</year>
+          <volume>110</volume>
+          <issue>3</issue>
+          <fpage>383</fpage>
+          <lpage>389</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jada.2009.11.025</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <mixed-citation>. Marchioni DML, Latorre MRDO, Eluf-Neto J, Wünsch-Filho V, Fisberg RM.
+          Identification of dietary patterns using factor analysis in an epidemiological study in
+          São Paulo. <italic>Sao Paulo Med J</italic> . 2005;123 (3):124-7.
+          DOI:10.1590/S1516-31802005000300007</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Marchioni</surname>
+              <given-names>DML</given-names>
+            </name>
+            <name>
+              <surname>Latorre</surname>
+              <given-names>MRDO</given-names>
+            </name>
+            <name>
+              <surname>Eluf</surname>
+              <given-names>J</given-names>
+              <suffix>Neto</suffix>
+            </name>
+            <name>
+              <surname>Wünsch</surname>
+              <given-names>V</given-names>
+              <suffix>Filho</suffix>
+            </name>
+            <name>
+              <surname>Fisberg</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Identification of dietary patterns using factor analysis in
+            an epidemiological study in São Paulo</article-title>
+          <source>Sao Paulo Med J</source>
+          <year>2005</year>
+          <volume>123</volume>
+          <issue>3</issue>
+          <fpage>124</fpage>
+          <lpage>127</lpage>
+          <pub-id pub-id-type="doi">10.1590/S1516-31802005000300007</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <mixed-citation>. Miller PE, Mitchell DC, Harala PL, Pettit JM, Smiciklas-Wright H, Hartman
+          TJ. Development and evaluation of a method for calculating the Healthy Eating Index-2005
+          using the Nutrition Data System for Research. <italic>Public Health Nutr.</italic>
+          2011;14(2):306-13. DOI:10.1017/S1368980010001655</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Miller</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Harala</surname>
+              <given-names>PL</given-names>
+            </name>
+            <name>
+              <surname>Pettit</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Smiciklas-Wright</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hartman</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Development and evaluation of a method for calculating the
+            Healthy Eating Index-2005 using the Nutrition Data System for Research</article-title>
+          <source>Public Health Nutr</source>
+          <year>2011</year>
+          <volume>14</volume>
+          <issue>2</issue>
+          <fpage>306</fpage>
+          <lpage>313</lpage>
+          <pub-id pub-id-type="doi">10.1017/S1368980010001655</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <mixed-citation>. Nunnally JC. Psychometric theory. 2.ed. New York; McGraw-Hill;
+          1978.</mixed-citation>
+        <element-citation publication-type="book">
+          <person-group>
+            <name>
+              <surname>Nunnally</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Psychometric theory</source>
+          <edition>2.ed</edition>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>McGraw-Hill</publisher-name>
+          <year>1978</year>
+        </element-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <mixed-citation>. Previdelli AN, Andrade SC, Pires MM, Ferreira SRG, Fisberg RM, Marchioni
+          DM. Índice de Qualidade da Dieta Revisado para população brasileira. <italic>Rev Saude
+            Publica</italic> . 2011;45(4):794-8. DOI:10.1590/S0034-89102011005000035
+          8</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Previdelli</surname>
+              <given-names>AN</given-names>
+            </name>
+            <name>
+              <surname>Andrade</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Pires</surname>
+              <given-names>MM</given-names>
+            </name>
+            <name>
+              <surname>Ferreira</surname>
+              <given-names>SRG</given-names>
+            </name>
+            <name>
+              <surname>Fisberg</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Marchioni</surname>
+              <given-names>DM</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt">Índice de Qualidade da Dieta Revisado para população
+            brasileira</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2011</year>
+          <volume>45</volume>
+          <issue>4</issue>
+          <fpage>794</fpage>
+          <lpage>798</lpage>
+          <pub-id pub-id-type="doi">10.1590/S0034-89102011005000035 8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <mixed-citation>. Santos JRA. Cronbach’s Alpha: a tool for assessing the reliability of
+          scales. <italic>J Extension</italic> . 1999;37(2):1-5.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Santos</surname>
+              <given-names>JRA</given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en">Cronbach’s Alpha: a tool for assessing the reliability of
+            scales</article-title>
+          <source>J Extension</source>
+          <year>1999</year>
+          <volume>37</volume>
+          <issue>2</issue>
+          <fpage>1</fpage>
+          <lpage>5</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <mixed-citation>. Willett WC. Eat, drink, and be healthy: the Harvard Medical School guide
+          to healthy eating. New York: Free Press; 2001.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Willett</surname>
+              <given-names>WC</given-names>
+            </name>
+          </person-group>
+          <source xml:lang="en">Eat, drink, and be healthy: the Harvard Medical School guide to
+            healthy eating</source>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Free Press</publisher-name>
+          <year>2001</year>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="fn1">
+        <label>a</label>
+        <p>Ministério da Saúde, Secretaria de Atenção à Saúde, Coordenação-Geral da Política de
+          Alimentação e Nutrição. Guia alimentar para a população brasileira: promovendo a
+          alimentação saudável. Brasília (DF); 2006. (Série A. Normas e Manuais Técnicos).  </p>
+      </fn>
+      <fn id="fn2">
+        <label>b</label>
+        <p>Gorgulho B, Marchioni DML, Conceição AB, Steluti J, Mussi MH, Nagai-Manelli R, et al.
+          Quality of diet of working college students. <italic>Work</italic> . 2012;41(Suppl
+          1):5806-9. DOI:10.3233/WOR-2012-0958-5806</p>
+      </fn>
+      <fn id="fn3">
+        <label>c</label>
+        <p>Guenther PM, Reedy J, Krebs-Smith SM, Reeve BB, Basiotis PP. Development and evaluation
+          of the Healthy Eating Index-2005: technical report. Alexandria, VA: U.S. Department of
+          Agriculture, Center for Nutrition Policy and Promotion; 2007 [citado 2011 dez 2].
+          Disponível em: http://www.cnpp.usda.gov/HealthyEatingIndex.htm</p>
+      </fn>
+      <fn id="fn4">
+        <label>d</label>
+        <p>Ben- Shalom Y, Fox MK, Newby PK. Characteristics and dietary patterns of healthy and
+          less-healthy patterns in the low-income population. Alexandria, VA: Department of
+          Agriculture, Food and Nutrition Service; 2012 (Nutrition Assistance Program Report
+          Series). [citado 2012 set 10]. Disponível em:
+          http://www.fns.usda.gov/ora/MENU/Published/snap/FILES/Participation/HEI.pdf</p>
+      </fn>
+      <fn id="fn5">
+        <label>e</label>
+        <p>US Department of Agriculture, Center for Nutrition Policy and Promotion. Sample menus for
+          a 2000 calorie food pattern. Alexandria, VA; 2006 [citado 2011 dez 2]. Disponível em:
+          http://www.mypyramid.gov/downloads/sample_menu.pdf;</p>
+      </fn>
+      <fn id="fn6">
+        <label>f</label>
+        <p>U.S. Department of Health and Human Services, National Institutes of Health, National
+          Heart Lung and Blood Institute. Your guide to lowering your blood pressure with DASH.
+          Bethesda: National Heart Lung and Blood Institute; 2006. (NIH Publication Nº 06-4082).
+          [citado 2011 dez 2]. Disponível em:
+          http://www.nhlbi.nih.gov/health/public/heart/hbp/dash/new_dash.pdf</p>
+      </fn>
+      <fn id="fn7">
+        <label>g</label>
+        <p>American Heart Association. No-fad diet sample menu plan: 1,200 calories. Alexandria;
+          2005 [citado 2011 dez 2]. Disponível em: http://
+          www.americanheart.org/presenter.jhtml?identifier=3031819</p>
+      </fn>
+      <fn id="fn8">
+        <label>h</label>
+        <p>American Heart Association. No-fad diet sample menu plan: 2,000 calories. Alexandria;
+          2005 [citado 2011 dez 2]. Disponível em: http://
+          www.americanheart.org/presenter.jhtml?identifier=3031819</p>
+      </fn>
+    </fn-group>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Articles</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Evaluation of the reliability and validity of the Brazilian
+          Healthy Eating Index Revised</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Andrade</surname>
+            <given-names>Samantha Caesar de</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Previdelli</surname>
+            <given-names>Ágatha Nogueira</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Marchioni</surname>
+            <given-names>Dirce Maria Lobo</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Fisberg</surname>
+            <given-names>Regina Mara</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <aff id="aff2">Departamento de Nutrição. Faculdade de Saúde Pública. Universidade de São
+        Paulo. São Paulo, SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <label>Correspondence</label> : Regina Mara Fisberg Departamento de Nutrição Av. Doutor
+          Arnaldo, 715 01255-000 São Paulo, SP, Brasil E-mail: rfisberg@usp.br</corresp>
+        <fn fn-type="financial-disclosure">
+          <p>This study was supported by the <italic>Secretaria Municipal da Saúde de São
+              Paulo</italic> (Process No. 027/2003) and by the <italic>Conselho Nacional de
+              Desenvolvimento Científico e Tecnológico</italic> (CNPq – Process No. 502948/
+            2003-5).</p>
+        </fn>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <sec>
+          <title>OBJECTIVE</title>
+          <p>
+            <bold>:</bold> Evaluate validity and reliability of the Brazilian Healthy Eating Index
+            Revised according to the psychometric properties.</p>
+        </sec>
+        <sec>
+          <title>METHODS</title>
+          <p>
+            <bold>:</bold> Cross-sectional study of a random sample of 2,375 individuals of both
+            sexes, aged 12 or older from the city of São Paulo, Southeastern Brazil, drawn from the
+            Health Survey carried out in 2003. Information on the population characteristics was
+            acquired using a questionnaire. Food intake was obtained using 24h Recall, used to
+            calculate the Brazilian Healthy Eating Index Revised (BHEI-R). The following aspects
+            were evaluated: (1) content validity, by comparing the components with the Dietary
+            Guidelines for the Brazilian Population; (2) construct validity, factor analysis using
+            principal components method and verifying whether the index can measure diet quality
+            regardless of energy intake; (3) discriminating validity; and (4) the reliability of the
+            BHEI-R by analyzing the internal consistency of the items using Cronbach’s alpha
+            coefficient.</p>
+        </sec>
+        <sec>
+          <title>RESULTS</title>
+          <p>
+            <bold>:</bold> The correlations between the component scores and energy intake were weak
+            (r &lt; 0.30). Principal component analysis indicated the presence of four factors with
+            eigenvalues &gt; 1 that represented 67% of the index variance. The discriminating
+            validity of the BHEI-R was observed by comparing the individuals by sex and smoking
+            habit, and identifying statistically significant differences between the means of the
+            components of the BHEI-R and the final score. The Cronbach’s alpha value (α = 0.7)
+            indicated the presence of internal consistency between the components of the BHEI-R. The
+            SoFAAS component followed by the total fruit component and whole fruit component
+            presented greater correlation with the final index scores.</p>
+        </sec>
+        <sec>
+          <title>CONCLUSIONS</title>
+          <p>
+            <bold>:</bold> The Brazilian Healthy Eating Index Revised showed itself to be reliable
+            and structurally valid when used to evaluate and monitor the diet quality of
+            Brazilians.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <kwd>Diet, classification</kwd>
+        <kwd>Food Consumption</kwd>
+        <kwd>Nutrition Assessment</kwd>
+        <kwd>Quality Indicators, Health Care, utilization</kwd>
+        <kwd>Reproducibility of Results</kwd>
+        <kwd>Cross-Sectional Studies</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>Dietary indexes allow individual’s and/or population’s adherence to nutritional
+          recommendations to be assessed and monitored. <xref ref-type="bibr" rid="B14"
+              ><sup>14</sup></xref> Their use requires specific adaptations for each country to
+          reflect the local reality. <xref ref-type="bibr" rid="B11"><sup>11</sup></xref> Fisberg et
+          al <xref ref-type="bibr" rid="B8"><sup>8</sup></xref> adapted and validated the Healthy
+          Eating Index (HEI) for the Brazilian population in 2004, giving the Brazilian Health
+          Eating Index (BHEI).</p>
+        <p>With the appearance of the Food Guide for the Brazilian Population, created by the
+          Ministry of Health in 2006, <xref ref-type="fn" rid="fn9"><sup>a</sup></xref> gaps were
+          found in the BHEI which led to it being revised. Previdelli et al <xref ref-type="bibr"
+            rid="B20"><sup>20</sup></xref> (2011) updated the index, developing the revised BHEI
+          (BHEI-R), made up of 12 components based on energy density (portion/1,000 kcal) or by
+          percentage share of calories in the diet, so as to reflect different aspects of the
+          quality of the diet.</p>
+        <p>The instrument is being used to assess the quality of diet of population groups, <xref
+            ref-type="fn" rid="fn10"><sup>b</sup></xref> but there are no studies on the
+          psychometric properties of this version. The aim of this article was to evaluate the
+          reliability and validity of the BHEI-R.</p>
+      </sec>
+      <sec sec-type="methods">
+        <title>METHODS</title>
+        <p>Cross-sectional study with a probabilistic sample in the municipality of Sao Paulo, SP,
+          Southeastern Brazil, made up of 2,375 individuals aged ≥ 12, of both sexes, taking part in
+          the Health Survey (ISA-Capital 2003). Details of the sample and the data collection from
+          this study have been previously published. <xref ref-type="bibr" rid="B3"
+            ><sup>3</sup></xref> Data on characteristics of the population were obtained using a
+          questionnaire, and food intake using the 24-hour recall method. Portion sizes were
+          transformed into units of measurement and the nutritive value obtained using the Nutrition
+          Data System for Research (NDS-R, version 2007) program. The Healthy Eating Index was then
+          calculated ( <xref ref-type="table" rid="t05">Table 1</xref> ).</p>
+        <p>
+          <table-wrap id="t05">
+            <label>Table 1</label>
+            <caption>
+              <title>Distribution of scores and shares for each component in the Brazilian Healthy
+                Eating Index - Revised (BHEI-R). Sao Paulo, SP, Southeastern Brazil, 2012.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="14%">
+                <col width="30%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td rowspan="3"> Components</td>
+                  <td> </td>
+                  <td colspan="3" align="center">Score (points)</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td align="center">0</td>
+                  <td align="center">5</td>
+                  <td align="center">8</td>
+                  <td align="center">10</td>
+                  <td align="center">20</td>
+                </tr>
+                <tr>
+                  <td colspan="6" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Total fruit <sup>a</sup>
+                  </td>
+                  <td align="center">0</td>
+                  <td>1.0 portion/1,000 kcal</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Whole fruit <sup>b</sup>
+                  </td>
+                  <td align="center">0</td>
+                  <td>0.5 portion/1,000 kcal</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Total vegetables <sup>c</sup>
+                  </td>
+                  <td align="center">0</td>
+                  <td>1.0 portion/1,000 kcal</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Veveal <sup>d</sup>
+                  </td>
+                  <td align="center">0</td>
+                  <td>0.5 portion/1,000 kcal</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Total grains <sup>e</sup>
+                  </td>
+                  <td align="center">0</td>
+                  <td>2.0 portion/1,000 kcal</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Whole grains</td>
+                  <td align="center">0</td>
+                  <td>1.0 portion/1,000 kcal</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Milk and dairy products <sup>f</sup>
+                  </td>
+                  <td align="center">0</td>
+                  <td> </td>
+                  <td> </td>
+                  <td>1.5 portion/1,000 kcal</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Meat, eggs and legumes</td>
+                  <td align="center">0</td>
+                  <td> </td>
+                  <td> </td>
+                  <td>1.0 portion/1,000 kcal</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Oils <sup>g</sup>
+                  </td>
+                  <td align="center">0</td>
+                  <td> </td>
+                  <td> </td>
+                  <td>0.5 portion/1,000 kcal</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Saturated fat</td>
+                  <td align="center">≥ 15</td>
+                  <td> </td>
+                  <td align="center">10</td>
+                  <td>≤ 7% of TEV</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Sodium</td>
+                  <td align="center">≥ 2,0</td>
+                  <td> </td>
+                  <td align="center">1,0</td>
+                  <td>≤ 0.75 g/1,000 kcal</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Gord_AA</td>
+                  <td align="center">≥ 35</td>
+                  <td> </td>
+                  <td> </td>
+                  <td> </td>
+                  <td align="center">≤ 10% do VET</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>Gord_AA: calories from solid fats, alcohol and added sugar; TEV: total energy
+                value</p>
+              <p>
+                <sup>a</sup> Including fruit and fruit juices</p>
+              <p>
+                <sup>b</sup> Excluding fruit juices</p>
+              <p>
+                <sup>c</sup> Including legumes only after maximum score for meat, eggs and legumes
+                is reached</p>
+              <p>
+                <sup>d</sup> Veveal = dark green and orange vegetables and legumes (only after
+                maximum score for meat, eggs and legumes is reached)</p>
+              <p>
+                <sup>e</sup> Total cereals = represents the groups of cereals, roots and tubers</p>
+              <p>
+                <sup>f</sup> Including soy-based milk and dairy products</p>
+              <p>
+                <sup>g</sup> Including mono and polyunsaturated fats, oilseeds and fish oils</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>The performance of the BHEI-R was measured using strategies for assessing content
+          validity, construct validity, discriminant validity and reliability, as proposed by
+          Guenther et al (2008). <xref ref-type="bibr" rid="B12"><sup>12</sup></xref>
+        </p>
+        <p>
+          <italic>First stage: Content validity</italic>
+        </p>
+        <p>The components of the BHEI-R were compared with official nutritional guidelines from the
+          Food Guide for the Brazilian Population <xref ref-type="fn" rid="fn9"><sup>a</sup></xref>
+          in order to evaluate whether they contained the key aspects of healthy eating recommended
+          for the population.</p>
+        <p>
+          <italic>Second stage: Construct validity</italic>
+        </p>
+        <p>Nutrient intake is positively correlated with the quantity of energy consumed. Higher
+          calorie diets may have an over estimated score as they are measured in absolute terms.
+            <xref ref-type="bibr" rid="B12"><sup>12</sup></xref> To analyze whether the BHEI-R
+          assesses the quality of the diet independently of the quantity of energy consumed,
+          Pearson’s correlation analysis was used on the final score of the components of the index
+          and the energy.</p>
+        <p>Factor analysis was carried out using Principal Component Analysis (PCA). Based on the
+          correlation between the 12 components to verify whether the structure of the BHEI-R has
+          another dimension. The PCA is a statistical technique of multiple analysis which linearly
+          transforms a set of original variables into a substantially smaller set of non-correlated
+          variables which contain the majority of the information of the original set. All of the
+          items were considered in the analysis. The matrix was obtained using varimax rotation. The
+          criteria suggested by Kaiser <xref ref-type="bibr" rid="B13"><sup>13</sup></xref> (1958),
+          who proposed only considering eigenvalues above one, were used to choose the number of
+          factors to be kept in the model. The auxiliary method used was the Scree test; <xref
+            ref-type="bibr" rid="B4"><sup>4</sup></xref> so the dispersion of the number of factors
+          was analyzed until the individual variance curve for each factor became horizontal or
+          dropped sharply.</p>
+        <p>
+          <italic>Third stage: Discriminant validity</italic>
+        </p>
+        <p>The capacity of the index to distinguish diet quality in different population groups was
+          verified. Mean scores were compared for the BHEI-R components for individuals aged ≥ 20 by
+          sex and smoking using the Wald test (analysis of weighted variance)</p>
+        <p>
+          <italic>Fourth stage: Reliability</italic>
+        </p>
+        <p>Cronbach’s alpha (α) was calculated, based on the mean of inter item correlations between
+          0 and 1 to evaluate internal consistency between the components of the BHEI-R. <xref
+            ref-type="bibr" rid="B2"><sup>2</sup></xref> The higher the alpha, the greater the
+          reliability of the scale; in this case, the sum of the scores of the items considered.
+          Value ≥ 0.7 shows acceptable reliabilty, <xref ref-type="bibr" rid="B19"
+            ><sup>19</sup></xref> although in the literature inter item correlations &gt; 0.6 are
+          accepted. <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B21"><sup>21</sup></xref>
+        </p>
+        <p>The influence of the components on the total score was verified, examining the
+          correlation of each component with the final score for the BHEI-R.</p>
+        <p>With the exception of the PCA, the other results, with the necessary adjustments, were
+          obtained according to the sample design using the survey module of the Stata software
+          program, version 10.0 (Stata Corporation – Houston, USA) adopting p &lt; 0.05 as the
+          critical value.</p>
+        <p>The main research project was approved by the Ethics Committee of the
+            <italic>Faculdade</italic> de <italic>Saúde Pública</italic> of the <italic>Universidade
+            de São Paulo</italic> (Process No. 13/2001).</p>
+      </sec>
+      <sec sec-type="results">
+        <title>RESULTS</title>
+        <p>Using content analysis, it was verified that the components of the BHEI-R included six of
+          the seven guidelines in the Food Guide for the Brazilian Population. <xref ref-type="fn"
+            rid="fn9"><sup>a</sup></xref> The index did not evaluate the recommendation to drink two
+          liters of water a day, or two special guidelines which encouraged doing physical activity
+          and emphasized the importance of food hygiene ( <xref ref-type="table" rid="t06">Table
+            2</xref> ).</p>
+        <p>
+          <table-wrap id="t06">
+            <label>Table 2</label>
+            <caption>
+              <title>Mapping of the components of the Brazilian Healthy Eating Index - Revised
+                (BHEI-R) according to recommendations from the Food Guide for the Brazilian
+                Population. Sao Paulo, SP, Southeastern Brazil, 2012.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="33%">
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Recommendations in the Guide</td>
+                  <td align="center">Component of the BHEI-R</td>
+                  <td align="center">Observations on the BHEI-R</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td align="center">Guidelines 1 and 6</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Limit intake of saturated fats, replacing with unsaturated and eliminating
+                    trans</td>
+                  <td align="center">Saturated fat</td>
+                  <td align="center">The component “saturated fat” evaluates the nutrient intake,
+                    following recommendations of the Food Guide and the guidelines of the Brazilian
+                    Society of Cardiology.</td>
+                </tr>
+                <tr>
+                  <td>Saturated fat should not exceed 10% of daily needs, as with simple sugars</td>
+                  <td> </td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td>Choose vegetable oils, olive oil and margarines free of trans fatty acids</td>
+                  <td align="center">Oils</td>
+                  <td align="center">The component “oil” represents the intake of vegetable oil,
+                    fish fat and oilseeds, foods for which consumption is encouraged. In the Food
+                    Guide oilseeds are part of legumes, but are cited as good sources of unsaturated
+                    fat.</td>
+                </tr>
+                <tr>
+                  <td>Reduce consumption of salt and processed foods</td>
+                  <td align="center">Salt</td>
+                  <td align="center">The salt is reflected in the component “Sodium”.</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td align="center">Gord_AA</td>
+                  <td align="center">Trans fats are reflected in calories from solid fats, which
+                    belong to the group “Gord_AA” along with added sugar and alcohol. Cholesterol is
+                    not included in the Index.</td>
+                </tr>
+                <tr>
+                  <td>Maintain energy balance and a healthy weight</td>
+                  <td> </td>
+                  <td align="center">The BHEI-R does not evaluate energy intake or physical
+                    activity.</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td align="center">Guideline 2</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Consuming foods rich in complex carbohydrates, preferably whole grain</td>
+                  <td align="center">Total cereal Whole grains</td>
+                  <td align="center">As there is no recommendation for whole grains intake the
+                    BHEI-R established intake of at least 1 portion/1,000 kcal</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td align="center">Guideline 3</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td rowspan="2">Vary the fruits and vegetables, increasing the supply of fiber and
+                    vitamins, such as carotenoids, present in dark green and orange vegetables</td>
+                  <td align="center">Total fruit Whole fruit</td>
+                  <td rowspan="2" align="center">Variety is evaluated in the BHEI-R. Whole fruit and
+                    subgroups of vegetables are emphasized</td>
+                </tr>
+                <tr>
+                  <td align="center">Total vegetables and legumes</td>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td align="center">Dark green and orange vegetables and legumes</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td align="center">Guideline 4</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td rowspan="3">Combine daily intake of legumes with cereal grains, forming
+                    complete sources of protein</td>
+                  <td align="center">Meat, eggs and legumes</td>
+                  <td rowspan="3" align="center">Being a habit of Brazilians, legumes contribute
+                    initially to the meat group, supplying proteins and, subsequently to the group
+                    of vegetables for the contribution of minerals and fiber.</td>
+                </tr>
+                <tr>
+                  <td align="center">Total vegetables and legumes</td>
+                </tr>
+                <tr>
+                  <td align="center">Dark green and orange vegetables and legumes</td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td> </td>
+                  <td align="center">Guideline 5</td>
+                  <td> </td>
+                </tr>
+                <tr>
+                  <td colspan="3" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Choose lower fat milk and dairy products</td>
+                  <td align="center">Milk and dairy products</td>
+                  <td rowspan="2" align="center">The choice of whole milk, and fatty meats will
+                    lower the score of the “saturated fat” and “Gord_AA” components. The same will
+                    happen when choosing processed meats, also influencing the score decrease of the
+                    “sodium” component.</td>
+                </tr>
+                <tr>
+                  <td>Choose leaner meats and avoid processed meats</td>
+                  <td align="center">Meat, eggs and legumes</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>Gord_AA: calories from solid fats, alcohol and added sugar</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>Weak correlation was observed between the scores for the components of the BHEI-R and
+          energy consumption: eight components showed inverse correlation ( <xref ref-type="table"
+            rid="t07">Table 3</xref> ). The low correlation between the scores and energy suggests
+          they are independent.</p>
+        <p>
+          <table-wrap id="t07">
+            <label>Table 3</label>
+            <caption>
+              <title>Correlation of scores from the components of the Brazilian Health Eating Index
+                - Revised (BHEI-R) with the final score and with energy intake. Sao Paulo, SP,
+                Southeastern Brazil, 2003.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="17%">
+                <col width="30%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td>Component</td>
+                  <td align="center">BHEI-R final (r)</td>
+                  <td align="center">p</td>
+                  <td align="center">Energy (kcal) (r)</td>
+                  <td align="center">p</td>
+                </tr>
+                <tr>
+                  <td colspan="5" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Total fruit</td>
+                  <td align="center">0.50</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">-0.04</td>
+                  <td align="center">0.038</td>
+                </tr>
+                <tr>
+                  <td>Whole fruit</td>
+                  <td align="center">0.48</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">-0.04</td>
+                  <td align="center">0.037</td>
+                </tr>
+                <tr>
+                  <td>Total vegetables</td>
+                  <td align="center">0.34</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">-0.06</td>
+                  <td align="center">0.006</td>
+                </tr>
+                <tr>
+                  <td>Veveal</td>
+                  <td align="center">0.36</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">-0.08</td>
+                  <td align="center">&lt; 0.001</td>
+                </tr>
+                <tr>
+                  <td>Total grains</td>
+                  <td align="center">0.14</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">-0.08</td>
+                  <td align="center">&lt; 0.001</td>
+                </tr>
+                <tr>
+                  <td>Whole grains</td>
+                  <td align="center">0.09</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">0.02</td>
+                  <td align="center">0.290</td>
+                </tr>
+                <tr>
+                  <td>Milk and dairy products</td>
+                  <td align="center">-0.02</td>
+                  <td align="center">0.304</td>
+                  <td align="center">-0.02</td>
+                  <td align="center">0.236</td>
+                </tr>
+                <tr>
+                  <td>Meat, eggs and legumes</td>
+                  <td align="center">0.28</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">0.06</td>
+                  <td align="center">0.004</td>
+                </tr>
+                <tr>
+                  <td>Oils</td>
+                  <td align="center">0.46</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">-0.14</td>
+                  <td align="center">&lt; 0.001</td>
+                </tr>
+                <tr>
+                  <td>Sodium</td>
+                  <td align="center">-0.18</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">0.19</td>
+                  <td align="center">&lt; 0.001</td>
+                </tr>
+                <tr>
+                  <td>Gord_AA</td>
+                  <td align="center">0.75</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">-0.30</td>
+                  <td align="center">&lt; 0.001</td>
+                </tr>
+                <tr>
+                  <td>Saturated fat</td>
+                  <td align="center">0.47</td>
+                  <td align="center">&lt; 0.001</td>
+                  <td align="center">-0.19</td>
+                  <td align="center">&lt; 0.001</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>Veveal: dark green and orange vegetables and legumes; Oils: vegetable oils,
+                oilseeds and fish oils; Gord_AA: total calories from solid fats, alcohol and added
+                sugar</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>The scree plot of the PCA ( <xref ref-type="fig" rid="f02">Figure</xref> ) shows the
+          presence of four factors with eigenvalues &gt; 1, representing 67% of total variance in
+          the index.</p>
+        <p>
+          <fig id="f02">
+            <label>Figure</label>
+            <caption>
+              <title>Scree plot of analysis for the principal components in the Brazilian Healthy
+                Eating Index - Revised (BHEI-R). Sao Paulo, SP, Southeastern Brazil, 2003.</title>
+            </caption>
+            <graphic xlink:href="0034-8910-rsp-47-04-0675-gf01-en"/>
+          </fig>
+        </p>
+        <p>The discriminant validity of the index was observed comparing smokers and non-smokers.
+          The mean of the scores of six components of the BHEI-R was smaller for the smokers: total
+          fruit, whole fruit, total grains, milk and dairy products, oil and sodium. The total mean
+          score of the BHEI-R was higher for non-smokers compared to smokers (56.8 and 55.4;
+          respectively, p &lt; 0.05) ( <xref ref-type="table" rid="t08">Table 4</xref> ). This
+          discrimination is similar to that observed when comparing the mean total score of the
+          index for men and for women (55.3 and 56.9; respectively, p &lt; 0.05). Four components
+          also had smaller means for men: total fruit, whole fruit, total cereal and milk and dairy
+          products (values not shown in the table).</p>
+        <p>
+          <table-wrap id="t08">
+            <label>Table 4</label>
+            <caption>
+              <title>Mean of the components and final score for the Brazilian Healthy Eating Index -
+                Revised (BHEI-R) for individuals aged over 20 according to smoking. Sao Paulo, SP,
+                Southeastern Brazil, 2003.</title>
+            </caption>
+            <table frame="hsides" rules="groups">
+              <colgroup width="14%">
+                <col width="30%"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+              </colgroup>
+              <tbody>
+                <tr>
+                  <td rowspan="5"> BHEI-R and components </td>
+                  <td colspan="2" align="center">Smokers</td>
+                  <td colspan="2" align="center">Non-smokers</td>
+                  <td rowspan="5" align="center"> p </td>
+                </tr>
+                <tr>
+                  <td/>
+                </tr>
+                <tr>
+                  <td colspan="2" align="center">n = 626</td>
+                  <td colspan="2" align="center">n = 904</td>
+                </tr>
+                <tr>
+                  <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td align="center">Mean</td>
+                  <td align="center">Standard error</td>
+                  <td align="center">Mean</td>
+                  <td align="center">Standard error</td>
+                </tr>
+                <tr>
+                  <td colspan="4" style="border-bottom: thin solid; border-color: #000000"/>
+                </tr>
+                <tr>
+                  <td>Total fruit</td>
+                  <td align="center">1.4</td>
+                  <td align="center">0.1</td>
+                  <td align="center">1.8</td>
+                  <td align="center">0.1</td>
+                  <td align="center">0.003</td>
+                </tr>
+                <tr>
+                  <td>Whole fruit</td>
+                  <td align="center">1.2</td>
+                  <td align="center">0.1</td>
+                  <td align="center">1.5</td>
+                  <td align="center">0.1</td>
+                  <td align="center">0.036</td>
+                </tr>
+                <tr>
+                  <td>Total vegetables</td>
+                  <td align="center">4.3</td>
+                  <td align="center">0.1</td>
+                  <td align="center">4.3</td>
+                  <td align="center">0.1</td>
+                  <td align="center">0.556</td>
+                </tr>
+                <tr>
+                  <td>Veveal</td>
+                  <td align="center">3.9</td>
+                  <td align="center">0.1</td>
+                  <td align="center">3.7</td>
+                  <td align="center">0.1</td>
+                  <td align="center">0.394</td>
+                </tr>
+                <tr>
+                  <td>Total grains</td>
+                  <td align="center">4.5</td>
+                  <td align="center">0.1</td>
+                  <td align="center">4.6</td>
+                  <td align="center">0.0</td>
+                  <td align="center">0.050</td>
+                </tr>
+                <tr>
+                  <td>Whole grains</td>
+                  <td align="center">0.4</td>
+                  <td align="center">0.1</td>
+                  <td align="center">0.4</td>
+                  <td align="center">0.1</td>
+                  <td align="center">0.858</td>
+                </tr>
+                <tr>
+                  <td>Milk and dairy products</td>
+                  <td align="center">3.6</td>
+                  <td align="center">0.2</td>
+                  <td align="center">4.2</td>
+                  <td align="center">0.2</td>
+                  <td align="center">0.003</td>
+                </tr>
+                <tr>
+                  <td>Meat, eggs and legumes</td>
+                  <td align="center">9.0</td>
+                  <td align="center">0.1</td>
+                  <td align="center">8.5</td>
+                  <td align="center">0.1</td>
+                  <td align="center">0.009</td>
+                </tr>
+                <tr>
+                  <td>Oils</td>
+                  <td align="center">9.7</td>
+                  <td align="center">0.1</td>
+                  <td align="center">9.9</td>
+                  <td align="center">0.0</td>
+                  <td align="center">0.042</td>
+                </tr>
+                <tr>
+                  <td>Sodium</td>
+                  <td align="center">1.8</td>
+                  <td align="center">0.1</td>
+                  <td align="center">2.2</td>
+                  <td align="center">0.1</td>
+                  <td align="center">0.030</td>
+                </tr>
+                <tr>
+                  <td>Gord_AA</td>
+                  <td align="center">9.8</td>
+                  <td align="center">0.4</td>
+
+                  <td align="center">9.9</td>
+                  <td align="center">0.3</td>
+                  <td align="center">0.891</td>
+                </tr>
+                <tr>
+                  <td>Saturated fat</td>
+                  <td align="center">5.</td>
+                  <td align="center">0.2</td>
+                  <td align="center">5.9</td>
+                  <td align="center">0.2</td>
+                  <td align="center">0.969</td>
+                </tr>
+                <tr>
+                  <td>BHEI-R total</td>
+                  <td align="center">55.4</td>
+                  <td align="center">0.6</td>
+                  <td align="center">56.8</td>
+                  <td align="center">0.5</td>
+                  <td align="center">0.050</td>
+                </tr>
+              </tbody>
+            </table>
+            <table-wrap-foot>
+              <p>Veveal: dark green and orange vegetables and legumes; Oils: vegetable oils,
+                oilseeds and fish oils; Gord_AA: total calories from solid fats, alcohol and added
+                sugar</p>
+            </table-wrap-foot>
+          </table-wrap>
+        </p>
+        <p>With regards reliability, the value of Cronbach’s alpha (α = 0.7) indicates the presence
+          of internal consistency between the components of the BHEI-R. The correlations between the
+          components’ scores and the final score were weak. The Gord_AA component (composed of total
+          calories coming from solid fats, alcohol and added sugar) was the most strongly correlated
+          (r = 0.75), followed by total fruit and whole fruit (r = 0.50 and r = 0.48, respectively)
+          ( <xref ref-type="table" rid="t07">Table 3</xref> ).</p>
+      </sec>
+      <sec sec-type="discussion">
+        <title>DISCUSSION</title>
+        <p>The BHEI-R is reliable and structurally valid for evaluating the quality of diet in
+          Brazilians. The content validity was upheld as the index included the principle Ministry
+          of Health recommendations.</p>
+        <p>Individuals who have an energy dense diet tend to consume a greater quantity of foods of
+          low nutritional value and probably received lower scores for the BHEI-R, according to the
+          correlation of the score of the Gord_AA component with energy consumed. Thus, as in the
+          validation of the HEI-2005, <xref ref-type="fn" rid="fn11"><sup>c</sup></xref> the scores
+          of all components had a weak correlation with energy, suggesting that both indices
+          evaluate dietary quality independent of the quantity of energy consumed. The advantage of
+          using indexes like the BHEI-R is that the calculation, based on energy density
+          (portion/1,000 kcal) or on calorie share in the diet, reduces the effect of total energy
+          intake on the index.</p>
+        <p>The BHEI-R does not directly evaluate the quantity of energy consumed as it is a
+          qualitative index. However, the variable can be dealt with as continuous or in categories
+          of terciles, meaning that the quality of the diet can be linked to epidemiological
+          outcomes related to energy consumption, as when Body Mass Index is used.</p>
+        <p>The points that contribute to the total score of the index may accumulate in different
+          ways. It is probable that more than one dietary standard exists which deems a diet to be
+          healthy or less healthy. For this reason, the indices can be linked to other analyses such
+          as that of Cluster, defining dietary standards and comparing with individuals’ diet, as in
+          the study conducted by Ben-Shalom et al (2012). <xref ref-type="fn" rid="fn12"
+              ><sup>d</sup></xref>
+        </p>
+        <p>The index shows the ability to distinguish groups with known differences in dietary
+          quality, irrespective of energy intake. Smokers had a worse quality diet, as described in
+          the literature <xref ref-type="bibr" rid="B5"><sup>5</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B6"><sup>6</sup></xref> and in the evaluations of the HEI-2005
+          in the study by Guenther et al (2008). <xref ref-type="bibr" rid="B12"
+            ><sup>12</sup></xref> Women had a better quality diet, as has been shown in other
+          studies, including that by Ervin <xref ref-type="bibr" rid="B7"><sup>7</sup></xref> (2011)
+          which assessed the data from the National Health and Nutrition Examination Survey (NHANES)
+          2003-2004. Women tend to adhere more to the recommendations in the American Food Guide,
+          especially for the fruit and vegetable group, with a slightly higher score in the HEI-2005
+          (60.3 compared with 54.8 for men).</p>
+        <p>Comparing the results obtained from the PCA of the BHEI-R with those of the HEI-2005,
+          there are four factors with eigenvalues &gt; 1, compared with five in the American index.
+          The same methodology was used to extract the factors in both studies, however, the
+          quantity of total explained variance, 67%, cannot be compared with that of the HEI-2005,
+          as Guenther et al (2007) <xref ref-type="fn" rid="fn11"><sup>c</sup></xref> did not
+          describe this value.</p>
+        <p>However, the PCA indicates that no single linear combination is responsible for a
+          substantial proportion in the variation of eating patterns. The Food Guide itself <xref
+            ref-type="fn" rid="fn9"><sup>a</sup></xref> emphasizes the importance of a varied diet,
+          aiming the guidelines based on food groups and dietary standards, making it easy for the
+          target audience to understand.</p>
+        <p>Individuals’ nutrient intake depends on their food choices, which are influenced by
+          cultural, social and demographic factors. The individual tends not to meet all
+          standardized criteria. A diet may satisfy one standard for total cereals and milk and
+          dairy products but not meet the standard for fruits. From an epidemiological point of
+          view, diet represents a complex set of highly correlated exposures. A relationship between
+          a food group and a disease may be wrongly assumed if only one single component and/or
+          nutrient is studied. <xref ref-type="bibr" rid="B10"><sup>10</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B17"><sup>17</sup></xref>
+        </p>
+        <p>The Cranach’s alpha of 0.7 suggests that the reliability of the BHEI-R is satisfactory.
+          In studies using indexes developed in other countries, the alpha varied between 0.28 and
+          0.52. <xref ref-type="bibr" rid="B12"><sup>12</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B18"><sup>18</sup></xref> The alpha found when validating the
+          HEI-2005 was 0.43. According to Nunnally <xref ref-type="bibr" rid="B19"
+            ><sup>19</sup></xref> (1978), values ≥ 0.7 are deemed to indicate internal consistency;
+          therefore, the BHEI-R has greater reliability with the Brazilian population than the
+          HEI-2005 with the American population. Eliminating any of the BHEI-R components would not
+          improve internal consistency, indicating the importance of the 12 components in the
+          composition of the index. Correlations between the components and the final score may
+          indicate how much each component contributes to variation in the total score. The Gord_AA
+          component, followed by the total fruit and whole fruit components have the highest
+          correlation with the final score for the index, i.e., those with a high BHEI-R score are
+          likely to have lower consumption of solid fats, added sugar and alcohol, and an adequate
+          intake of fruit.</p>
+        <p>A limitation of this study is that the BHEI-R was not compared with a gold standard
+          instrument for evaluating dietary quality. In order to evaluate the HEI-2005, the authors
+          compared the index with menus based on recommendations developed by the US Department of
+          Agriculture, <xref ref-type="fn" rid="fn13"><sup>e</sup></xref> National Heart Lung and
+          Blood Institute, <xref ref-type="fn" rid="fn14"><sup>f</sup></xref> Harvard Medical
+          School’s Healthy Eating Pyramid <xref ref-type="bibr" rid="B22"><sup>22</sup></xref> and
+          the American Heart Association´s No-Fad Diet. <xref ref-type="fn" rid="fn15"
+            ><sup>g</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="fn" rid="fn16"><sup>h</sup></xref> As Brazil does not have recommendations
+          based on menus, it was not possible to use this method. However, criteria such as
+          biochemical markers may serve as a gold standard for come components based on
+          nutrients.</p>
+        <p>Comparison with other dietary quality indexes may serve to evaluate the instrument and
+          assess its capacity to detect changes in the population over time, analyzing mean values
+          of total BHEI-R scores and the scores for the components at two different points in time.
+          Another important evaluation is the capacity of the index to predict death and disease.
+          Such validity of predictive criteria should use the BHEI-R linked to longitudinal studies
+          that contain data on health and mortality. Similar research has already been carried out
+          with the HEI-2005. <xref ref-type="bibr" rid="B9"><sup>9</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B16"><sup>16</sup></xref>
+        </p>
+        <p>The BHEI-R has good reliability and has been shown to be valid for used as an instrument
+          to evaluate and monitor Brazilians’ quality of diet. It may assist in producing data which
+          support the planning of public policies and future guidelines. Possible future research
+          includes additional tests such as predictive validity and even further adaptation for
+          specific sub-populations.</p>
+      </sec>
+    </body>
+    <back>
+      <fn-group>
+        <fn id="fn9">
+          <label>a</label>
+          <p>Ministério da Saúde, Secretaria de Atenção à Saúde, Coordenação-Geral da Política de
+            Alimentação e Nutrição. Guia alimentar para a população brasileira: promovendo a
+            alimentação saudável. Brasília (DF); 2006. (Série A. Normas e Manuais Técnicos).</p>
+        </fn>
+        <fn id="fn10">
+          <label>b</label>
+          <p>Gorgulho B, Marchioni DML, Conceição AB, Steluti J, Mussi MH, Nagai-Manelli R, et al.
+            Quality of diet of working college students. <italic>Work</italic> . 2012;41(Suppl
+            1):5806-9. DOI:10.3233/WOR-2012-0958-5806</p>
+        </fn>
+        <fn id="fn11">
+          <label>c</label>
+          <p>Guenther PM, Reedy J, Krebs-Smith SM, Reeve BB, Basiotis PP. Development and evaluation
+            of the Healthy Eating Index-2005: technical report. Alexandria, VA: U.S. Department of
+            Agriculture, Center for Nutrition Policy and Promotion; 2007 [cited 2011 dec 2].
+            Available from: http://www.cnpp.usda.gov/HealthyEatingIndex.htm</p>
+        </fn>
+        <fn id="fn12">
+          <label>d</label>
+          <p>Ben- Shalom Y, Fox MK, Newby PK. Characteristics and dietary patterns of healthy and
+            less-healthy patterns in the low-income population. Alexandria, VA: Department of
+            Agriculture, Food and Nutrition Service; 2012 (Nutrition Assistance Program Report
+            Series). [cited 2012 sep 10]. Available from:
+            http://www.fns.usda.gov/ora/MENU/Published/snap/FILES/Participation/HEI.pdf</p>
+        </fn>
+        <fn id="fn13">
+          <label>e</label>
+          <p>US Department of Agriculture, Center for Nutrition Policy and Promotion. Sample menus
+            for a 2000 calorie food pattern. Alexandria, VA; 2006 [cited 2011 Dec 2]. Available
+            from: http://www.mypyramid.gov/downloads/sample_menu.pdf</p>
+        </fn>
+        <fn id="fn14">
+          <label>f</label>
+          <p>U.S. Department of Health and Human Services, National Institutes of Health, National
+            Heart Lung and Blood Institute. Your guide to lowering your blood pressure with DASH.
+            Bethesda: National Heart Lung and Blood Institute; 2006. (NIH Publication Nº 06-4082).
+            [cited 2011 Dec 2]. Available from:
+            http://www.nhlbi.nih.gov/health/public/heart/hbp/dash/new_dash.pdf</p>
+        </fn>
+        <fn id="fn15">
+          <label>g</label>
+          <p>American Heart Association. No-fad diet sample menu plan: 1,200 calories. Alexandria;
+            2005 [cited 2011 Dec 2]. Available from:
+            http://www.americanheart.org/presenter.jhtml?identifier=3031819</p>
+        </fn>
+        <fn id="fn16">
+          <label>h</label>
+          <p>American Heart Association. No-fad diet sample menu plan: 2,000 calories. Alexandria;
+            2005 [cited 2011 Dec 2]. Available from:
+            http://www.americanheart.org/presenter.jhtml?identifier=3031819</p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+</article>

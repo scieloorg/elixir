@@ -1,0 +1,820 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+  dtd-version="3.0" article-type="brief-report" xml:lang="pt">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+      <journal-title-group>
+        <journal-title>Revista de Saúde Pública</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0034-8910</issn>
+      <issn pub-type="epub">1518-8787</issn>
+      <publisher>
+        <publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="publisher-id">S0034-8910.2013047004701</article-id>
+      <article-id pub-id-type="doi">10.1590/S0034-8910.2013047004701</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Comunicação Breve</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="pt">Coexistência de variantes HIV-1 com inserção dipeptídica no
+          gene da transcriptase reversa</article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>Coexistencia de variantes de VIH-1 con inserción dipeptídica en el gen de la
+            transcriptasa inversa</trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tanikawa</surname>
+            <given-names>Aline Aki</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">I</xref>
+          <xref ref-type="aff" rid="aff4">IV</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Barreto</surname>
+            <given-names>Sarita Fiorelli Dias</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2">II</xref>
+          <xref ref-type="aff" rid="aff4">IV</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Grotto</surname>
+            <given-names>Rejane Maria Tommasini</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">III</xref>
+          <xref ref-type="aff" rid="aff4">IV</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pardini</surname>
+            <given-names>Maria Inês de Moura Campos</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3">III</xref>
+          <xref ref-type="aff" rid="aff4">IV</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+        <label>I</label>
+        <institution content-type="orgdiv1">Faculdade de Medicina de Botucatu</institution>
+        <institution content-type="orgname">Universidade Estadual Paulista</institution>
+        <addr-line>
+          <named-content content-type="city">Botucatu</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Programa de Pós-Graduação em Fisiopatologia em Clínica Médica.
+        Faculdade de Medicina de Botucatu. Universidade Estadual Paulista. Botucatu, SP, Brasil</aff>
+      <aff id="aff2">
+        <label>II</label>
+        <institution content-type="orgdiv1">Faculdade de Medicina de Botucatu</institution>
+        <institution content-type="orgname">Universidade Estadual Paulista</institution>
+        <addr-line>
+          <named-content content-type="city">Botucatu</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Programa de Pós-Graduação em Pesquisa e Desenvolvimento:
+        Biotecnologia Médica. Faculdade de Medicina de Botucatu. Universidade Estadual Paulista.
+        Botucatu, SP, Brasil</aff>
+      <aff id="aff3">
+        <label>III</label>
+        <institution content-type="orgdiv2">Departamento de Clínica Médica</institution>
+        <institution content-type="orgdiv1">Faculdade de Medicina de Botucatu</institution>
+        <institution content-type="orgname">Universidade Estadual Paulista</institution>
+        <named-content content-type="city">Botucatu</named-content>
+        <named-content content-type="state">SP</named-content>
+        <country>Brasil</country> Departamento de Clínica Médica. Faculdade de Medicina de Botucatu
+        . Universidade Estadual Paulista. Botucatu, SP, Brasil</aff>
+      <aff id="aff4">
+        <label>IV</label>
+        <institution content-type="orgdiv2">Laboratório de Biologia Molecular</institution>
+        <institution content-type="orgdiv1">Faculdade de Medicina de Botucatu</institution>
+        <institution content-type="orgname">Universidade Estadual Paulista</institution>
+        <addr-line>
+          <named-content content-type="city">Botucatu</named-content>
+          <named-content content-type="state">SP</named-content>
+        </addr-line>
+        <country>Brasil</country> Laboratório de Biologia Molecular. Faculdade de Medicina de
+        Botucatu. Universidade Estadual Paulista. Botucatu, SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondência | Correspondence</bold> : Maria Inês de Moura Campos Pardini.
+          Faculdade de Medicina de Botucatu. Laboratório de Biologia Molecular – Divisão Hemocentro.
+          Distrito de Rubião Júnior, s/ n°. 18618-970 Botucatu, SP, Brasil. E-mail:
+          inespardini@gmail.com</corresp>
+        <fn fn-type="conflict">
+          <p>Os autores declaram não haver conflito de interesses.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub-ppub">
+        <month>08</month>
+        <year>2013</year>
+      </pub-date>
+      <volume>47</volume>
+      <issue>04</issue>
+      <fpage>821</fpage>
+      <lpage>823</lpage>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>12</month>
+          <year>2012</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>4</month>
+          <year>2013</year>
+        </date>
+      </history>
+      <permissions>
+        <license license-type="open-access"
+          xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative
+            Commons Attribution Non-Commercial License, which permits unrestricted non-commercial
+            use, distribution, and reproduction in any medium, provided the original work is
+            properly cited.</license-p>
+        </license>
+      </permissions>
+      <abstract xml:lang="pt">
+        <p>O objetivo desta comunicação foi descrever a detecção de coexistência de variantes HIV-1
+          com inserções de dois aminoácidos entre os códons 69 e 70 da transcriptase reversa. Tais
+          variantes foram isoladas de paciente do sexo masculino, 16 anos de idade, em tratamento no
+          interior do estado de São Paulo. Após confirmação de falha terapêutica, foi realizado
+          teste de resistência a antirretrovirais, a partir do qual foram detectadas duas variantes
+          contendo inserções dos aminoácidos Ser-Gly/Ser-Ala no códon 69 da transcriptase reversa,
+          além da mutação T69S. Tais inserções possuem baixa prevalência, não foram relatadas em
+          caráter de coexistência no Brasil e estão relacionadas com a resistência a múltiplas
+          drogas, tornando o achado relevante do ponto de vista epidemiológico.</p>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <p>El objetivo de ésta comunicación fue describir la detección de coexistencia de variantes
+          VIH-1 con inserciones de dos aminoácidos entre los codones 69 y 70 de la transcriptasa
+          inversa. Tales variantes fueron aisladas de paciente del sexo masculino, 16 años de edad,
+          en tratamiento en el interior del estado de Sao Paulo. Posterior a la confirmación de la
+          falla terapéutica, se realizó prueba de resistencia para antirretrovirales, a partir del
+          cual se detectaron dos variantes que contenían dos inserciones de los aminoácidos
+          Ser-Gly/Ser-Ala en el codón 69 de la transcriptasa inversa, además de la mutación T69S.
+          Tales inserciones poseen baja prevalencia, no fueron relatadas en carácter de coexistencia
+          en Brasil y están relacionadas con la resistencia a múltiples drogas, tomando el resultado
+          relevante desde el punto de vista epidemiológico.</p>
+      </trans-abstract>
+      <kwd-group xml:lang="pt">
+        <kwd>HIV-1, genética</kwd>
+        <kwd>Transcriptase Reversa do HIV</kwd>
+        <kwd>Proteínas do Vírus da Imunodeficiência Humana</kwd>
+        <kwd>Farmacorresistência Viral Múltipla</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>VIH-1, genética</kwd>
+        <kwd>Transcriptasa Inversa del VIH</kwd>
+        <kwd>Proteínas del Virus de la Inmunodeficiencia Humana</kwd>
+        <kwd>Farmacorresistencia Viral Múltiple</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="2"/>
+        <ref-count count="5"/>
+        <page-count count="3"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>INTRODUÇÃO</title>
+      <p>A pressão seletiva do esquema terapêutico antirretroviral (ARV) pode resultar na emergência
+        de variantes resistentes, as quais pré-existem minoritariamente no paciente infectado com
+        HIV. Mutações de ponto de uma ou duas bases no gene da transcriptase reversa (TR) estão
+        associadas com resistência aos inibidores dessa enzima. Além disso, há relatos de que a
+        resistência a múltiplos análogos nucleosídeos pode também ser resultante de diversas
+        inserções/mutações existentes nos vírus. <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+      </p>
+      <p>O uso prolongado da terapia ARV com zidovudina, frequentemente junto ou seguida pela
+        administração de outros inibidores nucleosídeos, está associado com a seleção de variantes
+        com inserção de aminoácidos entre os resíduos 69 e 70 da TR do HIV-1. <xref ref-type="bibr"
+          rid="B3">
+          <sup>3</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+      </p>
+      <p>O objetivo deste estudo foi descrever a detecção de coexistência de variantes HIV-1 com
+        inserções de dois aminoácidos entre os códons 69 e 70 da TR.</p>
+    </sec>
+    <sec>
+      <title>DESCRIÇÃO DO CASO</title>
+      <p>Paciente do sexo masculino, 16 anos, pardo e com exposição vertical ao vírus HIV. O caso
+        foi notificado em 1996 e, desde então, manteve carga viral detectável e níveis de CD4+
+        baixo, sem, no entanto, desenvolver sintomas da síndrome da imunodeficiência adquirida
+        (Aids). A menor contagem de linfócitos CD4+ ocorreu em 2011, 234 cels/mm <xref
+          ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref> , e a carga viral no mesmo ano foi de 4,624 log. O uso de ARV teve início em 2007
+        com os inibidores da TR zidovudina e didanosina, seguido da introdução de efavirenz em 2008.
+        Após o compromisso de adesão do paciente, o teste de resistência a antirretrovirais (TRUGENE
+          <sup>®</sup> HIV-1 <italic>Genotyping Test on an OpenGene</italic>
+        <sup>®</sup>
+        <italic>DNA Sequencing System, Siemens Healthcare Diagnostics</italic> , Deerfield, IL, USA)
+        foi solicitado em 2011 e realizado no Laboratório de Biologia Molecular do Hemocentro da
+        Faculdade de Medicina de Botucatu, Universidade Estadual Paulista (UNESP), pertencente à
+        Rede Nacional de Genotipagem do HIV-1 (RENAGENO) do Ministério da Saúde.</p>
+      <p>O subtipo viral caracterizado foi F1, utilizando o gene da transcriptase reversa, segundo
+        análise realizada pela ferramenta REGA HIV <italic>Subtyping Tool</italic> . <xref
+          ref-type="fn" rid="fn1">
+          <sup>a</sup>
+        </xref> A sequência obtida evidenciou a mutação T69S, seguida das inserções Ser-Gly (SG) /
+        Ser-Ala (SA), o que sugere a coexistência de variantes virais com inserções de aminoácidos
+        distintos no códon 69, confirmada a partir de sequências geradas por <italic>primers
+          forward</italic> e <italic>reverse</italic> , segundo especificações da técnica utilizada.
+        A análise do eletroferograma ( <xref ref-type="fig" rid="f01">Figura</xref> ) mostrou as
+        sequências de nucleotídeos AGT e G <underline>S</underline> T, simultaneamente.</p>
+      <p>
+        <fig id="f01">
+          <label>Figura</label>
+          <caption>
+            <title>Parte do eletroferograma de uma sequência genômica da região da transcriptase
+              reversa do HIV-1, evidenciando a inserção de dois aminoácidos (Ser e Gly/Ala) entre os
+              códons 69 e 70, a qual foi confirmada a partir de sequências geradas por
+                <italic>primers forward</italic> e <italic>reverse</italic> , segundo especificações
+              da técnica utilizada (TRUGENE <sup>®</sup> hiv-1 <italic>Genotyping Test on na
+                OpenGene</italic>
+              <sup>®</sup> DNA <italic>Sequencing System</italic> , <italic>Siemens Healthcare
+                Diagnostics</italic> , <italic>Deerfield</italic> , IL, EUA).</title>
+          </caption>
+          <graphic xlink:href="0034-8910-rsp-47-04-0821-gf01"/>
+        </fig>
+      </p>
+      <p>O perfil de mutação incluiu as mutações A62V, K101P/Q, K103N, V106I, V179D/E, Y188L, T215Y
+        no gene da transcriptase reversa (TR), além das mutações L10I e M36I na protease. Não foi
+        observada nenhuma resistência aos inibidores de protease. Em contrapartida, houve
+        resistência a múltiplas drogas da classe dos inibidores de TR.</p>
+      <p>A sequência obtida foi analisada utilizando o algoritmo <italic>Blast Basic Local Alignment
+          Search Tool</italic> (Blast), <xref ref-type="fn" rid="fn2">
+          <sup>b</sup>
+        </xref> disponível no <italic>National Center for Biotechnology Information</italic> (NCBI),
+        sendo constatada uma similaridade de 93%.</p>
+    </sec>
+    <sec sec-type="discussion">
+      <title>DISCUSSÃO</title>
+      <p>A inserção de dois aminoácidos entre os resíduos 69 e 70 da TR do HIV-1 por si só não
+        confere resistência significativa. No entanto, quando associada às substituições, como
+        T215Y, M41L, A62V ou L210W, pode ocasionar a emergência de variantes resistentes a múltiplos
+        análogos de nucleosídeos. <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref>
+      </p>
+      <p>As mutações de inserção entre os códons 69 e 70 estão presentes, com baixa prevalência
+        (aproximadamente 0,5% a 2,4%), <xref ref-type="bibr" rid="B2">
+          <sup>2</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B3">
+          <sup>3</sup>
+        </xref>
+        <sup>,</sup>
+        <xref ref-type="bibr" rid="B4">
+          <sup>4</sup>
+        </xref> em indivíduos experimentados com inibidores da TR análogos nucleosídeos, sendo mais
+        comum a inserção dos dipeptídeos serina-serina, serina-arginina e serina-glicina. Tais
+        rearranjos estão localizados na estrutura hairpin loop β3-β4 da TR do HIV-1 e estão
+        suscetíveis à interação com o processo de ligação de nucleotídeos. <xref ref-type="bibr"
+          rid="B2">
+          <sup>2</sup>
+        </xref>
+      </p>
+      <p>Em 1999, Larder et al <xref ref-type="bibr" rid="B1">
+          <sup>1</sup>
+        </xref> relataram que a alteração 69Ser-(Ser-Ser), por si só, demonstrou apenas uma
+        diminuição significante na suscetibilidade ao 3TC. No entanto, Winters et al <xref
+          ref-type="bibr" rid="B5">
+          <sup>5</sup>
+        </xref> (1998) reportaram que a mutação 69Ser-(Ser-Ala) ou 69Ser-(Ser-Gly), mesmo sem demais
+        mutações genotípicas, conferia resistência a múltiplas drogas.</p>
+      <p>A detecção da substituição única, Thr69Ser, sem inserção, sugere que a mutação possa se
+        desenvolver antes da inserção de aminoácido. No entanto, ainda não é conhecido
+        especificamente o mecanismo preciso para a ocorrência da inserção. <xref ref-type="bibr"
+          rid="B1">
+          <sup>1</sup>
+        </xref>
+      </p>
+      <p>No Brasil, não há relatos que demonstram a presença de variantes HIV-1 com inserção de
+        dipeptídeos entre os códons 69 e 70 da TR em coexistência, o que torna o achado relevante do
+        ponto de vista epidemiológico, uma vez que tal inserção está relacionada com a resistência a
+        múltiplos análogos de nucleosídeos e pouco se sabe sobre sua prevalência e significância
+        clínica.</p>
+
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>REFERÊNCIAS</title>
+      <ref id="B1">
+        <label>1</label>
+        <mixed-citation>. Larder BA, Bloor S, Kemp SD, Kurt H, Desmet RL, Miller V, et al. A family
+          of insertion mutations between codons 67 and 70 of human immunodeﬁciency virus type 1
+          reverse transcriptase confer multinucleoside analog resistance. <italic>Antimicrob Agents
+            Chemother.</italic> 1999;43(8):1961-7.</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Larder</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Bloor</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Kemp</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Kurt</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Desmet</surname>
+              <given-names>RL</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>V</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">A family of insertion mutations between codons 67 and 70 of
+            human immunodeﬁciency virus type 1 reverse transcriptase confer multinucleoside analog
+            resistance</article-title>
+          <source>Antimicrob Agents Chemother</source>
+          <year>1999</year>
+          <volume>43</volume>
+          <issue>8</issue>
+          <fpage>1961</fpage>
+          <lpage>1967</lpage>
+        </element-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <mixed-citation>. Masquelier B, Race E, Tamalet C, Descamps D, Izopet J, Buffet-Janvresse C,
+          et al. Genotypic and phenotypic resistance patterns of human immunodeﬁciency virus type 1
+          variants with insertions or deletions in the reverse transcriptase (RT): multicenter study
+          of patients treated with RT inhibitors. <italic>Antimicrob Agents Chemother.</italic>
+          2001;45(6):1836-42. DOI:10.1128/AAC.45.6.1836-1842.2001</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Masquelier</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Race</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Tamalet</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Descamps</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Izopet</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Buffet-Janvresse</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Genotypic and phenotypic resistance patterns of human
+            immunodeﬁciency virus type 1 variants with insertions or deletions in the reverse
+            transcriptase (RT): multicenter study of patients treated with RT
+            inhibitors</article-title>
+          <source>Antimicrob Agents Chemother</source>
+          <year>2001</year>
+          <volume>45</volume>
+          <issue>6</issue>
+          <fpage>1836</fpage>
+          <lpage>1842</lpage>
+          <pub-id pub-id-type="doi">10.1128/AAC.45.6.1836-1842.2001</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <mixed-citation>. Tamalet C, Yahi N, Tourrès C, Colson P, Quinson AM, Poizot-Martin I, et
+          al. Multidrug resistance genotypes (insertions in the â3-â4 finger subdomain and MDR
+          Mutations) of HIV-1 reverse transcriptase from extensively treated patients: incidence and
+          association with other resistance mutations. <italic>Virology</italic> .
+          2000;270(2):310-6. DOI:10.1006/viro.2000.0261</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Tamalet</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Yahi</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Tourrès</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Colson</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Quinson</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Poizot-Martin</surname>
+              <given-names>I</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Multidrug resistance genotypes (insertions in the â3-â4
+            finger subdomain and MDR Mutations) of HIV-1 reverse transcriptase from extensively
+            treated patients: incidence and association with other resistance
+            mutations</article-title>
+          <source>Virology</source>
+          <year>2000</year>
+          <volume>270</volume>
+          <issue>2</issue>
+          <fpage>310</fpage>
+          <lpage>316</lpage>
+          <pub-id pub-id-type="doi">10.1006/viro.2000.0261</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <mixed-citation>. Van Vaerenbergh K, Van Laethem K, Albert J, Boucher CA, Clotet B, Floridia
+          M, et al. Prevalence and characteristics of multinucleoside-resistant human
+          immunodeﬁciency virus type 1 among European patients receiving combinations of nucleoside
+          analogues. <italic>Antimicrob Agents Chemother</italic> . 2000;44(8):2109-17.
+          DOI:10.1128/AAC.44.8.2109-2117.2000</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Van Vaerenbergh</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Van Laethem</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Albert</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Boucher</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Clotet</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Floridia</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">Prevalence and characteristics of multinucleoside-resistant
+            human immunodeﬁciency virus type 1 among European patients receiving combinations of
+            nucleoside analogues</article-title>
+          <source>Antimicrob Agents Chemother</source>
+          <year>2000</year>
+          <volume>44</volume>
+          <issue>8</issue>
+          <fpage>2109</fpage>
+          <lpage>2117</lpage>
+          <pub-id pub-id-type="doi">10.1128/AAC.44.8.2109-2117.2000</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <mixed-citation>. Winters MA, Coolley KL, Girard YA, Levee DJ, Hamdan H, Shafer RW, et al. A
+          6-basepair insert in the reverse transcriptase gene of human immunodeﬁciency virus type 1
+          confers resistance to multiple nucleoside inhibitors. <italic>J Clin Invest.</italic>
+          1998;102(10):1769-75.DOI:10.1172/JCI4948</mixed-citation>
+        <element-citation publication-type="journal">
+          <person-group>
+            <name>
+              <surname>Winters</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Coolley</surname>
+              <given-names>KL</given-names>
+            </name>
+            <name>
+              <surname>Girard</surname>
+              <given-names>YA</given-names>
+            </name>
+            <name>
+              <surname>Levee</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Hamdan</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Shafer</surname>
+              <given-names>RW</given-names>
+            </name>
+            <etal>et al</etal>
+          </person-group>
+          <article-title xml:lang="en">A 6-basepair insert in the reverse transcriptase gene of
+            human immunodeﬁciency virus type 1 confers resistance to multiple nucleoside
+            inhibitors</article-title>
+          <source>J Clin Invest</source>
+          <year>1998</year>
+          <volume>102</volume>
+          <issue>10</issue>
+          <fpage>1769</fpage>
+          <lpage>1775</lpage>
+          <pub-id pub-id-type="doi">10.1172/JCI4948</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <fn-group>
+      <fn id="fn1">
+        <label>a</label>
+        <p>REGA HIV Subtyping Tool [citado 2012 nov 19]. Disponível em:
+          http://www.bioafrica.net/rega-genotype/html/subtypinghiv.html</p>
+      </fn>
+      <fn id="fn2">
+        <label>b</label>
+        <p>National Center for Biotechnology Information (NCBI). Basic Local Alignment Search Tool
+          (BLAST); 2012 [citado 2012 nov 20]. Disponível em:
+          http://blast.ncbi.nlm.nih.gov/Blast.cgi</p>
+      </fn>
+    </fn-group>
+  </back>
+  <sub-article article-type="translation" id="TR01" xml:lang="en">
+    <front-stub>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Brief Communications</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title xml:lang="en">Coexistence of HIV-1 variants with dipeptidic insertion in the
+          reverse transcriptase gene</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Tanikawa</surname>
+            <given-names>Aline Aki</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5">I</xref>
+          <xref ref-type="aff" rid="aff8">IV</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Barreto</surname>
+            <given-names>Sarita Fiorelli Dias</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6">II</xref>
+          <xref ref-type="aff" rid="aff8">IV</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Grotto</surname>
+            <given-names>Rejane Maria Tommasini</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff7">III</xref>
+          <xref ref-type="aff" rid="aff8">IV</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pardini</surname>
+            <given-names>Maria Inês de Moura Campos</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff7">III</xref>
+          <xref ref-type="aff" rid="aff8">IV</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff5">
+        <label>I</label> Programa de Pós-Graduação em Fisiopatologia em Clínica Médica. Faculdade de
+        Medicina de Botucatu. Universidade Estadual Paulista. Botucatu, SP, Brasil</aff>
+      <aff id="aff6">
+        <label>II</label> Programa de Pós-Graduação em Pesquisa e Desenvolvimento: Biotecnologia
+        Médica. Faculdade de Medicina de Botucatu. Universidade Estadual Paulista. Botucatu, SP,
+        Brasil</aff>
+      <aff id="aff7">
+        <label>III</label> Departamento de Clínica Médica. Faculdade de Medicina de Botucatu.
+        Universidade Estadual Paulista. Botucatu, SP, Brasil</aff>
+      <aff id="aff8">
+        <label>IV</label> Laboratório de Biologia Molecular. Faculdade de Medicina de Botucatu.
+        Universidade Estadual Paulista. Botucatu, SP, Brasil</aff>
+      <author-notes>
+        <corresp>
+          <bold>Correspondence</bold> : Maria Inês de Moura Campos Pardini Faculdade de Medicina de
+          Botucatu Laboratório de Biologia Molecular – Divisão Hemocentro Distrito de Rubião Júnior,
+          s/ n° 18618-970 Botucatu, SP, Brasil E-mail: inespardini@gmail.com</corresp>
+        <fn fn-type="conflict">
+          <p>The authors declare that there are no conflicts of interests.</p>
+        </fn>
+      </author-notes>
+      <abstract xml:lang="en">
+        <p>The aim of this communication was to describe the detection of the coexistence of HIV-1
+          variant with dipeptide insertion between codons 69 and 70 of reverse transcriptase. These
+          variants were isolated from a 16-year-old male patient, undergoing treatment in the city
+          of Marilia, SP, Southeastern Brazil. After confirmation of treatment failure, resistance
+          to antiretroviral drugs testing was performed and two variants with the insertions of the
+          aminoacids Ser-Gly/Ser-Ala at codon 69 of reverse transcriptase were detected, besides the
+          T69S mutation. These insertions have low prevalence, have not been reported in situations
+          of coexistence in Brazil and are related to multidrug resistance, which makes this
+          epidemiological finding relevant.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <kwd>HIV-1, genetics</kwd>
+        <kwd>HIV Reverse Transcriptase</kwd>
+        <kwd>Human Immunodeficiency Virus Proteins</kwd>
+        <kwd>Drug Resistance, Multiple, Viral</kwd>
+      </kwd-group>
+    </front-stub>
+    <body>
+      <sec sec-type="intro">
+        <title>INTRODUCTION</title>
+        <p>The selective pressure of the antiretroviral therapy (ARV) scheme may result in the
+          emergence of resistant variants, which pre-exist in a minority of HIV infected patients.
+          Point mutation of one or two bases in the reverse transcriptase (RT) gene are linked to
+          resistance to inhibitors of this enzyme. Moreover, there are reports that resistance to
+          multiple nucleoside analogs can also be the result of several insertions/mutations present
+          in the viruses. <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+        </p>
+        <p>Prolonged use of ARV therapy with zidovudine, often together or followed by
+          administration of other nucleoside inhibitors, is linked with the selection of variants
+          with amino acid insertion between residues 69 and 70 of HIV-1 RT. <xref ref-type="bibr"
+            rid="B3">
+            <sup>3</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+        </p>
+        <p>The aim of this study was to describe the detection of coexisting HIV-1 variants with
+          insertions of two amino acids between codons 69 and 70 of RT.</p>
+      </sec>
+      <sec>
+        <title>DESCRIPTION OF THE CASE</title>
+        <p>The patient was male, aged 16, dark skinned and with vertical exposure to HIV. The case
+          was reported in 1996 and, since then, the viral load remained detectable and CD4+ levels
+          low without, however, developing symptoms of Acquired Immune Deficiency Syndrome (AIDS).
+          The lowest CD4+ lymphocyte count occurred in 2011, 234 cels/mm <xref ref-type="bibr"
+            rid="B3">
+            <sup>3</sup>
+          </xref> , and the viral load in that same year was 4.624 log. The administration of ARV
+          drugs started in 2007 with the RT inhibitors zidovudine and didanosine, followed by the
+          introduction of efavirenz in 2008. After the patient committed himself to adhering to
+          treatment, antiretroviral resistance testing (TRUGENE <sup>®</sup> HIV-1 Genotyping Test
+          on an OpenGene <sup>®</sup> DNA Sequencing System, Siemens Healthcare Diagnostics,
+          Deerfield, IL, USA) was requested in 2011 and carried out in the Molecular Biology
+          Laboratory of the Blood Transfusion Center at the Botucatu Medical School,
+            <italic>Universidade Estadual Paulista</italic> (UNESP), part of the Ministry of Health
+          Brazilian Network for HIV-1 Genotyping (RENAGENO).</p>
+        <p>The viral subtype F1 was characterized using the reverse transcriptase gene, according to
+          analysis with the REGA HIV Subtyping tool. <xref ref-type="fn" rid="fn3">
+            <sup>a</sup>
+          </xref> The sequence obtained showed T69S mutation, following insertions of Ser-Gly (SG) /
+          Ser-Ala (SA), which suggests the coexistence of viral variants with different amino acid
+          insertions at codon 69, confirmed from sequences generated by forward and reverse primers,
+          according to the specifications of the technique used. Analysis of the electropherogram (
+            <xref ref-type="fig" rid="f02">Figure</xref> ) showed the nucleotide sequences AGT and
+          GST simultaneously.</p>
+        <p>
+          <fig id="f02">
+            <label>Figure</label>
+            <caption>
+              <title>. Part of the electropherogram of a genomic sequence of the HIV-1 reverse
+                transcriptase region, demonstrating the insertion of two amino acids (Ser and
+                Gly/Ala) between codons 69 and 70, which was confirmed based on sequences generated
+                by forward and reverse primers, according to the specifications of the technique
+                used (TRUGENE <sup>®</sup> hiv-1 Genotyping Test on OpenGene <sup>®</sup> DNA
+                Sequencing System, Siemens Healthcare Diagnostics, Deerfield, IL, EUA).</title>
+            </caption>
+            <graphic xlink:href="0034-8910-rsp-47-04-0821-gf01-en"/>
+          </fig>
+        </p>
+        <p>The profile of mutation included A62V, K101P/Q, K103N, V106I, V179D/E, Y188L, T215Y
+          mutations in the reverse transcriptase gene, as well as L10I and M36I mutations in the
+          protease. No resistance to protease inhibitors was observed. In contrast, there was
+          resistance to a variety of RT inhibitor drugs.</p>
+        <p>The sequence obtained was analyzed using the Blast Basic Local Alignment Search Tool
+          (Blast) algorithm, <xref ref-type="fn" rid="fn4">
+            <sup>b</sup>
+          </xref> available from the National Center for Biotechnology Information (NCBI), with a
+          similarity of 93%.</p>
+      </sec>
+      <sec sec-type="discussion">
+        <title>DISCUSSION</title>
+        <p>The insertion of two amino acids alone between residues 69 and 70 of HIV-1 RT does not
+          confer significant resistance. However, when combined with substitutions, such as T215Y,
+          M41L, A62V or L210W, it can lead to the emergence of resistant variants to multiple
+          nucleoside analogs. <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref>
+        </p>
+        <p>Insertion mutations between codons 69 and 70 are present, with a low prevalence
+          (approximately 0.5% to 2.4%), <xref ref-type="bibr" rid="B2">
+            <sup>2</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B3">
+            <sup>3</sup>
+          </xref>
+          <sup>,</sup>
+          <xref ref-type="bibr" rid="B4">
+            <sup>4</sup>
+          </xref> in nucleoside analog reverse transcriptase inhibitors-experienced individuals, the
+          most common being insertion of serine-serine, serine-arginine and serine-glycine. Such
+          rearrangements are located in the structure of the β3-β4 hairpin loop of HIV-1 RT and are
+          susceptible to interaction with the nucleotide binding process. <xref ref-type="bibr"
+            rid="B2">
+            <sup>2</sup>
+          </xref>
+        </p>
+        <p>In 1999, Larder et al <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref> reported that the 69Ser-(Ser-Ser) mutation, by itself, only showed significant
+          decrease in susceptibility to 3TC. However, Winters et al <xref ref-type="bibr" rid="B5">
+            <sup>5</sup>
+          </xref> (1998) reported that the 69Ser-(Ser-Ala) or 69Ser-(Ser-Gly) mutation, even without
+          other genotypic mutations, would confer resistance to multiple drugs.</p>
+        <p>Detection of the single substitution, Thr69Ser, suggests that the mutation may develop
+          before insertion of the amino acid. However, the specific mechanism required for the
+          occurrence of the insertion is not known. <xref ref-type="bibr" rid="B1">
+            <sup>1</sup>
+          </xref>
+        </p>
+        <p>In Brazil, there are no reports which show the presence of HIV-1 variants with insertion
+          of dipeptides between codons 69 and 70 of the RT in coexistence, which makes the finding
+          relevant from an epidemiological point of view, since such insertion is related to
+          resistance to multiple nucleoside analogs and little is known about its prevalence or
+          clinical significance.</p>
+      </sec>
+    </body>
+    <back>
+      <fn-group>
+        <fn id="fn3">
+          <label>a</label>
+          <p>REGA HIV Subtyping Tool [cited 2012 Nov 19]. Available from:
+            http://www.bioafrica.net/rega-genotype/html/subtypinghiv.html  </p>
+        </fn>
+        <fn id="fn4">
+          <label>b</label>
+          <p>National Center for Biotechnology Information (NCBI). Basic Local Alignment Search Tool
+            (BLAST); 2012 [ cited 2012 Nov 20]. Available from:
+            http://blast.ncbi.nlm.nih.gov/Blast.cgi</p>
+        </fn>
+      </fn-group>
+    </back>
+  </sub-article>
+</article>
