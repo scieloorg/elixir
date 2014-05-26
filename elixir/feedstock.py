@@ -112,35 +112,40 @@ def read_html(html_file, replace_entities=False):
     return images_regex.findall(html)[0]
 
 
-def list_document_images(source):
+def get_document_images(document):
     """
     This method retrieve a list of images paths founded into a HTML.
 
     Keyword arguments:
-    source -- could be a valid file path to a HTML document or a string withing an HTML.
+    document -- could be a valid file path to a HTML document or a string withing an HTML.
     """
-    images_regex = re.compile(u'["\'](/img.*?)["\']', re.IGNORECASE)
+    images_regex = re.compile(u'["\'](/img.*?|\\\\img.*?)["\']', re.IGNORECASE)
 
     try:
-        html = read_html(source)
+        html = read_html(document)
     except FileNotFoundError:
-        html = source
+        html = document
 
-    return images_regex.findall(html)
+    images = images_regex.findall(html)
+
+    fixed_slashs = [x.replace('\\', '/').split('/')[-1] for x in images]
+
+    return fixed_slashs
 
 
-def check_images_availability(source, available_images):
+def check_images_availability(available_images, document_images):
 
-    if isinstance(source, list):
-        html_images = source
-    elif isinstance(source, str):
-        html_images = list_document_images(source)
+    if isinstance(document_images, list):
+        html_images = document_images
+    elif isinstance(document_images, str):
+        html_images = get_document_images(document_images)
     else:
         raise ValueError('Expected a list of images or a string with an html document, given: %s' % source)
 
     images_availability = []
+
     for image in html_images:
-        if image in available_images:
+        if image in [x.split('/')[-1] for x in available_images]:
             logging.info('Image available in the file system (%s)' % image)
             images_availability.append((image, True))
         else:
@@ -182,72 +187,25 @@ class Article(object):
         self.xml = xml
         self.xylose = raw_data
         self.pid = pid
+        self.issue_label = self._issue_label()
+        self.journal_acronym = self._journal_acronym()
+        self.content_version = self._content_version()
+        self.file_code = self._file_code()
 
-        logging.info('Issue label for source files is (%s)' % self.issue_label)
-        logging.info('Journal acronym for source files is (%s)' % self.journal_acronym)
-        logging.info('Content version (%s)' % self.content_version)
-
-    @property
-    def list_images(self):
-
-        path = '/'.join(
-            [self.source_dir, 'img', self.journal_acronym, self.issue_label]
-        )
-
-        #return [x for x in list_path(path) if x in list_document_images('ss')]
-        return list_path(path)
-
-    @property
-    def list_pdfs(self):
-
-        path = '/'.join(
-            [self.source_dir, 'pdf', self.journal_acronym, self.issue_label]
-        )
-
-        return [x for x in list_path(path) if self.file_code in x]
-
-    @property
-    def list_htmls(self):
-
-        path = '/'.join(
-            [self.source_dir, 'html', self.journal_acronym, self.issue_label]
-        )
-
-        return [x for x in list_path(path) if self.file_code in x]
-
-    @property
-    def list_xmls(self):
-
-        path = '/'.join(
-            [self.source_dir, 'xml', self.journal_acronym, self.issue_label]
-        )
-
-        return [x for x in list_path(path) if self.file_code in x]
-
-    @property
-    def list_documents(self):
-        """
-        This method retrieve the html's or xml's according to the vesion of the
-        given document.
-        """
-
-        if self.content_version == 'sps':
-            return self.list_xmls
-        else:
-            return self.list_htmls
-
-    @property
-    def journal_acronym(self):
+    def _journal_acronym(self):
         ja = self.xylose.journal_acronym
+
+        logging.info('Journal acronym for source files is (%s)' % ja)
 
         return ja
 
-    @property
-    def file_code(self):
+    def _file_code(self):
+
+        logging.info('File code is (%s)' % self.xylose.file_code)
+
         return self.xylose.file_code
 
-    @property
-    def content_version(self):
+    def _content_version(self):
         """
         This method retrieve the version of the document. If the file with
         the document content is an XML SPS, the method will retrieve 'rsps',
@@ -263,10 +221,11 @@ class Article(object):
         if extension == 'xml':
             version = 'sps'
 
+        logging.info('Content version (%s)' % version)
+
         return version
 
-    @property
-    def issue_label(self):
+    def _issue_label(self):
         """
         This method retrieve the name of the directory, where the article
         store the static files. The name is returned in compliance with
@@ -297,16 +256,111 @@ class Article(object):
 
         issue_label = issue_dir.lower()
 
+        logging.info('Issue label for source files is (%s)' % issue_label)
+
         return issue_label
 
-    def images(self):
-        pass
+    @property
+    def list_source_images(self):
 
-    def pdfs(self):
-        pass
+        path = '/'.join(
+            [self.source_dir, 'img', self.journal_acronym, self.issue_label]
+        )
 
+        images = ['/'.join([path, x]) for x in list_path(path)]
+
+        if len(images) == 0:
+            logging.info('No source images available for the issue (%s)' % self.issue_label)
+
+        for image in images:
+            logging.info('Image (%s) available in source for the issue (%s)' % (image, self.issue_label))
+
+        return images
+
+    @property
+    def list_document_images(self):
+
+        doc_images = []
+        if self.content_version == 'sps':
+            pass
+        else:
+            for document in self.list_documents:
+                doc_images += get_document_images(document)
+
+        if len(doc_images) == 0:
+            logging.info('Images not required for (%s)' % (self.pid))
+
+        for image in doc_images:
+            logging.info('Image (%s) required for (%s)' % (image, self.pid))
+
+        return doc_images
+
+    @property
+    def list_pdfs(self):
+
+        path = '/'.join(
+            [self.source_dir, 'pdf', self.journal_acronym, self.issue_label]
+        )
+
+        pdfs = ['/'.join([path, x]) for x in list_path(path) if self.file_code in x]
+
+        if len(pdfs) == 0:
+            logging.warning('PDF not found for (%s)' % self.pid)
+
+        for pdf in pdfs:
+            logging.info('PDF (%s) found for (%s)' % (pdf, self.pid))
+
+        return pdfs
+
+    @property
+    def list_htmls(self):
+
+        path = '/'.join(
+            [self.source_dir, 'html', self.journal_acronym, self.issue_label]
+        )
+
+        htmls = ['/'.join([path, x]) for x in list_path(path) if self.file_code in x]
+
+        if len(htmls) == 0:
+            logging.warning('HTML not found for (%s)' % self.pid)
+
+        for html in htmls:
+            logging.info('HTML (%s) found for (%s)' % (html, self.pid))
+
+        return htmls
+
+    @property
+    def list_xmls(self):
+
+        path = '/'.join(
+            [self.source_dir, 'xml', self.journal_acronym, self.issue_label]
+        )
+
+        xmls = ['/'.join([path, x]) for x in list_path(path) if self.file_code in x]
+
+        if len(xmls) == 0:
+            logging.warning('XML not found for (%s)' % self.pid)
+
+        for xml in xmls:
+            logging.info('XML (%s) found for (%s)' % (xml, self.pid))
+
+        return xmls
+
+    @property
+    def list_documents(self):
+        """
+        This method retrieve the html's or xml's according to the vesion of the
+        given document.
+        """
+
+        if self.content_version == 'sps':
+            return self.list_xmls
+        else:
+            return self.list_htmls
+
+    @property
     def images_status(self):
-        pass
+        return check_images_availability(self.list_source_images, self.list_document_images)
 
     def build_package(self, deposit_path):
         pass

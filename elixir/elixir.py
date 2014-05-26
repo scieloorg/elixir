@@ -1,7 +1,10 @@
 import argparse
 import logging
 
-from elixir import feedstock
+try:
+    from elixir import feedstock
+except ImportError:
+    import feedstock
 
 __version__ = '0.0.1'
 
@@ -14,18 +17,24 @@ def pack_document(*args, **kwargs):
         raw_data = feedstock.load_rawdata(kwargs['pid'])
         article = feedstock.Article(kwargs['pid'], xml, raw_data, kwargs['source_dir'])
 
-        article_htmls = article.images
+        article_docs = article.list_documents
+        article_pdfs = article.list_pdfs
+        #article_document_images = article.list_document_images
+        #article_source_images = article.list_source_images
+        article_images_status = article.images_status
 
 
 def main():
     parser = argparse.ArgumentParser(
         description="Create a article package from the legacy data")
+
     parser.add_argument(
         '--pid',
         '-p',
         default=None,
         help='Document ID, must be the PID number'
     )
+
     parser.add_argument(
         '--source_dir',
         '-s',

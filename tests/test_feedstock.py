@@ -62,11 +62,37 @@ class ElixirTests(unittest.TestCase):
         with self.assertRaises(FileNotFoundError):
             html = feedstock.read_html('xxxx')
 
-    def test_list_document_images(self):
+    def test_get_document_images(self):
 
-        images = feedstock.list_document_images(source_dir+'/html/rsp/v40n6/en_07.htm')
+        images = feedstock.get_document_images(source_dir+'/html/rsp/v40n6/en_07.htm')
 
-        self.assertTrue(u'/img/revistas/rsp/v40n6/e07f1.gif' in images)
+        self.assertTrue(u'e07f1.gif' in images)
+
+    def test_get_document_images_from_html(self):
+
+        html = """
+            <html>
+                <img src="/img/revistas/rsp/01.gif" />
+                <img src="/img/revistas/rsp/02.jpg" />
+                <a href="/img/revistas/rsp/03.gif">Blaus</a>
+                <a href="\img/revistas/rsp/04.gif">Picles</a>
+            </html>
+        """
+        images = feedstock.get_document_images(html)
+
+        self.assertEqual(['01.gif', '02.jpg', '03.gif', '04.gif'], images)
+
+    def test_get_document_images_crazy_slashes_1(self):
+
+        images = feedstock.get_document_images('<img src="/img\html/rsp/v40n6/teste.gif" />')
+
+        self.assertTrue(u'teste.gif' in images)
+
+    def test_get_document_images_crazy_slashes_2(self):
+
+        images = feedstock.get_document_images('<img src="\img\html/rsp/v40n6/teste.gif" />')
+
+        self.assertTrue(u'teste.gif' in images)
 
     def test_check_images_availability(self):
 
@@ -74,20 +100,18 @@ class ElixirTests(unittest.TestCase):
 
         file_system_images = ['b', 'c', 'd', 'e']
 
-        result = feedstock.check_images_availability(html_images, file_system_images)
+        result = feedstock.check_images_availability(file_system_images, html_images)
 
-        expected = [('a', False), ('b', True), ('c', True)]
-
-        self.assertEqual(expected, result)
+        self.assertEqual([('a', False), ('b', True), ('c', True)], result)
 
     def test_check_images_availability_with_a_html(self):
 
         html = """
             <html>
                 <img src="/img/revistas/rsp/01.gif" />
-                <img src="/img/revistas/rsp/02.jpg" />
-                <a href="/img/revistas/rsp/03.gif">Blaus</a>
-                <a href="/img/revistas/rsp/04.gif">Picles</a>
+                <img src='/img/revistas/rsp/02.jpg' />
+                <a href="\img/revistas/rsp/03.gif">Blaus</a>
+                <a href='\img/revistas/rsp/04.gif'>Picles</a>
             </html>
         """
 
@@ -99,13 +123,13 @@ class ElixirTests(unittest.TestCase):
             '/img/revistas/rsp/06.gif'
         ]
 
-        result = feedstock.check_images_availability(html, file_system_images)
+        result = feedstock.check_images_availability(file_system_images, html)
 
         expected = [
-            ('/img/revistas/rsp/01.gif', True),
-            ('/img/revistas/rsp/02.jpg', True),
-            ('/img/revistas/rsp/03.gif', True),
-            ('/img/revistas/rsp/04.gif', False),
+            ('01.gif', True),
+            ('02.jpg', True),
+            ('03.gif', True),
+            ('04.gif', False),
         ]
 
         self.assertEqual(expected, result)
@@ -148,153 +172,287 @@ class Article(unittest.TestCase):
                 '.'
             )
 
-    def test_version(self):
+    def test_version_xml(self):
 
-        version = self._article.content_version
+        version = self._article._content_version()
 
         self.assertEqual(version, 'sps')
 
-    def test_version(self):
+    def test_version_html(self):
         self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
         self._article.xylose.data['article']['v31'][0]['_'] = '40'
         self._article.xylose.data['article']['v32'][0]['_'] = '6'
         self._article.xylose.data['article']['v65'][0]['_'] = '2014'
         self._article.xylose.data['article']['v702'][0]['_'] = '/x/x/y/z/file.htm'
-        version = self._article.content_version
+        version = self._article._content_version()
 
         self.assertEqual(version, 'legacy')
 
-    def test_list_images(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = '40'
-        self._article.xylose.data['article']['v32'][0]['_'] = '6'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
+    @unittest.skip
+    def test_list_images_sps_mode(self):
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '6'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
-        images = self._article.list_images
+        raw_data = scielodocument.Article(json_data)
 
-        self.assertEqual(len(images), 121)
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        images = article.list_document_images
+
+        self.assertEqual(len(images), 7)
+
+    def test_list_images_legacy_mode(self):
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '6'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        images = article.list_document_images
+
+        self.assertEqual(len(images), 7)
 
     def test_list_images_without_files(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = '40'
-        self._article.xylose.data['article']['v32'][0]['_'] = '7'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '7'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
-        images = self._article.list_images
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        images = article.list_document_images
 
         self.assertEqual(images, [])
 
     def test_list_images_invalid_path(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = 'xx'
-        self._article.xylose.data['article']['v32'][0]['_'] = 'xx'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
-        self._article.xylose.data['article']['v702'][0]['_'] = '/'
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = 'xx'
+        json_data['article']['v32'][0]['_'] = 'xx'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = 'invalid'
+
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
 
         with self.assertRaises(FileNotFoundError):
-            images = self._article.list_images
+            article.list_document_images
 
     def test_list_pdfs(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = '40'
-        self._article.xylose.data['article']['v32'][0]['_'] = '6'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
-        self._article.xylose.data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '6'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
-        images = self._article.list_pdfs
+        raw_data = scielodocument.Article(json_data)
 
-        self.assertEqual(len(images), 2)
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        pdfs = article.list_pdfs
+
+        self.assertEqual(len(pdfs), 2)
 
     def test_list_pdfs_without_files(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = '40'
-        self._article.xylose.data['article']['v32'][0]['_'] = '7'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
-        self._article.xylose.data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '7'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
-        images = self._article.list_pdfs
+        raw_data = scielodocument.Article(json_data)
 
-        self.assertEqual(images, [])
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        pdfs = article.list_pdfs
+
+        self.assertEqual(pdfs, [])
 
     def test_list_pdfs_invalid_path(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = 'xx'
-        self._article.xylose.data['article']['v32'][0]['_'] = 'xx'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
-        self._article.xylose.data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = 'xx'
+        json_data['article']['v32'][0]['_'] = 'xx'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
 
         with self.assertRaises(FileNotFoundError):
-            images = self._article.list_pdfs
+            article.list_pdfs
 
     def test_list_htmls(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = '40'
-        self._article.xylose.data['article']['v32'][0]['_'] = '6'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
-        self._article.xylose.data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '6'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
-        htmls = self._article.list_htmls
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        htmls = article.list_htmls
 
         self.assertEqual(len(htmls), 2)
 
     def test_list_htmls_without_files(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = '40'
-        self._article.xylose.data['article']['v32'][0]['_'] = '7'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
-        self._article.xylose.data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '7'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
-        htmls = self._article.list_htmls
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        htmls = article.list_htmls
 
         self.assertEqual(htmls, [])
 
     def test_list_htmls_invalid_path(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = 'xx'
-        self._article.xylose.data['article']['v32'][0]['_'] = 'xx'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
-        self._article.xylose.data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = 'xx'
+        json_data['article']['v32'][0]['_'] = 'xx'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
 
         with self.assertRaises(FileNotFoundError):
-            self._article.list_htmls
+            article.list_htmls
 
     def test_list_xmls(self):
         xmls = self._article.list_xmls
 
-        self.assertEqual(xmls[0], '0034-8910-rsp-47-04-0675.xml')
+        self.assertTrue('0034-8910-rsp-47-04-0675.xml' in xmls[0])
 
     def test_list_xmls_without_files(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = '47'
-        self._article.xylose.data['article']['v32'][0]['_'] = '1'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
-        self._article.xylose.data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '47'
+        json_data['article']['v32'][0]['_'] = '1'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
-        xmls = self._article.list_xmls
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        xmls = article.list_xmls
 
         self.assertEqual(xmls, [])
 
     def test_list_xmls_invalid_path(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = 'xx'
-        self._article.xylose.data['article']['v32'][0]['_'] = 'xx'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
-        self._article.xylose.data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = 'xx'
+        json_data['article']['v32'][0]['_'] = 'xx'
+        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
 
         with self.assertRaises(FileNotFoundError):
-            self._article.list_xmls
-
-    def test_file_code(self):
-
-        self.assertEqual(self._article.file_code, u'0034-8910-rsp-47-04-0675')
+            article.list_xmls
 
     def test_pid(self):
 
         self.assertEqual(self._article.pid, u'S0034-89102013000400674')
 
+    def test_file_code(self):
+
+        self.assertEqual(self._article._file_code(), u'0034-8910-rsp-47-04-0675')
+
     def test_acronym(self):
 
-        self.assertEqual(self._article.journal_acronym, u'rsp')
+        self.assertEqual(self._article._journal_acronym(), u'rsp')
 
     def test_issue_label_volume_number(self):
         self._article.xylose.data = {
@@ -303,7 +461,7 @@ class Article(unittest.TestCase):
             'citations': []
         }
 
-        self.assertEqual(self._article.issue_label, u'v10n12')
+        self.assertEqual(self._article._issue_label(), u'v10n12')
 
     def test_issue_label_volume_number_pr(self):
         self._article.xylose.data = {
@@ -312,7 +470,7 @@ class Article(unittest.TestCase):
             'citations': []
         }
 
-        self.assertEqual(self._article.issue_label, u'v10n12pr')
+        self.assertEqual(self._article._issue_label(), u'v10n12pr')
 
     def test_issue_label_volume_suppl_number(self):
         self._article.xylose.data = {
@@ -321,7 +479,7 @@ class Article(unittest.TestCase):
             'citations': []
         }
 
-        self.assertEqual(self._article.issue_label, u'v10s12')
+        self.assertEqual(self._article._issue_label(), u'v10s12')
 
     def test_issue_label_ahead(self):
         self._article.xylose.data = {
@@ -330,7 +488,7 @@ class Article(unittest.TestCase):
             'citations': []
         }
 
-        self.assertEqual(self._article.issue_label, u'2014nahead')
+        self.assertEqual(self._article._issue_label(), u'2014nahead')
 
     def test_issue_label_ahead(self):
         self._article.xylose.data = {
@@ -339,4 +497,4 @@ class Article(unittest.TestCase):
             'citations': []
         }
 
-        self.assertEqual(self._article.issue_label, u'2014naheadpr')
+        self.assertEqual(self._article._issue_label(), u'2014naheadpr')
