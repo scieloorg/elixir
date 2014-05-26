@@ -109,8 +109,8 @@ class ElixirTests(unittest.TestCase):
         html = """
             <html>
                 <img src="/img/revistas/rsp/01.gif" />
-                <img src='/img/revistas/rsp/02.jpg' />
-                <a href="\img/revistas/rsp/03.gif">Blaus</a>
+                <img src='/IMG/revistas/rsp/02.jpg' />
+                <a href="\IMG/revistas/rsp/03.GIF">Blaus</a>
                 <a href='\img/revistas/rsp/04.gif'>Picles</a>
             </html>
         """

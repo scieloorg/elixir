@@ -19,8 +19,6 @@ def pack_document(*args, **kwargs):
 
         article_docs = article.list_documents
         article_pdfs = article.list_pdfs
-        #article_document_images = article.list_document_images
-        #article_source_images = article.list_source_images
         article_images_status = article.images_status
 
 

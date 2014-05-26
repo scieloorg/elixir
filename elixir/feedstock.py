@@ -128,7 +128,7 @@ def get_document_images(document):
 
     images = images_regex.findall(html)
 
-    fixed_slashs = [x.replace('\\', '/').split('/')[-1] for x in images]
+    fixed_slashs = [x.replace('\\', '/').split('/')[-1].lower() for x in images]
 
     return fixed_slashs
 
@@ -166,7 +166,7 @@ def list_path(path):
             u'Source directory does not exists: %s' % path
         )
 
-    return files
+    return [x.lower() for x in files]
 
 
 class Article(object):
@@ -302,7 +302,7 @@ class Article(object):
             [self.source_dir, 'pdf', self.journal_acronym, self.issue_label]
         )
 
-        pdfs = ['/'.join([path, x]) for x in list_path(path) if self.file_code in x]
+        pdfs = ['/'.join([path, x]).lower() for x in list_path(path) if self.file_code in x]
 
         if len(pdfs) == 0:
             logging.warning('PDF not found for (%s)' % self.pid)
@@ -319,7 +319,7 @@ class Article(object):
             [self.source_dir, 'html', self.journal_acronym, self.issue_label]
         )
 
-        htmls = ['/'.join([path, x]) for x in list_path(path) if self.file_code in x]
+        htmls = ['/'.join([path, x]).lower() for x in list_path(path) if self.file_code in x]
 
         if len(htmls) == 0:
             logging.warning('HTML not found for (%s)' % self.pid)
@@ -336,7 +336,7 @@ class Article(object):
             [self.source_dir, 'xml', self.journal_acronym, self.issue_label]
         )
 
-        xmls = ['/'.join([path, x]) for x in list_path(path) if self.file_code in x]
+        xmls = ['/'.join([path, x]).lower() for x in list_path(path) if self.file_code in x]
 
         if len(xmls) == 0:
             logging.warning('XML not found for (%s)' % self.pid)
