@@ -5,6 +5,7 @@ import os
 import sys
 import re
 import logging
+from lxml import etree
 
 try:  # Keep compatibility with python 2.7
     from html import unescape
@@ -42,10 +43,11 @@ def loadXML(pid):
     try:
         xml = requests.get(
             url,
-            timeout=3
+            timeout=10
         ).text.strip()
         logging.info('XML retrieved from (%s)' % url)
     except:
+        raise
         logging.error('Timeout opening (%s)' % url)
 
     return xml
@@ -57,7 +59,7 @@ def load_rawdata(pid):
         json_data = json.loads(
             requests.get(
                 url,
-                timeout=3
+                timeout=10
             ).text.strip()
         )
         logging.info('JSON data retrieved from (%s)' % url)
@@ -133,12 +135,76 @@ def get_document_images(document):
     return fixed_slashs
 
 
+def get_document_midias(document):
+    """
+    This method retrieve a list of midia files founded into a HTML.
+
+    Keyword arguments:
+    document -- could be a valid file path to a HTML document or a string withing an HTML.
+    """
+    allowed_midias = ['mp4', 'doc', 'mp3', 'pdf', 'avi', 'mov', 'mpeg', 'ppt', 'xls']
+
+    midias_regex = re.compile(u'href=["\'](.*?)["\']', re.IGNORECASE)
+
+    try:
+        html = read_html(document)
+    except FileNotFoundError:
+        html = document
+
+    midias = midias_regex.findall(html)
+
+    fltr_allowed = [x.replace('\\', '/').lower() for x in midias if x.split('.')[-1].lower() in allowed_midias]
+
+    return fltr_allowed
+
+
+def get_xml_document_images(document):
+
+    try:
+        xml = etree.parse(document)
+        logging.info('XML file parsed')
+    except:
+        raise
+        logging.error('XML file could not be parsed')
+
+    graphics = xml.findall('//graphic')+xml.findall('//inline-graphic')
+
+    files = []
+    for fname in [x.get('{http://www.w3.org/1999/xlink}href') for x in graphics]:
+        if not '.' in fname:
+            files.append('%s.jpg' % fname)
+        else:
+            files.append(fname)
+
+    return files
+
+
+def get_xml_document_midias(document):
+
+    try:
+        xml = etree.parse(document)
+        logging.info('XML file parsed')
+    except:
+        raise
+        logging.error('XML file could not be parsed')
+
+    midias = xml.findall('//midia')
+
+    files = []
+    for fname in [x.get('{http://www.w3.org/1999/xlink}href') for x in midias]:
+        files.append(fname)
+
+    return files
+
+
 def check_images_availability(available_images, document_images):
 
     if isinstance(document_images, list):
         html_images = document_images
     elif isinstance(document_images, str):
         html_images = get_document_images(document_images)
+    elif isinstance(document_images, etree):
+        html_images = get_xml_document_images(document_images)
     else:
         raise ValueError('Expected a list of images or a string with an html document, given: %s' % source)
 
@@ -281,10 +347,11 @@ class Article(object):
     def list_document_images(self):
 
         doc_images = []
-        if self.content_version == 'sps':
-            pass
-        else:
-            for document in self.list_documents:
+
+        for document in self.list_documents:
+            if self.content_version == 'sps':
+                doc_images += get_xml_document_images(document)
+            else:
                 doc_images += get_document_images(document)
 
         if len(doc_images) == 0:
@@ -296,13 +363,32 @@ class Article(object):
         return doc_images
 
     @property
+    def list_document_midia(self):
+
+        doc_midias = []
+
+        for document in self.list_documents:
+            if self.content_version == 'sps':
+                doc_midias += get_xml_document_midias(document)
+            else:
+                doc_midias += get_document_midias(document)
+
+        if len(doc_midias) == 0:
+            logging.info('Midia not required for (%s)' % (self.pid))
+
+        for midia in doc_midias:
+            logging.info('Midia (%s) required for (%s)' % (midia, self.pid))
+
+        return doc_midias
+
+    @property
     def list_pdfs(self):
 
         path = '/'.join(
             [self.source_dir, 'pdf', self.journal_acronym, self.issue_label]
         )
 
-        pdfs = ['/'.join([path, x]).lower() for x in list_path(path) if self.file_code in x]
+        pdfs = ['/'.join([path, x]) for x in list_path(path) if self.file_code in x]
 
         if len(pdfs) == 0:
             logging.warning('PDF not found for (%s)' % self.pid)
@@ -319,7 +405,7 @@ class Article(object):
             [self.source_dir, 'html', self.journal_acronym, self.issue_label]
         )
 
-        htmls = ['/'.join([path, x]).lower() for x in list_path(path) if self.file_code in x]
+        htmls = ['/'.join([path, x]) for x in list_path(path) if self.file_code in x]
 
         if len(htmls) == 0:
             logging.warning('HTML not found for (%s)' % self.pid)
@@ -336,7 +422,7 @@ class Article(object):
             [self.source_dir, 'xml', self.journal_acronym, self.issue_label]
         )
 
-        xmls = ['/'.join([path, x]).lower() for x in list_path(path) if self.file_code in x]
+        xmls = ['/'.join([path, x]) for x in list_path(path) if self.file_code in x]
 
         if len(xmls) == 0:
             logging.warning('XML not found for (%s)' % self.pid)

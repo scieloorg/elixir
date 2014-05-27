@@ -9,7 +9,8 @@ version = elixir.__version__
 
 install_requires = [
     'requests',
-    'xylose'
+    'xylose',
+    'lxml'
 ]
 tests_require = install_requires[:]
 

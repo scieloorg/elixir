@@ -18,7 +18,6 @@ def pack_document(*args, **kwargs):
         article = feedstock.Article(kwargs['pid'], xml, raw_data, kwargs['source_dir'])
 
         article_docs = article.list_documents
-        article_pdfs = article.list_pdfs
         article_images_status = article.images_status
 
 

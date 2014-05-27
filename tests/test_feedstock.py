@@ -2,6 +2,7 @@ import unittest
 import requests
 import os
 import json
+import io
 
 try:
     from unittest import mock
@@ -62,6 +63,72 @@ class ElixirTests(unittest.TestCase):
         with self.assertRaises(FileNotFoundError):
             html = feedstock.read_html('xxxx')
 
+    def test_get_xml_document_images_with_real_xml(self):
+        images = feedstock.get_xml_document_images(source_dir+'/xml/rsp/v47n4/0034-8910-rsp-47-04-0740.xml')        
+
+        self.assertTrue(u'0034-8910-rsp-47-04-0740-gf01.jpg' in images)
+        self.assertEqual(2, len(images))
+
+    def test_get_xml_document_images(self):
+        xml = """<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+                 <article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                    dtd-version="3.0" article-type="research-article" xml:lang="pt">
+                    <front></front>
+                    <body>
+                        <sec>
+                            <p>
+                                <graphic xlink:href="0034-8910-rsp-47-04-0740-gf01"/>
+                                <graphic xlink:href="0034-8910-rsp-47-04-0740-gf02"/>
+                            </p>
+                            <p>
+                                <inline-graphic xlink:href="0034-8910-rsp-47-04-0740-gf03"/>
+                                <inline-graphic xlink:href="0034-8910-rsp-47-04-0740-gf04.png"/>
+                            </p>
+                        </sec>
+                    </body>
+                </article>
+            """
+
+        with io.StringIO() as f:
+            f.write(xml)
+            f.seek(0)
+            images = feedstock.get_xml_document_images(f)
+
+        self.assertTrue(u'0034-8910-rsp-47-04-0740-gf01.jpg' in images)
+        self.assertTrue(u'0034-8910-rsp-47-04-0740-gf02.jpg' in images)
+        self.assertTrue(u'0034-8910-rsp-47-04-0740-gf03.jpg' in images)
+        self.assertTrue(u'0034-8910-rsp-47-04-0740-gf04.png' in images)
+        self.assertEqual(4, len(images))
+
+    def test_get_xml_document_midias(self):
+        xml = """<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+                 <article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+                    dtd-version="3.0" article-type="research-article" xml:lang="pt">
+                    <front></front>
+                    <body>
+                        <sec>
+                            <p>
+                                <midia xlink:href="0034-8910-rsp-47-04-0740-gf01.mp4"/>
+                                <midia xlink:href="0034-8910-rsp-47-04-0740-gf02.mov"/>
+                            </p>
+                            <p>
+                                <midia xlink:href="0034-8910-rsp-47-04-0740-gf03.mp3"/>
+                            </p>
+                        </sec>
+                    </body>
+                </article>
+            """
+
+        with io.StringIO() as f:
+            f.write(xml)
+            f.seek(0)
+            images = feedstock.get_xml_document_midias(f)
+
+        self.assertTrue(u'0034-8910-rsp-47-04-0740-gf01.mp4' in images)
+        self.assertTrue(u'0034-8910-rsp-47-04-0740-gf02.mov' in images)
+        self.assertTrue(u'0034-8910-rsp-47-04-0740-gf03.mp3' in images)
+        self.assertEqual(3, len(images))
+
     def test_get_document_images(self):
 
         images = feedstock.get_document_images(source_dir+'/html/rsp/v40n6/en_07.htm')
@@ -81,6 +148,34 @@ class ElixirTests(unittest.TestCase):
         images = feedstock.get_document_images(html)
 
         self.assertEqual(['01.gif', '02.jpg', '03.gif', '04.gif'], images)
+
+    def test_get_document_midias_from_html(self):
+
+        html = """
+            <html>
+                <a href="/brocolis/revistas/rsp/01.mp3">Blaus</a>
+                <a href="\\blaus/revistas/rsp/02.mov">Picles</a>
+                <a href="\midia/revistas/rsp/03.mpeg">Blaus</a>
+                <a href="\picles/revistas/rsp/04.avi">Picles</a>
+                <a href="\img/revistas/rsp/05.PPT">Blaus</a>
+                <a href="\\videos/revistas/rsp/06.mp4">Picles</a>
+                <a href="07.doc">Picles</a>
+                <a href="08.exe">Picles</a>
+                <a href="http://www.blaus.picles\picles/revistas/rsp/09.avi">Picles</a>
+            </html>
+        """
+        images = feedstock.get_document_midias(html)
+
+        self.assertEqual([
+            '/brocolis/revistas/rsp/01.mp3',
+            '/blaus/revistas/rsp/02.mov',
+            '/midia/revistas/rsp/03.mpeg',
+            '/picles/revistas/rsp/04.avi',
+            '/img/revistas/rsp/05.ppt',
+            '/videos/revistas/rsp/06.mp4',
+            '07.doc',
+            'http://www.blaus.picles/picles/revistas/rsp/09.avi'
+        ], images)
 
     def test_get_document_images_crazy_slashes_1(self):
 
@@ -187,28 +282,6 @@ class Article(unittest.TestCase):
         version = self._article._content_version()
 
         self.assertEqual(version, 'legacy')
-
-    @unittest.skip
-    def test_list_images_sps_mode(self):
-        json_data = json.loads(document_json)
-        json_data['title']['v68'][0]['_'] = 'rsp'
-        json_data['article']['v31'][0]['_'] = '40'
-        json_data['article']['v32'][0]['_'] = '6'
-        json_data['article']['v65'][0]['_'] = '2014'
-        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
-
-        raw_data = scielodocument.Article(json_data)
-
-        article = feedstock.Article(
-            'S0034-89102013000400674',
-            document_xml,
-            raw_data,
-            source_dir
-        )
-
-        images = article.list_document_images
-
-        self.assertEqual(len(images), 7)
 
     def test_list_images_legacy_mode(self):
         json_data = json.loads(document_json)
@@ -395,6 +468,28 @@ class Article(unittest.TestCase):
 
         with self.assertRaises(FileNotFoundError):
             article.list_htmls
+
+    def test_list_images_sps_mode(self):
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '47'
+        json_data['article']['v32'][0]['_'] = '4'
+        json_data['article']['v65'][0]['_'] = '2014'
+
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102013000400674',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        images = article.list_document_images
+
+        self.assertTrue('0034-8910-rsp-47-04-0675-gf01.jpg', images)
+        self.assertTrue('0034-8910-rsp-47-04-0675-gf01-en.jpg', images)
+        self.assertEqual(len(images), 2)
 
     def test_list_xmls(self):
         xmls = self._article.list_xmls
