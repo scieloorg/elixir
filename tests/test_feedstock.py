@@ -3,6 +3,7 @@ import requests
 import os
 import json
 import io
+import zipfile
 
 try:
     from unittest import mock
@@ -27,7 +28,47 @@ def setupModule():
     source_dir = os.path.dirname(__file__) + '/files'
 
 
-class ElixirTests(unittest.TestCase):
+class FeedStockTests(unittest.TestCase):
+
+    def test_wrapp_files(self):
+
+        wrapped_files = feedstock.wrapp_files(
+            source_dir+'/html/rsp/v40n6/en_07.htm',
+            source_dir+'/pdf/rsp/v40n6/07.pdf',
+            source_dir+'/pdf/rsp/v40n6/en_07.pdf',
+            source_dir+'/img/rsp/v40n6/07f1.gif',
+        )
+
+        files = ['en_07.htm', '07.pdf', 'en_07.pdf', '07f1.gif', '07t1.gif', '07t2.gif', '07t3.gif', '07t4.gif', '07t5.gif']
+
+        self.assertTrue('en_07.htm' in wrapped_files.namelist())
+        self.assertTrue('07.pdf' in wrapped_files.namelist())
+        self.assertTrue('en_07.pdf' in wrapped_files.namelist())
+        self.assertTrue('07f1.gif' in wrapped_files.namelist())
+
+    def test_wrapp_files_with_file_like_object(self):
+
+        wrapped_files = feedstock.wrapp_files(
+            source_dir+'/html/rsp/v40n6/en_07.htm',
+            source_dir+'/pdf/rsp/v40n6/07.pdf',
+            flo,
+            source_dir+'/img/rsp/v40n6/07f1.gif',
+        )
+
+        files = ['en_07.htm', '07.pdf', 'en_07.pdf', '07f1.gif', '07t1.gif', '07t2.gif', '07t3.gif', '07t4.gif', '07t5.gif']
+
+        self.assertTrue('en_07.htm' in wrapped_files.namelist())
+        self.assertTrue('07.pdf' in wrapped_files.namelist())
+        self.assertTrue('en_07.pdf' in wrapped_files.namelist())
+        self.assertTrue('07f1.gif' in wrapped_files.namelist())
+
+    def test_wrapp_files_invalid_path(self):
+
+        with self.assertRaises(FileNotFoundError):
+            wrapped_files = feedstock.wrapp_files(
+                source_dir+'/html/rsp/v40n6/en_07.htm',
+                source_dir+'/invalid/pdf/rsp/v40n6/07.pdf'
+            )
 
     def test_loadXML(self):
 

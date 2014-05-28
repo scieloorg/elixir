@@ -5,12 +5,15 @@ import os
 import sys
 import re
 import logging
-from lxml import etree
+from zipfile import ZipFile
+import io
 
 try:  # Keep compatibility with python 2.7
     from html import unescape
 except ImportError:
     from HTMLParser import HTMLParser
+
+from lxml import etree
 
 from xylose import scielodocument
 
@@ -24,6 +27,27 @@ if PY2:
 else:
     html_parser = unescape
 # --------------
+
+html_regex = re.compile(u'<body>(.*?)</body>', re.IGNORECASE)
+midias_regex = re.compile(u'href=["\'](.*?)["\']', re.IGNORECASE)
+images_regex = re.compile(u'["\'](/img.*?|\\\\img.*?)["\']', re.IGNORECASE)
+
+
+def wrapp_files(*args):
+
+    thezip = ZipFile(io.BytesIO(), 'w')
+
+    for item in args:
+        filename = item.split('/')[-1]
+        try:
+            thezip.write(item, arcname=filename)
+        except FileNotFoundError:
+            logging.info('Unable to prepare zip file, file not found (%s)' % item)
+            raise
+
+    logging.info('Zip file prepared')
+
+    return thezip
 
 
 def html_decode(string):
@@ -95,11 +119,10 @@ def read_html(html_file, replace_entities=False):
     html_file -- complete path to the HTML file.
     replace_entities -- a boolean to set if the HTML will be retrived replacing the entities or not, default is False.
     """
-    images_regex = re.compile(u'<body>(.*?)</body>', re.IGNORECASE)
 
     try:
         html = open(html_file, 'r').read()
-        logging.info('Local HTML file readed (%s)' % html_file)
+        logging.debug('Local HTML file readed (%s)' % html_file)
     except FileNotFoundError:
         logging.error('Unable to read file (%s)' % html_file)
         raise FileNotFoundError(
@@ -111,7 +134,7 @@ def read_html(html_file, replace_entities=False):
 
     html = html_decode(html)
 
-    return images_regex.findall(html)[0]
+    return html_regex.findall(html)[0]
 
 
 def get_document_images(document):
@@ -121,7 +144,6 @@ def get_document_images(document):
     Keyword arguments:
     document -- could be a valid file path to a HTML document or a string withing an HTML.
     """
-    images_regex = re.compile(u'["\'](/img.*?|\\\\img.*?)["\']', re.IGNORECASE)
 
     try:
         html = read_html(document)
@@ -144,8 +166,6 @@ def get_document_midias(document):
     """
     allowed_midias = ['mp4', 'doc', 'mp3', 'pdf', 'avi', 'mov', 'mpeg', 'ppt', 'xls']
 
-    midias_regex = re.compile(u'href=["\'](.*?)["\']', re.IGNORECASE)
-
     try:
         html = read_html(document)
     except FileNotFoundError:
@@ -162,7 +182,7 @@ def get_xml_document_images(document):
 
     try:
         xml = etree.parse(document)
-        logging.info('XML file parsed')
+        logging.debug('XML file parsed')
     except:
         raise
         logging.error('XML file could not be parsed')
@@ -183,7 +203,7 @@ def get_xml_document_midias(document):
 
     try:
         xml = etree.parse(document)
-        logging.info('XML file parsed')
+        logging.debug('XML file parsed')
     except:
         raise
         logging.error('XML file could not be parsed')
@@ -225,7 +245,7 @@ def list_path(path):
 
     try:
         files = os.listdir(path)
-        logging.info('Source directory found (%s)' % path)
+        logging.debug('Source directory found (%s)' % path)
     except FileNotFoundError:
         logging.error('Source directory not found (%s)' % path)
         raise FileNotFoundError(
@@ -244,7 +264,7 @@ class Article(object):
 
         try:
             os.listdir(source_dir)
-            logging.info('Source directory found (%s)' % source_dir)
+            logging.debug('Source directory found (%s)' % source_dir)
         except FileNotFoundError:
             logging.error('Source directory not found (%s)' % source_dir)
             raise FileNotFoundError(u'Invalid source directory: %s' % source_dir)
@@ -336,10 +356,10 @@ class Article(object):
         images = ['/'.join([path, x]) for x in list_path(path)]
 
         if len(images) == 0:
-            logging.info('No source images available for the issue (%s)' % self.issue_label)
+            logging.debug('No source images available for the issue (%s)' % self.issue_label)
 
         for image in images:
-            logging.info('Image (%s) available in source for the issue (%s)' % (image, self.issue_label))
+            logging.debug('Image (%s) available in source for the issue (%s)' % (image, self.issue_label))
 
         return images
 
@@ -433,6 +453,10 @@ class Article(object):
         return xmls
 
     @property
+    def xml_files(self):
+        documents = self.list_documents()
+
+    @property
     def list_documents(self):
         """
         This method retrieve the html's or xml's according to the vesion of the
@@ -447,6 +471,3 @@ class Article(object):
     @property
     def images_status(self):
         return check_images_availability(self.list_source_images, self.list_document_images)
-
-    def build_package(self, deposit_path):
-        pass

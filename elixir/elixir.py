@@ -9,19 +9,42 @@ except ImportError:
 __version__ = '0.0.1'
 
 
-def pack_document(*args, **kwargs):
+def _config_logging(logging_level='INFO', logging_file=None):
+
+    allowed_levels = {
+        'DEBUG': logging.DEBUG,
+        'INFO': logging.INFO,
+        'WARNING': logging.WARNING,
+        'ERROR': logging.ERROR,
+        'CRITICAL': logging.CRITICAL
+    }
+
+    logging_config = {
+        'level': allowed_levels.get(logging_level, 'INFO'),
+        'format': '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    }
+
+    if logging_file:
+        logging_config['filename'] = logging_file
+
+    logging.basicConfig(**logging_config)
+
+
+def main(pid, source_dir='.', logging_level='Info', logging_file=None):
+
+    _config_logging(logging_level, logging_file)
 
     logging.info('Starting to pack a document')
-    if feedstock.is_valid_pid(kwargs['pid']):
-        xml = feedstock.loadXML(kwargs['pid'])
-        raw_data = feedstock.load_rawdata(kwargs['pid'])
-        article = feedstock.Article(kwargs['pid'], xml, raw_data, kwargs['source_dir'])
 
+    if feedstock.is_valid_pid(pid):
+        xml = feedstock.loadXML(pid)
+        raw_data = feedstock.load_rawdata(pid)
+        article = feedstock.Article(pid, xml, raw_data, source_dir)
         article_docs = article.list_documents
         article_images_status = article.images_status
 
 
-def main():
+def argp():
     parser = argparse.ArgumentParser(
         description="Create a article package from the legacy data")
 
@@ -43,27 +66,33 @@ def main():
         '--logging_file',
         '-o',
         default=None,
-        help='File to record all logging data, if None the log will be send to the standard out.'
+        help='File to record all logging data, if None the log will be send to the standard out'
     )
 
     parser.add_argument(
         '--logging_level',
         '-l',
-        default=logging.DEBUG,
-        help='File to record all logging data, if None the log will be send to the standard out.'
+        default='INFO',
+        choices=['DEBUG', 'INFO', 'WARNING', 'ERROR', 'CRITICAL'],
+        help='File to record all logging data, if None the log will be send to the standard out'
+    )
+
+    parser.add_argument(
+        '--deposit_dir',
+        '-d',
+        default=None,
+        help='Directory to receive the '
     )
 
     args = parser.parse_args()
 
-    logging_config = {'level': args.logging_level, 'format': '%(asctime)s - %(name)s - %(levelname)s - %(message)s'}
-
-    if args.logging_file:
-        logging_config['filename'] = args.logging_file
-
-    logging.basicConfig(**logging_config)
-
-    pack_document(pid=args.pid, source_dir=args.source_dir)
+    main(
+        args.pid,
+        source_dir=args.source_dir,
+        logging_level=args.logging_level,
+        logging_file=args.logging_file
+    )
 
 if __name__ == "__main__":
 
-    main()
+    argp()
