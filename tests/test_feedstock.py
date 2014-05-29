@@ -10,7 +10,7 @@ try:
 except ImportError:
     import mock
 
-from elixir import feedstock
+from elixir import feedstock, utils
 from xylose import scielodocument
 
 document_xml = document_json = source_dir = None
@@ -39,14 +39,13 @@ class FeedStockTests(unittest.TestCase):
             source_dir+'/img/rsp/v40n6/07f1.gif',
         )
 
-        files = ['en_07.htm', '07.pdf', 'en_07.pdf', '07f1.gif', '07t1.gif', '07t2.gif', '07t3.gif', '07t4.gif', '07t5.gif']
-
         self.assertTrue('en_07.htm' in wrapped_files.namelist())
         self.assertTrue('07.pdf' in wrapped_files.namelist())
         self.assertTrue('en_07.pdf' in wrapped_files.namelist())
         self.assertTrue('07f1.gif' in wrapped_files.namelist())
 
     def test_wrapp_files_with_file_like_object(self):
+        flo = utils.MemoryFileLike('blaus.txt', 'picles content')
 
         wrapped_files = feedstock.wrapp_files(
             source_dir+'/html/rsp/v40n6/en_07.htm',
@@ -55,11 +54,9 @@ class FeedStockTests(unittest.TestCase):
             source_dir+'/img/rsp/v40n6/07f1.gif',
         )
 
-        files = ['en_07.htm', '07.pdf', 'en_07.pdf', '07f1.gif', '07t1.gif', '07t2.gif', '07t3.gif', '07t4.gif', '07t5.gif']
-
         self.assertTrue('en_07.htm' in wrapped_files.namelist())
         self.assertTrue('07.pdf' in wrapped_files.namelist())
-        self.assertTrue('en_07.pdf' in wrapped_files.namelist())
+        self.assertTrue('blaus.txt' in wrapped_files.namelist())
         self.assertTrue('07f1.gif' in wrapped_files.namelist())
 
     def test_wrapp_files_invalid_path(self):
@@ -69,6 +66,8 @@ class FeedStockTests(unittest.TestCase):
                 source_dir+'/html/rsp/v40n6/en_07.htm',
                 source_dir+'/invalid/pdf/rsp/v40n6/07.pdf'
             )
+
+        wrapped_files
 
     def test_loadXML(self):
 

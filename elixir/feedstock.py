@@ -5,6 +5,8 @@ import os
 import sys
 import re
 import logging
+import codecs
+
 from zipfile import ZipFile
 import io
 
@@ -14,9 +16,7 @@ except ImportError:
     from HTMLParser import HTMLParser
 
 from lxml import etree
-
 from xylose import scielodocument
-
 # --------------
 # Py2 compat
 # --------------
@@ -28,6 +28,8 @@ else:
     html_parser = unescape
 # --------------
 
+from elixir.utils import MemoryFileLike
+
 html_regex = re.compile(u'<body>(.*?)</body>', re.IGNORECASE)
 midias_regex = re.compile(u'href=["\'](.*?)["\']', re.IGNORECASE)
 images_regex = re.compile(u'["\'](/img.*?|\\\\img.*?)["\']', re.IGNORECASE)
@@ -38,9 +40,15 @@ def wrapp_files(*args):
     thezip = ZipFile(io.BytesIO(), 'w')
 
     for item in args:
-        filename = item.split('/')[-1]
+
+        if isinstance(item, MemoryFileLike):
+            x = item
+        else:
+            x = codecs.open(item, 'r', encoding='iso-8859-1')
+
+        name = x.name.split('/')[-1]
         try:
-            thezip.write(item, arcname=filename)
+            thezip.writestr(name, x.read())
         except FileNotFoundError:
             logging.info('Unable to prepare zip file, file not found (%s)' % item)
             raise
