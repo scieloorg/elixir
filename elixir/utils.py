@@ -37,7 +37,7 @@ class MemoryFileLike(object):
         self._file_name = file_name
         self._content = StringIO()
 
-        if content:
+        if len(content):
             self._content.write(str(content).strip())
 
     @property

@@ -544,5 +544,11 @@ class Article(object):
         )
 
     def wrap_document(self):
-        images = self.images_status
-        #wrap_files()
+        images = [x[0] for x in self.images_status if x[1]]
+        pdfs = self.list_pdfs
+        xml = self.rsps_xml
+        files = images+pdfs
+        files.append(xml)
+        zipf = wrap_files(*files)
+        with open('test.zip', 'w') as f:
+            f.write(zipf.read())
