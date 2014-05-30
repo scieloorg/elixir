@@ -25,7 +25,7 @@ else:
     html_parser = unescape
 # --------------
 
-from elixir.utils import MemoryFileLike
+from elixir.utils import MemoryFileLike, wrap_files
 
 html_regex = re.compile(r'<body[^>]*>(.*)</body>', re.DOTALL | re.IGNORECASE)
 midias_regex = re.compile(r'href=["\'](.*)["\']', re.IGNORECASE)
@@ -135,7 +135,7 @@ def get_document_images(document):
 
     images = images_regex.findall(html)
 
-    fixed_slashs = [x.replace('\\', '/').split('/')[-1].lower() for x in images]
+    fixed_slashs = [x.replace('\\', '/').lower() for x in images]
 
     return fixed_slashs
 
@@ -213,13 +213,16 @@ def check_images_availability(available_images, document_images):
 
     images_availability = []
 
-    for image in html_images:
-        if image in [x.split('/')[-1] for x in available_images]:
-            logging.info('Image available in the file system (%s)' % image)
-            images_availability.append((image, True))
+    html_images = {x.split('/')[-1]:x for x in html_images}
+    av_images = {x.split('/')[-1]:x for x in available_images}
+
+    for image_name, image_path in html_images.items():
+        if image_name in av_images:
+            logging.info('Image available in the file system (%s)' % image_path)
+            images_availability.append((av_images[image_name], True))
         else:
-            logging.warning('Image not available in the file system (%s)' % image)
-            images_availability.append((image, False))
+            logging.warning('Image not available in the file system (%s)' % image_path)
+            images_availability.append((image_path, False))
 
     return images_availability
 
@@ -489,7 +492,7 @@ class Article(object):
     @property
     def xml_sps_with_legacy_data(self):
 
-        xml = loadXML(self.pid)
+        xml = self.xml
 
         try:
             xml = etree.fromstring(xml)
@@ -539,3 +542,7 @@ class Article(object):
             self.list_source_images,
             self.list_document_images
         )
+
+    def wrap_document(self):
+        images = self.images_status
+        #wrap_files()

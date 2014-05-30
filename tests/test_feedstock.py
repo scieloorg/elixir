@@ -168,7 +168,7 @@ class FeedStockTests(unittest.TestCase):
 
         images = feedstock.get_document_images(source_dir+'/html/rsp/v40n6/en_07.htm')
 
-        self.assertTrue(u'e07f1.gif' in images)
+        self.assertTrue(u'/img/revistas/rsp/v40n6/e07f1.gif' in images)
 
     def test_get_document_images_from_html(self):
 
@@ -182,7 +182,12 @@ class FeedStockTests(unittest.TestCase):
         """
         images = feedstock.get_document_images(html)
 
-        self.assertEqual(['01.gif', '02.jpg', '03.gif', '04.gif'], images)
+        self.assertEqual([
+            '/img/revistas/rsp/01.gif',
+            '/img/revistas/rsp/02.jpg',
+            '/img/revistas/rsp/03.gif',
+            '/img/revistas/rsp/04.gif'
+        ], images)
 
     def test_get_document_midias_from_html(self):
 
@@ -216,13 +221,13 @@ class FeedStockTests(unittest.TestCase):
 
         images = feedstock.get_document_images('<img src="/img\html/rsp/v40n6/teste.gif" />')
 
-        self.assertTrue(u'teste.gif' in images)
+        self.assertTrue(u'/img/html/rsp/v40n6/teste.gif' in images)
 
     def test_get_document_images_crazy_slashes_2(self):
 
         images = feedstock.get_document_images('<img src="\img\html/rsp/v40n6/teste.gif" />')
 
-        self.assertTrue(u'teste.gif' in images)
+        self.assertTrue(u'/img/html/rsp/v40n6/teste.gif' in images)
 
     def test_check_images_availability(self):
 
@@ -232,7 +237,17 @@ class FeedStockTests(unittest.TestCase):
 
         result = feedstock.check_images_availability(file_system_images, html_images)
 
-        self.assertEqual([('a', False), ('b', True), ('c', True)], result)
+        _true = []
+        _false = []
+        for x in result:
+            if x[1]:
+                _true.append(x[0])
+            else:
+                _false.append(x[0])
+
+        self.assertTrue('a' in _false)
+        self.assertTrue('b' in _true)
+        self.assertTrue('c' in _true)
 
     def test_check_images_availability_with_a_html(self):
 
@@ -255,14 +270,18 @@ class FeedStockTests(unittest.TestCase):
 
         result = feedstock.check_images_availability(file_system_images, html)
 
-        expected = [
-            ('01.gif', True),
-            ('02.jpg', True),
-            ('03.gif', True),
-            ('04.gif', False),
-        ]
+        _true = []
+        _false = []
+        for x in result:
+            if x[1]:
+                _true.append(x[0])
+            else:
+                _false.append(x[0])
 
-        self.assertEqual(expected, result)
+        self.assertTrue('/img/revistas/rsp/01.gif' in _true)
+        self.assertTrue('/img/revistas/rsp/02.jpg' in _true)
+        self.assertTrue('/img/revistas/rsp/03.gif' in _true)
+        self.assertTrue('/img/revistas/rsp/04.gif' in _false)
 
 
 class Article(unittest.TestCase):
@@ -352,6 +371,26 @@ class Article(unittest.TestCase):
         self.assertEqual(len(htmls['en_07.htm']['files']), 2)
         self.assertEqual(len(htmls['pt_07.htm']['files']), 1)
 
+    def test_wrap_document(self):
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '6'
+        json_data['article']['v65'][0]['_'] = '2006'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102006000700007',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        article.wrap_document()
+
+
     def test_xml_sps_with_legacy_data(self):
         json_data = json.loads(document_json)
         json_data['title']['v68'][0]['_'] = 'rsp'
@@ -372,7 +411,12 @@ class Article(unittest.TestCase):
         xml = article.xml_sps_with_legacy_data
 
         translations = xml.findall('.//sub-article')
+        text_pt = xml.find('.//sub-article[@{http://www.w3.org/XML/1998/namespace}lang="pt"]').text
+        text_en = xml.find('.//sub-article[@{http://www.w3.org/XML/1998/namespace}lang="en"]').text
+
         self.assertEqual(len(translations), 2)
+        self.assertTrue('como perspectivas para a estimativa de custos de acidentes de trabalho' in text_pt)
+        self.assertTrue('analysis were the lack ofinformation on age and gender' in text_en)
 
     def test_version_xml(self):
 

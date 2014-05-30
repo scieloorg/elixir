@@ -40,8 +40,6 @@ def main(pid, source_dir='.', logging_level='Info', logging_file=None):
         xml = feedstock.loadXML(pid)
         raw_data = feedstock.load_rawdata(pid)
         article = feedstock.Article(pid, xml, raw_data, source_dir)
-        article_docs = article.list_documents
-        article_images_status = article.images_status
 
 
 def argp():
