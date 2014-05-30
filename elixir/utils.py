@@ -1,4 +1,30 @@
-from io import StringIO
+from io import StringIO, BytesIO
+from zipfile import ZipFile
+import codecs
+import logging
+
+
+def wrap_files(*args):
+
+    thezip = ZipFile(BytesIO(), 'w')
+
+    for item in args:
+
+        if isinstance(item, MemoryFileLike):
+            x = item
+        else:
+            x = codecs.open(item, 'r', encoding='iso-8859-1')
+
+        name = x.name.split('/')[-1]
+        try:
+            thezip.writestr(name, x.read())
+        except FileNotFoundError:
+            logging.info('Unable to prepare zip file, file not found (%s)' % item)
+            raise
+
+    logging.info('Zip file prepared')
+
+    return thezip
 
 
 class MemoryFileLike(object):

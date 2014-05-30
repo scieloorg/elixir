@@ -4,12 +4,63 @@ import zipfile
 
 from elixir import utils
 
+source_dir = None
+
+
+def setupModule():
+    global document_xml, document_json, source_dir
+
+    source_dir = os.path.dirname(__file__) + '/files'
+
+
+class UtilsTests(unittest.TestCase):
+
+    def test_wrap_files(self):
+
+        wrapped_files = utils.wrap_files(
+            source_dir+'/html/rsp/v40n6/en_07.htm',
+            source_dir+'/pdf/rsp/v40n6/07.pdf',
+            source_dir+'/pdf/rsp/v40n6/en_07.pdf',
+            source_dir+'/img/rsp/v40n6/07f1.gif',
+        )
+
+        self.assertTrue('en_07.htm' in wrapped_files.namelist())
+        self.assertTrue('07.pdf' in wrapped_files.namelist())
+        self.assertTrue('en_07.pdf' in wrapped_files.namelist())
+        self.assertTrue('07f1.gif' in wrapped_files.namelist())
+
+    def test_wrap_files_with_file_like_object(self):
+        flo = utils.MemoryFileLike('blaus.txt', 'picles content')
+
+        wrapped_files = utils.wrap_files(
+            source_dir+'/html/rsp/v40n6/en_07.htm',
+            source_dir+'/pdf/rsp/v40n6/07.pdf',
+            flo,
+            source_dir+'/img/rsp/v40n6/07f1.gif',
+        )
+
+        self.assertTrue('en_07.htm' in wrapped_files.namelist())
+        self.assertTrue('07.pdf' in wrapped_files.namelist())
+        self.assertTrue('blaus.txt' in wrapped_files.namelist())
+        self.assertTrue('07f1.gif' in wrapped_files.namelist())
+
+    def test_wrap_files_invalid_path(self):
+
+        with self.assertRaises(FileNotFoundError):
+            wrapped_files = utils.wrap_files(
+                source_dir+'/html/rsp/v40n6/en_07.htm',
+                source_dir+'/invalid/pdf/rsp/v40n6/07.pdf'
+            )
+
 
 class MemoryFileLikeTests(unittest.TestCase):
 
     def test_instanciating(self):
 
-        self.assertEqual(utils.MemoryFileLike('picles.txt')._file_name, 'picles.txt')
+        self.assertEqual(
+            utils.MemoryFileLike('picles.txt')._file_name,
+            'picles.txt'
+        )
 
     def test_instanciating(self):
 

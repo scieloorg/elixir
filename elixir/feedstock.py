@@ -7,9 +7,6 @@ import re
 import logging
 import codecs
 
-from zipfile import ZipFile
-import io
-
 try:  # Keep compatibility with python 2.7
     from html import unescape
 except ImportError:
@@ -30,32 +27,9 @@ else:
 
 from elixir.utils import MemoryFileLike
 
-html_regex = re.compile(u'<body>(.*?)</body>', re.IGNORECASE)
-midias_regex = re.compile(u'href=["\'](.*?)["\']', re.IGNORECASE)
-images_regex = re.compile(u'["\'](/img.*?|\\\\img.*?)["\']', re.IGNORECASE)
-
-
-def wrapp_files(*args):
-
-    thezip = ZipFile(io.BytesIO(), 'w')
-
-    for item in args:
-
-        if isinstance(item, MemoryFileLike):
-            x = item
-        else:
-            x = codecs.open(item, 'r', encoding='iso-8859-1')
-
-        name = x.name.split('/')[-1]
-        try:
-            thezip.writestr(name, x.read())
-        except FileNotFoundError:
-            logging.info('Unable to prepare zip file, file not found (%s)' % item)
-            raise
-
-    logging.info('Zip file prepared')
-
-    return thezip
+html_regex = re.compile(r'<body[^>]*>(.*)</body>', re.DOTALL | re.IGNORECASE)
+midias_regex = re.compile(r'href=["\'](.*)["\']', re.IGNORECASE)
+images_regex = re.compile(r'["\'](/img.*|\\img.*)["\']', re.IGNORECASE)
 
 
 def html_decode(string):
@@ -71,7 +45,7 @@ def html_decode(string):
 
 
 def loadXML(pid):
-    url = 'http://192.168.1.162:7000/api/v1/article?code=%s&format=xmlwos' % pid
+    url = 'http://192.168.1.162:7000/api/v1/article?code=%s&format=xmlrsps' % pid
     try:
         xml = requests.get(
             url,
@@ -119,30 +93,31 @@ def is_valid_pid(pid):
     return True
 
 
-def read_html(html_file, replace_entities=False):
+def read_file(fl, replace_entities=False, encoding='utf-8', version='sps'):
     """
     This method retrieve the HTML string of a given HTML file.
 
     Keyword arguments:
-    html_file -- complete path to the HTML file.
+    fl -- complete path to the HTML file.
     replace_entities -- a boolean to set if the HTML will be retrived replacing the entities or not, default is False.
+    encoding -- document encoding
     """
 
     try:
-        html = open(html_file, 'r').read()
-        logging.debug('Local HTML file readed (%s)' % html_file)
+        content = codecs.open(fl, 'r', encoding=encoding).read()
+        logging.debug('Local file readed (%s)' % fl)
     except FileNotFoundError:
-        logging.error('Unable to read file (%s)' % html_file)
+        logging.error('Unable to read file (%s)' % fl)
         raise FileNotFoundError(
-            u'HTML file does not exists: %s' % html_file
+            u'File does not exists: %s' % fl
         )
 
-    if not replace_entities:
-        return html
+    if not replace_entities or version == 'sps':
+        return content
 
-    html = html_decode(html)
+    content = html_decode(content).replace('\n', '')
 
-    return html_regex.findall(html)[0]
+    return html_regex.findall(content)[0]
 
 
 def get_document_images(document):
@@ -154,7 +129,7 @@ def get_document_images(document):
     """
 
     try:
-        html = read_html(document)
+        html = read_file(document, encoding='iso-8859-1')
     except FileNotFoundError:
         html = document
 
@@ -175,7 +150,7 @@ def get_document_midias(document):
     allowed_midias = ['mp4', 'doc', 'mp3', 'pdf', 'avi', 'mov', 'mpeg', 'ppt', 'xls']
 
     try:
-        html = read_html(document)
+        html = read_file(document, encoding='iso-8859-1')
     except FileNotFoundError:
         html = document
 
@@ -192,8 +167,8 @@ def get_xml_document_images(document):
         xml = etree.parse(document)
         logging.debug('XML file parsed')
     except:
-        raise
         logging.error('XML file could not be parsed')
+        raise
 
     graphics = xml.findall('//graphic')+xml.findall('//inline-graphic')
 
@@ -213,8 +188,8 @@ def get_xml_document_midias(document):
         xml = etree.parse(document)
         logging.debug('XML file parsed')
     except:
-        raise
         logging.error('XML file could not be parsed')
+        raise
 
     midias = xml.findall('//midia')
 
@@ -281,10 +256,18 @@ class Article(object):
         self.xml = xml
         self.xylose = raw_data
         self.pid = pid
+        self.journal_issn = self._journal_issn()
         self.issue_label = self._issue_label()
         self.journal_acronym = self._journal_acronym()
         self.content_version = self._content_version()
         self.file_code = self._file_code()
+
+    def _journal_issn(self):
+        issn = self.xylose.scielo_issn
+
+        logging.info('Journal ISSN for source files is (%s)' % issn)
+
+        return issn
 
     def _journal_acronym(self):
         ja = self.xylose.journal_acronym
@@ -353,6 +336,33 @@ class Article(object):
         logging.info('Issue label for source files is (%s)' % issue_label)
 
         return issue_label
+
+    @property
+    def _get_body_from_files(self):
+
+        htmls = {}
+        docs = []
+        for doc in self.list_documents:
+            filename = doc.split('/')[-1]
+            x = htmls.setdefault(filename.replace('_b', '_'), {'files': []})
+            htmls[filename.replace('_b', '_')]['files'].append(doc)
+
+        for html, filenames in htmls.items():
+            for doc in filenames['files']:
+                docs.append(
+                    read_file(
+                        doc,
+                        replace_entities=True,
+                        encoding='iso-8859-1',
+                        version=self.content_version
+                    )
+                )
+
+            content = ''.join(docs).strip()
+
+            htmls[html]['content'] = content
+
+        return htmls
 
     @property
     def list_source_images(self):
@@ -429,11 +439,11 @@ class Article(object):
     @property
     def list_htmls(self):
 
-        path = '/'.join(
+        path1 = '/'.join(
             [self.source_dir, 'html', self.journal_acronym, self.issue_label]
         )
 
-        htmls = ['/'.join([path, x]) for x in list_path(path) if self.file_code in x]
+        htmls = ['/'.join([path1, x]) for x in list_path(path1) if self.file_code in x]
 
         if len(htmls) == 0:
             logging.warning('HTML not found for (%s)' % self.pid)
@@ -477,5 +487,55 @@ class Article(object):
             return self.list_htmls
 
     @property
+    def xml_sps_with_legacy_data(self):
+
+        xml = loadXML(self.pid)
+
+        try:
+            xml = etree.fromstring(xml)
+            logging.debug('XML file parsed')
+        except:
+            logging.error('XML file could not be parsed')
+            raise
+
+        nsmap = xml.nsmap
+
+        x = 0
+        for html, data in self._get_body_from_files.items():
+            if not data['content']:
+                continue
+            x += 1
+            lang = html[0:2]
+            sa = etree.Element('sub-article')
+            sa.set('{http://www.w3.org/XML/1998/namespace}lang', lang)
+            sa.set('article-type', 'translated')
+            sa.set('id', 'S%s' % x)
+            sa.text = data['content']
+            xml.append(sa)
+
+        return xml
+
+    @property
+    def rsps_xml(self):
+
+        docs = []
+
+        if self.content_version == 'sps':
+
+            xml = read_file(
+                self.list_documents[0],
+                replace_entities=False,
+                encoding='utf-8',
+                version=self.content_version
+            )
+            return MemoryFileLike(self.file_code, xml)
+
+        else:
+            return MemoryFileLike(self.file_code, self.xml_sps_with_legacy_data)
+
+    @property
     def images_status(self):
-        return check_images_availability(self.list_source_images, self.list_document_images)
+        return check_images_availability(
+            self.list_source_images,
+            self.list_document_images
+        )

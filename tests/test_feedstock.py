@@ -4,6 +4,7 @@ import os
 import json
 import io
 import zipfile
+from lxml import etree
 
 try:
     from unittest import mock
@@ -29,45 +30,6 @@ def setupModule():
 
 
 class FeedStockTests(unittest.TestCase):
-
-    def test_wrapp_files(self):
-
-        wrapped_files = feedstock.wrapp_files(
-            source_dir+'/html/rsp/v40n6/en_07.htm',
-            source_dir+'/pdf/rsp/v40n6/07.pdf',
-            source_dir+'/pdf/rsp/v40n6/en_07.pdf',
-            source_dir+'/img/rsp/v40n6/07f1.gif',
-        )
-
-        self.assertTrue('en_07.htm' in wrapped_files.namelist())
-        self.assertTrue('07.pdf' in wrapped_files.namelist())
-        self.assertTrue('en_07.pdf' in wrapped_files.namelist())
-        self.assertTrue('07f1.gif' in wrapped_files.namelist())
-
-    def test_wrapp_files_with_file_like_object(self):
-        flo = utils.MemoryFileLike('blaus.txt', 'picles content')
-
-        wrapped_files = feedstock.wrapp_files(
-            source_dir+'/html/rsp/v40n6/en_07.htm',
-            source_dir+'/pdf/rsp/v40n6/07.pdf',
-            flo,
-            source_dir+'/img/rsp/v40n6/07f1.gif',
-        )
-
-        self.assertTrue('en_07.htm' in wrapped_files.namelist())
-        self.assertTrue('07.pdf' in wrapped_files.namelist())
-        self.assertTrue('blaus.txt' in wrapped_files.namelist())
-        self.assertTrue('07f1.gif' in wrapped_files.namelist())
-
-    def test_wrapp_files_invalid_path(self):
-
-        with self.assertRaises(FileNotFoundError):
-            wrapped_files = feedstock.wrapp_files(
-                source_dir+'/html/rsp/v40n6/en_07.htm',
-                source_dir+'/invalid/pdf/rsp/v40n6/07.pdf'
-            )
-
-        wrapped_files
 
     def test_loadXML(self):
 
@@ -101,7 +63,40 @@ class FeedStockTests(unittest.TestCase):
     def test_read_document_invalid_path(self):
 
         with self.assertRaises(FileNotFoundError):
-            html = feedstock.read_html('xxxx')
+            html = feedstock.read_file('xxxx')
+
+    def test_html_regex_1(self):
+
+        html = '<html><body> <p>blaus</p> <i>picles</i> Testando</body></html>'
+
+        self.assertEqual(
+            feedstock.html_regex.findall(html)[0],
+            u' <p>blaus</p> <i>picles</i> Testando'
+        )
+
+    def test_html_regex_2(self):
+
+        html = '<html><body bg="#123456"> <p>blaus</p> <i>picles</i> Testando</body></html>'
+
+        self.assertEqual(
+            feedstock.html_regex.findall(html)[0],
+            u' <p>blaus</p> <i>picles</i> Testando'
+        )
+
+    def test_html_regex_2(self):
+
+        html = '<html><body bg="#123456">\n<p>blaus</p> <i>picles</i> Testando</body></html>'
+
+        self.assertEqual(
+            feedstock.html_regex.findall(html)[0],
+            u'\n<p>blaus</p> <i>picles</i> Testando'
+        )
+
+    def test_read_document_valid_path(self):
+
+        html = feedstock.read_file(source_dir+'/html/rsp/v40n6/pt_07.htm', encoding='iso-8859-1', replace_entities=True, version='legacy')
+
+        self.assertEqual(html[:20], '<p align="right"><fo')
 
     def test_get_xml_document_images_with_real_xml(self):
         images = feedstock.get_xml_document_images(source_dir+'/xml/rsp/v47n4/0034-8910-rsp-47-04-0740.xml')        
@@ -110,7 +105,7 @@ class FeedStockTests(unittest.TestCase):
         self.assertEqual(2, len(images))
 
     def test_get_xml_document_images(self):
-        xml = """<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
+        xml = u"""<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "journalpublishing3.dtd">
                  <article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
                     dtd-version="3.0" article-type="research-article" xml:lang="pt">
                     <front></front>
@@ -307,6 +302,78 @@ class Article(unittest.TestCase):
                 '.'
             )
 
+    def test_rsps_xml_sps_mode(self):
+        rsps_xml = self._article.rsps_xml
+
+        self.assertEqual(rsps_xml.name, '0034-8910-rsp-47-04-0675')
+
+    @unittest.skip
+    def test_rsps_xml_legacy_mode(self):
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '6'
+        json_data['article']['v65'][0]['_'] = '2006'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102006000700007',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        self.assertEqual(article.rsps_xml.name, '07')
+        self.assertEqual(article.rsps_xml.read()[:20], '<p align="right"><fo')
+
+    def test_get_body_from_files(self):
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '6'
+        json_data['article']['v65'][0]['_'] = '2006'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102006000700007',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        htmls = article._get_body_from_files
+        self.assertTrue('en_07.htm' in htmls.keys())
+        self.assertTrue('pt_07.htm' in htmls.keys())
+        self.assertEqual(htmls['en_07.htm']['content'][:20], '<p align="right"><fo')
+        self.assertEqual(len(htmls['en_07.htm']['files']), 2)
+        self.assertEqual(len(htmls['pt_07.htm']['files']), 1)
+
+    def test_xml_sps_with_legacy_data(self):
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '6'
+        json_data['article']['v65'][0]['_'] = '2006'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
+
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102006000700007',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        xml = article.xml_sps_with_legacy_data
+
+        translations = xml.findall('.//sub-article')
+        self.assertEqual(len(translations), 2)
+
     def test_version_xml(self):
 
         version = self._article._content_version()
@@ -314,27 +381,36 @@ class Article(unittest.TestCase):
         self.assertEqual(version, 'sps')
 
     def test_version_html(self):
-        self._article.xylose.data['title']['v68'][0]['_'] = 'rsp'
-        self._article.xylose.data['article']['v31'][0]['_'] = '40'
-        self._article.xylose.data['article']['v32'][0]['_'] = '6'
-        self._article.xylose.data['article']['v65'][0]['_'] = '2014'
-        self._article.xylose.data['article']['v702'][0]['_'] = '/x/x/y/z/file.htm'
-        version = self._article._content_version()
+        json_data = json.loads(document_json)
+        json_data['title']['v68'][0]['_'] = 'rsp'
+        json_data['article']['v31'][0]['_'] = '40'
+        json_data['article']['v32'][0]['_'] = '6'
+        json_data['article']['v65'][0]['_'] = '2006'
+        json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
-        self.assertEqual(version, 'legacy')
+        raw_data = scielodocument.Article(json_data)
+
+        article = feedstock.Article(
+            'S0034-89102006000700007',
+            document_xml,
+            raw_data,
+            source_dir
+        )
+
+        self.assertEqual(article._content_version(), 'legacy')
 
     def test_list_images_legacy_mode(self):
         json_data = json.loads(document_json)
         json_data['title']['v68'][0]['_'] = 'rsp'
         json_data['article']['v31'][0]['_'] = '40'
         json_data['article']['v32'][0]['_'] = '6'
-        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v65'][0]['_'] = '2006'
         json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
         raw_data = scielodocument.Article(json_data)
 
         article = feedstock.Article(
-            'S0034-89102013000400674',
+            'S0034-89102006000700007',
             document_xml,
             raw_data,
             source_dir
@@ -342,20 +418,20 @@ class Article(unittest.TestCase):
 
         images = article.list_document_images
 
-        self.assertEqual(len(images), 7)
+        self.assertEqual(len(images), 14)
 
     def test_list_images_without_files(self):
         json_data = json.loads(document_json)
         json_data['title']['v68'][0]['_'] = 'rsp'
         json_data['article']['v31'][0]['_'] = '40'
         json_data['article']['v32'][0]['_'] = '7'
-        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v65'][0]['_'] = '2006'
         json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
         raw_data = scielodocument.Article(json_data)
 
         article = feedstock.Article(
-            'S0034-89102013000400674',
+            'S0034-89102006000700007',
             document_xml,
             raw_data,
             source_dir
@@ -390,13 +466,13 @@ class Article(unittest.TestCase):
         json_data['title']['v68'][0]['_'] = 'rsp'
         json_data['article']['v31'][0]['_'] = '40'
         json_data['article']['v32'][0]['_'] = '6'
-        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v65'][0]['_'] = '2006'
         json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
         raw_data = scielodocument.Article(json_data)
 
         article = feedstock.Article(
-            'S0034-89102013000400674',
+            'S0034-89102006000700007',
             document_xml,
             raw_data,
             source_dir
@@ -411,13 +487,13 @@ class Article(unittest.TestCase):
         json_data['title']['v68'][0]['_'] = 'rsp'
         json_data['article']['v31'][0]['_'] = '40'
         json_data['article']['v32'][0]['_'] = '7'
-        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v65'][0]['_'] = '2006'
         json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
         raw_data = scielodocument.Article(json_data)
 
         article = feedstock.Article(
-            'S0034-89102013000400674',
+            'S0034-89102006000700007',
             document_xml,
             raw_data,
             source_dir
@@ -432,13 +508,13 @@ class Article(unittest.TestCase):
         json_data['title']['v68'][0]['_'] = 'rsp'
         json_data['article']['v31'][0]['_'] = 'xx'
         json_data['article']['v32'][0]['_'] = 'xx'
-        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v65'][0]['_'] = '2006'
         json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
         raw_data = scielodocument.Article(json_data)
 
         article = feedstock.Article(
-            'S0034-89102013000400674',
+            'S0034-89102006000700007',
             document_xml,
             raw_data,
             source_dir
@@ -452,13 +528,13 @@ class Article(unittest.TestCase):
         json_data['title']['v68'][0]['_'] = 'rsp'
         json_data['article']['v31'][0]['_'] = '40'
         json_data['article']['v32'][0]['_'] = '6'
-        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v65'][0]['_'] = '2006'
         json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
         raw_data = scielodocument.Article(json_data)
 
         article = feedstock.Article(
-            'S0034-89102013000400674',
+            'S0034-89102006000700007',
             document_xml,
             raw_data,
             source_dir
@@ -466,20 +542,20 @@ class Article(unittest.TestCase):
 
         htmls = article.list_htmls
 
-        self.assertEqual(len(htmls), 2)
+        self.assertEqual(len(htmls), 3)
 
     def test_list_htmls_without_files(self):
         json_data = json.loads(document_json)
         json_data['title']['v68'][0]['_'] = 'rsp'
         json_data['article']['v31'][0]['_'] = '40'
         json_data['article']['v32'][0]['_'] = '7'
-        json_data['article']['v65'][0]['_'] = '2014'
+        json_data['article']['v65'][0]['_'] = '2006'
         json_data['article']['v702'][0]['_'] = '/x/x/y/z/07.htm'
 
         raw_data = scielodocument.Article(json_data)
 
         article = feedstock.Article(
-            'S0034-89102013000400674',
+            'S0034-89102006001000007',
             document_xml,
             raw_data,
             source_dir
@@ -580,6 +656,10 @@ class Article(unittest.TestCase):
     def test_pid(self):
 
         self.assertEqual(self._article.pid, u'S0034-89102013000400674')
+
+    def test_scielo_issn(self):
+
+        self.assertEqual(self._article._journal_issn(), u'0034-8910')
 
     def test_file_code(self):
 
