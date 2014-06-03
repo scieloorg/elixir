@@ -228,7 +228,7 @@ def list_path(path):
 
 class Article(object):
 
-    def __init__(self, pid, xml, raw_data, source_dir):
+    def __init__(self, pid, xml, raw_data, source_dir, deposit_dir):
 
         if not is_valid_pid(pid):
             raise ValueError(u'Invalid PID: %s' % pid)
@@ -240,7 +240,12 @@ class Article(object):
             logging.error('Source directory not found (%s)' % source_dir)
             raise FileNotFoundError(u'Invalid source directory: %s' % source_dir)
 
-        self.source_dir = source_dir
+        self.deposit_dir = deposit_dir or '.'
+
+        if self.deposit_dir[-1] in ['/', '\\']:
+            self.deposit_dir = deposit_dir[0:-1]
+
+        self.source_dir = source_dir or '.'
         self.xml = xml
         self.xylose = raw_data
         self.pid = pid
@@ -555,5 +560,9 @@ class Article(object):
         if not file_name:
             file_name = '%s.zip' % self.pid
 
-        with codecs.open(file_name, 'wb') as f:
+        fn = '/'.join([self.deposit_dir, file_name])
+
+        with codecs.open(fn, 'wb') as f:
             f.write(zipf.read())
+
+        logging.info('ZIP file writen at (%s)' % fn)

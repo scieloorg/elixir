@@ -27,7 +27,7 @@ def _config_logging(logging_level='INFO', logging_file=None):
     logging.basicConfig(**logging_config)
 
 
-def main(pid, source_dir='.', logging_level='Info', logging_file=None):
+def main(pid, source_dir='.', logging_level='Info', logging_file=None, deposit_dir=None):
 
     _config_logging(logging_level, logging_file)
 
@@ -36,7 +36,7 @@ def main(pid, source_dir='.', logging_level='Info', logging_file=None):
     if feedstock.is_valid_pid(pid):
         xml = feedstock.loadXML(pid)
         raw_data = feedstock.load_rawdata(pid)
-        article = feedstock.Article(pid, xml, raw_data, source_dir)
+        article = feedstock.Article(pid, xml, raw_data, source_dir, deposit_dir)
 
         article.wrap_document()
 
@@ -78,7 +78,7 @@ def argp():
         '--deposit_dir',
         '-d',
         default=None,
-        help='Directory to receive the '
+        help='Directory to receive the packages'
     )
 
     args = parser.parse_args()
@@ -87,7 +87,8 @@ def argp():
         args.pid,
         source_dir=args.source_dir,
         logging_level=args.logging_level,
-        logging_file=args.logging_file
+        logging_file=args.logging_file,
+        deposit_dir=args.deposit_dir
     )
 
 if __name__ == "__main__":
