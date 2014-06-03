@@ -9,13 +9,10 @@ version = elixir.__version__
 
 install_requires = [
     'requests',
-    'xylose'
+    'xylose',
+    'lxml'
 ]
 tests_require = install_requires[:]
-
-PY2 = sys.version_info[0] == 2
-if PY2:
-    tests_require.append('mock')
 
 setup(
     name="elixir",
