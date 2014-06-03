@@ -6,25 +6,10 @@ import sys
 import re
 import logging
 import codecs
-
-try:  # Keep compatibility with python 2.7
-    from html import unescape
-except ImportError:
-    from HTMLParser import HTMLParser
+from html import unescape
 
 from lxml import etree
 from xylose import scielodocument
-# --------------
-# Py2 compat
-# --------------
-PY2 = sys.version_info[0] == 2
-
-if PY2:
-    html_parser = HTMLParser().unescape
-else:
-    html_parser = unescape
-# --------------
-
 from elixir import utils
 
 html_regex = re.compile(r'<body[^>]*>(.*)</body>', re.DOTALL | re.IGNORECASE)
@@ -35,7 +20,7 @@ images_regex = re.compile(r'["\'](/img.*|\\img.*)["\']', re.IGNORECASE)
 def html_decode(string):
 
     try:
-        string = html_parser(string)
+        string = unescape(string)
         logging.info('HTML entities replaced')
     except:
         logging.info('Unable to replace the HTML entities')

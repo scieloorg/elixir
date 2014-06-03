@@ -5,11 +5,7 @@ import json
 import io
 import zipfile
 from lxml import etree
-
-try:
-    from unittest import mock
-except ImportError:
-    import mock
+from unittest import mock
 
 from elixir import feedstock, utils
 from xylose import scielodocument
