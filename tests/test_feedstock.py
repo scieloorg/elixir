@@ -38,7 +38,7 @@ class FeedStockTests(unittest.TestCase):
             rqts.text = document_xml
             fs = feedstock.loadXML(u'S0034-89102013000400674')
 
-        self.assertEqual(fs[0:20], u'<articles dtd-versio')
+        self.assertEqual(fs[0:20], u'<article article-typ')
 
     def test_load_rawdata(self):
 
@@ -390,7 +390,6 @@ class Article(unittest.TestCase):
 
         article.wrap_document()
 
-
     def test_xml_sps_with_legacy_data(self):
         json_data = json.loads(document_json)
         json_data['title']['v68'][0]['_'] = 'rsp'
@@ -411,8 +410,8 @@ class Article(unittest.TestCase):
         xml = article.xml_sps_with_legacy_data
 
         translations = xml.findall('.//sub-article')
-        text_pt = xml.find('.//sub-article[@{http://www.w3.org/XML/1998/namespace}lang="pt"]').text
-        text_en = xml.find('.//sub-article[@{http://www.w3.org/XML/1998/namespace}lang="en"]').text
+        text_pt = xml.find('.//sub-article[@{http://www.w3.org/XML/1998/namespace}lang="pt"]/body/p').text
+        text_en = xml.find('.//sub-article[@{http://www.w3.org/XML/1998/namespace}lang="en"]/body/p').text
 
         self.assertEqual(len(translations), 2)
         self.assertTrue('como perspectivas para a estimativa de custos de acidentes de trabalho' in text_pt)

@@ -25,7 +25,7 @@ else:
     html_parser = unescape
 # --------------
 
-from elixir.utils import MemoryFileLike, wrap_files
+from elixir import utils
 
 html_regex = re.compile(r'<body[^>]*>(.*)</body>', re.DOTALL | re.IGNORECASE)
 midias_regex = re.compile(r'href=["\'](.*)["\']', re.IGNORECASE)
@@ -509,11 +509,20 @@ class Article(object):
                 continue
             x += 1
             lang = html[0:2]
+
+            paragraphy = etree.Element('p')
+            paragraphy.text = etree.CDATA(data['content'])
+
+            body = etree.Element('body')
+            body.append(paragraphy)
+
             sa = etree.Element('sub-article')
             sa.set('{http://www.w3.org/XML/1998/namespace}lang', lang)
             sa.set('article-type', 'translated')
             sa.set('id', 'S%s' % x)
-            sa.text = data['content']
+            sa.append(etree.Element('front-stub'))
+            sa.append(body)
+
             xml.append(sa)
 
         return xml
@@ -531,10 +540,16 @@ class Article(object):
                 encoding='utf-8',
                 version=self.content_version
             )
-            return MemoryFileLike(self.file_code, xml)
-
+            return utils.MemoryFileLike(self.file_code, xml)
         else:
-            return MemoryFileLike(self.file_code, self.xml_sps_with_legacy_data)
+            return utils.MemoryFileLike(
+                '%s.xml' % self.file_code,
+                etree.tostring(
+                    self.xml_sps_with_legacy_data,
+                    encoding='unicode',
+                    pretty_print=True
+                )
+            )
 
     @property
     def images_status(self):
@@ -543,12 +558,17 @@ class Article(object):
             self.list_document_images
         )
 
-    def wrap_document(self):
+    def wrap_document(self, file_name=None):
         images = [x[0] for x in self.images_status if x[1]]
         pdfs = self.list_pdfs
         xml = self.rsps_xml
         files = images+pdfs
         files.append(xml)
-        zipf = wrap_files(*files)
-        with open('test.zip', 'w') as f:
+
+        zipf = utils.WrapFiles(*files)
+
+        if not file_name:
+            file_name = '%s.zip' % self.pid
+
+        with codecs.open(file_name, 'wb') as f:
             f.write(zipf.read())

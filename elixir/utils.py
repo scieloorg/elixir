@@ -4,48 +4,60 @@ import codecs
 import logging
 
 
-def wrap_files(*args):
+class WrapFiles(object):
+    def __init__(self, *args):
+        self.memory_zip = BytesIO()
+        self.thezip = ZipFile(self.memory_zip, 'a')
 
-    thezip = ZipFile(BytesIO(), 'w')
+        if len(args) > 0:
+            self.append(*args)
 
-    for item in args:
+    def append(self, *args):
 
-        if isinstance(item, MemoryFileLike):
-            x = item
-        else:
-            x = codecs.open(item, 'r', encoding='iso-8859-1')
+        for item in args:
 
-        name = x.name.split('/')[-1]
-        try:
-            thezip.writestr(name, x.read())
-        except FileNotFoundError:
-            logging.info('Unable to prepare zip file, file not found (%s)' % item)
-            raise
+            if isinstance(item, MemoryFileLike):
+                x = item
+            else:
+                x = codecs.open(item, 'rb')
 
-    logging.info('Zip file prepared')
+            name = x.name.split('/')[-1]
+            try:
+                self.thezip.writestr(name, x.read())
+            except FileNotFoundError:
+                logging.info('Unable to prepare zip file, file not found (%s)' % item)
+                raise
 
-    return thezip
+        logging.info('Zip file prepared')
+
+        return self.thezip
+
+    def read(self):
+        self.thezip.close()
+        self.memory_zip.seek(0)
+        return self.memory_zip.read()
 
 
 class MemoryFileLike(object):
 
-    def __init__(self, file_name, content=None):
+    def __init__(self, file_name, content=None, encoding='utf-8'):
 
         if not isinstance(file_name, str):
             raise TypeError('file_name must be a string')
 
+        self._encoding = encoding
         self._file_name = file_name
-        self._content = StringIO()
+        self._content = StringIO(encoding)
 
         if len(content):
-            self._content.write(str(content).strip())
+            self._content.write(content.strip())
 
     @property
     def name(self):
         return self._file_name
 
     def write(self, content):
-        self._content.write(str(content).strip())
+        self._content.write(content.strip())
 
     def writelines(self, *args):
         for line in args:

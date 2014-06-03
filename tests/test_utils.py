@@ -15,39 +15,56 @@ def setupModule():
 
 class UtilsTests(unittest.TestCase):
 
-    def test_wrap_files(self):
+    def test_wrap_files_when_instanciating(self):
 
-        wrapped_files = utils.wrap_files(
+        wrap_files = utils.WrapFiles(
             source_dir+'/html/rsp/v40n6/en_07.htm',
             source_dir+'/pdf/rsp/v40n6/07.pdf',
             source_dir+'/pdf/rsp/v40n6/en_07.pdf',
             source_dir+'/img/rsp/v40n6/07f1.gif',
         )
 
-        self.assertTrue('en_07.htm' in wrapped_files.namelist())
-        self.assertTrue('07.pdf' in wrapped_files.namelist())
-        self.assertTrue('en_07.pdf' in wrapped_files.namelist())
-        self.assertTrue('07f1.gif' in wrapped_files.namelist())
+        self.assertTrue('en_07.htm' in wrap_files.thezip.namelist())
+        self.assertTrue('07.pdf' in wrap_files.thezip.namelist())
+        self.assertTrue('en_07.pdf' in wrap_files.thezip.namelist())
+        self.assertTrue('07f1.gif' in wrap_files.thezip.namelist())
+
+    def test_wrap_files(self):
+
+        wrap_files = utils.WrapFiles()
+        in_memory = wrap_files.append(
+            source_dir+'/html/rsp/v40n6/en_07.htm',
+            source_dir+'/pdf/rsp/v40n6/07.pdf',
+            source_dir+'/pdf/rsp/v40n6/en_07.pdf',
+            source_dir+'/img/rsp/v40n6/07f1.gif',
+        )
+
+        self.assertTrue('en_07.htm' in in_memory.namelist())
+        self.assertTrue('07.pdf' in in_memory.namelist())
+        self.assertTrue('en_07.pdf' in in_memory.namelist())
+        self.assertTrue('07f1.gif' in in_memory.namelist())
 
     def test_wrap_files_with_file_like_object(self):
         flo = utils.MemoryFileLike('blaus.txt', 'picles content')
 
-        wrapped_files = utils.wrap_files(
+        wrap_files = utils.WrapFiles()
+        in_memory = wrap_files.append(
             source_dir+'/html/rsp/v40n6/en_07.htm',
             source_dir+'/pdf/rsp/v40n6/07.pdf',
             flo,
             source_dir+'/img/rsp/v40n6/07f1.gif',
         )
 
-        self.assertTrue('en_07.htm' in wrapped_files.namelist())
-        self.assertTrue('07.pdf' in wrapped_files.namelist())
-        self.assertTrue('blaus.txt' in wrapped_files.namelist())
-        self.assertTrue('07f1.gif' in wrapped_files.namelist())
+        self.assertTrue('en_07.htm' in in_memory.namelist())
+        self.assertTrue('07.pdf' in in_memory.namelist())
+        self.assertTrue('blaus.txt' in in_memory.namelist())
+        self.assertTrue('07f1.gif' in in_memory.namelist())
 
     def test_wrap_files_invalid_path(self):
 
         with self.assertRaises(FileNotFoundError):
-            wrapped_files = utils.wrap_files(
+            wrap_files = utils.WrapFiles()
+            wrap_files.append(
                 source_dir+'/html/rsp/v40n6/en_07.htm',
                 source_dir+'/invalid/pdf/rsp/v40n6/07.pdf'
             )
