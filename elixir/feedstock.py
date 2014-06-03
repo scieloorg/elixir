@@ -10,7 +10,7 @@ from html import unescape
 
 from lxml import etree
 from xylose import scielodocument
-from elixir import utils
+import utils
 
 html_regex = re.compile(r'<body[^>]*>(.*)</body>', re.DOTALL | re.IGNORECASE)
 midias_regex = re.compile(r'href=["\'](.*)["\']', re.IGNORECASE)
@@ -525,7 +525,7 @@ class Article(object):
                 encoding='utf-8',
                 version=self.content_version
             )
-            return utils.MemoryFileLike(self.file_code, xml)
+            return utils.MemoryFileLike('%s.xml' % self.file_code, xml)
         else:
             return utils.MemoryFileLike(
                 '%s.xml' % self.file_code,

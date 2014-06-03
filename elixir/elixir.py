@@ -1,7 +1,7 @@
 import argparse
 import logging
 
-from elixir import feedstock
+import feedstock
 
 __version__ = '0.0.1'
 
@@ -37,6 +37,8 @@ def main(pid, source_dir='.', logging_level='Info', logging_file=None):
         xml = feedstock.loadXML(pid)
         raw_data = feedstock.load_rawdata(pid)
         article = feedstock.Article(pid, xml, raw_data, source_dir)
+
+        article.wrap_document()
 
 
 def argp():
