@@ -1,7 +1,7 @@
 import argparse
 import logging
 
-import feedstock
+from elixir import feedstock
 
 __version__ = '0.0.1'
 

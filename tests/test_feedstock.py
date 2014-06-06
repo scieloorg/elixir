@@ -288,7 +288,8 @@ class Article(unittest.TestCase):
             'S0034-89102013000400674',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
             )
 
     def test_instanciating(self):
@@ -303,7 +304,8 @@ class Article(unittest.TestCase):
                 'S0034-89102013000400674',
                 document_xml,
                 raw_data,
-                'invalid_source_dir'
+                'invalid_source_dir',
+                '/tmp'
             )
 
     def test_instanciating_invalid_pid(self):
@@ -314,13 +316,14 @@ class Article(unittest.TestCase):
                 'S003489102013000400674',
                 document_xml,
                 raw_data,
-                '.'
+                source_dir,
+                '/tmp'
             )
 
     def test_rsps_xml_sps_mode(self):
         rsps_xml = self._article.rsps_xml
 
-        self.assertEqual(rsps_xml.name, '0034-8910-rsp-47-04-0675')
+        self.assertEqual(rsps_xml.name, '0034-8910-rsp-47-04-0675.xml')
 
     @unittest.skip
     def test_rsps_xml_legacy_mode(self):
@@ -337,7 +340,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         self.assertEqual(article.rsps_xml.name, '07')
@@ -357,7 +361,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         htmls = article._get_body_from_files
@@ -381,7 +386,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         article.wrap_document()
@@ -400,7 +406,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         xml = article.xml_sps_with_legacy_data
@@ -433,7 +440,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         self.assertEqual(article._content_version(), 'legacy')
@@ -452,7 +460,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         images = article.list_document_images
@@ -473,7 +482,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         images = article.list_document_images
@@ -494,7 +504,8 @@ class Article(unittest.TestCase):
             'S0034-89102013000400674',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         with self.assertRaises(FileNotFoundError):
@@ -514,7 +525,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         pdfs = article.list_pdfs
@@ -535,7 +547,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         pdfs = article.list_pdfs
@@ -556,7 +569,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         with self.assertRaises(FileNotFoundError):
@@ -576,7 +590,8 @@ class Article(unittest.TestCase):
             'S0034-89102006000700007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         htmls = article.list_htmls
@@ -597,7 +612,8 @@ class Article(unittest.TestCase):
             'S0034-89102006001000007',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         htmls = article.list_htmls
@@ -618,7 +634,8 @@ class Article(unittest.TestCase):
             'S0034-89102013000400674',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         with self.assertRaises(FileNotFoundError):
@@ -637,7 +654,8 @@ class Article(unittest.TestCase):
             'S0034-89102013000400674',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         images = article.list_document_images
@@ -665,7 +683,8 @@ class Article(unittest.TestCase):
             'S0034-89102013000400674',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         xmls = article.list_xmls
@@ -686,7 +705,8 @@ class Article(unittest.TestCase):
             'S0034-89102013000400674',
             document_xml,
             raw_data,
-            source_dir
+            source_dir,
+            '/tmp'
         )
 
         with self.assertRaises(FileNotFoundError):

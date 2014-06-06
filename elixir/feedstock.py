@@ -10,7 +10,7 @@ from html import unescape
 
 from lxml import etree
 from xylose import scielodocument
-import utils
+from elixir import utils
 
 html_regex = re.compile(r'<body[^>]*>(.*)</body>', re.DOTALL | re.IGNORECASE)
 midias_regex = re.compile(r'href=["\'](.*)["\']', re.IGNORECASE)
