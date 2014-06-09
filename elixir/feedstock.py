@@ -226,6 +226,22 @@ def list_path(path):
     return [x.lower() for x in files]
 
 
+def fix_images_paths(content):
+    """
+    This method remove all the relative paths from a given source ['img', 'pdf'].
+
+    Ex:
+        From: <img src="/img/revistas/rsp/v12n1/fig1.gif">
+        To: <img src="fig1.gif">
+    """
+
+    def get_file_name(matchobj):
+        fullpath = matchobj.group()
+        return '"%s"' % fullpath.replace('\\', '/').split('/')[-1][0:-1]
+
+    return images_regex.sub(get_file_name, content)
+
+
 class Article(object):
 
     def __init__(self, pid, xml, raw_data, source_dir, deposit_dir):
@@ -501,7 +517,7 @@ class Article(object):
             lang = html[0:2]
 
             paragraphy = etree.Element('p')
-            paragraphy.text = etree.CDATA(data['content'])
+            paragraphy.text = etree.CDATA(fix_images_paths(data['content']))
 
             body = etree.Element('body')
             body.append(paragraphy)

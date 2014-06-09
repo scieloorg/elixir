@@ -48,6 +48,37 @@ class FeedStockTests(unittest.TestCase):
             u'Avaliacao da confiabilidade e validade do Indice de Qualidade da Dieta Revisado'
         )
 
+    def test_fix_path(self):
+        html = """
+            <html>
+                Revista blalala 1
+                <img src="/img/revistas/rsp/01.gif" />
+                Imagem blablabla 2
+                <img src="/img/revistas/rsp/02.jpg" />
+                Imagem blablabla 3
+                <a href="/img/revistas/rsp/03.gif">Blaus</a>
+                Tabela blablabla 4
+                <a href="\img/revistas/rsp/04.gif">Picles</a>
+            </html>
+        """
+
+        expected = """
+            <html>
+                Revista blalala 1
+                <img src="01.gif" />
+                Imagem blablabla 2
+                <img src="02.jpg" />
+                Imagem blablabla 3
+                <a href="03.gif">Blaus</a>
+                Tabela blablabla 4
+                <a href="04.gif">Picles</a>
+            </html>
+        """
+
+        result = feedstock.fix_images_paths(html)
+
+        self.assertEqual(result, expected)
+
     def test_is_valid_pid(self):
 
         self.assertTrue(feedstock.is_valid_pid(u'S0034-89102013000400674'))
